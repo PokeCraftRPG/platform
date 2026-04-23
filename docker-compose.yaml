@@ -1,0 +1,45 @@
+name: pokecraft_cms
+services:
+  pokecraft_cms_mongo:
+    image: mongo
+    container_name: PokeCraft.Cms_mongo
+    restart: unless-stopped
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: pokecraft
+      MONGO_INITDB_ROOT_PASSWORD: VQf5kLvtyEcb8FR7
+    ports:
+      - 27049:27017
+    volumes:
+      - mongodata:/data/db
+
+  pokecraft_cms_postgres:
+    image: postgres
+    container_name: PokeCraft.Cms_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_PASSWORD: v5Fc4tp3DVjCY728
+    ports:
+      - 5449:5432
+    volumes:
+      - postgres_data:/var/lib/postgresql
+
+  pokecraft_cms:
+    build:
+      context: .
+      dockerfile: /src/PokeCraft.Cms/Dockerfile
+    image: pokecraft_cms
+    container_name: PokeCraft_cms
+    depends_on:
+      - pokecraft_cms_mongo
+      - pokecraft_cms_postgres
+    restart: unless-stopped
+    environment:
+      ASPNETCORE_Environment: Development
+      MONGOCONNSTR_Krakenar: mongodb://pokecraft:VQf5kLvtyEcb8FR7@pokecraft_cms_mongo:27017/
+      POSTGRESQLCONNSTR_Krakenar: User ID=postgres;Password=v5Fc4tp3DVjCY728;Host=pokecraft_cms_postgres;Port=5432;Database=postgres;
+    ports:
+      - 8099:8080
+
+volumes:
+  mongodata:
+  postgres_data:
