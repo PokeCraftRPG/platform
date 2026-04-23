@@ -24,7 +24,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\PokeCraft.Cms.PostgreSQL\PokeCraft.Cms.PostgreSQL.csproj" />
-    <ProjectReference Include="..\..\src\PokeCraft.Cms.Tools\PokeCraft.Cms.Tools.csproj" />
+    <ProjectReference Include="..\PokeCraft.Cms.Tools\PokeCraft.Cms.Tools.csproj" />
   </ItemGroup>
 
   <ItemGroup>
