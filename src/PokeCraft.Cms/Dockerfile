@@ -12,10 +12,10 @@ EXPOSE 8081
 FROM mcr.microsoft.com/dotnet/sdk:10.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["PokeCraft.Cms/PokeCraft.Cms.csproj", "PokeCraft.Cms/"]
-RUN dotnet restore "./PokeCraft.Cms/PokeCraft.Cms.csproj"
+COPY ["src/PokeCraft.Cms/PokeCraft.Cms.csproj", "src/PokeCraft.Cms/"]
+RUN dotnet restore "./src/PokeCraft.Cms/PokeCraft.Cms.csproj"
 COPY . .
-WORKDIR "/src/PokeCraft.Cms"
+WORKDIR "/src/src/PokeCraft.Cms"
 RUN dotnet build "./PokeCraft.Cms.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
 # This stage is used to publish the service project to be copied to the final stage
