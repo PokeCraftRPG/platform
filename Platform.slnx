@@ -9,6 +9,10 @@
     <File Path="LICENSE" />
     <File Path="README.md" />
   </Folder>
+  <Folder Name="/Tools/">
+    <Project Path="src/PokeCraft.Cms.Tools/PokeCraft.Cms.Tools.csproj" Id="6cde57a2-1077-4912-adb7-3f76da50cfd8" />
+    <Project Path="tools/PokeCraft.Cms.Seeding/PokeCraft.Cms.Seeding.csproj" Id="4cf712b6-b550-4ecb-b2d3-81f114752d9a" />
+  </Folder>
   <Project Path="src/PokeCraft.Cms.Core/PokeCraft.Cms.Core.csproj" Id="59f7d969-0beb-46ff-9c6c-4f2d20f472e0" />
   <Project Path="src/PokeCraft.Cms.Infrastructure/PokeCraft.Cms.Infrastructure.csproj" Id="4f077196-9767-4e18-aa95-19a4f088ad72" />
   <Project Path="src/PokeCraft.Cms.PostgreSQL/PokeCraft.Cms.PostgreSQL.csproj" Id="f411e633-3cac-4fe2-8f7b-4ab88c6bc5d5" />
