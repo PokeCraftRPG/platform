@@ -9,5 +9,8 @@
     <File Path="LICENSE" />
     <File Path="README.md" />
   </Folder>
+  <Project Path="src/PokeCraft.Cms.Core/PokeCraft.Cms.Core.csproj" Id="59f7d969-0beb-46ff-9c6c-4f2d20f472e0" />
+  <Project Path="src/PokeCraft.Cms.Infrastructure/PokeCraft.Cms.Infrastructure.csproj" Id="4f077196-9767-4e18-aa95-19a4f088ad72" />
+  <Project Path="src/PokeCraft.Cms.PostgreSQL/PokeCraft.Cms.PostgreSQL.csproj" Id="f411e633-3cac-4fe2-8f7b-4ab88c6bc5d5" />
   <Project Path="src/PokeCraft.Cms/PokeCraft.Cms.csproj" />
 </Solution>

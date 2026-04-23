@@ -361,7 +361,3 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-
-# Compiled Rules Data
-tools/SkillCraft.Rules.Compiler/data/output/
-tools/SkillCraft.Rules.Extractor/output
