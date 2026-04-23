@@ -1,0 +1,218 @@
+﻿[
+  {
+    "Id": "2e21d5b0-6453-468b-9272-4ef8326ca69e",
+    "UniqueName": "Boolean",
+    "DisplayName": null,
+    "Description": null,
+    "Boolean": {}
+  },
+  {
+    "Id": "34d9c414-c8e4-41f2-83f6-349f5aff8ba3",
+    "UniqueName": "CatchRate",
+    "DisplayName": null,
+    "Description": null,
+    "Number": {
+      "MinimumValue": 3,
+      "MaximumValue": 255,
+      "Step": 1
+    }
+  },
+  {
+    "Id": "603dbb04-9ac8-44d0-93fa-5b808c70de87",
+    "UniqueName": "EggCycles",
+    "DisplayName": null,
+    "Description": null,
+    "Number": {
+      "MinimumValue": 5,
+      "MaximumValue": 120,
+      "Step": 1
+    }
+  },
+  {
+    "Id": "9c197622-1109-47b1-8f3c-84ee5e2466bb",
+    "UniqueName": "EggGroup",
+    "DisplayName": null,
+    "Description": null,
+    "Select": {
+      "IsMultiple": false,
+      "Options": [
+        {
+          "Text": "No Eggs Discovered",
+          "Value": "NoEggsDiscovered"
+        },
+        {
+          "Text": "Amorphous",
+          "Value": "Amorphous"
+        },
+        {
+          "Text": "Bug",
+          "Value": "Bug"
+        },
+        {
+          "Text": "Ditto",
+          "Value": "Ditto"
+        },
+        {
+          "Text": "Dragon",
+          "Value": "Dragon"
+        },
+        {
+          "Text": "Fairy",
+          "Value": "Fairy"
+        },
+        {
+          "Text": "Field",
+          "Value": "Field"
+        },
+        {
+          "Text": "Flying",
+          "Value": "Flying"
+        },
+        {
+          "Text": "Grass",
+          "Value": "Grass"
+        },
+        {
+          "Text": "Human-Like",
+          "Value": "HumanLike"
+        },
+        {
+          "Text": "Mineral",
+          "Value": "Mineral"
+        },
+        {
+          "Text": "Monster",
+          "Value": "Monster"
+        },
+        {
+          "Text": "Water 1",
+          "Value": "Water1"
+        },
+        {
+          "Text": "Water 2",
+          "Value": "Water2"
+        },
+        {
+          "Text": "Water 3",
+          "Value": "Water3"
+        }
+      ]
+    }
+  },
+  {
+    "Id": "256d791a-8063-447c-a310-d15a201c87e6",
+    "UniqueName": "Friendship",
+    "DisplayName": null,
+    "Description": null,
+    "Number": {
+      "MinimumValue": 0,
+      "MaximumValue": 255,
+      "Step": 1
+    }
+  },
+  {
+    "Id": "793ea05a-ca39-4bc7-b4b4-08649c9f66f4",
+    "UniqueName": "GenderRatio",
+    "DisplayName": null,
+    "Description": null,
+    "Number": {
+      "MinimumValue": 0,
+      "MaximumValue": 8,
+      "Step": 1
+    }
+  },
+  {
+    "Id": "a89e79b1-e846-4716-b119-0fd6ec557acc",
+    "UniqueName": "Genus",
+    "DisplayName": null,
+    "Description": null,
+    "String": {
+      "MinimumLength": 1,
+      "MaximumLength": 16,
+      "Pattern": null
+    }
+  },
+  {
+    "Id": "f5d219ef-0af1-40d3-b4ef-b976f7f02f9f",
+    "UniqueName": "GrowthRate",
+    "DisplayName": null,
+    "Description": null,
+    "Select": {
+      "IsMultiple": false,
+      "Options": [
+        {
+          "Text": "Fluctuating",
+          "Value": "Fluctuating"
+        },
+        {
+          "Text": "Slow",
+          "Value": "Slow"
+        },
+        {
+          "Text": "Medium Slow",
+          "Value": "MediumSlow"
+        },
+        {
+          "Text": "Medium Fast",
+          "Value": "MediumFast"
+        },
+        {
+          "Text": "Fast",
+          "Value": "Fast"
+        },
+        {
+          "Text": "Erratic",
+          "Value": "Erratic"
+        }
+      ]
+    }
+  },
+  {
+    "Id": "1fccea31-555d-4eb3-bc23-e36f497f7853",
+    "UniqueName": "Number",
+    "DisplayName": null,
+    "Description": null,
+    "Number": {
+      "MinimumValue": 1,
+      "MaximumValue": 9999,
+      "Step": 1
+    }
+  },
+  {
+    "Id": "f2982ae5-ad43-4f94-965b-3bb070511141",
+    "UniqueName": "PokemonCategory",
+    "DisplayName": null,
+    "Description": null,
+    "Select": {
+      "IsMultiple": false,
+      "Options": [
+        {
+          "Text": "Standard",
+          "Value": "Standard"
+        },
+        {
+          "Text": "Baby",
+          "Value": "Baby"
+        },
+        {
+          "Text": "Legendary",
+          "Value": "Legendary"
+        },
+        {
+          "Text": "Mythical",
+          "Value": "Mythical"
+        }
+      ]
+    }
+  },
+  {
+    "Id": "f03b5658-b84f-4da7-95ef-be0bb0e35c43",
+    "UniqueName": "Species",
+    "DisplayName": null,
+    "Description": null,
+    "RelatedContent": {
+      "ContentTypeId": "6fe55c8c-ed01-44f1-ba6f-240477cc4bc7",
+      "IsMultiple": false
+    }
+  }
+]

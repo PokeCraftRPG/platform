@@ -37,7 +37,6 @@ internal class Startup : StartupBase
       services.AddKrakenarSwagger(adminSettings);
     }
 
-    services.AddApplicationInsightsTelemetry();
     services.AddHealthChecks().AddDbContextCheck<PokemonContext>();
   }
 

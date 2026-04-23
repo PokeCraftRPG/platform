@@ -1,0 +1,176 @@
+﻿[
+  {
+    "Id": "6fe55c8c-ed01-44f1-ba6f-240477cc4bc7",
+    "IsInvariant": false,
+    "UniqueName": "Species",
+    "DisplayName": "Espèce",
+    "Description": null,
+    "Fields": [
+      {
+        "Id": "3b0b7911-7c1a-4314-a58a-7fe5e168d328",
+        "FieldType": "Number",
+        "IsInvariant": true,
+        "IsRequired": true,
+        "IsIndexed": false,
+        "IsUnique": true,
+        "UniqueName": "Number",
+        "DisplayName": "Number",
+        "Description": null,
+        "Placeholder": null
+      },
+      {
+        "Id": "250d218d-bfae-4b6d-bf6c-cb0005ace6b7",
+        "FieldType": "PokemonCategory",
+        "IsInvariant": true,
+        "IsRequired": true,
+        "IsIndexed": false,
+        "IsUnique": false,
+        "UniqueName": "Category",
+        "DisplayName": "Category",
+        "Description": null,
+        "Placeholder": "Select a category"
+      },
+      {
+        "Id": "c56bc294-8029-47e9-b4b3-1fb69858b6b1",
+        "FieldType": "Friendship",
+        "IsInvariant": true,
+        "IsRequired": true,
+        "IsIndexed": false,
+        "IsUnique": false,
+        "UniqueName": "BaseFriendship",
+        "DisplayName": "Base Friendship",
+        "Description": null,
+        "Placeholder": null
+      },
+      {
+        "Id": "264ebe2e-98ea-4b02-8bb7-5e8c9fb50572",
+        "FieldType": "CatchRate",
+        "IsInvariant": true,
+        "IsRequired": true,
+        "IsIndexed": false,
+        "IsUnique": false,
+        "UniqueName": "CatchRate",
+        "DisplayName": "Catch Rate",
+        "Description": null,
+        "Placeholder": null
+      },
+      {
+        "Id": "da5464c7-164d-4d44-8452-384a5ce4d569",
+        "FieldType": "GrowthRate",
+        "IsInvariant": true,
+        "IsRequired": true,
+        "IsIndexed": false,
+        "IsUnique": false,
+        "UniqueName": "GrowthRate",
+        "DisplayName": "Growth Rate",
+        "Description": null,
+        "Placeholder": "Select a growth rate"
+      },
+      {
+        "Id": "cfb85a1c-6cad-40d7-9d07-936720970e15",
+        "FieldType": "EggCycles",
+        "IsInvariant": true,
+        "IsRequired": true,
+        "IsIndexed": false,
+        "IsUnique": false,
+        "UniqueName": "EggCycles",
+        "DisplayName": "Egg Cycles",
+        "Description": null,
+        "Placeholder": null
+      },
+      {
+        "Id": "28126e31-5a65-4289-88fb-ee7df17f1b8c",
+        "FieldType": "EggGroup",
+        "IsInvariant": true,
+        "IsRequired": true,
+        "IsIndexed": false,
+        "IsUnique": false,
+        "UniqueName": "PrimaryEggGroup",
+        "DisplayName": "Primary Egg Group",
+        "Description": null,
+        "Placeholder": "Select an egg group"
+      },
+      {
+        "Id": "b07cd7bf-ba43-46eb-9d6d-1beb227bbc69",
+        "FieldType": "EggGroup",
+        "IsInvariant": true,
+        "IsRequired": false,
+        "IsIndexed": false,
+        "IsUnique": false,
+        "UniqueName": "SecondaryEggGroup",
+        "DisplayName": "Secondary Egg Group",
+        "Description": null,
+        "Placeholder": "Select an egg group"
+      }
+    ]
+  },
+  {
+    "Id": "21edba27-5603-406e-923c-6dacfdeaa4bb",
+    "IsInvariant": false,
+    "UniqueName": "Variety",
+    "DisplayName": "Variété",
+    "Description": null,
+    "Fields": [
+      {
+        "Id": "ca42a06e-1fe6-4713-adc3-5cf21920cbee",
+        "FieldType": "Species",
+        "IsInvariant": true,
+        "IsRequired": true,
+        "IsIndexed": false,
+        "IsUnique": false,
+        "UniqueName": "Species",
+        "DisplayName": "Species",
+        "Description": null,
+        "Placeholder": "Select a Pokémon species"
+      },
+      {
+        "Id": "f5833e01-e760-47bd-8862-45c8e8cd5364",
+        "FieldType": "Boolean",
+        "IsInvariant": true,
+        "IsRequired": false,
+        "IsIndexed": false,
+        "IsUnique": false,
+        "UniqueName": "IsDefault",
+        "DisplayName": "Is Default?",
+        "Description": null,
+        "Placeholder": null
+      },
+      {
+        "Id": "a0ea206a-7850-484e-aa21-1186e47f176c",
+        "FieldType": "Boolean",
+        "IsInvariant": true,
+        "IsRequired": false,
+        "IsIndexed": false,
+        "IsUnique": false,
+        "UniqueName": "CanChangeForm",
+        "DisplayName": "Can Change Form?",
+        "Description": null,
+        "Placeholder": null
+      },
+      {
+        "Id": "272bcb79-3767-4d41-a20f-c07664da1de2",
+        "FieldType": "GenderRatio",
+        "IsInvariant": true,
+        "IsRequired": false,
+        "IsIndexed": false,
+        "IsUnique": false,
+        "UniqueName": "GenderRatio",
+        "DisplayName": "Gender Ratio",
+        "Description": null,
+        "Placeholder": null
+      },
+      {
+        "Id": "0ebc92e1-0d9b-4f5f-b9ae-91d30626a236",
+        "FieldType": "Genus",
+        "IsInvariant": false,
+        "IsRequired": true,
+        "IsIndexed": false,
+        "IsUnique": false,
+        "UniqueName": "Genus",
+        "DisplayName": "Genus",
+        "Description": null,
+        "Placeholder": null
+      }
+    ]
+  }
+]
