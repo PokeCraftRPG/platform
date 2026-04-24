@@ -1,6 +1,8 @@
 ﻿using Krakenar.Core.Contents;
 using Krakenar.Core.Contents.Events;
 using Krakenar.EntityFrameworkCore.Relational.Entities;
+using Logitar;
+using Logitar.EventSourcing;
 using PokeCraft.Cms.Core;
 
 namespace PokeCraft.Cms.Infrastructure.Entities;
@@ -54,6 +56,23 @@ internal class FormEntity : Aggregate
 
   private FormEntity() : base()
   {
+  }
+
+  public override IReadOnlyCollection<ActorId> GetActorIds()
+  {
+    HashSet<ActorId> actorIds = new(base.GetActorIds());
+    if (Variety is not null)
+    {
+      actorIds.AddRange(Variety.GetActorIds());
+    }
+    foreach (FormAbilityEntity entity in Abilities)
+    {
+      if (entity.Ability is not null)
+      {
+        actorIds.AddRange(entity.Ability.GetActorIds());
+      }
+    }
+    return actorIds;
   }
 
   public void Publish(ContentLocalePublished @event)
