@@ -49,6 +49,7 @@ internal class SpeciesQuerier : ISpeciesQuerier
   public async Task<SearchResults<PokemonSpecies>> SearchAsync(SearchSpeciesPayload payload, CancellationToken cancellationToken)
   {
     IQueryBuilder builder = _sql.Query(PokemonDb.Species.Table).SelectAll(PokemonDb.Species.Table)
+      .Where(PokemonDb.Species.IsPublished, Operators.IsEqualTo(true))
       .ApplyIdFilter(PokemonDb.Species.UniqueId, payload.Ids);
     _sql.ApplyTextSearch(builder, payload.Search, PokemonDb.Species.Key, PokemonDb.Species.Name);
 
