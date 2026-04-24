@@ -1,12 +1,18 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using PokeCraft.Cms.Infrastructure.Entities;
 
 namespace PokeCraft.Cms.Infrastructure;
 
 public class PokemonContext : DbContext
 {
+  public const string Schema = "Pokemon";
+
   public PokemonContext(DbContextOptions<PokemonContext> options) : base(options)
   {
   }
+
+  internal DbSet<AbilityEntity> Abilities => Set<AbilityEntity>();
+  internal DbSet<MoveEntity> Moves => Set<MoveEntity>();
 
   protected override void OnModelCreating(ModelBuilder modelBuilder)
   {
