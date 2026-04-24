@@ -18,7 +18,7 @@ internal class AbilityConfiguration : AggregateConfiguration<AbilityEntity>, IEn
     builder.HasIndex(x => x.UniqueId).IsUnique();
     builder.HasIndex(x => x.IsPublished);
     builder.HasIndex(x => x.Key).IsUnique();
-    builder.HasIndex(x => x.Name).IsUnique();
+    builder.HasIndex(x => x.Name);
 
     builder.Property(x => x.Key).HasMaxLength(UniqueName.MaximumLength);
     builder.Property(x => x.Name).HasMaxLength(DisplayName.MaximumLength);
