@@ -48,11 +48,11 @@ internal class PublishMoveCommandHandler : ICommandHandler<PublishMoveCommand, U
     move.Name = locale.DisplayName?.Value;
     move.Description = locale.Description?.Value;
 
-    int accuracy = (int)invariant.GetNumber(MoveDefinition.Accuracy);
+    byte accuracy = (byte)invariant.GetNumber(MoveDefinition.Accuracy);
     move.Accuracy = accuracy < 1 ? null : accuracy;
-    int power = (int)invariant.GetNumber(MoveDefinition.Power);
+    byte power = (byte)invariant.GetNumber(MoveDefinition.Power);
     move.Power = power < 1 ? null : power;
-    move.PowerPoints = (int)invariant.GetNumber(MoveDefinition.PowerPoints);
+    move.PowerPoints = (byte)invariant.GetNumber(MoveDefinition.PowerPoints);
 
     if (errors.Count > 0)
     {
