@@ -4,6 +4,7 @@ using Logitar;
 using Logitar.EventSourcing;
 using PokeCraft.Cms.Core.Abilities.Models;
 using PokeCraft.Cms.Core.Moves.Models;
+using PokeCraft.Cms.Core.Species.Models;
 using PokeCraft.Cms.Infrastructure.Entities;
 using AggregateEntity = Krakenar.EntityFrameworkCore.Relational.Entities.Aggregate;
 
@@ -54,6 +55,29 @@ internal class PokemonMapper
       Accuracy = source.Accuracy,
       Power = source.Power,
       PowerPoints = source.PowerPoints
+    };
+
+    MapAggregate(source, destination);
+
+    return destination;
+  }
+
+  public PokemonSpecies ToSpecies(SpeciesEntity source)
+  {
+    PokemonSpecies destination = new()
+    {
+      Id = source.UniqueId,
+      Number = source.Number,
+      Category = source.Category,
+      Key = source.Key,
+      Name = source.Name,
+      Description = source.Description,
+      BaseFriendship = source.BaseFriendship,
+      CatchRate = source.CatchRate,
+      GrowthRate = source.GrowthRate,
+      EggCycles = source.EggCycles,
+      PrimaryEggGroup = source.PrimaryEggGroup,
+      SecondaryEggGroup = source.SecondaryEggGroup
     };
 
     MapAggregate(source, destination);

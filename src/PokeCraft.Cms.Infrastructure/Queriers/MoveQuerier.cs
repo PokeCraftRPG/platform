@@ -34,7 +34,7 @@ internal class MoveQuerier : IMoveQuerier
   public async Task<Move?> ReadAsync(string key, CancellationToken cancellationToken)
   {
     MoveEntity? move = await _moves.AsNoTracking()
-      .Where(x => x.Key == key.Trim().ToLowerInvariant() && x.IsPublished)
+      .Where(x => x.Key == PokemonHelper.Normalize(key) && x.IsPublished)
       .SingleOrDefaultAsync(cancellationToken);
     return move is null ? null : await MapAsync(move, cancellationToken);
   }

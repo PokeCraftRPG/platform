@@ -43,7 +43,7 @@ internal class PublishSpeciesCommandHandler : ICommandHandler<PublishSpeciesComm
     species.Number = (int)invariant.GetNumber(SpeciesDefinition.Number);
     SetCategory(species, invariant, errors);
 
-    species.Key = locale.UniqueName.Value.ToLowerInvariant();
+    species.Key = PokemonHelper.Normalize(locale.UniqueName.Value);
     species.Name = locale.DisplayName?.Value;
     species.Description = locale.Description?.Value;
 

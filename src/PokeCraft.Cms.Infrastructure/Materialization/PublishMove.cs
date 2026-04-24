@@ -44,7 +44,7 @@ internal class PublishMoveCommandHandler : ICommandHandler<PublishMoveCommand, U
     SetType(move, invariant, errors);
     SetCategory(move, invariant, errors);
 
-    move.Key = locale.UniqueName.Value.ToLowerInvariant();
+    move.Key = PokemonHelper.Normalize(locale.UniqueName.Value);
     move.Name = locale.DisplayName?.Value;
     move.Description = locale.Description?.Value;
 

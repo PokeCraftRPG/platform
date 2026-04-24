@@ -34,7 +34,7 @@ internal class AbilityQuerier : IAbilityQuerier
   public async Task<Ability?> ReadAsync(string key, CancellationToken cancellationToken)
   {
     AbilityEntity? ability = await _abilities.AsNoTracking()
-      .Where(x => x.Key == key.Trim().ToLowerInvariant() && x.IsPublished)
+      .Where(x => x.Key == PokemonHelper.Normalize(key) && x.IsPublished)
       .SingleOrDefaultAsync(cancellationToken);
     return ability is null ? null : await MapAsync(ability, cancellationToken);
   }

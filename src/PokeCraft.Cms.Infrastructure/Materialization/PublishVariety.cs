@@ -42,7 +42,7 @@ internal class PublishVarietyCommandHandler : ICommandHandler<PublishVarietyComm
     await SetSpeciesAsync(variety, invariant, errors, cancellationToken);
     variety.IsDefault = invariant.GetBoolean(VarietyDefinition.IsDefault);
 
-    variety.Key = locale.UniqueName.Value.ToLowerInvariant();
+    variety.Key = PokemonHelper.Normalize(locale.UniqueName.Value);
     variety.Name = locale.DisplayName?.Value;
     variety.Genus = locale.TryGetString(VarietyDefinition.Genus);
     variety.Description = locale.Description?.Value;
