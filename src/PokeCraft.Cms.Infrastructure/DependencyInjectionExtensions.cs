@@ -1,9 +1,9 @@
 ﻿using Krakenar.EntityFrameworkCore.Relational;
-using Krakenar.EntityFrameworkCore.Relational.Handlers;
 using Krakenar.Infrastructure;
 using Krakenar.Infrastructure.Commands;
 using Logitar.CQRS;
 using Microsoft.Extensions.DependencyInjection;
+using PokeCraft.Cms.Infrastructure.Materialization;
 
 namespace PokeCraft.Cms.Infrastructure;
 
@@ -11,6 +11,8 @@ public static class DependencyInjectionExtensions
 {
   public static IServiceCollection AddPokeCraftCmsInfrastructure(this IServiceCollection services)
   {
+    ContentLocalePublishedHandler.Register(services);
+    ContentLocaleUnpublishedHandler.Register(services);
     return services
       .AddKrakenarInfrastructure()
       .AddKrakenarEntityFrameworkCoreRelational()

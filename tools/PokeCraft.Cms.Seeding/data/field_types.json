@@ -1,5 +1,26 @@
 ﻿[
   {
+    "Id": "dc5ada4d-53a0-4b7e-a6dd-235537686133",
+    "UniqueName": "Ability",
+    "DisplayName": null,
+    "Description": null,
+    "RelatedContent": {
+      "ContentTypeId": "ffc4bbd4-53be-414c-9f47-0dca842614a2",
+      "IsMultiple": false
+    }
+  },
+  {
+    "Id": "38a042f9-7086-4abd-b77d-65a7734728ee",
+    "UniqueName": "BaseStatistic",
+    "DisplayName": null,
+    "Description": null,
+    "Number": {
+      "MinimumValue": 1,
+      "MaximumValue": 255,
+      "Step": 1
+    }
+  },
+  {
     "Id": "2e21d5b0-6453-468b-9272-4ef8326ca69e",
     "UniqueName": "Boolean",
     "DisplayName": null,
@@ -100,6 +121,17 @@
     }
   },
   {
+    "Id": "140ae52f-d035-40e9-87e6-5d8e944e1184",
+    "UniqueName": "ExperienceYield",
+    "DisplayName": null,
+    "Description": null,
+    "Number": {
+      "MinimumValue": 1,
+      "MaximumValue": 999,
+      "Step": 1
+    }
+  },
+  {
     "Id": "256d791a-8063-447c-a310-d15a201c87e6",
     "UniqueName": "Friendship",
     "DisplayName": null,
@@ -168,6 +200,40 @@
     }
   },
   {
+    "Id": "4fa518dd-5799-465f-8133-2378ab2996c1",
+    "UniqueName": "Height",
+    "DisplayName": null,
+    "Description": null,
+    "Number": {
+      "MinimumValue": 1,
+      "MaximumValue": 1000,
+      "Step": 1
+    }
+  },
+  {
+    "Id": "98f9a5d3-4181-4eca-9c34-4e131ef1ac59",
+    "UniqueName": "MoveCategory",
+    "DisplayName": null,
+    "Description": null,
+    "Select": {
+      "IsMultiple": false,
+      "Options": [
+        {
+          "Text": "Status",
+          "Value": "Status"
+        },
+        {
+          "Text": "Physical",
+          "Value": "Physical"
+        },
+        {
+          "Text": "Special",
+          "Value": "Special"
+        }
+      ]
+    }
+  },
+  {
     "Id": "1fccea31-555d-4eb3-bc23-e36f497f7853",
     "UniqueName": "Number",
     "DisplayName": null,
@@ -176,6 +242,39 @@
       "MinimumValue": 1,
       "MaximumValue": 9999,
       "Step": 1
+    }
+  },
+  {
+    "Id": "da22bb0b-b1fe-4b8f-b1f6-39c4655137e7",
+    "UniqueName": "Percentage",
+    "DisplayName": null,
+    "Description": null,
+    "Number": {
+      "MinimumValue": 0,
+      "MaximumValue": 100,
+      "Step": 1
+    }
+  },
+  {
+    "Id": "99a194cb-f110-4255-8c8b-7e1f8f3a3068",
+    "UniqueName": "Power",
+    "DisplayName": null,
+    "Description": null,
+    "Number": {
+      "MinimumValue": 0,
+      "MaximumValue": 250,
+      "Step": 1
+    }
+  },
+  {
+    "Id": "2c0a85d8-5779-40b4-b4f0-6cda4962e137",
+    "UniqueName": "PowerPoints",
+    "DisplayName": null,
+    "Description": null,
+    "Number": {
+      "MinimumValue": 1,
+      "MaximumValue": 40,
+      "Step": 5
     }
   },
   {
@@ -206,6 +305,89 @@
     }
   },
   {
+    "Id": "d7f5ca0e-d122-47c0-bb4d-61469c872c91",
+    "UniqueName": "PokemonType",
+    "DisplayName": null,
+    "Description": null,
+    "Select": {
+      "IsMultiple": false,
+      "Options": [
+        {
+          "Text": "Normal",
+          "Value": "Normal"
+        },
+        {
+          "Text": "Bug",
+          "Value": "Bug"
+        },
+        {
+          "Text": "Dark",
+          "Value": "Dark"
+        },
+        {
+          "Text": "Dragon",
+          "Value": "Dragon"
+        },
+        {
+          "Text": "Electric",
+          "Value": "Electric"
+        },
+        {
+          "Text": "Fairy",
+          "Value": "Fairy"
+        },
+        {
+          "Text": "Fighting",
+          "Value": "Fighting"
+        },
+        {
+          "Text": "Fire",
+          "Value": "Fire"
+        },
+        {
+          "Text": "Flying",
+          "Value": "Flying"
+        },
+        {
+          "Text": "Ghost",
+          "Value": "Ghost"
+        },
+        {
+          "Text": "Grass",
+          "Value": "Grass"
+        },
+        {
+          "Text": "Ground",
+          "Value": "Ground"
+        },
+        {
+          "Text": "Ice",
+          "Value": "Ice"
+        },
+        {
+          "Text": "Poison",
+          "Value": "Poison"
+        },
+        {
+          "Text": "Psychic",
+          "Value": "Psychic"
+        },
+        {
+          "Text": "Rock",
+          "Value": "Rock"
+        },
+        {
+          "Text": "Steel",
+          "Value": "Steel"
+        },
+        {
+          "Text": "Water",
+          "Value": "Water"
+        }
+      ]
+    }
+  },
+  {
     "Id": "f03b5658-b84f-4da7-95ef-be0bb0e35c43",
     "UniqueName": "Species",
     "DisplayName": null,
@@ -213,6 +395,38 @@
     "RelatedContent": {
       "ContentTypeId": "6fe55c8c-ed01-44f1-ba6f-240477cc4bc7",
       "IsMultiple": false
+    }
+  },
+  {
+    "Id": "76cf49e0-3e66-4ca2-aacf-ae74e35135e2",
+    "UniqueName": "StatisticYield",
+    "DisplayName": null,
+    "Description": null,
+    "Number": {
+      "MinimumValue": 0,
+      "MaximumValue": 3,
+      "Step": 1
+    }
+  },
+  {
+    "Id": "b9a3229e-9a6e-480b-8165-b059ab6fd21e",
+    "UniqueName": "Variety",
+    "DisplayName": null,
+    "Description": null,
+    "RelatedContent": {
+      "ContentTypeId": "21edba27-5603-406e-923c-6dacfdeaa4bb",
+      "IsMultiple": false
+    }
+  },
+  {
+    "Id": "1c65e666-c96a-4e82-a7e8-bf9a3d6dcc33",
+    "UniqueName": "Weight",
+    "DisplayName": null,
+    "Description": null,
+    "Number": {
+      "MinimumValue": 1,
+      "MaximumValue": 9999,
+      "Step": 1
     }
   }
 ]
