@@ -331,7 +331,7 @@
       },
       {
         "Id": "3af82ed8-a379-4a39-8078-494e3aed4a28",
-        "FieldType": "Boolean",
+        "FieldType": "Weight",
         "IsInvariant": true,
         "IsRequired": false,
         "IsIndexed": false,

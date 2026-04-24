@@ -16,6 +16,7 @@ internal class ContentLocaleUnpublishedHandler : ContentLocaleEventHandler, IEve
   {
     services.AddTransient<IEventHandler<ContentLocaleUnpublished>, ContentLocaleUnpublishedHandler>();
     services.AddTransient<ICommandHandler<UnpublishAbilityCommand, Unit>, UnpublishAbilityCommandHandler>();
+    services.AddTransient<ICommandHandler<UnpublishFormCommand, Unit>, UnpublishFormCommandHandler>();
     services.AddTransient<ICommandHandler<UnpublishMoveCommand, Unit>, UnpublishMoveCommandHandler>();
     services.AddTransient<ICommandHandler<UnpublishSpeciesCommand, Unit>, UnpublishSpeciesCommandHandler>();
     services.AddTransient<ICommandHandler<UnpublishVarietyCommand, Unit>, UnpublishVarietyCommandHandler>();
@@ -61,6 +62,9 @@ internal class ContentLocaleUnpublishedHandler : ContentLocaleEventHandler, IEve
       {
         case EntityKind.Ability:
           await _commandBus.ExecuteAsync(new UnpublishAbilityCommand(@event), cancellationToken);
+          break;
+        case EntityKind.Form:
+          await _commandBus.ExecuteAsync(new UnpublishFormCommand(@event), cancellationToken);
           break;
         case EntityKind.Move:
           await _commandBus.ExecuteAsync(new UnpublishMoveCommand(@event), cancellationToken);

@@ -18,6 +18,7 @@ internal class ContentLocalePublishedHandler : ContentLocaleEventHandler, IEvent
   {
     services.AddTransient<IEventHandler<ContentLocalePublished>, ContentLocalePublishedHandler>();
     services.AddTransient<ICommandHandler<PublishAbilityCommand, Unit>, PublishAbilityCommandHandler>();
+    services.AddTransient<ICommandHandler<PublishFormCommand, Unit>, PublishFormCommandHandler>();
     services.AddTransient<ICommandHandler<PublishMoveCommand, Unit>, PublishMoveCommandHandler>();
     services.AddTransient<ICommandHandler<PublishSpeciesCommand, Unit>, PublishSpeciesCommandHandler>();
     services.AddTransient<ICommandHandler<PublishVarietyCommand, Unit>, PublishVarietyCommandHandler>();
@@ -84,6 +85,9 @@ internal class ContentLocalePublishedHandler : ContentLocaleEventHandler, IEvent
       {
         case EntityKind.Ability:
           await _commandBus.ExecuteAsync(new PublishAbilityCommand(@event, published.Invariant, published.Locale), cancellationToken);
+          break;
+        case EntityKind.Form:
+          await _commandBus.ExecuteAsync(new PublishFormCommand(@event, published.Invariant, published.Locale), cancellationToken);
           break;
         case EntityKind.Move:
           await _commandBus.ExecuteAsync(new PublishMoveCommand(@event, published.Invariant, published.Locale), cancellationToken);

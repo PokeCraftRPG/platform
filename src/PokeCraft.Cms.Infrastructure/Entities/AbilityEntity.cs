@@ -15,6 +15,8 @@ internal class AbilityEntity : Aggregate
   public string? Name { get; set; }
   public string? Description { get; set; }
 
+  public List<FormAbilityEntity> Forms { get; private set; } = [];
+
   public AbilityEntity(ContentLocalePublished @event) : base(@event)
   {
     UniqueId = new ContentId(@event.StreamId).EntityId;
