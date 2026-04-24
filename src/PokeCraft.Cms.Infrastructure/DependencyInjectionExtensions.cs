@@ -4,6 +4,7 @@ using Krakenar.Infrastructure.Commands;
 using Logitar.CQRS;
 using Microsoft.Extensions.DependencyInjection;
 using PokeCraft.Cms.Core.Abilities;
+using PokeCraft.Cms.Core.Moves;
 using PokeCraft.Cms.Infrastructure.Materialization;
 using PokeCraft.Cms.Infrastructure.Queriers;
 
@@ -24,6 +25,8 @@ public static class DependencyInjectionExtensions
 
   private static IServiceCollection AddQueriers(this IServiceCollection services)
   {
-    return services.AddTransient<IAbilityQuerier, AbilityQuerier>();
+    return services
+      .AddTransient<IAbilityQuerier, AbilityQuerier>()
+      .AddTransient<IMoveQuerier, MoveQuerier>();
   }
 }
