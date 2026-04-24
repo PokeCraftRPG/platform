@@ -6,6 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using PokeCraft.Cms.Core.Abilities;
 using PokeCraft.Cms.Core.Moves;
 using PokeCraft.Cms.Core.Species;
+using PokeCraft.Cms.Core.Varieties;
 using PokeCraft.Cms.Infrastructure.Materialization;
 using PokeCraft.Cms.Infrastructure.Queriers;
 
@@ -29,6 +30,7 @@ public static class DependencyInjectionExtensions
     return services
       .AddTransient<IAbilityQuerier, AbilityQuerier>()
       .AddTransient<IMoveQuerier, MoveQuerier>()
-      .AddTransient<ISpeciesQuerier, SpeciesQuerier>();
+      .AddTransient<ISpeciesQuerier, SpeciesQuerier>()
+      .AddTransient<IVarietyQuerier, VarietyQuerier>();
   }
 }

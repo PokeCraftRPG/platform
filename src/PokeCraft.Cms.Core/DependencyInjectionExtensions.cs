@@ -3,6 +3,7 @@ using Microsoft.Extensions.DependencyInjection;
 using PokeCraft.Cms.Core.Abilities;
 using PokeCraft.Cms.Core.Moves;
 using PokeCraft.Cms.Core.Species;
+using PokeCraft.Cms.Core.Varieties;
 
 namespace PokeCraft.Cms.Core;
 
@@ -20,6 +21,7 @@ public static class DependencyInjectionExtensions
     AbilityService.Register(services);
     MoveService.Register(services);
     SpeciesService.Register(services);
+    VarietyService.Register(services);
     return services;
   }
 }
