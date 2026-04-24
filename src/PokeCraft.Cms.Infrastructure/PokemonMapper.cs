@@ -3,6 +3,7 @@ using Krakenar.Contracts.Actors;
 using Logitar;
 using Logitar.EventSourcing;
 using PokeCraft.Cms.Core.Abilities.Models;
+using PokeCraft.Cms.Core.Moves.Models;
 using PokeCraft.Cms.Infrastructure.Entities;
 using AggregateEntity = Krakenar.EntityFrameworkCore.Relational.Entities.Aggregate;
 
@@ -33,6 +34,26 @@ internal class PokemonMapper
       Key = source.Key,
       Name = source.Name,
       Description = source.Description
+    };
+
+    MapAggregate(source, destination);
+
+    return destination;
+  }
+
+  public Move ToMove(MoveEntity source)
+  {
+    Move destination = new()
+    {
+      Id = source.UniqueId,
+      Type = source.Type,
+      Category = source.Category,
+      Key = source.Key,
+      Name = source.Name,
+      Description = source.Description,
+      Accuracy = source.Accuracy,
+      Power = source.Power,
+      PowerPoints = source.PowerPoints
     };
 
     MapAggregate(source, destination);
