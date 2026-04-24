@@ -4,7 +4,7 @@ namespace PokeCraft.Cms.Core.Forms.Models;
 
 public record FormAbilities
 {
-  public Ability Primary { get; set; } = new();
+  public Ability? Primary { get; set; }
   public Ability? Secondary { get; set; }
   public Ability? Hidden { get; set; }
 }

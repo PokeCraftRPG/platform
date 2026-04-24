@@ -42,6 +42,8 @@ internal class FormQuerier : IFormQuerier
   public async Task<SearchResults<Form>> SearchAsync(SearchFormsPayload payload, CancellationToken cancellationToken)
   {
     IQueryBuilder builder = _sql.Query(PokemonDb.Forms.Table).SelectAll(PokemonDb.Forms.Table)
+      .Join(PokemonDb.Varieties.VarietyId, PokemonDb.Forms.VarietyId, new OperatorCondition(PokemonDb.Varieties.IsPublished, Operators.IsEqualTo(true)))
+      .Join(PokemonDb.Species.SpeciesId, PokemonDb.Varieties.SpeciesId, new OperatorCondition(PokemonDb.Species.IsPublished, Operators.IsEqualTo(true)))
       .Where(PokemonDb.Forms.IsPublished, Operators.IsEqualTo(true))
       .ApplyIdFilter(PokemonDb.Forms.UniqueId, payload.Ids);
     _sql.ApplyTextSearch(builder, payload.Search, PokemonDb.Forms.Key, PokemonDb.Forms.Name);
