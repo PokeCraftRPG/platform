@@ -14,14 +14,14 @@ namespace PokeCraft.Cms.Infrastructure.Queriers;
 internal class SpeciesQuerier : ISpeciesQuerier
 {
   private readonly IActorService _actors;
-  private readonly ISqlHelper _sql;
   private readonly DbSet<SpeciesEntity> _species;
+  private readonly ISqlHelper _sql;
 
   public SpeciesQuerier(IActorService actors, PokemonContext pokemon, ISqlHelper sql)
   {
     _actors = actors;
-    _sql = sql;
     _species = pokemon.Species;
+    _sql = sql;
   }
 
   public async Task<PokemonSpecies?> ReadAsync(Guid id, CancellationToken cancellationToken)
