@@ -26,5 +26,6 @@ internal static class Species
   public static readonly ColumnId Number = new(nameof(SpeciesEntity.Number), Table);
   public static readonly ColumnId PrimaryEggGroup = new(nameof(SpeciesEntity.PrimaryEggGroup), Table);
   public static readonly ColumnId SecondaryEggGroup = new(nameof(SpeciesEntity.SecondaryEggGroup), Table);
+  public static readonly ColumnId SpeciesId = new(nameof(SpeciesEntity.SpeciesId), Table);
   public static readonly ColumnId UniqueId = new(nameof(SpeciesEntity.UniqueId), Table);
 }

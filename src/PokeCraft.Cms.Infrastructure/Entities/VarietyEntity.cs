@@ -1,6 +1,8 @@
 ﻿using Krakenar.Core.Contents;
 using Krakenar.Core.Contents.Events;
 using Krakenar.EntityFrameworkCore.Relational.Entities;
+using Logitar;
+using Logitar.EventSourcing;
 
 namespace PokeCraft.Cms.Infrastructure.Entities;
 
@@ -32,6 +34,16 @@ internal class VarietyEntity : Aggregate
 
   private VarietyEntity() : base()
   {
+  }
+
+  public override IReadOnlyCollection<ActorId> GetActorIds()
+  {
+    HashSet<ActorId> actorIds = new(base.GetActorIds());
+    if (Species is not null)
+    {
+      actorIds.AddRange(Species.GetActorIds());
+    }
+    return actorIds;
   }
 
   public void Publish(ContentLocalePublished @event)

@@ -5,6 +5,7 @@ using Logitar.EventSourcing;
 using PokeCraft.Cms.Core.Abilities.Models;
 using PokeCraft.Cms.Core.Moves.Models;
 using PokeCraft.Cms.Core.Species.Models;
+using PokeCraft.Cms.Core.Varieties.Models;
 using PokeCraft.Cms.Infrastructure.Entities;
 using AggregateEntity = Krakenar.EntityFrameworkCore.Relational.Entities.Aggregate;
 
@@ -78,6 +79,31 @@ internal class PokemonMapper
       EggCycles = source.EggCycles,
       PrimaryEggGroup = source.PrimaryEggGroup,
       SecondaryEggGroup = source.SecondaryEggGroup
+    };
+
+    MapAggregate(source, destination);
+
+    return destination;
+  }
+
+  public Variety ToVariety(VarietyEntity source)
+  {
+    if (source.Species is null)
+    {
+      throw new ArgumentException("The species is required.", nameof(source));
+    }
+
+    Variety destination = new()
+    {
+      Id = source.UniqueId,
+      Species = ToSpecies(source.Species),
+      IsDefault = source.IsDefault,
+      Key = source.Key,
+      Name = source.Name,
+      Genus = source.Genus,
+      Description = source.Description,
+      CanChangeForm = source.CanChangeForm,
+      GenderRatio = source.GenderRatio
     };
 
     MapAggregate(source, destination);
