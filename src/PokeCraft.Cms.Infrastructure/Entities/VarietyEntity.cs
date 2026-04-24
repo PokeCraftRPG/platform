@@ -1,40 +1,34 @@
 ﻿using Krakenar.Core.Contents;
 using Krakenar.Core.Contents.Events;
 using Krakenar.EntityFrameworkCore.Relational.Entities;
-using PokeCraft.Cms.Core.Species;
 
 namespace PokeCraft.Cms.Infrastructure.Entities;
 
-internal class SpeciesEntity : Aggregate
+internal class VarietyEntity : Aggregate
 {
-  public int SpeciesId { get; private set; }
+  public int VarietyId { get; private set; }
   public Guid UniqueId { get; private set; }
 
   public bool IsPublished { get; private set; }
 
-  public int Number { get; set; }
-  public PokemonCategory Category { get; set; }
+  public SpeciesEntity? Species { get; private set; }
+  public int SpeciesId { get; private set; }
+  public bool IsDefault { get; set; }
 
   public string Key { get; set; } = string.Empty;
   public string? Name { get; set; }
+  public string? Genus { get; set; }
   public string? Description { get; set; }
 
-  public byte BaseFriendship { get; set; }
-  public byte CatchRate { get; set; }
-  public GrowthRate GrowthRate { get; set; }
+  public bool CanChangeForm { get; set; }
+  public byte? GenderRatio { get; set; }
 
-  public byte EggCycles { get; set; }
-  public EggGroup PrimaryEggGroup { get; set; }
-  public EggGroup? SecondaryEggGroup { get; set; }
-
-  public List<VarietyEntity> Varieties { get; private set; } = [];
-
-  public SpeciesEntity(ContentLocalePublished @event) : base(@event)
+  public VarietyEntity(ContentLocalePublished @event) : base(@event)
   {
     UniqueId = new ContentId(@event.StreamId).EntityId;
   }
 
-  private SpeciesEntity() : base()
+  private VarietyEntity() : base()
   {
   }
 
@@ -43,6 +37,12 @@ internal class SpeciesEntity : Aggregate
     Update(@event);
 
     IsPublished = true;
+  }
+
+  public void SetSpecies(SpeciesEntity species)
+  {
+    Species = species;
+    SpeciesId = species.SpeciesId;
   }
 
   public void Unpublish(ContentLocaleUnpublished @event)

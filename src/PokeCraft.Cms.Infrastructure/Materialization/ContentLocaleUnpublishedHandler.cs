@@ -18,6 +18,7 @@ internal class ContentLocaleUnpublishedHandler : ContentLocaleEventHandler, IEve
     services.AddTransient<ICommandHandler<UnpublishAbilityCommand, Unit>, UnpublishAbilityCommandHandler>();
     services.AddTransient<ICommandHandler<UnpublishMoveCommand, Unit>, UnpublishMoveCommandHandler>();
     services.AddTransient<ICommandHandler<UnpublishSpeciesCommand, Unit>, UnpublishSpeciesCommandHandler>();
+    services.AddTransient<ICommandHandler<UnpublishVarietyCommand, Unit>, UnpublishVarietyCommandHandler>();
   }
 
   private readonly ICommandBus _commandBus;
@@ -66,6 +67,9 @@ internal class ContentLocaleUnpublishedHandler : ContentLocaleEventHandler, IEve
           break;
         case EntityKind.Species:
           await _commandBus.ExecuteAsync(new UnpublishSpeciesCommand(@event), cancellationToken);
+          break;
+        case EntityKind.Variety:
+          await _commandBus.ExecuteAsync(new UnpublishVarietyCommand(@event), cancellationToken);
           break;
         default:
           Logger.LogWarning("Event 'Id={EventId}' is being ignored because the entity kind '{Kind}' is not supported.", @event.Id, kind);
