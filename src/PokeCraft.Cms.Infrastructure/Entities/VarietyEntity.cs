@@ -23,6 +23,8 @@ internal class VarietyEntity : Aggregate
   public bool CanChangeForm { get; set; }
   public byte? GenderRatio { get; set; }
 
+  public List<FormEntity> Forms { get; private set; } = [];
+
   public VarietyEntity(ContentLocalePublished @event) : base(@event)
   {
     UniqueId = new ContentId(@event.StreamId).EntityId;
