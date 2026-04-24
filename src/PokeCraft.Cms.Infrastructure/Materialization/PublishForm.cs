@@ -44,7 +44,7 @@ internal class PublishFormCommandHandler : ICommandHandler<PublishFormCommand, U
     await SetVarietyAsync(form, invariant, errors, cancellationToken);
     form.IsDefault = invariant.GetBoolean(FormDefinition.IsDefault);
 
-    form.Key = locale.UniqueName.Value.ToLowerInvariant();
+    form.Key = PokemonHelper.Normalize(locale.UniqueName.Value);
     form.Name = locale.DisplayName?.Value;
     form.Description = locale.Description?.Value;
 

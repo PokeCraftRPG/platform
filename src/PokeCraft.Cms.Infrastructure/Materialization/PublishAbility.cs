@@ -34,7 +34,7 @@ internal class PublishAbilityCommandHandler : ICommandHandler<PublishAbilityComm
       _pokemon.Abilities.Add(ability);
     }
 
-    ability.Key = locale.UniqueName.Value.ToLowerInvariant();
+    ability.Key = PokemonHelper.Normalize(locale.UniqueName.Value);
     ability.Name = locale.DisplayName?.Value;
     ability.Description = locale.Description?.Value;
 

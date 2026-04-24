@@ -34,7 +34,7 @@ internal class MoveQuerier : IMoveQuerier
   public async Task<Move?> ReadAsync(string key, CancellationToken cancellationToken)
   {
     MoveEntity? move = await _moves.AsNoTracking()
-      .Where(x => x.Key == key.Trim().ToLowerInvariant() && x.IsPublished)
+      .Where(x => x.Key == PokemonHelper.Normalize(key) && x.IsPublished)
       .SingleOrDefaultAsync(cancellationToken);
     return move is null ? null : await MapAsync(move, cancellationToken);
   }
@@ -42,6 +42,7 @@ internal class MoveQuerier : IMoveQuerier
   public async Task<SearchResults<Move>> SearchAsync(SearchMovesPayload payload, CancellationToken cancellationToken)
   {
     IQueryBuilder builder = _sql.Query(PokemonDb.Moves.Table).SelectAll(PokemonDb.Moves.Table)
+      .Where(PokemonDb.Moves.IsPublished, Operators.IsEqualTo(true))
       .ApplyIdFilter(PokemonDb.Moves.UniqueId, payload.Ids);
     _sql.ApplyTextSearch(builder, payload.Search, PokemonDb.Moves.Key, PokemonDb.Moves.Name);
 

@@ -34,7 +34,7 @@ internal class AbilityQuerier : IAbilityQuerier
   public async Task<Ability?> ReadAsync(string key, CancellationToken cancellationToken)
   {
     AbilityEntity? ability = await _abilities.AsNoTracking()
-      .Where(x => x.Key == key.Trim().ToLowerInvariant() && x.IsPublished)
+      .Where(x => x.Key == PokemonHelper.Normalize(key) && x.IsPublished)
       .SingleOrDefaultAsync(cancellationToken);
     return ability is null ? null : await MapAsync(ability, cancellationToken);
   }
@@ -42,6 +42,7 @@ internal class AbilityQuerier : IAbilityQuerier
   public async Task<SearchResults<Ability>> SearchAsync(SearchAbilitiesPayload payload, CancellationToken cancellationToken)
   {
     IQueryBuilder builder = _sql.Query(PokemonDb.Abilities.Table).SelectAll(PokemonDb.Abilities.Table)
+      .Where(PokemonDb.Abilities.IsPublished, Operators.IsEqualTo(true))
       .ApplyIdFilter(PokemonDb.Abilities.UniqueId, payload.Ids);
     _sql.ApplyTextSearch(builder, payload.Search, PokemonDb.Abilities.Key, PokemonDb.Abilities.Name);
 
