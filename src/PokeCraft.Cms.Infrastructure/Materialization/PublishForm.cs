@@ -6,6 +6,7 @@ using Logitar.CQRS;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using PokeCraft.Cms.Core;
+using PokeCraft.Cms.Core.Abilities;
 using PokeCraft.Cms.Infrastructure.Contents;
 using PokeCraft.Cms.Infrastructure.Entities;
 
@@ -57,7 +58,7 @@ internal class PublishFormCommandHandler : ICommandHandler<PublishFormCommand, U
     SetPrimaryType(form, invariant, errors);
     SetSecondaryType(form, invariant, errors);
 
-    // TODO(fpion): Abilities
+    await SetAbilitiesAsync(form, invariant, errors, cancellationToken);
 
     form.BaseHP = (byte)invariant.GetNumber(FormDefinition.BaseHP);
     form.BaseAttack = (byte)invariant.GetNumber(FormDefinition.BaseAttack);
@@ -87,6 +88,97 @@ internal class PublishFormCommandHandler : ICommandHandler<PublishFormCommand, U
 
     return Unit.Value;
   }
+
+  private async Task SetAbilitiesAsync(FormEntity form, ContentLocale invariant, List<ValidationFailure> errors, CancellationToken cancellationToken)
+  {
+    Guid? primaryAbilityId = GetAbilityId(invariant, FormDefinition.PrimaryAbility, nameof(FormDefinition.PrimaryAbility), isRequired: true, errors);
+    Guid? secondaryAbilityId = GetAbilityId(invariant, FormDefinition.SecondaryAbility, nameof(FormDefinition.SecondaryAbility), isRequired: false, errors);
+    Guid? hiddenAbilityId = GetAbilityId(invariant, FormDefinition.HiddenAbility, nameof(FormDefinition.HiddenAbility), isRequired: false, errors);
+    Dictionary<Guid, AbilitySlot> abilitySlots = new(capacity: 3);
+    if (primaryAbilityId.HasValue)
+    {
+      abilitySlots[primaryAbilityId.Value] = AbilitySlot.Primary;
+    }
+    if (secondaryAbilityId.HasValue)
+    {
+      abilitySlots[secondaryAbilityId.Value] = AbilitySlot.Secondary;
+    }
+    if (hiddenAbilityId.HasValue)
+    {
+      abilitySlots[hiddenAbilityId.Value] = AbilitySlot.Hidden;
+    }
+
+    foreach (FormAbilityEntity formAbility in form.Abilities)
+    {
+      if (formAbility.Ability is not null)
+      {
+        if (abilitySlots.TryGetValue(formAbility.Ability.UniqueId, out AbilitySlot slot))
+        {
+          formAbility.Slot = slot;
+          abilitySlots.Remove(formAbility.Ability.UniqueId);
+        }
+        else
+        {
+          _pokemon.FormAbilities.Remove(formAbility);
+        }
+      }
+    }
+
+    if (abilitySlots.Count > 0)
+    {
+      Dictionary<Guid, AbilityEntity> abilities = await _pokemon.Abilities
+        .Where(x => abilitySlots.Keys.Contains(x.UniqueId))
+        .ToDictionaryAsync(x => x.UniqueId, x => x, cancellationToken);
+      foreach (KeyValuePair<Guid, AbilitySlot> abilitySlot in abilitySlots)
+      {
+        if (abilities.TryGetValue(abilitySlot.Key, out AbilityEntity? ability))
+        {
+          form.Abilities.Add(new FormAbilityEntity(form, ability, abilitySlot.Value));
+        }
+        else
+        {
+          errors.Add(new ValidationFailure(GetPropertyName(abilitySlot.Value), "'{PropertyName}' must reference an existing entity.", abilitySlot.Key)
+          {
+            ErrorCode = ErrorCodes.EntityNotFound
+          });
+        }
+      }
+    }
+  }
+  private static Guid? GetAbilityId(ContentLocale invariant, Guid fieldId, string propertyName, bool isRequired, List<ValidationFailure> errors)
+  {
+    IReadOnlyCollection<Guid> abilityIds = invariant.GetRelatedContent(fieldId);
+    if (abilityIds.Count < 1)
+    {
+      if (isRequired)
+      {
+        errors.Add(new ValidationFailure(propertyName, "'{PropertyName}' must contain exactly one element.", abilityIds)
+        {
+          ErrorCode = ErrorCodes.TooManyValues
+        });
+      }
+    }
+    else if (abilityIds.Count > 1)
+    {
+      string errorMessage = isRequired ? "'{PropertyName}' must contain exactly one element." : "'{PropertyName}' must contain at most one element.";
+      errors.Add(new ValidationFailure(propertyName, errorMessage, abilityIds)
+      {
+        ErrorCode = ErrorCodes.TooManyValues
+      });
+    }
+    else
+    {
+      return abilityIds.Single();
+    }
+    return null;
+  }
+  private static string GetPropertyName(AbilitySlot slot) => slot switch
+  {
+    AbilitySlot.Primary => nameof(FormDefinition.PrimaryAbility),
+    AbilitySlot.Secondary => nameof(FormDefinition.SecondaryAbility),
+    AbilitySlot.Hidden => nameof(FormDefinition.HiddenAbility),
+    _ => throw new ArgumentOutOfRangeException(nameof(slot)),
+  };
 
   private static void SetPrimaryType(FormEntity form, ContentLocale invariant, List<ValidationFailure> errors)
   {
