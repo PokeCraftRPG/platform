@@ -4,6 +4,7 @@ using Krakenar.Infrastructure.Commands;
 using Logitar.CQRS;
 using Microsoft.Extensions.DependencyInjection;
 using PokeCraft.Cms.Core.Abilities;
+using PokeCraft.Cms.Core.Forms;
 using PokeCraft.Cms.Core.Moves;
 using PokeCraft.Cms.Core.Species;
 using PokeCraft.Cms.Core.Varieties;
@@ -29,6 +30,7 @@ public static class DependencyInjectionExtensions
   {
     return services
       .AddTransient<IAbilityQuerier, AbilityQuerier>()
+      .AddTransient<IFormQuerier, FormQuerier>()
       .AddTransient<IMoveQuerier, MoveQuerier>()
       .AddTransient<ISpeciesQuerier, SpeciesQuerier>()
       .AddTransient<IVarietyQuerier, VarietyQuerier>();

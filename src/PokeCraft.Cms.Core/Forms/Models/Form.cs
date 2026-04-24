@@ -19,13 +19,10 @@ public class Form : Aggregate
   public int Height { get; set; }
   public int Weight { get; set; }
 
-  public PokemonType PrimaryType { get; set; }
-  public PokemonType? SecondaryType { get; set; }
-
-  // TODO(fpion): Abilities
-  // TODO(fpion): BaseStatistics
-  public int YieldExperience { get; set; }
-  // TODO(fpion): Yield
+  public FormTypes Types { get; set; } = new();
+  public FormAbilities Abilities { get; set; } = new();
+  public BaseStatistics BaseStatistics { get; set; } = new();
+  public Yield Yield { get; set; } = new();
 
   public override string ToString() => $"{Name ?? Key} | {base.ToString()}";
 }

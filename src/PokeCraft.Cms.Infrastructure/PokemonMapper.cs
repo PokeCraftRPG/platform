@@ -2,7 +2,9 @@
 using Krakenar.Contracts.Actors;
 using Logitar;
 using Logitar.EventSourcing;
+using PokeCraft.Cms.Core.Abilities;
 using PokeCraft.Cms.Core.Abilities.Models;
+using PokeCraft.Cms.Core.Forms.Models;
 using PokeCraft.Cms.Core.Moves.Models;
 using PokeCraft.Cms.Core.Species.Models;
 using PokeCraft.Cms.Core.Varieties.Models;
@@ -37,6 +39,76 @@ internal class PokemonMapper
       Name = source.Name,
       Description = source.Description
     };
+
+    MapAggregate(source, destination);
+
+    return destination;
+  }
+
+  public Form ToForm(FormEntity source)
+  {
+    if (source.Variety is null || !source.Variety.IsPublished)
+    {
+      throw new ArgumentException("The variety is required and must be published.", nameof(source));
+    }
+
+    Form destination = new()
+    {
+      Id = source.UniqueId,
+      Variety = ToVariety(source.Variety),
+      IsDefault = source.IsDefault,
+      Key = source.Key,
+      Name = source.Name,
+      Description = source.Description,
+      HasGenderDifferences = source.HasGenderDifferences,
+      IsBattleOnly = source.IsBattleOnly,
+      IsMega = source.IsMega,
+      Height = source.Height,
+      Weight = source.Weight
+    };
+    destination.Types.Primary = source.PrimaryType;
+    destination.Types.Secondary = source.SecondaryType;
+
+    foreach (FormAbilityEntity entity in source.Abilities)
+    {
+      if (entity.Ability is null)
+      {
+        throw new ArgumentException($"The ability 'AbilityId={entity.AbilityId}' is required.", nameof(source));
+      }
+      else if (entity.Ability.IsPublished)
+      {
+        Ability ability = ToAbility(entity.Ability);
+        switch (entity.Slot)
+        {
+          case AbilitySlot.Primary:
+            destination.Abilities.Primary = ability;
+            break;
+          case AbilitySlot.Secondary:
+            destination.Abilities.Secondary = ability;
+            break;
+          case AbilitySlot.Hidden:
+            destination.Abilities.Hidden = ability;
+            break;
+          default:
+            throw new ArgumentOutOfRangeException(nameof(source), entity.Slot, "The ability slot is not supported.");
+        }
+      }
+    }
+
+    destination.BaseStatistics.HP = source.BaseHP;
+    destination.BaseStatistics.Attack = source.BaseAttack;
+    destination.BaseStatistics.Defense = source.BaseDefense;
+    destination.BaseStatistics.SpecialAttack = source.BaseSpecialAttack;
+    destination.BaseStatistics.SpecialDefense = source.BaseSpecialDefense;
+    destination.BaseStatistics.Speed = source.BaseSpeed;
+
+    destination.Yield.Experience = source.YieldExperience;
+    destination.Yield.HP = source.YieldHP;
+    destination.Yield.Attack = source.YieldAttack;
+    destination.Yield.Defense = source.YieldDefense;
+    destination.Yield.SpecialAttack = source.YieldSpecialAttack;
+    destination.Yield.SpecialDefense = source.YieldSpecialDefense;
+    destination.Yield.Speed = source.YieldSpeed;
 
     MapAggregate(source, destination);
 
@@ -88,9 +160,9 @@ internal class PokemonMapper
 
   public Variety ToVariety(VarietyEntity source)
   {
-    if (source.Species is null)
+    if (source.Species is null || !source.Species.IsPublished)
     {
-      throw new ArgumentException("The species is required.", nameof(source));
+      throw new ArgumentException("The species is required and must be published.", nameof(source));
     }
 
     Variety destination = new()

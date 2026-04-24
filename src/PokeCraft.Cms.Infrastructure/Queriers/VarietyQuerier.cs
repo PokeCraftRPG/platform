@@ -42,14 +42,14 @@ internal class VarietyQuerier : IVarietyQuerier
   public async Task<SearchResults<Variety>> SearchAsync(SearchVarietiesPayload payload, CancellationToken cancellationToken)
   {
     IQueryBuilder builder = _sql.Query(PokemonDb.Varieties.Table).SelectAll(PokemonDb.Varieties.Table)
+      .Join(PokemonDb.Species.SpeciesId, PokemonDb.Varieties.SpeciesId, new OperatorCondition(PokemonDb.Species.IsPublished, Operators.IsEqualTo(true)))
       .Where(PokemonDb.Varieties.IsPublished, Operators.IsEqualTo(true))
       .ApplyIdFilter(PokemonDb.Varieties.UniqueId, payload.Ids);
     _sql.ApplyTextSearch(builder, payload.Search, PokemonDb.Varieties.Key, PokemonDb.Varieties.Name, PokemonDb.Varieties.Genus);
 
     if (payload.SpeciesId.HasValue)
     {
-      OperatorCondition condition = new(PokemonDb.Species.UniqueId, Operators.IsEqualTo(payload.SpeciesId.Value));
-      builder.Join(PokemonDb.Species.SpeciesId, PokemonDb.Varieties.SpeciesId, condition);
+      builder.Where(PokemonDb.Species.UniqueId, Operators.IsEqualTo(payload.SpeciesId.Value));
     }
     if (payload.IsDefault.HasValue)
     {

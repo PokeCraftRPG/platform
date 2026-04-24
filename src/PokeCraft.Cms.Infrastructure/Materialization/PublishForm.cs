@@ -177,7 +177,7 @@ internal class PublishFormCommandHandler : ICommandHandler<PublishFormCommand, U
     AbilitySlot.Primary => nameof(FormDefinition.PrimaryAbility),
     AbilitySlot.Secondary => nameof(FormDefinition.SecondaryAbility),
     AbilitySlot.Hidden => nameof(FormDefinition.HiddenAbility),
-    _ => throw new ArgumentOutOfRangeException(nameof(slot)),
+    _ => throw new ArgumentOutOfRangeException(nameof(slot), slot, "The ability slot is not supported."),
   };
 
   private static void SetPrimaryType(FormEntity form, ContentLocale invariant, List<ValidationFailure> errors)
