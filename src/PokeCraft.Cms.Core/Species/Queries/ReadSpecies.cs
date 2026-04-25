@@ -4,7 +4,7 @@ using PokeCraft.Cms.Core.Species.Models;
 
 namespace PokeCraft.Cms.Core.Species.Queries;
 
-internal record ReadSpeciesQuery(Guid? Id, string? Key, int? Number) : IQuery<PokemonSpecies?>;
+internal record ReadSpeciesQuery(Guid? Id, string? Key, int? Number, bool Expand) : IQuery<PokemonSpecies?>;
 
 internal class ReadSpeciesQueryHandler : IQueryHandler<ReadSpeciesQuery, PokemonSpecies?>
 {
@@ -21,7 +21,7 @@ internal class ReadSpeciesQueryHandler : IQueryHandler<ReadSpeciesQuery, Pokemon
 
     if (query.Id.HasValue)
     {
-      PokemonSpecies? item = await _speciesQuerier.ReadAsync(query.Id.Value, cancellationToken);
+      PokemonSpecies? item = await _speciesQuerier.ReadAsync(query.Id.Value, query.Expand, cancellationToken);
       if (item is not null)
       {
         species[item.Id] = item;
@@ -30,7 +30,7 @@ internal class ReadSpeciesQueryHandler : IQueryHandler<ReadSpeciesQuery, Pokemon
 
     if (!string.IsNullOrWhiteSpace(query.Key))
     {
-      PokemonSpecies? item = await _speciesQuerier.ReadAsync(query.Key, cancellationToken);
+      PokemonSpecies? item = await _speciesQuerier.ReadAsync(query.Key, query.Expand, cancellationToken);
       if (item is not null)
       {
         species[item.Id] = item;
@@ -39,7 +39,7 @@ internal class ReadSpeciesQueryHandler : IQueryHandler<ReadSpeciesQuery, Pokemon
 
     if (query.Number.HasValue)
     {
-      PokemonSpecies? item = await _speciesQuerier.ReadAsync(query.Number.Value, cancellationToken);
+      PokemonSpecies? item = await _speciesQuerier.ReadAsync(query.Number.Value, query.Expand, cancellationToken);
       if (item is not null)
       {
         species[item.Id] = item;

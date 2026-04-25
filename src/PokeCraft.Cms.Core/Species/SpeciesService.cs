@@ -8,7 +8,7 @@ namespace PokeCraft.Cms.Core.Species;
 
 public interface ISpeciesService
 {
-  Task<PokemonSpecies?> ReadAsync(Guid? id = null, string? key = null, int? number = null, CancellationToken cancellationToken = default);
+  Task<PokemonSpecies?> ReadAsync(Guid? id = null, string? key = null, int? number = null, bool expand = false, CancellationToken cancellationToken = default);
   Task<SearchResults<PokemonSpecies>> SearchAsync(SearchSpeciesPayload payload, CancellationToken cancellationToken = default);
 }
 
@@ -28,9 +28,9 @@ internal class SpeciesService : ISpeciesService
     _queryBus = queryBus;
   }
 
-  public async Task<PokemonSpecies?> ReadAsync(Guid? id, string? key, int? number, CancellationToken cancellationToken)
+  public async Task<PokemonSpecies?> ReadAsync(Guid? id, string? key, int? number, bool expand, CancellationToken cancellationToken)
   {
-    ReadSpeciesQuery query = new(id, key, number);
+    ReadSpeciesQuery query = new(id, key, number, expand);
     return await _queryBus.ExecuteAsync(query, cancellationToken);
   }
 

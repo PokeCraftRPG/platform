@@ -24,25 +24,34 @@ internal class SpeciesQuerier : ISpeciesQuerier
     _sql = sql;
   }
 
-  public async Task<PokemonSpecies?> ReadAsync(Guid id, CancellationToken cancellationToken)
+  public async Task<PokemonSpecies?> ReadAsync(Guid id, bool expand, CancellationToken cancellationToken)
   {
-    SpeciesEntity? species = await _species.AsNoTracking()
-      .Where(x => x.UniqueId == id && x.IsPublished)
-      .SingleOrDefaultAsync(cancellationToken);
+    IQueryable<SpeciesEntity> query = _species.AsNoTracking().Where(x => x.UniqueId == id && x.IsPublished);
+    if (expand)
+    {
+      query = query.Include(x => x.Varieties).ThenInclude(x => x.Forms).ThenInclude(x => x.Abilities).ThenInclude(x => x.Ability);
+    }
+    SpeciesEntity? species = await query.SingleOrDefaultAsync(cancellationToken);
     return species is null ? null : await MapAsync(species, cancellationToken);
   }
-  public async Task<PokemonSpecies?> ReadAsync(string key, CancellationToken cancellationToken)
+  public async Task<PokemonSpecies?> ReadAsync(string key, bool expand, CancellationToken cancellationToken)
   {
-    SpeciesEntity? species = await _species.AsNoTracking()
-      .Where(x => x.Key == PokemonHelper.Normalize(key) && x.IsPublished)
-      .SingleOrDefaultAsync(cancellationToken);
+    IQueryable<SpeciesEntity> query = _species.AsNoTracking().Where(x => x.Key == PokemonHelper.Normalize(key) && x.IsPublished);
+    if (expand)
+    {
+      query = query.Include(x => x.Varieties).ThenInclude(x => x.Forms).ThenInclude(x => x.Abilities).ThenInclude(x => x.Ability);
+    }
+    SpeciesEntity? species = await query.SingleOrDefaultAsync(cancellationToken);
     return species is null ? null : await MapAsync(species, cancellationToken);
   }
-  public async Task<PokemonSpecies?> ReadAsync(int number, CancellationToken cancellationToken)
+  public async Task<PokemonSpecies?> ReadAsync(int number, bool expand, CancellationToken cancellationToken)
   {
-    SpeciesEntity? species = await _species.AsNoTracking()
-      .Where(x => x.Number == number && x.IsPublished)
-      .SingleOrDefaultAsync(cancellationToken);
+    IQueryable<SpeciesEntity> query = _species.AsNoTracking().Where(x => x.Number == number && x.IsPublished);
+    if (expand)
+    {
+      query = query.Include(x => x.Varieties).ThenInclude(x => x.Forms).ThenInclude(x => x.Abilities).ThenInclude(x => x.Ability);
+    }
+    SpeciesEntity? species = await query.SingleOrDefaultAsync(cancellationToken);
     return species is null ? null : await MapAsync(species, cancellationToken);
   }
 

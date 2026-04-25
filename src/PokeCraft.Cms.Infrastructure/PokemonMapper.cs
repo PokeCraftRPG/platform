@@ -52,10 +52,14 @@ internal class PokemonMapper
       throw new ArgumentException("The variety is required and must be published.", nameof(source));
     }
 
+    return ToForm(source, ToVariety(source.Variety));
+  }
+  public Form ToForm(FormEntity source, Variety variety)
+  {
     Form destination = new()
     {
       Id = source.UniqueId,
-      Variety = ToVariety(source.Variety),
+      Variety = variety,
       IsDefault = source.IsDefault,
       Key = source.Key,
       Name = source.Name,
@@ -153,6 +157,14 @@ internal class PokemonMapper
       SecondaryEggGroup = source.SecondaryEggGroup
     };
 
+    foreach (VarietyEntity variety in source.Varieties)
+    {
+      if (variety.IsPublished)
+      {
+        destination.Varieties.Add(ToVariety(variety, destination));
+      }
+    }
+
     MapAggregate(source, destination);
 
     return destination;
@@ -165,10 +177,14 @@ internal class PokemonMapper
       throw new ArgumentException("The species is required and must be published.", nameof(source));
     }
 
+    return ToVariety(source, ToSpecies(source.Species));
+  }
+  public Variety ToVariety(VarietyEntity source, PokemonSpecies species)
+  {
     Variety destination = new()
     {
       Id = source.UniqueId,
-      Species = ToSpecies(source.Species),
+      Species = species,
       IsDefault = source.IsDefault,
       Key = source.Key,
       Name = source.Name,
@@ -177,6 +193,14 @@ internal class PokemonMapper
       CanChangeForm = source.CanChangeForm,
       GenderRatio = source.GenderRatio
     };
+
+    foreach (FormEntity form in source.Forms)
+    {
+      if (form.IsPublished)
+      {
+        destination.Forms.Add(ToForm(form, destination));
+      }
+    }
 
     MapAggregate(source, destination);
 

@@ -36,12 +36,20 @@ internal class VarietyEntity : Aggregate
   {
   }
 
-  public override IReadOnlyCollection<ActorId> GetActorIds()
+  public override IReadOnlyCollection<ActorId> GetActorIds() => GetActorIds(includeSpecies: true, includeForms: false);
+  public IReadOnlyCollection<ActorId> GetActorIds(bool includeSpecies, bool includeForms)
   {
     HashSet<ActorId> actorIds = new(base.GetActorIds());
-    if (Species is not null)
+    if (includeSpecies && Species is not null)
     {
-      actorIds.AddRange(Species.GetActorIds());
+      actorIds.AddRange(Species.GetActorIds(includeVarieties: false));
+    }
+    if (includeForms)
+    {
+      foreach (FormEntity form in Forms)
+      {
+        actorIds.AddRange(form.GetActorIds(includeVariety: false));
+      }
     }
     return actorIds;
   }
