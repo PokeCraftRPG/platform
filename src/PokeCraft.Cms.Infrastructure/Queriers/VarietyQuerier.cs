@@ -26,15 +26,19 @@ internal class VarietyQuerier : IVarietyQuerier
 
   public async Task<Variety?> ReadAsync(Guid id, CancellationToken cancellationToken)
   {
-    VarietyEntity? variety = await _varieties.AsNoTracking().Include(x => x.Species)
+    VarietyEntity? variety = await _varieties.AsNoTracking()
       .Where(x => x.UniqueId == id && x.IsPublished)
+      .Include(x => x.Moves).ThenInclude(x => x.Move)
+      .Include(x => x.Species)
       .SingleOrDefaultAsync(cancellationToken);
     return variety is null ? null : await MapAsync(variety, cancellationToken);
   }
   public async Task<Variety?> ReadAsync(string key, CancellationToken cancellationToken)
   {
-    VarietyEntity? variety = await _varieties.AsNoTracking().Include(x => x.Species)
+    VarietyEntity? variety = await _varieties.AsNoTracking()
       .Where(x => x.Key == PokemonHelper.Normalize(key) && x.IsPublished)
+      .Include(x => x.Moves).ThenInclude(x => x.Move)
+      .Include(x => x.Species)
       .SingleOrDefaultAsync(cancellationToken);
     return variety is null ? null : await MapAsync(variety, cancellationToken);
   }
@@ -61,6 +65,7 @@ internal class VarietyQuerier : IVarietyQuerier
     }
 
     IQueryable<VarietyEntity> query = _varieties.FromQuery(builder).AsNoTracking()
+      .Include(x => x.Moves).ThenInclude(x => x.Move)
       .Include(x => x.Species);
 
     long total = await query.LongCountAsync(cancellationToken);

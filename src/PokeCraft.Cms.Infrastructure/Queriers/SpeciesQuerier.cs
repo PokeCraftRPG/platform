@@ -29,7 +29,9 @@ internal class SpeciesQuerier : ISpeciesQuerier
     IQueryable<SpeciesEntity> query = _species.AsNoTracking().Where(x => x.UniqueId == id && x.IsPublished);
     if (expand)
     {
-      query = query.Include(x => x.Varieties).ThenInclude(x => x.Forms).ThenInclude(x => x.Abilities).ThenInclude(x => x.Ability);
+      query = query.AsSplitQuery()
+        .Include(x => x.Varieties).ThenInclude(x => x.Forms).ThenInclude(x => x.Abilities).ThenInclude(x => x.Ability)
+        .Include(x => x.Varieties).ThenInclude(x => x.Moves).ThenInclude(x => x.Move);
     }
     SpeciesEntity? species = await query.SingleOrDefaultAsync(cancellationToken);
     return species is null ? null : await MapAsync(species, cancellationToken);
@@ -39,7 +41,9 @@ internal class SpeciesQuerier : ISpeciesQuerier
     IQueryable<SpeciesEntity> query = _species.AsNoTracking().Where(x => x.Key == PokemonHelper.Normalize(key) && x.IsPublished);
     if (expand)
     {
-      query = query.Include(x => x.Varieties).ThenInclude(x => x.Forms).ThenInclude(x => x.Abilities).ThenInclude(x => x.Ability);
+      query = query.AsSplitQuery()
+        .Include(x => x.Varieties).ThenInclude(x => x.Forms).ThenInclude(x => x.Abilities).ThenInclude(x => x.Ability)
+        .Include(x => x.Varieties).ThenInclude(x => x.Moves).ThenInclude(x => x.Move);
     }
     SpeciesEntity? species = await query.SingleOrDefaultAsync(cancellationToken);
     return species is null ? null : await MapAsync(species, cancellationToken);
@@ -49,7 +53,9 @@ internal class SpeciesQuerier : ISpeciesQuerier
     IQueryable<SpeciesEntity> query = _species.AsNoTracking().Where(x => x.Number == number && x.IsPublished);
     if (expand)
     {
-      query = query.Include(x => x.Varieties).ThenInclude(x => x.Forms).ThenInclude(x => x.Abilities).ThenInclude(x => x.Ability);
+      query = query.AsSplitQuery()
+        .Include(x => x.Varieties).ThenInclude(x => x.Forms).ThenInclude(x => x.Abilities).ThenInclude(x => x.Ability)
+        .Include(x => x.Varieties).ThenInclude(x => x.Moves).ThenInclude(x => x.Move);
     }
     SpeciesEntity? species = await query.SingleOrDefaultAsync(cancellationToken);
     return species is null ? null : await MapAsync(species, cancellationToken);
