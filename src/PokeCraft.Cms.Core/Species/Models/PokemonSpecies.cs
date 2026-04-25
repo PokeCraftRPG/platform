@@ -1,4 +1,5 @@
 ﻿using Krakenar.Contracts;
+using PokeCraft.Cms.Core.Varieties.Models;
 
 namespace PokeCraft.Cms.Core.Species.Models;
 
@@ -18,6 +19,8 @@ public class PokemonSpecies : Aggregate
   public byte EggCycles { get; set; }
   public EggGroup PrimaryEggGroup { get; set; }
   public EggGroup? SecondaryEggGroup { get; set; }
+
+  public List<Variety> Varieties { get; set; } = [];
 
   public override string ToString() => $"{Name ?? Key} | {base.ToString()}";
 }

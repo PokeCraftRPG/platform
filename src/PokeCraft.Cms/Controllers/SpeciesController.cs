@@ -18,23 +18,23 @@ public class SpeciesController : ControllerBase
   }
 
   [HttpGet("{id}")]
-  public async Task<ActionResult<PokemonSpecies>> ReadAsync(Guid id, CancellationToken cancellationToken)
+  public async Task<ActionResult<PokemonSpecies>> ReadAsync(Guid id, bool expand, CancellationToken cancellationToken)
   {
-    PokemonSpecies? species = await _speciesService.ReadAsync(id, key: null, number: null, cancellationToken);
+    PokemonSpecies? species = await _speciesService.ReadAsync(id, key: null, number: null, expand, cancellationToken);
     return species is null ? NotFound() : Ok(species);
   }
 
   [HttpGet("key:{key}")]
-  public async Task<ActionResult<PokemonSpecies>> ReadAsync(string key, CancellationToken cancellationToken)
+  public async Task<ActionResult<PokemonSpecies>> ReadAsync(string key, bool expand, CancellationToken cancellationToken)
   {
-    PokemonSpecies? species = await _speciesService.ReadAsync(id: null, key, number: null, cancellationToken);
+    PokemonSpecies? species = await _speciesService.ReadAsync(id: null, key, number: null, expand, cancellationToken);
     return species is null ? NotFound() : Ok(species);
   }
 
   [HttpGet("number:{number}")]
-  public async Task<ActionResult<PokemonSpecies>> ReadAsync(int number, CancellationToken cancellationToken)
+  public async Task<ActionResult<PokemonSpecies>> ReadAsync(int number, bool expand, CancellationToken cancellationToken)
   {
-    PokemonSpecies? species = await _speciesService.ReadAsync(id: null, key: null, number, cancellationToken);
+    PokemonSpecies? species = await _speciesService.ReadAsync(id: null, key: null, number, expand, cancellationToken);
     return species is null ? NotFound() : Ok(species);
   }
 

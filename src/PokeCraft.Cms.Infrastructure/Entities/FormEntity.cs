@@ -58,12 +58,13 @@ internal class FormEntity : Aggregate
   {
   }
 
-  public override IReadOnlyCollection<ActorId> GetActorIds()
+  public override IReadOnlyCollection<ActorId> GetActorIds() => GetActorIds(includeVariety: true);
+  public IReadOnlyCollection<ActorId> GetActorIds(bool includeVariety)
   {
     HashSet<ActorId> actorIds = new(base.GetActorIds());
-    if (Variety is not null)
+    if (includeVariety && Variety is not null)
     {
-      actorIds.AddRange(Variety.GetActorIds());
+      actorIds.AddRange(Variety.GetActorIds(includeSpecies: true, includeForms: false));
     }
     foreach (FormAbilityEntity entity in Abilities)
     {
