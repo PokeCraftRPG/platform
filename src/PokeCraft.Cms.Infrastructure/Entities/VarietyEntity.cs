@@ -26,6 +26,7 @@ internal class VarietyEntity : Aggregate
   public byte? GenderRatio { get; set; }
 
   public List<FormEntity> Forms { get; private set; } = [];
+  public List<VarietyMoveEntity> Moves { get; private set; } = [];
 
   public VarietyEntity(ContentLocalePublished @event) : base(@event)
   {
@@ -49,6 +50,13 @@ internal class VarietyEntity : Aggregate
       foreach (FormEntity form in Forms)
       {
         actorIds.AddRange(form.GetActorIds(includeVariety: false));
+      }
+    }
+    foreach (VarietyMoveEntity entity in Moves)
+    {
+      if (entity.Move is not null)
+      {
+        actorIds.AddRange(entity.Move.GetActorIds());
       }
     }
     return actorIds;

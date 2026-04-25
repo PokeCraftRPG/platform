@@ -32,14 +32,16 @@ internal class PublishFormCommandHandler : ICommandHandler<PublishFormCommand, U
     ContentLocale locale = command.Locale;
 
     string streamId = @event.StreamId.Value;
-    FormEntity? form = await _pokemon.Forms.Include(x => x.Abilities).ThenInclude(x => x.Ability).SingleOrDefaultAsync(x => x.StreamId == streamId, cancellationToken);
+    FormEntity? form = await _pokemon.Forms
+      .Include(x => x.Abilities).ThenInclude(x => x.Ability)
+      .SingleOrDefaultAsync(x => x.StreamId == streamId, cancellationToken);
     if (form is null)
     {
       form = new FormEntity(command.Event);
       _pokemon.Forms.Add(form);
     }
 
-    List<ValidationFailure> errors = new(capacity: 3);
+    List<ValidationFailure> errors = [];
 
     await SetVarietyAsync(form, invariant, errors, cancellationToken);
     form.IsDefault = invariant.GetBoolean(FormDefinition.IsDefault);
