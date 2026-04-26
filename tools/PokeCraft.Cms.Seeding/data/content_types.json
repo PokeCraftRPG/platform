@@ -237,6 +237,18 @@
         "Placeholder": null
       },
       {
+        "Id": "36d8670d-f158-4e02-a712-d9bfd234759a",
+        "FieldType": "VarietyMoves",
+        "IsInvariant": true,
+        "IsRequired": false,
+        "IsIndexed": false,
+        "IsUnique": false,
+        "UniqueName": "Moves",
+        "DisplayName": "Moves",
+        "Description": null,
+        "Placeholder": null
+      },
+      {
         "Id": "0ebc92e1-0d9b-4f5f-b9ae-91d30626a236",
         "FieldType": "Genus",
         "IsInvariant": false,

@@ -202,6 +202,23 @@ internal class PokemonMapper
       }
     }
 
+    foreach (VarietyMoveEntity entity in source.Moves)
+    {
+      if (entity.Move is null)
+      {
+        throw new ArgumentException($"The move 'MoveId={entity.MoveId}' is required.", nameof(source));
+      }
+      else if (entity.Move.IsPublished)
+      {
+        destination.Moves.Add(new VarietyMove
+        {
+          Move = ToMove(entity.Move),
+          Method = entity.Method,
+          Level = entity.Level
+        });
+      }
+    }
+
     MapAggregate(source, destination);
 
     return destination;

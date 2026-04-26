@@ -19,5 +19,7 @@ public class Variety : Aggregate
   public bool CanChangeForm { get; set; }
   public List<Form> Forms { get; set; } = [];
 
+  public List<VarietyMove> Moves { get; set; } = [];
+
   public override string ToString() => $"{Name ?? Key} | {base.ToString()}";
 }

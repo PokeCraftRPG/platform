@@ -419,6 +419,17 @@
     }
   },
   {
+    "Id": "57aaf864-a466-4e8e-bf43-602ddd5a948f",
+    "UniqueName": "VarietyMoves",
+    "DisplayName": null,
+    "Description": null,
+    "RichText": {
+      "ContentType": "text/plain",
+      "MinimumLength": null,
+      "MaximumLength": null
+    }
+  },
+  {
     "Id": "1c65e666-c96a-4e82-a7e8-bf9a3d6dcc33",
     "UniqueName": "Weight",
     "DisplayName": null,

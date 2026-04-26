@@ -24,6 +24,8 @@ internal class MoveEntity : Aggregate
   public byte? Power { get; set; }
   public byte PowerPoints { get; set; }
 
+  public List<VarietyMoveEntity> Varieties { get; private set; } = [];
+
   public MoveEntity(ContentLocalePublished @event) : base(@event)
   {
     UniqueId = new ContentId(@event.StreamId).EntityId;

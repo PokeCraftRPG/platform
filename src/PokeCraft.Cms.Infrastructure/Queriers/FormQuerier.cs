@@ -26,15 +26,21 @@ internal class FormQuerier : IFormQuerier
 
   public async Task<Form?> ReadAsync(Guid id, CancellationToken cancellationToken)
   {
-    FormEntity? form = await _forms.AsNoTracking().Include(x => x.Variety!).ThenInclude(x => x.Species)
+    FormEntity? form = await _forms.AsNoTracking().AsSplitQuery()
       .Where(x => x.UniqueId == id && x.IsPublished)
+      .Include(x => x.Abilities).ThenInclude(x => x.Ability)
+      .Include(x => x.Variety).ThenInclude(x => x!.Moves).ThenInclude(x => x.Move)
+      .Include(x => x.Variety).ThenInclude(x => x!.Species)
       .SingleOrDefaultAsync(cancellationToken);
     return form is null ? null : await MapAsync(form, cancellationToken);
   }
   public async Task<Form?> ReadAsync(string key, CancellationToken cancellationToken)
   {
-    FormEntity? form = await _forms.AsNoTracking().Include(x => x.Variety!).ThenInclude(x => x.Species)
+    FormEntity? form = await _forms.AsNoTracking().AsSplitQuery()
       .Where(x => x.Key == PokemonHelper.Normalize(key) && x.IsPublished)
+      .Include(x => x.Abilities).ThenInclude(x => x.Ability)
+      .Include(x => x.Variety).ThenInclude(x => x!.Moves).ThenInclude(x => x.Move)
+      .Include(x => x.Variety).ThenInclude(x => x!.Species)
       .SingleOrDefaultAsync(cancellationToken);
     return form is null ? null : await MapAsync(form, cancellationToken);
   }
@@ -76,8 +82,9 @@ internal class FormQuerier : IFormQuerier
         new OperatorCondition(PokemonDb.Forms.SecondaryType, Operators.IsEqualTo(payload.Type.Value.ToString())));
     }
 
-    IQueryable<FormEntity> query = _forms.FromQuery(builder).AsNoTracking()
+    IQueryable<FormEntity> query = _forms.FromQuery(builder).AsNoTracking().AsSplitQuery()
       .Include(x => x.Abilities).ThenInclude(x => x.Ability)
+      .Include(x => x.Variety).ThenInclude(x => x!.Moves).ThenInclude(x => x.Move)
       .Include(x => x.Variety).ThenInclude(x => x!.Species);
 
     long total = await query.LongCountAsync(cancellationToken);
