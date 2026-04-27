@@ -1,14 +1,12 @@
-namespace PokeCraft.Cms.Infrastructure.Contents;
+﻿namespace PokeCraft.Cms.Infrastructure.Contents;
 
 public static class FormDefinition
 {
   public static readonly Guid ContentTypeId = Guid.Parse("b61d8fbb-bff3-4ad5-965d-a36814d4c8fb");
 
   public static readonly Guid Variety = Guid.Parse("bd777234-e019-4ec2-9b66-e785fe398050");
-  public static readonly Guid IsDefault = Guid.Parse("4b2b9df5-0c40-429f-91d4-bcfa996974cc");
+  public static readonly Guid Kind = Guid.Parse("41979ad2-ca01-4903-bd27-f05c1b60e845");
   public static readonly Guid HasGenderDifferences = Guid.Parse("2e96673e-9038-4785-acf2-f1a1bb488a52");
-  public static readonly Guid IsBattleOnly = Guid.Parse("f5229432-cf9f-4296-b3f7-68ee7f39c164");
-  public static readonly Guid IsMega = Guid.Parse("f609ed98-64c6-45b2-9279-255b915d9c27");
   public static readonly Guid Height = Guid.Parse("4bf2827d-7cf5-4985-8f8d-e9a83033a646");
   public static readonly Guid Weight = Guid.Parse("3af82ed8-a379-4a39-8078-494e3aed4a28");
   public static readonly Guid PrimaryType = Guid.Parse("cb9e35f6-7c88-495a-8883-cf2ab8151513");

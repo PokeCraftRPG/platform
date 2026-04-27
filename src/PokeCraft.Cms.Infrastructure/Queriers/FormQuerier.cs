@@ -59,21 +59,13 @@ internal class FormQuerier : IFormQuerier
       OperatorCondition condition = new(PokemonDb.Varieties.UniqueId, Operators.IsEqualTo(payload.VarietyId.Value));
       builder.Join(PokemonDb.Varieties.VarietyId, PokemonDb.Forms.VarietyId, condition);
     }
-    if (payload.IsDefault.HasValue)
+    if (payload.Kind.HasValue)
     {
-      builder.Where(PokemonDb.Forms.IsDefault, Operators.IsEqualTo(payload.IsDefault.Value));
+      builder.Where(PokemonDb.Forms.Kind, Operators.IsEqualTo(payload.Kind.Value.ToString()));
     }
     if (payload.HasGenderDifferences.HasValue)
     {
       builder.Where(PokemonDb.Forms.HasGenderDifferences, Operators.IsEqualTo(payload.HasGenderDifferences.Value));
-    }
-    if (payload.IsBattleOnly.HasValue)
-    {
-      builder.Where(PokemonDb.Forms.IsBattleOnly, Operators.IsEqualTo(payload.IsBattleOnly.Value));
-    }
-    if (payload.IsMega.HasValue)
-    {
-      builder.Where(PokemonDb.Forms.IsMega, Operators.IsEqualTo(payload.IsMega.Value));
     }
     if (payload.Type.HasValue)
     {

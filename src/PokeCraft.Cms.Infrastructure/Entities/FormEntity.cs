@@ -4,6 +4,7 @@ using Krakenar.EntityFrameworkCore.Relational.Entities;
 using Logitar;
 using Logitar.EventSourcing;
 using PokeCraft.Cms.Core;
+using PokeCraft.Cms.Core.Forms;
 
 namespace PokeCraft.Cms.Infrastructure.Entities;
 
@@ -16,15 +17,13 @@ internal class FormEntity : Aggregate
 
   public VarietyEntity? Variety { get; private set; }
   public int VarietyId { get; private set; }
-  public bool IsDefault { get; set; }
+  public FormKind Kind { get; set; }
 
   public string Key { get; set; } = string.Empty;
   public string? Name { get; set; }
   public string? Description { get; set; }
 
   public bool HasGenderDifferences { get; set; }
-  public bool IsBattleOnly { get; set; }
-  public bool IsMega { get; set; }
 
   public int Height { get; set; }
   public int Weight { get; set; }
