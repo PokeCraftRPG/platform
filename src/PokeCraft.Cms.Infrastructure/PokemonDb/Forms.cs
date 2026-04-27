@@ -24,11 +24,9 @@ internal static class Forms
   public static readonly ColumnId FormId = new(nameof(FormEntity.FormId), Table);
   public static readonly ColumnId HasGenderDifferences = new(nameof(FormEntity.HasGenderDifferences), Table);
   public static readonly ColumnId Height = new(nameof(FormEntity.Height), Table);
-  public static readonly ColumnId IsBattleOnly = new(nameof(FormEntity.IsBattleOnly), Table);
-  public static readonly ColumnId IsDefault = new(nameof(FormEntity.IsDefault), Table);
-  public static readonly ColumnId IsMega = new(nameof(FormEntity.IsMega), Table);
   public static readonly ColumnId IsPublished = new(nameof(FormEntity.IsPublished), Table);
   public static readonly ColumnId Key = new(nameof(FormEntity.Key), Table);
+  public static readonly ColumnId Kind = new(nameof(FormEntity.Kind), Table);
   public static readonly ColumnId Name = new(nameof(FormEntity.Name), Table);
   public static readonly ColumnId PrimaryType = new(nameof(FormEntity.PrimaryType), Table);
   public static readonly ColumnId SecondaryType = new(nameof(FormEntity.SecondaryType), Table);

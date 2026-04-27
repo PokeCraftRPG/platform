@@ -28,7 +28,7 @@ services:
       context: .
       dockerfile: /src/PokeCraft.Cms/Dockerfile
     image: pokecraft_cms
-    container_name: PokeCraft_cms
+    container_name: PokeCraft.Cms
     depends_on:
       - pokecraft_cms_mongo
       - pokecraft_cms_postgres

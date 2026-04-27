@@ -11,8 +11,8 @@ using PokeCraft.Cms.Infrastructure;
 namespace PokeCraft.Cms.PostgreSQL.Migrations
 {
     [DbContext(typeof(PokemonContext))]
-    [Migration("20260425200546_AddVarietyMoveTable")]
-    partial class AddVarietyMoveTable
+    [Migration("20260427020908_InitialMigration")]
+    partial class InitialMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -164,15 +164,6 @@ namespace PokeCraft.Cms.PostgreSQL.Migrations
                     b.Property<int>("Height")
                         .HasColumnType("integer");
 
-                    b.Property<bool>("IsBattleOnly")
-                        .HasColumnType("boolean");
-
-                    b.Property<bool>("IsDefault")
-                        .HasColumnType("boolean");
-
-                    b.Property<bool>("IsMega")
-                        .HasColumnType("boolean");
-
                     b.Property<bool>("IsPublished")
                         .HasColumnType("boolean");
 
@@ -180,6 +171,11 @@ namespace PokeCraft.Cms.PostgreSQL.Migrations
                         .IsRequired()
                         .HasMaxLength(255)
                         .HasColumnType("character varying(255)");
+
+                    b.Property<string>("Kind")
+                        .IsRequired()
+                        .HasMaxLength(16)
+                        .HasColumnType("character varying(16)");
 
                     b.Property<string>("Name")
                         .HasMaxLength(255)
@@ -249,16 +245,12 @@ namespace PokeCraft.Cms.PostgreSQL.Migrations
 
                     b.HasIndex("Height");
 
-                    b.HasIndex("IsBattleOnly");
-
-                    b.HasIndex("IsDefault");
-
-                    b.HasIndex("IsMega");
-
                     b.HasIndex("IsPublished");
 
                     b.HasIndex("Key")
                         .IsUnique();
+
+                    b.HasIndex("Kind");
 
                     b.HasIndex("Name");
 

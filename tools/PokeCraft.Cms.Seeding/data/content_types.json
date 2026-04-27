@@ -282,16 +282,16 @@
         "Placeholder": "Select a Pokémon variety"
       },
       {
-        "Id": "4b2b9df5-0c40-429f-91d4-bcfa996974cc",
-        "FieldType": "Boolean",
+        "Id": "41979ad2-ca01-4903-bd27-f05c1b60e845",
+        "FieldType": "FormKind",
         "IsInvariant": true,
-        "IsRequired": false,
+        "IsRequired": true,
         "IsIndexed": false,
         "IsUnique": false,
-        "UniqueName": "IsDefault",
-        "DisplayName": "Is Default?",
+        "UniqueName": "Kind",
+        "DisplayName": "Kind",
         "Description": null,
-        "Placeholder": null
+        "Placeholder": "Select a form kind"
       },
       {
         "Id": "2e96673e-9038-4785-acf2-f1a1bb488a52",
@@ -302,30 +302,6 @@
         "IsUnique": false,
         "UniqueName": "HasGenderDifferences",
         "DisplayName": "Has Gender Differences?",
-        "Description": null,
-        "Placeholder": null
-      },
-      {
-        "Id": "f5229432-cf9f-4296-b3f7-68ee7f39c164",
-        "FieldType": "Boolean",
-        "IsInvariant": true,
-        "IsRequired": false,
-        "IsIndexed": false,
-        "IsUnique": false,
-        "UniqueName": "IsBattleOnly",
-        "DisplayName": "Is Battle Only?",
-        "Description": null,
-        "Placeholder": null
-      },
-      {
-        "Id": "f609ed98-64c6-45b2-9279-255b915d9c27",
-        "FieldType": "Boolean",
-        "IsInvariant": true,
-        "IsRequired": false,
-        "IsIndexed": false,
-        "IsUnique": false,
-        "UniqueName": "IsMega",
-        "DisplayName": "Is Mega?",
         "Description": null,
         "Placeholder": null
       },

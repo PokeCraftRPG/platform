@@ -7,6 +7,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using PokeCraft.Cms.Core;
 using PokeCraft.Cms.Core.Abilities;
+using PokeCraft.Cms.Core.Forms;
 using PokeCraft.Cms.Infrastructure.Contents;
 using PokeCraft.Cms.Infrastructure.Entities;
 
@@ -44,15 +45,13 @@ internal class PublishFormCommandHandler : ICommandHandler<PublishFormCommand, U
     List<ValidationFailure> errors = [];
 
     await SetVarietyAsync(form, invariant, errors, cancellationToken);
-    form.IsDefault = invariant.GetBoolean(FormDefinition.IsDefault);
+    SetKind(form, invariant, errors);
 
     form.Key = PokemonHelper.Normalize(locale.UniqueName.Value);
     form.Name = locale.DisplayName?.Value;
     form.Description = locale.Description?.Value;
 
     form.HasGenderDifferences = invariant.GetBoolean(FormDefinition.HasGenderDifferences);
-    form.IsBattleOnly = invariant.GetBoolean(FormDefinition.IsBattleOnly);
-    form.IsMega = invariant.GetBoolean(FormDefinition.IsMega);
 
     form.Height = (int)invariant.GetNumber(FormDefinition.Height);
     form.Weight = (int)invariant.GetNumber(FormDefinition.Weight);
@@ -181,6 +180,33 @@ internal class PublishFormCommandHandler : ICommandHandler<PublishFormCommand, U
     AbilitySlot.Hidden => nameof(FormDefinition.HiddenAbility),
     _ => throw new ArgumentOutOfRangeException(nameof(slot), slot, "The ability slot is not supported."),
   };
+
+  private static void SetKind(FormEntity form, ContentLocale invariant, List<ValidationFailure> errors)
+  {
+    IReadOnlyCollection<string> values = invariant.GetSelect(FormDefinition.Kind);
+    if (values.Count == 1)
+    {
+      string value = values.Single();
+      if (Enum.TryParse(value, out FormKind kind) && Enum.IsDefined(kind))
+      {
+        form.Kind = kind;
+      }
+      else
+      {
+        errors.Add(new ValidationFailure(nameof(FormDefinition.PrimaryType), $"'{{PropertyName}}' must be parseable as a {nameof(FormKind)}.", value)
+        {
+          ErrorCode = ErrorCodes.InvalidEnumValue
+        });
+      }
+    }
+    else
+    {
+      errors.Add(new ValidationFailure(nameof(FormDefinition.PrimaryType), "'{PropertyName}' must contain exactly one element.", values)
+      {
+        ErrorCode = values.Count < 1 ? ErrorCodes.EmptyValue : ErrorCodes.TooManyValues
+      });
+    }
+  }
 
   private static void SetPrimaryType(FormEntity form, ContentLocale invariant, List<ValidationFailure> errors)
   {

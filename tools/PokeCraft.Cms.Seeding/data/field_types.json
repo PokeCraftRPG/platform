@@ -132,6 +132,33 @@
     }
   },
   {
+    "Id": "c015917d-54d4-4c92-b43a-d00510a0e2d6",
+    "UniqueName": "FormKind",
+    "DisplayName": null,
+    "Description": null,
+    "Select": {
+      "IsMultiple": false,
+      "Options": [
+        {
+          "Text": "Default",
+          "Value": "Default"
+        },
+        {
+          "Text": "Alternative",
+          "Value": "Alternative"
+        },
+        {
+          "Text": "Battle Only",
+          "Value": "BattleOnly"
+        },
+        {
+          "Text": "Mega",
+          "Value": "Mega"
+        }
+      ]
+    }
+  },
+  {
     "Id": "256d791a-8063-447c-a310-d15a201c87e6",
     "UniqueName": "Friendship",
     "DisplayName": null,

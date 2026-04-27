@@ -60,13 +60,11 @@ internal class PokemonMapper
     {
       Id = source.UniqueId,
       Variety = variety,
-      IsDefault = source.IsDefault,
+      Kind = source.Kind,
       Key = source.Key,
       Name = source.Name,
       Description = source.Description,
       HasGenderDifferences = source.HasGenderDifferences,
-      IsBattleOnly = source.IsBattleOnly,
-      IsMega = source.IsMega,
       Height = source.Height,
       Weight = source.Weight
     };

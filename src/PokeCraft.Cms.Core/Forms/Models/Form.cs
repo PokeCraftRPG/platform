@@ -6,15 +6,13 @@ namespace PokeCraft.Cms.Core.Forms.Models;
 public class Form : Aggregate
 {
   public Variety Variety { get; set; } = new();
-  public bool IsDefault { get; set; }
+  public FormKind Kind { get; set; }
 
   public string Key { get; set; } = string.Empty;
   public string? Name { get; set; }
   public string? Description { get; set; }
 
   public bool HasGenderDifferences { get; set; }
-  public bool IsBattleOnly { get; set; }
-  public bool IsMega { get; set; }
 
   public int Height { get; set; }
   public int Weight { get; set; }
