@@ -3,6 +3,6 @@
 public enum LearningMethod
 {
   Level = 0,
-  Evolution,
-  Reminder
+  Evolution = 1,
+  Reminder = 2
 }

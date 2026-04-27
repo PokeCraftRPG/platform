@@ -15,7 +15,7 @@ internal class SpeciesEntity : Aggregate
   public bool IsPublished { get; private set; }
 
   public int Number { get; set; }
-  public PokemonCategory Category { get; set; }
+  public SpeciesCategory Category { get; set; }
 
   public string Key { get; set; } = string.Empty;
   public string? Name { get; set; }
