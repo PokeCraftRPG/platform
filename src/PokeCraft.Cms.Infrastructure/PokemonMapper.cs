@@ -152,10 +152,10 @@ internal class PokemonMapper
       BaseFriendship = source.BaseFriendship,
       CatchRate = source.CatchRate,
       GrowthRate = source.GrowthRate,
-      EggCycles = source.EggCycles,
-      PrimaryEggGroup = source.PrimaryEggGroup,
-      SecondaryEggGroup = source.SecondaryEggGroup
+      EggCycles = source.EggCycles
     };
+    destination.EggGroups.Primary = source.PrimaryEggGroup;
+    destination.EggGroups.Secondary = source.SecondaryEggGroup;
 
     foreach (VarietyEntity variety in source.Varieties)
     {

@@ -97,7 +97,7 @@
       },
       {
         "Id": "250d218d-bfae-4b6d-bf6c-cb0005ace6b7",
-        "FieldType": "PokemonCategory",
+        "FieldType": "SpeciesCategory",
         "IsInvariant": true,
         "IsRequired": true,
         "IsIndexed": false,

@@ -278,33 +278,6 @@
     }
   },
   {
-    "Id": "f2982ae5-ad43-4f94-965b-3bb070511141",
-    "UniqueName": "PokemonCategory",
-    "DisplayName": null,
-    "Description": null,
-    "Select": {
-      "IsMultiple": false,
-      "Options": [
-        {
-          "Text": "Standard",
-          "Value": "Standard"
-        },
-        {
-          "Text": "Baby",
-          "Value": "Baby"
-        },
-        {
-          "Text": "Legendary",
-          "Value": "Legendary"
-        },
-        {
-          "Text": "Mythical",
-          "Value": "Mythical"
-        }
-      ]
-    }
-  },
-  {
     "Id": "d7f5ca0e-d122-47c0-bb4d-61469c872c91",
     "UniqueName": "PokemonType",
     "DisplayName": null,
@@ -395,6 +368,33 @@
     "RelatedContent": {
       "ContentTypeId": "6fe55c8c-ed01-44f1-ba6f-240477cc4bc7",
       "IsMultiple": false
+    }
+  },
+  {
+    "Id": "f2982ae5-ad43-4f94-965b-3bb070511141",
+    "UniqueName": "SpeciesCategory",
+    "DisplayName": null,
+    "Description": null,
+    "Select": {
+      "IsMultiple": false,
+      "Options": [
+        {
+          "Text": "Standard",
+          "Value": "Standard"
+        },
+        {
+          "Text": "Baby",
+          "Value": "Baby"
+        },
+        {
+          "Text": "Legendary",
+          "Value": "Legendary"
+        },
+        {
+          "Text": "Mythical",
+          "Value": "Mythical"
+        }
+      ]
     }
   },
   {

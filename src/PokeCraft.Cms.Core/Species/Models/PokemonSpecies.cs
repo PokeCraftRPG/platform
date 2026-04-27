@@ -17,8 +17,7 @@ public class PokemonSpecies : Aggregate
   public GrowthRate GrowthRate { get; set; }
 
   public byte EggCycles { get; set; }
-  public EggGroup PrimaryEggGroup { get; set; }
-  public EggGroup? SecondaryEggGroup { get; set; }
+  public EggGroups EggGroups { get; set; } = new();
 
   public List<Variety> Varieties { get; set; } = [];
 
