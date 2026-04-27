@@ -75,13 +75,13 @@ internal class PublishSpeciesCommandHandler : ICommandHandler<PublishSpeciesComm
     if (values.Count == 1)
     {
       string value = values.Single();
-      if (Enum.TryParse(value, out PokemonCategory category) && Enum.IsDefined(category))
+      if (Enum.TryParse(value, out SpeciesCategory category) && Enum.IsDefined(category))
       {
         species.Category = category;
       }
       else
       {
-        errors.Add(new ValidationFailure(nameof(SpeciesDefinition.Category), $"'{{PropertyName}}' must be parseable as a {nameof(PokemonCategory)}.", value)
+        errors.Add(new ValidationFailure(nameof(SpeciesDefinition.Category), $"'{{PropertyName}}' must be parseable as a {nameof(SpeciesCategory)}.", value)
         {
           ErrorCode = ErrorCodes.InvalidEnumValue
         });

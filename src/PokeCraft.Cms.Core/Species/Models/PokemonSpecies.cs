@@ -6,7 +6,7 @@ namespace PokeCraft.Cms.Core.Species.Models;
 public class PokemonSpecies : Aggregate
 {
   public int Number { get; set; }
-  public PokemonCategory Category { get; set; }
+  public SpeciesCategory Category { get; set; }
 
   public string Key { get; set; } = string.Empty;
   public string? Name { get; set; }
@@ -17,8 +17,7 @@ public class PokemonSpecies : Aggregate
   public GrowthRate GrowthRate { get; set; }
 
   public byte EggCycles { get; set; }
-  public EggGroup PrimaryEggGroup { get; set; }
-  public EggGroup? SecondaryEggGroup { get; set; }
+  public EggGroups EggGroups { get; set; } = new();
 
   public List<Variety> Varieties { get; set; } = [];
 

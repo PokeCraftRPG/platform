@@ -9,7 +9,7 @@ namespace PokeCraft.Cms.Models.Species;
 public record SearchSpeciesParameters : SearchParameters
 {
   [FromQuery(Name = "category")]
-  public PokemonCategory? Category { get; set; }
+  public SpeciesCategory? Category { get; set; }
 
   [FromQuery(Name = "growth_rate")]
   public GrowthRate? GrowthRate { get; set; }
