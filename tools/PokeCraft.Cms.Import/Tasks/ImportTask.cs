@@ -1,9 +1,9 @@
 ﻿using Logitar;
 using Logitar.CQRS;
 
-namespace PokeCraft.Cms.Compiler.Tasks;
+namespace PokeCraft.Cms.Import.Tasks;
 
-internal abstract class CompilationTask : ICommand
+internal abstract class ImportTask : ICommand
 {
   /// <summary>
   /// Gets or sets the unique identifier of the task.
@@ -37,7 +37,7 @@ internal abstract class CompilationTask : ICommand
   /// </summary>
   public virtual string? Description { get; protected set; }
 
-  protected CompilationTask(string? description = null, string? nameOverride = null, Guid? id = null, DateTime? startedOn = null)
+  protected ImportTask(string? description = null, string? nameOverride = null, Guid? id = null, DateTime? startedOn = null)
   {
     Id = id ?? Guid.NewGuid();
 
@@ -56,7 +56,7 @@ internal abstract class CompilationTask : ICommand
     EndedOn = on ?? DateTime.Now;
   }
 
-  public override bool Equals(object? obj) => obj is CompilationTask task && task.GetType().Equals(GetType()) && task.Id == Id;
+  public override bool Equals(object? obj) => obj is ImportTask task && task.GetType().Equals(GetType()) && task.Id == Id;
   public override int GetHashCode() => HashCode.Combine(GetType(), Id);
   public override string ToString() => $"{Name} (Id={Id})";
 }

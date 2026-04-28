@@ -1,6 +1,6 @@
 ﻿using Logitar;
 
-namespace PokeCraft.Cms.Compiler.Settings;
+namespace PokeCraft.Cms.Import.Settings;
 
 internal record PokeApiSettings
 {

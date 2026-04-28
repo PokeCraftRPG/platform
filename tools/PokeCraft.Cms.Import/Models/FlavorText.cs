@@ -1,4 +1,4 @@
-﻿namespace PokeCraft.Cms.Compiler.Models;
+﻿namespace PokeCraft.Cms.Import.Models;
 
 internal record FlavorText
 {

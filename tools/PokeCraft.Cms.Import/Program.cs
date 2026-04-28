@@ -1,4 +1,4 @@
-﻿namespace PokeCraft.Cms.Compiler;
+﻿namespace PokeCraft.Cms.Import;
 
 internal class Program
 {

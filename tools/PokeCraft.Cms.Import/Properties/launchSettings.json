@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "PokeCraft.Cms.Compiler": {
+    "PokeCraft.Cms.Import": {
       "commandName": "Project",
       "environmentVariables": {
         "DOTNET_ENVIRONMENT": "Development"
