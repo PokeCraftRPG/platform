@@ -213,18 +213,6 @@
         "Placeholder": null
       },
       {
-        "Id": "a0ea206a-7850-484e-aa21-1186e47f176c",
-        "FieldType": "Boolean",
-        "IsInvariant": true,
-        "IsRequired": false,
-        "IsIndexed": false,
-        "IsUnique": false,
-        "UniqueName": "CanChangeForm",
-        "DisplayName": "Can Change Form?",
-        "Description": null,
-        "Placeholder": null
-      },
-      {
         "Id": "272bcb79-3767-4d41-a20f-c07664da1de2",
         "FieldType": "GenderRatio",
         "IsInvariant": true,
@@ -233,6 +221,18 @@
         "IsUnique": false,
         "UniqueName": "GenderRatio",
         "DisplayName": "Gender Ratio",
+        "Description": null,
+        "Placeholder": null
+      },
+      {
+        "Id": "a0ea206a-7850-484e-aa21-1186e47f176c",
+        "FieldType": "Boolean",
+        "IsInvariant": true,
+        "IsRequired": false,
+        "IsIndexed": false,
+        "IsUnique": false,
+        "UniqueName": "CanChangeForm",
+        "DisplayName": "Can Change Form?",
         "Description": null,
         "Placeholder": null
       },

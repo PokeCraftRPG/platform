@@ -22,8 +22,8 @@ internal class VarietyConfiguration : AggregateConfiguration<VarietyEntity>, IEn
     builder.HasIndex(x => x.Key).IsUnique();
     builder.HasIndex(x => x.Name);
     builder.HasIndex(x => x.Genus);
-    builder.HasIndex(x => x.CanChangeForm);
     builder.HasIndex(x => x.GenderRatio);
+    builder.HasIndex(x => x.CanChangeForm);
 
     builder.Property(x => x.Key).HasMaxLength(UniqueName.MaximumLength);
     builder.Property(x => x.Name).HasMaxLength(DisplayName.MaximumLength);

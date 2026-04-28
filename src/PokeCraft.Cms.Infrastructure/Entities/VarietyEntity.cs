@@ -22,8 +22,9 @@ internal class VarietyEntity : Aggregate
   public string? Genus { get; set; }
   public string? Description { get; set; }
 
-  public bool CanChangeForm { get; set; }
   public byte? GenderRatio { get; set; }
+
+  public bool CanChangeForm { get; set; }
 
   public List<FormEntity> Forms { get; private set; } = [];
   public List<VarietyMoveEntity> Moves { get; private set; } = [];
