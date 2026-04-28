@@ -1,40 +1,40 @@
 ﻿using Logitar.CQRS;
-using PokeCraft.Cms.Compiler.Models;
-using PokeCraft.Cms.Compiler.Settings;
+using PokeCraft.Cms.Import.Models;
+using PokeCraft.Cms.Import.Settings;
 using PokeCraft.Cms.Core.Species;
 using PokeCraft.Cms.Infrastructure;
 using PokeCraft.Cms.Infrastructure.Contents;
 using PokeCraft.Cms.Tools;
 using PokeCraft.Cms.Tools.Models;
 
-namespace PokeCraft.Cms.Compiler.Tasks;
+namespace PokeCraft.Cms.Import.Tasks;
 
-internal class CompileSpeciesTask : CompilationTask
+internal class ImportSpeciesTask : ImportTask
 {
-  public override string? Description => "Compiles PokéAPI Species into Krakenar contents.";
+  public override string? Description => "Imports PokéAPI Species into Krakenar contents.";
 
   public string Directory { get; }
 
-  public CompileSpeciesTask(string directory)
+  public ImportSpeciesTask(string directory)
   {
     Directory = directory;
   }
 }
 
-internal class CompileSpeciesTaskHandler : ICommandHandler<CompileSpeciesTask, Unit>
+internal class ImportSpeciesTaskHandler : ICommandHandler<ImportSpeciesTask, Unit>
 {
   private static readonly Encoding _encoding = Encoding.UTF8;
 
-  private readonly ILogger<CompileSpeciesTaskHandler> _logger;
+  private readonly ILogger<ImportSpeciesTaskHandler> _logger;
   private readonly PokeApiSettings _settings;
 
-  public CompileSpeciesTaskHandler(ILogger<CompileSpeciesTaskHandler> logger, PokeApiSettings settings)
+  public ImportSpeciesTaskHandler(ILogger<ImportSpeciesTaskHandler> logger, PokeApiSettings settings)
   {
     _logger = logger;
     _settings = settings;
   }
 
-  public async Task<Unit> HandleAsync(CompileSpeciesTask task, CancellationToken cancellationToken)
+  public async Task<Unit> HandleAsync(ImportSpeciesTask task, CancellationToken cancellationToken)
   {
     Directory.CreateDirectory(task.Directory);
 

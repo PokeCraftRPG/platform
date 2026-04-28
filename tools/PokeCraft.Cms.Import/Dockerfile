@@ -10,19 +10,19 @@ WORKDIR /app
 FROM mcr.microsoft.com/dotnet/sdk:10.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["tools/PokeCraft.Cms.Compiler/PokeCraft.Cms.Compiler.csproj", "tools/PokeCraft.Cms.Compiler/"]
-RUN dotnet restore "./tools/PokeCraft.Cms.Compiler/PokeCraft.Cms.Compiler.csproj"
+COPY ["tools/PokeCraft.Cms.Import/PokeCraft.Cms.Import.csproj", "tools/PokeCraft.Cms.Import/"]
+RUN dotnet restore "./tools/PokeCraft.Cms.Import/PokeCraft.Cms.Import.csproj"
 COPY . .
-WORKDIR "/src/tools/PokeCraft.Cms.Compiler"
-RUN dotnet build "./PokeCraft.Cms.Compiler.csproj" -c $BUILD_CONFIGURATION -o /app/build
+WORKDIR "/src/tools/PokeCraft.Cms.Import"
+RUN dotnet build "./PokeCraft.Cms.Import.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
 # This stage is used to publish the service project to be copied to the final stage
 FROM build AS publish
 ARG BUILD_CONFIGURATION=Release
-RUN dotnet publish "./PokeCraft.Cms.Compiler.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
+RUN dotnet publish "./PokeCraft.Cms.Import.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
 
 # This stage is used in production or when running from VS in regular mode (Default when not using the Debug configuration)
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "PokeCraft.Cms.Compiler.dll"]
+ENTRYPOINT ["dotnet", "PokeCraft.Cms.Import.dll"]

@@ -362,5 +362,5 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-# Compiled data
-tools/PokeCraft.Cms.Compiler/data
+# Import data
+tools/PokeCraft.Cms.Import/data

@@ -1,15 +1,15 @@
 ﻿using Logitar.CQRS;
-using PokeCraft.Cms.Compiler.Tasks;
+using PokeCraft.Cms.Import.Tasks;
 using System.Diagnostics;
 
-namespace PokeCraft.Cms.Compiler;
+namespace PokeCraft.Cms.Import;
 
-internal class CompilationWorker : BackgroundService
+internal class ImportWorker : BackgroundService
 {
   private const string GenericErrorMessage = "An unhanded exception occurred.";
 
   private readonly IHostApplicationLifetime _hostApplicationLifetime;
-  private readonly ILogger<CompilationWorker>? _logger;
+  private readonly ILogger<ImportWorker>? _logger;
   private readonly IServiceProvider _serviceProvider;
 
   private ICommandBus? _commandBus = null;
@@ -17,10 +17,10 @@ internal class CompilationWorker : BackgroundService
 
   private LogLevel _result = LogLevel.Information; // NOTE(fpion): "Information" means success.
 
-  public CompilationWorker(IServiceProvider serviceProvider)
+  public ImportWorker(IServiceProvider serviceProvider)
   {
     _hostApplicationLifetime = serviceProvider.GetRequiredService<IHostApplicationLifetime>();
-    _logger = serviceProvider.GetService<ILogger<CompilationWorker>>();
+    _logger = serviceProvider.GetService<ILogger<ImportWorker>>();
     _serviceProvider = serviceProvider;
   }
 
@@ -35,9 +35,9 @@ internal class CompilationWorker : BackgroundService
     try
     {
       // NOTE(fpion): the order of these tasks matter.
-      await ExecuteAsync(new CompileAbilitiesTask("data/abilities"), cancellationToken);
-      await ExecuteAsync(new CompileMovesTask("data/moves"), cancellationToken);
-      await ExecuteAsync(new CompileSpeciesTask("data/species"), cancellationToken);
+      await ExecuteAsync(new ImportAbilitiesTask("data/abilities"), cancellationToken);
+      await ExecuteAsync(new ImportMovesTask("data/moves"), cancellationToken);
+      await ExecuteAsync(new ImportSpeciesTask("data/species"), cancellationToken);
     }
     catch (Exception exception)
     {
@@ -72,11 +72,11 @@ internal class CompilationWorker : BackgroundService
     }
   }
 
-  private async Task ExecuteAsync(CompilationTask task, CancellationToken cancellationToken)
+  private async Task ExecuteAsync(ImportTask task, CancellationToken cancellationToken)
   {
     await ExecuteAsync(task, continueOnError: false, cancellationToken);
   }
-  private async Task ExecuteAsync(CompilationTask task, bool continueOnError, CancellationToken cancellationToken)
+  private async Task ExecuteAsync(ImportTask task, bool continueOnError, CancellationToken cancellationToken)
   {
     bool hasFailed = false;
     try
