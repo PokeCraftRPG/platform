@@ -37,6 +37,7 @@ internal class CompilationWorker : BackgroundService
       // NOTE(fpion): the order of these tasks matter.
       await ExecuteAsync(new CompileAbilitiesTask("data/abilities"), cancellationToken);
       await ExecuteAsync(new CompileMovesTask("data/moves"), cancellationToken);
+      await ExecuteAsync(new CompileSpeciesTask("data/species"), cancellationToken);
     }
     catch (Exception exception)
     {

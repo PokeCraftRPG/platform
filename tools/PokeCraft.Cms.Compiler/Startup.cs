@@ -21,5 +21,6 @@ internal class Startup
 
     services.AddTransient<ICommandHandler<CompileAbilitiesTask, Unit>, CompileAbilitiesTaskHandler>();
     services.AddTransient<ICommandHandler<CompileMovesTask, Unit>, CompileMovesTaskHandler>();
+    services.AddTransient<ICommandHandler<CompileSpeciesTask, Unit>, CompileSpeciesTaskHandler>();
   }
 }
