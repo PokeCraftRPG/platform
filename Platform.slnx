@@ -10,7 +10,6 @@
     <File Path="README.md" />
   </Folder>
   <Folder Name="/Tools/">
-    <Project Path="tools/PokeCraft.Cms.Import/PokeCraft.Cms.Import.csproj" />
     <Project Path="tools/PokeCraft.Cms.Seeding/PokeCraft.Cms.Seeding.csproj" Id="4cf712b6-b550-4ecb-b2d3-81f114752d9a" />
     <Project Path="tools/PokeCraft.Cms.Tools/PokeCraft.Cms.Tools.csproj" />
   </Folder>
