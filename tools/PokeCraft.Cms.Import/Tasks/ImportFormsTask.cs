@@ -71,7 +71,18 @@ internal class ImportFormsTask
     IReadOnlyDictionary<string, Imported<PokemonSpecies>> importedSpecies,
     IReadOnlyDictionary<string, Imported<Variety>> varieties)
   {
-    string? displayName = form.GetDisplayName(Constants.Language);
+    if (!varieties.TryGetValue(form.Variety.UniqueName, out Imported<Variety>? variety))
+    {
+      _logger.LogWarning("The Pokémon form '{Form}' variety '{Variety}' was not found.", form, form.Variety.UniqueName);
+    }
+
+    Imported<PokemonSpecies>? species = null;
+    if (variety is not null && !importedSpecies.TryGetValue(variety.Entity.Species.UniqueName, out species))
+    {
+      _logger.LogWarning("The Pokémon variety '{Variety}' species '{Species}' was not found.", variety.Entity, variety.Entity.Species.UniqueName);
+    }
+
+    string? displayName = form.GetDisplayName(Constants.Language) ?? species?.Entity.GetDisplayName(Constants.Language);
 
     ContentPayload content = new()
     {
@@ -87,7 +98,7 @@ internal class ImportFormsTask
     };
     content.Locales[Constants.Language] = locale;
 
-    if (varieties.TryGetValue(form.Variety.UniqueName, out Imported<Variety>? variety))
+    if (variety is not null)
     {
       content.Invariant.FieldValues[nameof(FormDefinition.Variety)] = $"[\"{variety.Content.Id}\"]";
 
@@ -172,18 +183,10 @@ internal class ImportFormsTask
         }
       }
 
-      if (importedSpecies.TryGetValue(variety.Entity.Species.UniqueName, out Imported<PokemonSpecies>? species))
+      if (species is not null)
       {
         content.Invariant.FieldValues[nameof(FormDefinition.HasGenderDifferences)] = species.Entity.HasGenderDifferences.ToString();
       }
-      else
-      {
-        _logger.LogWarning("The Pokémon variety '{Variety}' species '{Species}' was not found.", variety.Entity, variety.Entity.Species.UniqueName);
-      }
-    }
-    else
-    {
-      _logger.LogWarning("The Pokémon form '{Form}' variety '{Variety}' was not found.", form, form.Variety.UniqueName);
     }
     content.Invariant.FieldValues[nameof(FormDefinition.Kind)] = $"[\"{GetFormKind(form)}\"]";
 
