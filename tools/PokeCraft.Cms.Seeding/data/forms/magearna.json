@@ -1,0 +1,41 @@
+﻿{
+  "Id": "aa3a5998-0a30-477d-ae7b-1eb7850a6cff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magearna",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7cfb29b5-a0b0-4d57-befe-520cf046d7e8\"]",
+      "Height": "10",
+      "Weight": "805",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"616f9dcd-3a34-46b8-a6e9-b5b709f5e03f\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "0",
+      "BaseDefense": "115",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "130",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "115",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magearna",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

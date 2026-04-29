@@ -1,0 +1,40 @@
+﻿{
+  "Id": "7d87fbbb-5af0-4bf5-8715-fe8542cf99ee",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gimmighoul-chest",
+    "DisplayName": "Chest Form Gimmighoul",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"500a03ce-a069-434c-8679-0726154f0f2f\"]",
+      "Height": "3",
+      "Weight": "50",
+      "YieldExperience": "60",
+      "PrimaryAbility": "[\"9c030956-19a0-4e37-8835-0484c2fa3d91\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "30",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "10",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gimmighoul-chest",
+      "DisplayName": "Chest Form Gimmighoul",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

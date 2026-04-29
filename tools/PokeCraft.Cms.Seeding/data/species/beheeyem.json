@@ -1,0 +1,27 @@
+﻿{
+  "Id": "1196ffe3-5202-4fbc-bf5b-34a3da5d47fe",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "beheeyem",
+    "DisplayName": "Beheeyem",
+    "Description": null,
+    "FieldValues": {
+      "Number": "606",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "beheeyem",
+      "DisplayName": "Beheeyem",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

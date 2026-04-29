@@ -1,0 +1,25 @@
+﻿{
+  "Id": "131e5666-bce1-4112-8994-2bcd84b4a587",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scratch",
+    "DisplayName": "Scratch",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "35"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scratch",
+      "DisplayName": "Scratch",
+      "Description": "Hard, pointed, sharp claws rake the target to inflict damage.",
+      "FieldValues": {}
+    }
+  }
+}

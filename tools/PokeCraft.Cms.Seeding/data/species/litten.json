@@ -1,0 +1,27 @@
+﻿{
+  "Id": "15155788-9c7c-401b-a567-0740c16cb37b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "litten",
+    "DisplayName": "Litten",
+    "Description": null,
+    "FieldValues": {
+      "Number": "725",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "litten",
+      "DisplayName": "Litten",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

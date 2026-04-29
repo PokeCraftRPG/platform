@@ -1,0 +1,25 @@
+﻿{
+  "Id": "080ebfd0-4975-4725-a63b-7697abec9966",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "articuno",
+    "DisplayName": "Articuno",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3aa68f4d-d088-498f-81b4-adb2e7caa2f8\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "articuno",
+      "DisplayName": "Articuno",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Freeze"
+      }
+    }
+  }
+}

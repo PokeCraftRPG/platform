@@ -1,0 +1,26 @@
+﻿{
+  "Id": "83c7dede-3c96-4dc5-b1c7-9fab7b1dd954",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pelipper",
+    "DisplayName": "Pelipper",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5a259f08-4780-427c-bec2-e80ab33fb38f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pelipper",
+      "DisplayName": "Pelipper",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Water Bird"
+      }
+    }
+  }
+}

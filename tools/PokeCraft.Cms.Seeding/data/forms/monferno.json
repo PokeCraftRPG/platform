@@ -1,0 +1,42 @@
+﻿{
+  "Id": "b982adb7-8a90-4f4a-a028-6178869f8e8e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "monferno",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9c6c7af8-ccdd-4789-acc9-f379f1e2e679\"]",
+      "Height": "9",
+      "Weight": "220",
+      "YieldExperience": "142",
+      "PrimaryAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "HiddenAbility": "[\"e3b961ab-87de-40fc-9d8d-95dda45c14df\"]",
+      "BaseHP": "64",
+      "YieldHP": "0",
+      "BaseAttack": "78",
+      "YieldAttack": "0",
+      "BaseDefense": "52",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "78",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "52",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "81",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "monferno",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

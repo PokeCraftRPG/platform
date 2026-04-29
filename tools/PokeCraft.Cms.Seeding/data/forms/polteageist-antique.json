@@ -1,0 +1,41 @@
+﻿{
+  "Id": "c4adaf87-0b18-4c2e-a9c0-83660c5fb4e7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "polteageist-antique",
+    "DisplayName": "Antique Polteageist",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7333e762-805a-4a57-ab13-b8bc1fe2058e\"]",
+      "Height": "2",
+      "Weight": "4",
+      "YieldExperience": "178",
+      "PrimaryAbility": "[\"2b8b8cfa-e12e-43d2-b403-594ac9a1c1f7\"]",
+      "HiddenAbility": "[\"de5aabec-d7d6-43c0-9d1a-575c11318439\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "134",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "114",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Alternative\"]",
+      "PrimaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "polteageist-antique",
+      "DisplayName": "Antique Polteageist",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

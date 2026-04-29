@@ -1,0 +1,25 @@
+﻿{
+  "Id": "2dfeab1a-7bd1-45d9-8037-bcf67a04bbff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fickle-beam",
+    "DisplayName": "Fickle Beam",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fickle-beam",
+      "DisplayName": "Fickle Beam",
+      "Description": "The user shoots a beam of light to inflict damage. Sometimes all the user's heads shoot beams in unison, doubling the move's power.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "f2ab7482-2e52-4c49-9a85-e908d35b50e4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "suicune",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4442eb67-937a-400d-a0d3-e8639cd0fe84\"]",
+      "Height": "20",
+      "Weight": "1870",
+      "YieldExperience": "261",
+      "PrimaryAbility": "[\"04822c52-0ef2-4b5e-a4bb-176772f6c3d8\"]",
+      "HiddenAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "115",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "90",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "115",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "suicune",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

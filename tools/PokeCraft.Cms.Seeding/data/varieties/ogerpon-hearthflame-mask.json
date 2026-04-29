@@ -1,0 +1,26 @@
+﻿{
+  "Id": "fc7dd3aa-65a9-45e2-afa3-beb308c13f90",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ogerpon-hearthflame-mask",
+    "DisplayName": "Ogerpon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f1f69fb1-13d8-497e-a705-3716dd9c72c5\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ogerpon-hearthflame-mask",
+      "DisplayName": "Ogerpon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mask"
+      }
+    }
+  }
+}

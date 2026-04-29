@@ -1,0 +1,27 @@
+﻿{
+  "Id": "683807a0-5636-4668-9d76-4ef8aa004834",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nidoqueen",
+    "DisplayName": "Nidoqueen",
+    "Description": null,
+    "FieldValues": {
+      "Number": "31",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nidoqueen",
+      "DisplayName": "Nidoqueen",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

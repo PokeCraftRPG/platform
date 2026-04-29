@@ -1,0 +1,25 @@
+﻿{
+  "Id": "a81ecd22-84e8-4ac9-9545-d58a00288512",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "horn-leech",
+    "DisplayName": "Horn Leech",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "75",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "horn-leech",
+      "DisplayName": "Horn Leech",
+      "Description": "The user drains the target's energy with its horns. The user's HP is restored by up to half the damage taken by the target.",
+      "FieldValues": {}
+    }
+  }
+}

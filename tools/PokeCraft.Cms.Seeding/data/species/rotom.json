@@ -1,0 +1,27 @@
+﻿{
+  "Id": "a623e9e5-4718-4c59-8522-ba95dbaf6121",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rotom",
+    "DisplayName": "Rotom",
+    "Description": null,
+    "FieldValues": {
+      "Number": "479",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rotom",
+      "DisplayName": "Rotom",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

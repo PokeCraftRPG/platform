@@ -1,0 +1,41 @@
+﻿{
+  "Id": "285c03c9-a92a-4414-912b-6d1dea11b57a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "audino-mega",
+    "DisplayName": "Mega Audino",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"415e4dff-d6be-447d-a069-b7b2aff1c47f\"]",
+      "Height": "15",
+      "Weight": "320",
+      "YieldExperience": "425",
+      "PrimaryAbility": "[\"e28c42cc-a85f-4f82-89b2-e80210d5b4ef\"]",
+      "BaseHP": "103",
+      "YieldHP": "2",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "126",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "126",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "audino-mega",
+      "DisplayName": "Mega Audino",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

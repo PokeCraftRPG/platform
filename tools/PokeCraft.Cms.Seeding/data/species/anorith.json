@@ -1,0 +1,27 @@
+﻿{
+  "Id": "32751f34-0aa7-4cf7-b812-3cce1c17537c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "anorith",
+    "DisplayName": "Anorith",
+    "Description": null,
+    "FieldValues": {
+      "Number": "347",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "anorith",
+      "DisplayName": "Anorith",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

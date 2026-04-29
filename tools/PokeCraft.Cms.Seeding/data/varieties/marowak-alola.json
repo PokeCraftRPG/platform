@@ -1,0 +1,26 @@
+﻿{
+  "Id": "977c5964-0793-4f97-8ca7-b9f493526a41",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "marowak-alola",
+    "DisplayName": "Marowak",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8dfd43c8-3a92-4c84-8304-d86e9eaa38fe\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "marowak-alola",
+      "DisplayName": "Marowak",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bone Keeper"
+      }
+    }
+  }
+}

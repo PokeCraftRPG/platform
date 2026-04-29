@@ -1,0 +1,26 @@
+﻿{
+  "Id": "bec3a91b-8697-4dd8-aa0a-d6f824eef2d9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flapple-gmax",
+    "DisplayName": "Flapple",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7c64eac7-7952-4167-a5f9-8b91a84eb8db\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flapple-gmax",
+      "DisplayName": "Flapple",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Apple Wing"
+      }
+    }
+  }
+}

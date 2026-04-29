@@ -1,0 +1,19 @@
+﻿{
+  "Id": "0315e132-cf16-4bfe-8d13-4db13a321385",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "refrigerate",
+    "DisplayName": "Refrigerate",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "refrigerate",
+      "DisplayName": "Refrigerate",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

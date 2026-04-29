@@ -1,0 +1,28 @@
+﻿{
+  "Id": "32336ccd-c979-4c45-ae4a-9a9499236ee2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "milotic",
+    "DisplayName": "Milotic",
+    "Description": null,
+    "FieldValues": {
+      "Number": "350",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "milotic",
+      "DisplayName": "Milotic",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

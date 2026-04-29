@@ -1,0 +1,26 @@
+﻿{
+  "Id": "968f4d8d-4fc3-4438-8f7d-c4246be706ab",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rattata-alola",
+    "DisplayName": "Rattata",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"848cfc2f-0b3b-4aca-a206-8cce08c98ed8\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rattata-alola",
+      "DisplayName": "Rattata",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mouse"
+      }
+    }
+  }
+}

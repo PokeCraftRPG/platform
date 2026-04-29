@@ -1,0 +1,19 @@
+﻿{
+  "Id": "907d08f0-8502-4646-8ba1-b99310286997",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "teravolt",
+    "DisplayName": "Teravolt",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "teravolt",
+      "DisplayName": "Teravolt",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

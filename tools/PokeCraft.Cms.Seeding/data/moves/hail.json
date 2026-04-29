@@ -1,0 +1,23 @@
+﻿{
+  "Id": "91bae618-d466-44c5-9c59-0aa8461f95e3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hail",
+    "DisplayName": "Hail",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hail",
+      "DisplayName": "Hail",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

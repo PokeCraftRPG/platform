@@ -1,0 +1,43 @@
+﻿{
+  "Id": "3affcb98-a4f2-462b-a39f-3f98566e886c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mareanie",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9dcfe06c-966c-4acf-8568-524f22cc97db\"]",
+      "Height": "4",
+      "Weight": "80",
+      "YieldExperience": "61",
+      "PrimaryAbility": "[\"535acdab-9a3a-45f0-bb67-1889d40c8370\"]",
+      "SecondaryAbility": "[\"170e2598-7fd5-497f-9003-f9d753aadd0d\"]",
+      "HiddenAbility": "[\"3f2976c2-09ac-4c69-8b32-5d930032faba\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "53",
+      "YieldAttack": "0",
+      "BaseDefense": "62",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "43",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "52",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]",
+      "SecondaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mareanie",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

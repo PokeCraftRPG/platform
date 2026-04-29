@@ -1,0 +1,40 @@
+﻿{
+  "Id": "bb483e16-0c3c-419e-b89d-c721a99e6285",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "furfrou-kabuki",
+    "DisplayName": "Kabuki Furfrou",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"65e9d061-4d5b-4016-840d-bd887cd0c20a\"]",
+      "Height": "12",
+      "Weight": "280",
+      "YieldExperience": "165",
+      "PrimaryAbility": "[\"ddf0f168-034f-4d76-8321-9da0318782f2\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "102",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Alternative\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "furfrou-kabuki",
+      "DisplayName": "Kabuki Furfrou",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

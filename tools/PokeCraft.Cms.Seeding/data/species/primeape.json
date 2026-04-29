@@ -1,0 +1,27 @@
+﻿{
+  "Id": "390dce2e-dacc-4ded-815d-460c127f1658",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "primeape",
+    "DisplayName": "Primeape",
+    "Description": null,
+    "FieldValues": {
+      "Number": "57",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "primeape",
+      "DisplayName": "Primeape",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

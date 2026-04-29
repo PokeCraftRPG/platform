@@ -1,0 +1,27 @@
+﻿{
+  "Id": "fb79354c-44b8-47e3-bc4f-3952fa725360",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "azurill",
+    "DisplayName": "Azurill",
+    "Description": null,
+    "FieldValues": {
+      "Number": "298",
+      "Category": "[\"Baby\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "150",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "azurill",
+      "DisplayName": "Azurill",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

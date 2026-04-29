@@ -1,0 +1,25 @@
+﻿{
+  "Id": "60b6620c-78b5-46d3-9aa2-26a0f0320868",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "body-slam",
+    "DisplayName": "Body Slam",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "85",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "body-slam",
+      "DisplayName": "Body Slam",
+      "Description": "The user attacks by dropping onto the target with its full body weight. This may also leave the target with paralysis.",
+      "FieldValues": {}
+    }
+  }
+}

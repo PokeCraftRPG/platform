@@ -1,0 +1,43 @@
+﻿{
+  "Id": "cc5236a3-14f3-4810-8b61-610474974450",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kingambit",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"bc315cb3-9b6e-4f6b-9b39-9a4d6aebaf2e\"]",
+      "Height": "20",
+      "Weight": "1200",
+      "YieldExperience": "275",
+      "PrimaryAbility": "[\"493ac234-5dd4-4767-9e41-8ec4cd322437\"]",
+      "SecondaryAbility": "[\"ec094fee-73dd-4e02-8d74-370bd5aba10b\"]",
+      "HiddenAbility": "[\"04822c52-0ef2-4b5e-a4bb-176772f6c3d8\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "135",
+      "YieldAttack": "3",
+      "BaseDefense": "120",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kingambit",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "042ecbd2-908b-4b5c-be41-33096bc42d1e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swellow",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"8d93fede-d6ca-4ca9-87bf-d9aef3a1e6d5\"]",
+      "Height": "7",
+      "Weight": "198",
+      "YieldExperience": "159",
+      "PrimaryAbility": "[\"1c326e45-7c1a-4f8a-a55c-751b60f62f10\"]",
+      "HiddenAbility": "[\"fa0ae125-7b24-45a0-bf28-4b447dfa5e21\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "125",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swellow",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

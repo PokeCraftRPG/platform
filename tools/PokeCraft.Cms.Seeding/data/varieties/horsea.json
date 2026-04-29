@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d99094c4-da04-4e07-ae8e-84a8396a500b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "horsea",
+    "DisplayName": "Horsea",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"bd3b1290-7c7e-4c8d-a163-5d9071939c7c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "horsea",
+      "DisplayName": "Horsea",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Dragon"
+      }
+    }
+  }
+}

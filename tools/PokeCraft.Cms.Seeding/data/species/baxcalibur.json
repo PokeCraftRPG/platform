@@ -1,0 +1,28 @@
+﻿{
+  "Id": "d13083de-7fc7-4b56-97ac-c2efeca0206e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "baxcalibur",
+    "DisplayName": "Baxcalibur",
+    "Description": null,
+    "FieldValues": {
+      "Number": "998",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "10",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Dragon\"]",
+      "SecondaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "baxcalibur",
+      "DisplayName": "Baxcalibur",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

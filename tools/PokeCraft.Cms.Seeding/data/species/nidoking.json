@@ -1,0 +1,28 @@
+﻿{
+  "Id": "060434dd-22ef-4883-9125-e4368fc8b287",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nidoking",
+    "DisplayName": "Nidoking",
+    "Description": null,
+    "FieldValues": {
+      "Number": "34",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nidoking",
+      "DisplayName": "Nidoking",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

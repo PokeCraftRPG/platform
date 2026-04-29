@@ -1,0 +1,25 @@
+﻿{
+  "Id": "892af60e-17cd-4d32-a252-c3221335cce6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flame-charge",
+    "DisplayName": "Flame Charge",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "50",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flame-charge",
+      "DisplayName": "Flame Charge",
+      "Description": "Cloaking itself in flame, the user attacks the target. Then, building up momentum, the user boosts its Speed stat.",
+      "FieldValues": {}
+    }
+  }
+}

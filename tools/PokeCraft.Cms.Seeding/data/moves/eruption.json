@@ -1,0 +1,25 @@
+﻿{
+  "Id": "48cbe4f8-220f-4b8d-9d5c-37c56962834e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "eruption",
+    "DisplayName": "Eruption",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "150",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "eruption",
+      "DisplayName": "Eruption",
+      "Description": "The user attacks opposing Pokémon with explosive fury. The lower the user's HP, the lower the move's power.",
+      "FieldValues": {}
+    }
+  }
+}

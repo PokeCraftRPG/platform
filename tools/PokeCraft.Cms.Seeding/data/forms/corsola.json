@@ -1,0 +1,43 @@
+﻿{
+  "Id": "97a03d88-0924-41ff-844b-2487b3274869",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "corsola",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3ba2afb9-0ee3-4a49-a37e-515d36fa78f8\"]",
+      "Height": "6",
+      "Weight": "50",
+      "YieldExperience": "144",
+      "PrimaryAbility": "[\"12b608f7-a7b7-412e-803f-28d4eaba64c8\"]",
+      "SecondaryAbility": "[\"aaaf5fa0-672a-4904-8e65-dc6c8ffe01b7\"]",
+      "HiddenAbility": "[\"3f2976c2-09ac-4c69-8b32-5d930032faba\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "corsola",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

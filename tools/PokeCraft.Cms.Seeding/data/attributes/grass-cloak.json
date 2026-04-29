@@ -1,0 +1,19 @@
+﻿{
+  "Id": "277d72af-664a-4a6e-a2b5-8a1e455f1f20",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grass-cloak",
+    "DisplayName": "Grass Cloak",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grass-cloak",
+      "DisplayName": "Grass Cloak",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

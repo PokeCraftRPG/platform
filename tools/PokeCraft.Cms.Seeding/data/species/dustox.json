@@ -1,0 +1,27 @@
+﻿{
+  "Id": "1e48d391-cdf2-4336-833d-e8aa716135f6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dustox",
+    "DisplayName": "Dustox",
+    "Description": null,
+    "FieldValues": {
+      "Number": "269",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dustox",
+      "DisplayName": "Dustox",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

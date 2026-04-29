@@ -1,0 +1,28 @@
+﻿{
+  "Id": "7fd38592-b5f1-4700-9cfb-e684bb2c923d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "quaxwell",
+    "DisplayName": "Quaxwell",
+    "Description": null,
+    "FieldValues": {
+      "Number": "913",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Flying\"]",
+      "SecondaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "quaxwell",
+      "DisplayName": "Quaxwell",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

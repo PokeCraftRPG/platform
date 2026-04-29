@@ -1,0 +1,42 @@
+﻿{
+  "Id": "25d2b221-89dd-42bc-a03d-b442911d9cca",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "klinklang",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9e3719d2-953f-4285-8f5b-c84241e9cfba\"]",
+      "Height": "6",
+      "Weight": "810",
+      "YieldExperience": "234",
+      "PrimaryAbility": "[\"885b9c4a-a988-4730-a7dd-b11c03474e5d\"]",
+      "SecondaryAbility": "[\"1fdf39c7-0d56-4eaf-9c4c-b9fe5a938d0b\"]",
+      "HiddenAbility": "[\"eac52537-4006-4999-9072-1b3e1a92910c\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "115",
+      "YieldDefense": "3",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "klinklang",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

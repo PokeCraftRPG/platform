@@ -1,0 +1,26 @@
+﻿{
+  "Id": "187ab49a-b373-4ddd-a354-55b4f678329c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rabsca",
+    "DisplayName": "Rabsca",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ea6a20a1-20f7-4812-9cb5-46ca685ce8ba\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rabsca",
+      "DisplayName": "Rabsca",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rolling"
+      }
+    }
+  }
+}

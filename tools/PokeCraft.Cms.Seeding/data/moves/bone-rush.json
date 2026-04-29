@@ -1,0 +1,25 @@
+﻿{
+  "Id": "53421442-3233-4559-b576-d00f9da062bc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bone-rush",
+    "DisplayName": "Bone Rush",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "25",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bone-rush",
+      "DisplayName": "Bone Rush",
+      "Description": "The user attacks by striking the target with a hard bone. This move hits two to five times in a row.",
+      "FieldValues": {}
+    }
+  }
+}

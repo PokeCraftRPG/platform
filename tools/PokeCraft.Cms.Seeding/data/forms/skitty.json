@@ -1,0 +1,42 @@
+﻿{
+  "Id": "79fcea78-787c-4b22-bbea-9ec5829fbd92",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skitty",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1496636b-615e-43a8-966d-f57af6b15208\"]",
+      "Height": "6",
+      "Weight": "110",
+      "YieldExperience": "52",
+      "PrimaryAbility": "[\"1547f00e-f05d-4d0c-98c7-9a77e75e1bf5\"]",
+      "SecondaryAbility": "[\"a39b3d5c-a615-47e7-a24f-2d5c7c3e3de7\"]",
+      "HiddenAbility": "[\"f0c9ab67-3a27-4710-9c6c-d1ebe1d18d98\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "35",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skitty",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

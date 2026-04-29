@@ -1,0 +1,39 @@
+﻿{
+  "Id": "fd619b1b-3012-41e6-a24e-dcfd0d2e1907",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "barbaracle-mega",
+    "DisplayName": "Mega Barbaracle",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6a7a80d0-6bd4-47eb-b6a5-971f04f7c159\"]",
+      "Height": "22",
+      "Weight": "1000",
+      "BaseHP": "72",
+      "YieldHP": "0",
+      "BaseAttack": "140",
+      "YieldAttack": "0",
+      "BaseDefense": "130",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "64",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "106",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "88",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "barbaracle-mega",
+      "DisplayName": "Mega Barbaracle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

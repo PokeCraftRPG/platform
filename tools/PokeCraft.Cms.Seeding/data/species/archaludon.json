@@ -1,0 +1,28 @@
+﻿{
+  "Id": "dd7673ef-0dd5-4c25-bc2e-fcfaffab6f89",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "archaludon",
+    "DisplayName": "Archaludon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "1018",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "10",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Mineral\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "archaludon",
+      "DisplayName": "Archaludon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

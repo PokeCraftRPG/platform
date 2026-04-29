@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9b4a462e-a6b7-44f1-b074-b1bd7bd50378",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grimer",
+    "DisplayName": "Grimer",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ee57f9e9-7726-4275-89e8-108b2e845310\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grimer",
+      "DisplayName": "Grimer",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sludge"
+      }
+    }
+  }
+}

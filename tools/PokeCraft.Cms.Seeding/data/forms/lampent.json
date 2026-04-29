@@ -1,0 +1,43 @@
+﻿{
+  "Id": "4d4eb14e-3ddb-4133-bef5-d227b6424cbf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lampent",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9a267f1b-6ee7-4939-95cc-434a9d786a46\"]",
+      "Height": "6",
+      "Weight": "130",
+      "YieldExperience": "130",
+      "PrimaryAbility": "[\"956efecf-ecf7-4731-9df1-25171033ad13\"]",
+      "SecondaryAbility": "[\"61541bb6-568e-4dd0-b07a-56233b9fe96f\"]",
+      "HiddenAbility": "[\"0a9fa785-a966-4ed6-8ab9-a33aecd0847c\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "40",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]",
+      "SecondaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lampent",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

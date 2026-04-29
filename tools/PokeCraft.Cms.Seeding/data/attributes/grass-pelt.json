@@ -1,0 +1,19 @@
+﻿{
+  "Id": "d05977af-4fa6-44c6-bc8d-99f0e069eb6d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grass-pelt",
+    "DisplayName": "Grass Pelt",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grass-pelt",
+      "DisplayName": "Grass Pelt",
+      "Description": "Boosts the Pokémon's Defense stat on Grassy Terrain.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "246c6b1f-b811-4a66-ab8a-1a2fef3e0866",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sobble",
+    "DisplayName": "Sobble",
+    "Description": null,
+    "FieldValues": {
+      "Number": "816",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sobble",
+      "DisplayName": "Sobble",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

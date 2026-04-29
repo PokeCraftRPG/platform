@@ -1,0 +1,27 @@
+﻿{
+  "Id": "3c159fbb-90b9-4d80-9bee-34ca0f052b44",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mandibuzz",
+    "DisplayName": "Mandibuzz",
+    "Description": null,
+    "FieldValues": {
+      "Number": "630",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "60",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mandibuzz",
+      "DisplayName": "Mandibuzz",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

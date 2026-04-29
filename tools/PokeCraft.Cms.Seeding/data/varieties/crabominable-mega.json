@@ -1,0 +1,26 @@
+﻿{
+  "Id": "19bd97b9-150c-4a4a-ab2a-d40995843442",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "crabominable-mega",
+    "DisplayName": "Crabominable",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ba28b867-c72d-4173-802a-ca22b36a9473\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "crabominable-mega",
+      "DisplayName": "Crabominable",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Woolly Crab"
+      }
+    }
+  }
+}

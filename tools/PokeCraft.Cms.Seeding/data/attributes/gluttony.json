@@ -1,0 +1,19 @@
+﻿{
+  "Id": "758f7264-01c3-4e9c-b2bd-24c9bb5591ba",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gluttony",
+    "DisplayName": "Gluttony",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gluttony",
+      "DisplayName": "Gluttony",
+      "Description": "If the Pokémon is holding a Berry to be eaten when its HP is low, it will instead eat the Berry when its HP drops to half or less.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "b9ff13f7-33e3-4c06-90e1-ff67beeac0d2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lapras",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5ed1549e-7708-4e8a-8dea-245e7c8c2ee8\"]",
+      "Height": "25",
+      "Weight": "2200",
+      "YieldExperience": "187",
+      "PrimaryAbility": "[\"ce06d228-a509-444d-ab16-f046f2519e89\"]",
+      "SecondaryAbility": "[\"238257b2-205c-4b83-b5f1-393b8c11b2e9\"]",
+      "HiddenAbility": "[\"14243d95-6028-489e-acf7-18592c5695c2\"]",
+      "BaseHP": "130",
+      "YieldHP": "2",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lapras",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

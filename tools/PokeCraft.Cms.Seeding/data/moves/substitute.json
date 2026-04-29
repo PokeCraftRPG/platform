@@ -1,0 +1,23 @@
+﻿{
+  "Id": "7daca5d1-79c1-4a1c-a0a7-64ff9011b830",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "substitute",
+    "DisplayName": "Substitute",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "substitute",
+      "DisplayName": "Substitute",
+      "Description": "The user creates a substitute for itself using some of its own HP. The substitute serves as the user's decoy.",
+      "FieldValues": {}
+    }
+  }
+}

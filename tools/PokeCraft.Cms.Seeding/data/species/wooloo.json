@@ -1,0 +1,27 @@
+﻿{
+  "Id": "fba47486-db47-420c-8591-966e6f4b60e3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wooloo",
+    "DisplayName": "Wooloo",
+    "Description": null,
+    "FieldValues": {
+      "Number": "831",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wooloo",
+      "DisplayName": "Wooloo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

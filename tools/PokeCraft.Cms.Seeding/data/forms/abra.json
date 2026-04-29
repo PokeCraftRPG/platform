@@ -1,0 +1,42 @@
+﻿{
+  "Id": "49010b09-873e-41ff-8869-5b9765f77b1e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "abra",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f09ea759-669e-49c4-8370-f6c88d7a8a13\"]",
+      "Height": "9",
+      "Weight": "195",
+      "YieldExperience": "62",
+      "PrimaryAbility": "[\"f5fd746b-4285-427b-ab75-928d416a5c85\"]",
+      "SecondaryAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "HiddenAbility": "[\"69c09e48-92e7-44ba-99ac-01ed04423dd6\"]",
+      "BaseHP": "25",
+      "YieldHP": "0",
+      "BaseAttack": "20",
+      "YieldAttack": "0",
+      "BaseDefense": "15",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "105",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "abra",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

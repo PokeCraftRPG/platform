@@ -1,0 +1,42 @@
+﻿{
+  "Id": "65614268-cb9e-4f23-b311-b69a796bf0fd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "torkoal",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9b52871e-dac0-4612-9e41-f8b849fb3752\"]",
+      "Height": "5",
+      "Weight": "804",
+      "YieldExperience": "165",
+      "PrimaryAbility": "[\"b4d7933c-f6e8-4d96-9c6a-d47553ced38c\"]",
+      "SecondaryAbility": "[\"4ff1984e-e319-4645-a10d-f63ec55997fe\"]",
+      "HiddenAbility": "[\"238257b2-205c-4b83-b5f1-393b8c11b2e9\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "140",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "20",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "torkoal",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

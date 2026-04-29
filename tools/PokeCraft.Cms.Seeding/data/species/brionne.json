@@ -1,0 +1,28 @@
+﻿{
+  "Id": "6a78167f-d1e4-4d92-be12-cfc27e00554d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "brionne",
+    "DisplayName": "Brionne",
+    "Description": null,
+    "FieldValues": {
+      "Number": "729",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "brionne",
+      "DisplayName": "Brionne",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

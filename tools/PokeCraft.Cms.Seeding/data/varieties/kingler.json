@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f7db71de-b547-440d-8c61-556cb177a55a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kingler",
+    "DisplayName": "Kingler",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f8b27b24-2e3d-4186-a915-acede8fe4f91\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kingler",
+      "DisplayName": "Kingler",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Pincer"
+      }
+    }
+  }
+}

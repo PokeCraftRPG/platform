@@ -1,0 +1,27 @@
+﻿{
+  "Id": "68bd2513-f1e4-4e22-b2fa-a56f35d7ac80",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gligar",
+    "DisplayName": "Gligar",
+    "Description": null,
+    "FieldValues": {
+      "Number": "207",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gligar",
+      "DisplayName": "Gligar",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

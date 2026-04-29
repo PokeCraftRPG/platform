@@ -1,0 +1,25 @@
+﻿{
+  "Id": "781e347d-393b-4ef1-8793-c7c42302ecea",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fusion-flare",
+    "DisplayName": "Fusion Flare",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fusion-flare",
+      "DisplayName": "Fusion Flare",
+      "Description": "The user brings down a giant flame. This move's power is boosted when influenced by an enormous lightning bolt.",
+      "FieldValues": {}
+    }
+  }
+}

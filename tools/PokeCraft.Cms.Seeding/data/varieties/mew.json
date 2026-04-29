@@ -1,0 +1,25 @@
+﻿{
+  "Id": "3f66ca15-355a-42c2-a417-4c3e132dd8a0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mew",
+    "DisplayName": "Mew",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d4e1ecaf-a207-4dc6-a2d1-42a9aa39f79a\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mew",
+      "DisplayName": "Mew",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "New Species"
+      }
+    }
+  }
+}

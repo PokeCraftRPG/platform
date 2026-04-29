@@ -1,0 +1,25 @@
+﻿{
+  "Id": "e0a61181-3fe2-4ee3-b01e-6cf797f3f0e7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gholdengo",
+    "DisplayName": "Gholdengo",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c6efb58b-8d61-44a3-b5e8-f63a146a5959\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gholdengo",
+      "DisplayName": "Gholdengo",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Coin Entity"
+      }
+    }
+  }
+}

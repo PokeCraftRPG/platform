@@ -1,0 +1,25 @@
+﻿{
+  "Id": "500a03ce-a069-434c-8679-0726154f0f2f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gimmighoul",
+    "DisplayName": "Gimmighoul",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2a97ac7c-5f20-4c61-907e-720989caa53f\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gimmighoul",
+      "DisplayName": "Gimmighoul",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Coin Chest"
+      }
+    }
+  }
+}

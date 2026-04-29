@@ -1,0 +1,25 @@
+﻿{
+  "Id": "d1e5f5c4-d7b6-471a-9ecc-aa2a738ccdee",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tapu-bulu",
+    "DisplayName": "Tapu Bulu",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a52af90c-85f2-47f4-9da6-bcacc430d938\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tapu-bulu",
+      "DisplayName": "Tapu Bulu",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Land Spirit"
+      }
+    }
+  }
+}

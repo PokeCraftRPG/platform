@@ -1,0 +1,43 @@
+﻿{
+  "Id": "9609b361-66fd-4078-bb50-99f7ca6e0520",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "azumarill",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3c5eaa6a-fc8e-4334-8ff4-fb39e0273261\"]",
+      "Height": "8",
+      "Weight": "285",
+      "YieldExperience": "189",
+      "PrimaryAbility": "[\"d6fa994e-7a48-48b5-9f1f-c1b84dd3225f\"]",
+      "SecondaryAbility": "[\"fc4446e9-654f-46c3-8257-6cb0986da05f\"]",
+      "HiddenAbility": "[\"a471c5f9-291c-4763-b84a-9c5c666f409b\"]",
+      "BaseHP": "100",
+      "YieldHP": "3",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "azumarill",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

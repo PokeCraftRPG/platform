@@ -1,0 +1,25 @@
+﻿{
+  "Id": "a9bdd065-7e89-4ae0-8dc3-a79b87d6788b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "steam-eruption",
+    "DisplayName": "Steam Eruption",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "95",
+      "Power": "110",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "steam-eruption",
+      "DisplayName": "Steam Eruption",
+      "Description": "The user immerses the target in superheated steam. This may also leave the target with a burn.",
+      "FieldValues": {}
+    }
+  }
+}

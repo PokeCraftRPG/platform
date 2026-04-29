@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3190c14a-6015-477d-9e87-b5ded44e3b02",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pikachu",
+    "DisplayName": "Pikachu",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9b081c4f-db6c-4c9b-b4fd-ae6099e099ad\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pikachu",
+      "DisplayName": "Pikachu",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mouse"
+      }
+    }
+  }
+}

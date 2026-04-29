@@ -1,0 +1,27 @@
+﻿{
+  "Id": "91461455-0487-418a-a664-7c8018dbae5a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mothim",
+    "DisplayName": "Mothim",
+    "Description": null,
+    "FieldValues": {
+      "Number": "414",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mothim",
+      "DisplayName": "Mothim",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

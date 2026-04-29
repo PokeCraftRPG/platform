@@ -1,0 +1,28 @@
+﻿{
+  "Id": "9535d140-a244-4b1e-9fa4-b09db598ac53",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nidoran-m",
+    "DisplayName": "Nidoran♂",
+    "Description": null,
+    "FieldValues": {
+      "Number": "32",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "235",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nidoran-m",
+      "DisplayName": "Nidoran♂",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

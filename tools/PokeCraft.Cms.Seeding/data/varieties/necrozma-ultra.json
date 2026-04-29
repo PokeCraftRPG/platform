@@ -1,0 +1,25 @@
+﻿{
+  "Id": "3f19f2a6-687f-41bd-bf94-01f294d81181",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "necrozma-ultra",
+    "DisplayName": "Necrozma",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"50da8fe4-af2b-4a79-9ec3-8c27a85981bc\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "necrozma-ultra",
+      "DisplayName": "Necrozma",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Prism"
+      }
+    }
+  }
+}

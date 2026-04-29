@@ -1,0 +1,25 @@
+﻿{
+  "Id": "97dcbc16-a455-4952-91c9-3433b28c3214",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ice-spinner",
+    "DisplayName": "Ice Spinner",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ice-spinner",
+      "DisplayName": "Ice Spinner",
+      "Description": "The user covers its feet in thin ice and twirls around, slamming into the target. This move's spinning motion also destroys the terrain.",
+      "FieldValues": {}
+    }
+  }
+}

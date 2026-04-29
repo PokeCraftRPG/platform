@@ -1,0 +1,25 @@
+﻿{
+  "Id": "fcd63b62-3c55-41ad-a766-aa5c4a20c733",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skitter-smack",
+    "DisplayName": "Skitter Smack",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "70",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skitter-smack",
+      "DisplayName": "Skitter Smack",
+      "Description": "The user skitters behind the target to attack. This also lowers the target's Sp. Atk stat.",
+      "FieldValues": {}
+    }
+  }
+}

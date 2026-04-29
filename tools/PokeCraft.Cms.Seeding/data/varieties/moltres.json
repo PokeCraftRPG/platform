@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6fcf41f4-0434-4883-9407-2a624fb4e48f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "moltres",
+    "DisplayName": "Moltres",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d3f1b54e-fdfc-465b-a974-73cee0217dae\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "moltres",
+      "DisplayName": "Moltres",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Flame"
+      }
+    }
+  }
+}

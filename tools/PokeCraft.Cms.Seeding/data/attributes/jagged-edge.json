@@ -1,0 +1,19 @@
+﻿{
+  "Id": "798dd414-d873-471d-af18-1cc5c05a211f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "jagged-edge",
+    "DisplayName": "Jagged Edge",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "jagged-edge",
+      "DisplayName": "Jagged Edge",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

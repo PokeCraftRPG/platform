@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3d319b6b-e162-46b3-af38-b6f72031e972",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "natu",
+    "DisplayName": "Natu",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7d03c8bb-f24e-44f3-ab0a-5931dd6fe0ab\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "natu",
+      "DisplayName": "Natu",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tiny Bird"
+      }
+    }
+  }
+}

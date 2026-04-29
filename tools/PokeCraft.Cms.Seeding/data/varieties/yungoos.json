@@ -1,0 +1,26 @@
+﻿{
+  "Id": "8b885077-cd4f-4fa9-88e8-2ec50cbbb816",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "yungoos",
+    "DisplayName": "Yungoos",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3af52881-3d62-4784-b8b4-ef62ffd77d30\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "yungoos",
+      "DisplayName": "Yungoos",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Loitering"
+      }
+    }
+  }
+}

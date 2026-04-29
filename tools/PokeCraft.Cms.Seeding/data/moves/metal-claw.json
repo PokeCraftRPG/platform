@@ -1,0 +1,25 @@
+﻿{
+  "Id": "1c3a78d8-3871-430d-aec6-4ddd144a0671",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "metal-claw",
+    "DisplayName": "Metal Claw",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "95",
+      "Power": "50",
+      "PowerPoints": "35"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "metal-claw",
+      "DisplayName": "Metal Claw",
+      "Description": "The target is raked with steel claws. This may also boost the user's Attack stat.",
+      "FieldValues": {}
+    }
+  }
+}

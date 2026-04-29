@@ -1,0 +1,27 @@
+﻿{
+  "Id": "58dd4300-96be-4008-be60-b0dade315a80",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toedscool",
+    "DisplayName": "Toedscool",
+    "Description": null,
+    "FieldValues": {
+      "Number": "948",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toedscool",
+      "DisplayName": "Toedscool",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

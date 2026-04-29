@@ -1,0 +1,43 @@
+﻿{
+  "Id": "60418ec7-6cc8-4c3f-bcd1-a91e9228498b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "breloom",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d0d25e25-2182-401b-8e93-b61373786104\"]",
+      "Height": "12",
+      "Weight": "392",
+      "YieldExperience": "161",
+      "PrimaryAbility": "[\"685f8565-bdee-4058-bd90-d7f3711f5d7d\"]",
+      "SecondaryAbility": "[\"679361b8-19ae-401b-9f8c-969aed015f88\"]",
+      "HiddenAbility": "[\"d20432c3-18d0-4160-a3f1-a363c9e6633d\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "130",
+      "YieldAttack": "2",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "breloom",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

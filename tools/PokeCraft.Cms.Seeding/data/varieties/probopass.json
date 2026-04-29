@@ -1,0 +1,26 @@
+﻿{
+  "Id": "632498b3-ec66-420b-80b2-c3bb3411831d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "probopass",
+    "DisplayName": "Probopass",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"580f2349-9683-4b02-a1d2-08eebf78b1bb\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "probopass",
+      "DisplayName": "Probopass",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Compass"
+      }
+    }
+  }
+}

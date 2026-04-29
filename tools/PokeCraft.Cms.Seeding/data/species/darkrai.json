@@ -1,0 +1,27 @@
+﻿{
+  "Id": "8fc3ef41-bd1b-4aed-afa5-94e6416d5989",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "darkrai",
+    "DisplayName": "Darkrai",
+    "Description": null,
+    "FieldValues": {
+      "Number": "491",
+      "Category": "[\"Mythical\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "darkrai",
+      "DisplayName": "Darkrai",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

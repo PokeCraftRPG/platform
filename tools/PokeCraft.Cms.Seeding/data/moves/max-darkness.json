@@ -1,0 +1,24 @@
+﻿{
+  "Id": "4219a858-024c-4cdb-a515-6ca8d8e27f6b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "max-darkness",
+    "DisplayName": "Max Darkness",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "10",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "max-darkness",
+      "DisplayName": "Max Darkness",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

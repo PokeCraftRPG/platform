@@ -1,0 +1,41 @@
+﻿{
+  "Id": "44ae3815-2575-4351-aa44-2dd83e0f8317",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ampharos",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6b1ac90c-2106-43eb-93ab-3122314e801c\"]",
+      "Height": "14",
+      "Weight": "615",
+      "YieldExperience": "230",
+      "PrimaryAbility": "[\"4d8cefa4-dbcc-4c78-b5f5-0a1c30bdb019\"]",
+      "HiddenAbility": "[\"885b9c4a-a988-4730-a7dd-b11c03474e5d\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "85",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "115",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ampharos",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

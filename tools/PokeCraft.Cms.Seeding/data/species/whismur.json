@@ -1,0 +1,28 @@
+﻿{
+  "Id": "e6e07f0e-8cd5-4fb4-acaf-3f43d7c203bf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "whismur",
+    "DisplayName": "Whismur",
+    "Description": null,
+    "FieldValues": {
+      "Number": "293",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "whismur",
+      "DisplayName": "Whismur",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

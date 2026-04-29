@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7ce9d0f8-925f-44e6-aba5-4776a9ab33b2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ralts",
+    "DisplayName": "Ralts",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"48e6138a-c365-4e30-8c15-e3db5806590a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ralts",
+      "DisplayName": "Ralts",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Feeling"
+      }
+    }
+  }
+}

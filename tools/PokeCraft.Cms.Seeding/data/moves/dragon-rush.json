@@ -1,0 +1,25 @@
+﻿{
+  "Id": "f125ca91-d58f-4181-912e-b4955169814c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragon-rush",
+    "DisplayName": "Dragon Rush",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "75",
+      "Power": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragon-rush",
+      "DisplayName": "Dragon Rush",
+      "Description": "The user tackles the target while exhibiting overwhelming menace. This may also make the target flinch.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a7eb18bd-31a4-4996-abd8-6b02ef3e3c54",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "haxorus",
+    "DisplayName": "Haxorus",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"22cb893a-65ac-4361-9baf-83c3bb265d2f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "haxorus",
+      "DisplayName": "Haxorus",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Axe Jaw"
+      }
+    }
+  }
+}

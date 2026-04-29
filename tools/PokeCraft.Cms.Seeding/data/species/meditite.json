@@ -1,0 +1,27 @@
+﻿{
+  "Id": "b7b6ce1f-d193-4d53-9568-a5d585295488",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meditite",
+    "DisplayName": "Meditite",
+    "Description": null,
+    "FieldValues": {
+      "Number": "307",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "180",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meditite",
+      "DisplayName": "Meditite",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

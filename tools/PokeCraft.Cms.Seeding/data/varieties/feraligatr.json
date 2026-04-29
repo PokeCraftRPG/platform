@@ -1,0 +1,26 @@
+﻿{
+  "Id": "fcb98ab7-901a-41e9-b981-66afdad549bc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "feraligatr",
+    "DisplayName": "Feraligatr",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"97573a8f-b01c-4be3-8e3a-a22a34e160c2\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "feraligatr",
+      "DisplayName": "Feraligatr",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Big Jaw"
+      }
+    }
+  }
+}

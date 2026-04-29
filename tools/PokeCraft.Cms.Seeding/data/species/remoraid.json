@@ -1,0 +1,28 @@
+﻿{
+  "Id": "c8c3cb57-76f3-42dc-9658-7866d7ea705d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "remoraid",
+    "DisplayName": "Remoraid",
+    "Description": null,
+    "FieldValues": {
+      "Number": "223",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "remoraid",
+      "DisplayName": "Remoraid",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

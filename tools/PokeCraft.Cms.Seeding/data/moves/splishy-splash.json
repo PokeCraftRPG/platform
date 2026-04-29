@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c3a839df-a0de-44b7-a530-3cf383a92c81",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "splishy-splash",
+    "DisplayName": "Splishy Splash",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "splishy-splash",
+      "DisplayName": "Splishy Splash",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

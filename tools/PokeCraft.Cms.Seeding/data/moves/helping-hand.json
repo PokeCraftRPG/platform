@@ -1,0 +1,23 @@
+﻿{
+  "Id": "0fc7e8e0-9fd4-4787-b1d2-47c1b811d139",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "helping-hand",
+    "DisplayName": "Helping Hand",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "helping-hand",
+      "DisplayName": "Helping Hand",
+      "Description": "The user assists an ally by boosting the power of that ally's attack.",
+      "FieldValues": {}
+    }
+  }
+}

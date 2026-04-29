@@ -1,0 +1,43 @@
+﻿{
+  "Id": "4e974c37-877b-4c56-8100-d613b1ba7d49",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "diglett-alola",
+    "DisplayName": "Alolan Diglett",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b37d3abb-dfe8-4402-8ebe-ba9a387c655c\"]",
+      "Height": "2",
+      "Weight": "10",
+      "YieldExperience": "53",
+      "PrimaryAbility": "[\"2298dae8-5c1f-423f-960d-8cf61b19c897\"]",
+      "SecondaryAbility": "[\"e48da3f1-77c8-4a85-8c94-6f8e5dc10372\"]",
+      "HiddenAbility": "[\"19474510-6538-4d3f-8775-1316904fe470\"]",
+      "BaseHP": "10",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "30",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "diglett-alola",
+      "DisplayName": "Alolan Diglett",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

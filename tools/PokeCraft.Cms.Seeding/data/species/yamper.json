@@ -1,0 +1,27 @@
+﻿{
+  "Id": "64a7232e-a896-4144-84a1-f3e3f6352d0f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "yamper",
+    "DisplayName": "Yamper",
+    "Description": null,
+    "FieldValues": {
+      "Number": "835",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "255",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "yamper",
+      "DisplayName": "Yamper",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

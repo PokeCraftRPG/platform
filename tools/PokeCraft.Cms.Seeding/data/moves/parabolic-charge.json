@@ -1,0 +1,25 @@
+﻿{
+  "Id": "90b80efb-fee4-411e-aad6-fc4521955a70",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "parabolic-charge",
+    "DisplayName": "Parabolic Charge",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "65",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "parabolic-charge",
+      "DisplayName": "Parabolic Charge",
+      "Description": "The user attacks everything around it. The user's HP is restored by half the damage taken by those hit.",
+      "FieldValues": {}
+    }
+  }
+}

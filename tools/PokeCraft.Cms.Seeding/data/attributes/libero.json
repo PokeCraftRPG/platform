@@ -1,0 +1,19 @@
+﻿{
+  "Id": "b887d663-0d40-467d-bc3a-b39e4c496300",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "libero",
+    "DisplayName": "Libero",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "libero",
+      "DisplayName": "Libero",
+      "Description": "Changes the Pokémon's type to the type of the move it's about to use. This works only once each time the Pokémon enters battle.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "18f16f91-db0c-4325-93d6-0669bd765c41",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "staryu",
+    "DisplayName": "Staryu",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e1971587-4827-4e41-ac57-f77951c1a22f\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "staryu",
+      "DisplayName": "Staryu",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Star Shape"
+      }
+    }
+  }
+}

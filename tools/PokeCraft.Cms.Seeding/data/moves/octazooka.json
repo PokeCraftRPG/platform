@@ -1,0 +1,25 @@
+﻿{
+  "Id": "f7f4425c-5cce-47c6-85b6-a4caa044f0c7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "octazooka",
+    "DisplayName": "Octazooka",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "85",
+      "Power": "65",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "octazooka",
+      "DisplayName": "Octazooka",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "af42a335-ad34-44ce-99b5-db0d76bd64cd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pansage",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2c339bd6-3f3d-465d-890f-1fcbd2f0d0f6\"]",
+      "Height": "6",
+      "Weight": "105",
+      "YieldExperience": "63",
+      "PrimaryAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "HiddenAbility": "[\"f635691a-6cf0-4a55-a848-a2183d487971\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "53",
+      "YieldAttack": "0",
+      "BaseDefense": "48",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "53",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "48",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "64",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pansage",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

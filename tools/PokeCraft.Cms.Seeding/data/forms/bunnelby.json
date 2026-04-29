@@ -1,0 +1,42 @@
+﻿{
+  "Id": "c871dc64-76aa-480a-b428-636a29656125",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bunnelby",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d0d75a58-cf49-4250-9a12-456f1cfb4dc5\"]",
+      "Height": "4",
+      "Weight": "50",
+      "YieldExperience": "47",
+      "PrimaryAbility": "[\"071551b8-ee73-4742-85e8-264e82a49f57\"]",
+      "SecondaryAbility": "[\"f6d802de-f5c1-41cc-bdc8-744a3fdfcf19\"]",
+      "HiddenAbility": "[\"fc4446e9-654f-46c3-8257-6cb0986da05f\"]",
+      "BaseHP": "38",
+      "YieldHP": "0",
+      "BaseAttack": "36",
+      "YieldAttack": "0",
+      "BaseDefense": "38",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "32",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "36",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "57",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bunnelby",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

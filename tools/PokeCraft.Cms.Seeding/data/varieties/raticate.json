@@ -1,0 +1,26 @@
+﻿{
+  "Id": "bf9be9ae-606a-42dd-8cf0-f5cedc731cd3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "raticate",
+    "DisplayName": "Raticate",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"31068992-df8a-418a-9b69-1f1b9118e51a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "raticate",
+      "DisplayName": "Raticate",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mouse"
+      }
+    }
+  }
+}

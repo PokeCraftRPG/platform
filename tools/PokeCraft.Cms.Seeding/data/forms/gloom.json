@@ -1,0 +1,42 @@
+﻿{
+  "Id": "ebbd1515-40d7-4932-89ab-9d9468af88be",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gloom",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"31f20ec0-4733-4cf3-a029-4ebe22a7c6c6\"]",
+      "Height": "8",
+      "Weight": "86",
+      "YieldExperience": "138",
+      "PrimaryAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "HiddenAbility": "[\"7cea48e5-cd7c-41df-82f9-a91772037aff\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gloom",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

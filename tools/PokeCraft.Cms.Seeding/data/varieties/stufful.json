@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d6525b85-8184-457f-b6f4-15c19d107cfc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stufful",
+    "DisplayName": "Stufful",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e9529bdc-2326-4bb7-b8c8-287872e8bc3d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stufful",
+      "DisplayName": "Stufful",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Flailing"
+      }
+    }
+  }
+}

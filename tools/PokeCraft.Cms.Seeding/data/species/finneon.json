@@ -1,0 +1,27 @@
+﻿{
+  "Id": "10758397-d65a-4d3e-a66a-ff9ad5e83f85",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "finneon",
+    "DisplayName": "Finneon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "456",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "finneon",
+      "DisplayName": "Finneon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

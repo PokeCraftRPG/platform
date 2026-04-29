@@ -1,0 +1,27 @@
+﻿{
+  "Id": "fb516e00-cf90-445f-9b8c-fe86f823909b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ledian",
+    "DisplayName": "Ledian",
+    "Description": null,
+    "FieldValues": {
+      "Number": "166",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ledian",
+      "DisplayName": "Ledian",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

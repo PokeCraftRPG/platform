@@ -1,0 +1,40 @@
+﻿{
+  "Id": "28972502-1df8-48c2-b185-2a5c3469146d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cryogonal",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"446abe80-421c-476d-af16-dd0e12b2f599\"]",
+      "Height": "11",
+      "Weight": "1480",
+      "YieldExperience": "180",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "135",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "105",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cryogonal",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

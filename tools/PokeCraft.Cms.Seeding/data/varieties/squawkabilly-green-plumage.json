@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c3be0099-1f60-442c-adc9-61bdf7b5a95f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "squawkabilly-green-plumage",
+    "DisplayName": "Squawkabilly",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a1a20b27-24a0-48af-b219-a6e1863969da\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "squawkabilly-green-plumage",
+      "DisplayName": "Squawkabilly",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Parrot"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "c68b9730-2498-4d60-9074-44899624f0b7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "barboach",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"712bd9dc-fda6-4031-ac57-773fe679fd36\"]",
+      "Height": "4",
+      "Weight": "19",
+      "YieldExperience": "58",
+      "PrimaryAbility": "[\"a720be5d-1a4e-4e14-8426-1ba0fc59a8ed\"]",
+      "SecondaryAbility": "[\"6eea2506-c8b3-44c8-9082-76bec64e5880\"]",
+      "HiddenAbility": "[\"14243d95-6028-489e-acf7-18592c5695c2\"]",
+      "BaseHP": "50",
+      "YieldHP": "1",
+      "BaseAttack": "48",
+      "YieldAttack": "0",
+      "BaseDefense": "43",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "46",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "41",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "barboach",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

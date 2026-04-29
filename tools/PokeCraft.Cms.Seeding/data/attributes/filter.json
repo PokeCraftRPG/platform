@@ -1,0 +1,19 @@
+﻿{
+  "Id": "7262528d-ef5d-4457-96f6-86321b5fb727",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "filter",
+    "DisplayName": "Filter",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "filter",
+      "DisplayName": "Filter",
+      "Description": "Reduces the power of supereffective attacks that hit the Pokémon.",
+      "FieldValues": {}
+    }
+  }
+}

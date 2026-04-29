@@ -1,0 +1,42 @@
+﻿{
+  "Id": "dce8d89a-77cf-4164-80c5-927b299c0a59",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "beldum",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0c17183c-4e11-4bd0-a804-8ca320a91eba\"]",
+      "Height": "6",
+      "Weight": "952",
+      "YieldExperience": "60",
+      "PrimaryAbility": "[\"eac52537-4006-4999-9072-1b3e1a92910c\"]",
+      "HiddenAbility": "[\"a9839af2-6266-4453-a3f7-39226d90dc2e\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "beldum",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

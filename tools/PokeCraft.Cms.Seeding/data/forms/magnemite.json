@@ -1,0 +1,43 @@
+﻿{
+  "Id": "7e1aab44-d787-4e77-ae4c-93eaa06bf36f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magnemite",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d0f2e5aa-fe79-41e5-8551-993c794a963a\"]",
+      "Height": "3",
+      "Weight": "60",
+      "YieldExperience": "65",
+      "PrimaryAbility": "[\"fbeddbd6-52d8-452c-97cc-0564133113a1\"]",
+      "SecondaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "HiddenAbility": "[\"46c2aea0-fa60-492b-8e7f-0d5de67c6321\"]",
+      "BaseHP": "25",
+      "YieldHP": "0",
+      "BaseAttack": "35",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magnemite",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

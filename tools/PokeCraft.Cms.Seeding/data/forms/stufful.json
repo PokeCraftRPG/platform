@@ -1,0 +1,43 @@
+﻿{
+  "Id": "a37cbb22-bd58-4a53-8158-fa2ea94968d4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stufful",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d6525b85-8184-457f-b6f4-15c19d107cfc\"]",
+      "Height": "5",
+      "Weight": "68",
+      "YieldExperience": "68",
+      "PrimaryAbility": "[\"fb7066f4-554f-4f05-8921-e5198d35baf7\"]",
+      "SecondaryAbility": "[\"0d470a82-2040-4e95-8e52-999c26f4514d\"]",
+      "HiddenAbility": "[\"1547f00e-f05d-4d0c-98c7-9a77e75e1bf5\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "1",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stufful",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

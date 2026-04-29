@@ -1,0 +1,26 @@
+﻿{
+  "Id": "8b17b835-46be-45ee-8f8a-dcff177d9973",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ninetales-alola",
+    "DisplayName": "Ninetales",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"bf3f7cb4-6eb3-469d-9ffc-2fcc405e6e7b\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ninetales-alola",
+      "DisplayName": "Ninetales",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fox"
+      }
+    }
+  }
+}

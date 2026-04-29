@@ -1,0 +1,43 @@
+﻿{
+  "Id": "3effa70c-82f8-4702-9f90-4f598886e00f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "diggersby",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6eb9fb55-bd93-4cfb-b23c-21dfc00d7723\"]",
+      "Height": "10",
+      "Weight": "424",
+      "YieldExperience": "148",
+      "PrimaryAbility": "[\"071551b8-ee73-4742-85e8-264e82a49f57\"]",
+      "SecondaryAbility": "[\"f6d802de-f5c1-41cc-bdc8-744a3fdfcf19\"]",
+      "HiddenAbility": "[\"fc4446e9-654f-46c3-8257-6cb0986da05f\"]",
+      "BaseHP": "85",
+      "YieldHP": "2",
+      "BaseAttack": "56",
+      "YieldAttack": "0",
+      "BaseDefense": "77",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "77",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "78",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "diggersby",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

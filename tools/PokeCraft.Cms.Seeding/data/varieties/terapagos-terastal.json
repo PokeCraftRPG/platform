@@ -1,0 +1,26 @@
+﻿{
+  "Id": "fd3fdd66-47f3-4edc-978b-dcaff684a715",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "terapagos-terastal",
+    "DisplayName": "Terapagos",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7d8bb225-8bef-491b-9fd5-d5181194ad8b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "terapagos-terastal",
+      "DisplayName": "Terapagos",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tera"
+      }
+    }
+  }
+}

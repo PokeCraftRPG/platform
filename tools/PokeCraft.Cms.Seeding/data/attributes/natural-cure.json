@@ -1,0 +1,19 @@
+﻿{
+  "Id": "aaaf5fa0-672a-4904-8e65-dc6c8ffe01b7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "natural-cure",
+    "DisplayName": "Natural Cure",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "natural-cure",
+      "DisplayName": "Natural Cure",
+      "Description": "The Pokémon's status conditions are cured when it switches out.",
+      "FieldValues": {}
+    }
+  }
+}

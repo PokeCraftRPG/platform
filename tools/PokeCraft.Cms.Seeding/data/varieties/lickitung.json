@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c82b79e6-31ac-469a-8e6c-f38318fddebf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lickitung",
+    "DisplayName": "Lickitung",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"99cf470f-a8ab-4512-9143-f907a45c3006\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lickitung",
+      "DisplayName": "Lickitung",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Licking"
+      }
+    }
+  }
+}

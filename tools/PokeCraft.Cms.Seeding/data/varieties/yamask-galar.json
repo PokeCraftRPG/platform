@@ -1,0 +1,26 @@
+﻿{
+  "Id": "77d440a5-7d79-4f44-a212-3e74954615e4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "yamask-galar",
+    "DisplayName": "Yamask",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9430bb33-291f-4bdd-9dfa-2fc603676c27\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "yamask-galar",
+      "DisplayName": "Yamask",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Spirit"
+      }
+    }
+  }
+}

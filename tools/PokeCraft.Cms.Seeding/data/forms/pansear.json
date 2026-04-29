@@ -1,0 +1,41 @@
+﻿{
+  "Id": "c68e2acf-1740-44e3-b9c1-c6ece21dab13",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pansear",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"34729c92-f364-4ff7-bbd8-d99f49becf73\"]",
+      "Height": "6",
+      "Weight": "110",
+      "YieldExperience": "63",
+      "PrimaryAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "HiddenAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "53",
+      "YieldAttack": "0",
+      "BaseDefense": "48",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "53",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "48",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "64",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pansear",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

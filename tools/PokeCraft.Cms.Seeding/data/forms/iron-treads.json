@@ -1,0 +1,41 @@
+﻿{
+  "Id": "bd7a1b3f-5c64-44f5-bab7-54d563ef4f92",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-treads",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f08c0460-4195-460e-9cd8-325687791974\"]",
+      "Height": "9",
+      "Weight": "2400",
+      "YieldExperience": "285",
+      "PrimaryAbility": "[\"7cef81dc-7c42-4b31-b37d-79a7e926c4cd\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "112",
+      "YieldAttack": "0",
+      "BaseDefense": "120",
+      "YieldDefense": "3",
+      "BaseSpecialAttack": "72",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "106",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-treads",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "029e1692-c516-4f25-a3ad-48941e3c3c95",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "reflect-type",
+    "DisplayName": "Reflect Type",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "reflect-type",
+      "DisplayName": "Reflect Type",
+      "Description": "The user reflects the target's type to become the same type as the target.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "64034833-250b-45f8-8930-449ecff3e0f5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "salamence-mega",
+    "DisplayName": "Mega Salamence",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"29cdae74-6962-430b-a63e-faf8100f990e\"]",
+      "Height": "18",
+      "Weight": "1126",
+      "YieldExperience": "315",
+      "PrimaryAbility": "[\"2fc1fa11-53bd-4603-b060-0c3674ca4910\"]",
+      "BaseHP": "95",
+      "YieldHP": "0",
+      "BaseAttack": "145",
+      "YieldAttack": "3",
+      "BaseDefense": "130",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "120",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "120",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "salamence-mega",
+      "DisplayName": "Mega Salamence",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

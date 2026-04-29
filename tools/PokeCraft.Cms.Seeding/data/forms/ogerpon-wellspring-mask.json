@@ -1,0 +1,41 @@
+﻿{
+  "Id": "76673939-3597-439b-b2d1-1cb4828972fc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ogerpon-wellspring-mask",
+    "DisplayName": "Wellspring Mask Ogerpon",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"65925af6-b02c-445e-9878-c69c34e2e1b9\"]",
+      "Height": "12",
+      "Weight": "398",
+      "YieldExperience": "275",
+      "PrimaryAbility": "[\"ce06d228-a509-444d-ab16-f046f2519e89\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "3",
+      "BaseDefense": "84",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "96",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "110",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ogerpon-wellspring-mask",
+      "DisplayName": "Wellspring Mask Ogerpon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

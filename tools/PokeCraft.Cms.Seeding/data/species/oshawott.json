@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c5151c7e-a98d-4714-88e3-c1806127a72c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "oshawott",
+    "DisplayName": "Oshawott",
+    "Description": null,
+    "FieldValues": {
+      "Number": "501",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "oshawott",
+      "DisplayName": "Oshawott",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

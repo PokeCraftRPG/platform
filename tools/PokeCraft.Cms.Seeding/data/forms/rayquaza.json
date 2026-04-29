@@ -1,0 +1,41 @@
+﻿{
+  "Id": "90266423-5a29-4734-8433-accdbbda6e6c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rayquaza",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9a71b9b7-e9e9-420b-ad02-5a646c2579fd\"]",
+      "Height": "70",
+      "Weight": "2065",
+      "YieldExperience": "306",
+      "PrimaryAbility": "[\"4bd2f68c-bc75-450c-816a-74899d39db77\"]",
+      "BaseHP": "105",
+      "YieldHP": "0",
+      "BaseAttack": "150",
+      "YieldAttack": "2",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "150",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rayquaza",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

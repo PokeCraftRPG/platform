@@ -1,0 +1,27 @@
+﻿{
+  "Id": "429fe2f8-59e4-4b00-9a90-c6ef912cd061",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hitmontop",
+    "DisplayName": "Hitmontop",
+    "Description": null,
+    "FieldValues": {
+      "Number": "237",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hitmontop",
+      "DisplayName": "Hitmontop",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "5f691958-68f4-4f63-bcb8-fa17fd47d426",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "salandit",
+    "DisplayName": "Salandit",
+    "Description": null,
+    "FieldValues": {
+      "Number": "757",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "salandit",
+      "DisplayName": "Salandit",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

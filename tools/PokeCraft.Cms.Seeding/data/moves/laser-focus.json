@@ -1,0 +1,23 @@
+﻿{
+  "Id": "04447b64-0ccf-40fb-830f-239b57a683d2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "laser-focus",
+    "DisplayName": "Laser Focus",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "laser-focus",
+      "DisplayName": "Laser Focus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

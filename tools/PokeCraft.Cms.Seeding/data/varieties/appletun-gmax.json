@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0a7bee2b-0e7a-4448-be14-678ae9bcb7c3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "appletun-gmax",
+    "DisplayName": "Appletun",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4548ce46-99dd-4091-b7c3-e9da6842e281\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "appletun-gmax",
+      "DisplayName": "Appletun",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Apple Nectar"
+      }
+    }
+  }
+}

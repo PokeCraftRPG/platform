@@ -1,0 +1,40 @@
+﻿{
+  "Id": "054a9b11-d1b2-446d-a2c8-88f78b798ef8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "emboar-mega",
+    "DisplayName": "Mega Emboar",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d8baf565-0956-4c35-b66d-b3a7ab23ae06\"]",
+      "Height": "18",
+      "Weight": "1803",
+      "PrimaryAbility": "[\"f35847b5-de3c-4706-a9d6-010903615537\"]",
+      "BaseHP": "110",
+      "YieldHP": "0",
+      "BaseAttack": "148",
+      "YieldAttack": "0",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "110",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "110",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "75",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "emboar-mega",
+      "DisplayName": "Mega Emboar",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

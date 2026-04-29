@@ -1,0 +1,42 @@
+﻿{
+  "Id": "38e03368-32d5-4603-971b-5aada9dd7b67",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wormadam-trash",
+    "DisplayName": "Trash Wormadam",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"8ef20800-eff8-4132-abe1-61b1eede808d\"]",
+      "Height": "5",
+      "Weight": "65",
+      "YieldExperience": "148",
+      "PrimaryAbility": "[\"6eea2506-c8b3-44c8-9082-76bec64e5880\"]",
+      "HiddenAbility": "[\"ecf92884-7c23-4d13-9d9a-1a687fe3f447\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "69",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "69",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "36",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wormadam-trash",
+      "DisplayName": "Trash Wormadam",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

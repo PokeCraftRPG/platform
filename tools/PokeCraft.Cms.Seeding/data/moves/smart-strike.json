@@ -1,0 +1,24 @@
+﻿{
+  "Id": "ac88f50d-9e9e-485c-8580-bcf7707b8435",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "smart-strike",
+    "DisplayName": "Smart Strike",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "70",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "smart-strike",
+      "DisplayName": "Smart Strike",
+      "Description": "The user stabs the target with a sharp horn. This attack never misses.",
+      "FieldValues": {}
+    }
+  }
+}

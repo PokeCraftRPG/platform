@@ -1,0 +1,19 @@
+﻿{
+  "Id": "7b7f445f-0584-452d-ae34-0b472382a706",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skill-link",
+    "DisplayName": "Skill Link",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skill-link",
+      "DisplayName": "Skill Link",
+      "Description": "Maximizes the number of times multistrike moves hit.",
+      "FieldValues": {}
+    }
+  }
+}

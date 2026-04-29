@@ -1,0 +1,26 @@
+﻿{
+  "Id": "91fb42a5-bb37-41f3-835d-9e89da0fb77f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "happiny",
+    "DisplayName": "Happiny",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"129b0bdc-13f0-4db7-9281-ef0f908f808e\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "happiny",
+      "DisplayName": "Happiny",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Playhouse"
+      }
+    }
+  }
+}

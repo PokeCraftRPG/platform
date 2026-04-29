@@ -1,0 +1,25 @@
+﻿{
+  "Id": "f0590d8e-4d2e-4ec5-87e7-a2856b426c35",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "future-sight",
+    "DisplayName": "Future Sight",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "future-sight",
+      "DisplayName": "Future Sight",
+      "Description": "Two turns after this move is used, a hunk of psychic energy attacks the target.",
+      "FieldValues": {}
+    }
+  }
+}

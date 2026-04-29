@@ -1,0 +1,26 @@
+﻿{
+  "Id": "02b21775-19d9-4cef-a456-e5d2a03b276f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spearow",
+    "DisplayName": "Spearow",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"80187547-6485-4b8a-b7cc-ad6444408b79\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spearow",
+      "DisplayName": "Spearow",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tiny Bird"
+      }
+    }
+  }
+}

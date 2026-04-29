@@ -1,0 +1,19 @@
+﻿{
+  "Id": "793c8451-1c4b-4f67-8dfd-f874fac318f9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tera-shift",
+    "DisplayName": "Tera Shift",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tera-shift",
+      "DisplayName": "Tera Shift",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

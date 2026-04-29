@@ -1,0 +1,27 @@
+﻿{
+  "Id": "652057de-0bd4-463f-8be1-ca7e108186d6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lillipup",
+    "DisplayName": "Lillipup",
+    "Description": null,
+    "FieldValues": {
+      "Number": "506",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lillipup",
+      "DisplayName": "Lillipup",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

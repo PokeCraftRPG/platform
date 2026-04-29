@@ -1,0 +1,25 @@
+﻿{
+  "Id": "0e4b60cb-b8cf-4549-8a57-bdd2fdac7010",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bind",
+    "DisplayName": "Bind",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "85",
+      "Power": "15",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bind",
+      "DisplayName": "Bind",
+      "Description": "A long body, tentacles, or the like are used to bind and squeeze the target for four to five turns.",
+      "FieldValues": {}
+    }
+  }
+}

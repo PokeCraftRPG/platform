@@ -1,0 +1,27 @@
+﻿{
+  "Id": "6e6a3ca2-bce4-446f-afa1-5e5e12b6e65c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "diancie",
+    "DisplayName": "Diancie",
+    "Description": null,
+    "FieldValues": {
+      "Number": "719",
+      "Category": "[\"Mythical\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "diancie",
+      "DisplayName": "Diancie",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

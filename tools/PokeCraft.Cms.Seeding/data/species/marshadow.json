@@ -1,0 +1,27 @@
+﻿{
+  "Id": "7f4a0815-749d-4c1e-8b82-a82505b78059",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "marshadow",
+    "DisplayName": "Marshadow",
+    "Description": null,
+    "FieldValues": {
+      "Number": "802",
+      "Category": "[\"Mythical\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "marshadow",
+      "DisplayName": "Marshadow",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

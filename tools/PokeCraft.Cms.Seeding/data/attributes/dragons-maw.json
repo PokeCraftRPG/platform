@@ -1,0 +1,19 @@
+﻿{
+  "Id": "9d5aa7da-f66a-4265-8ecf-6b3ee58e5006",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragons-maw",
+    "DisplayName": "Dragon’s Maw",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragons-maw",
+      "DisplayName": "Dragon’s Maw",
+      "Description": "Powers up Dragon-type moves.",
+      "FieldValues": {}
+    }
+  }
+}

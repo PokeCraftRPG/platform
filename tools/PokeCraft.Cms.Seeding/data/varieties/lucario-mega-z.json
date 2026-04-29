@@ -1,0 +1,26 @@
+﻿{
+  "Id": "bb71f53b-ce96-4471-b38c-83d489ec06ab",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lucario-mega-z",
+    "DisplayName": "Lucario",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"297ba1b6-2802-4c72-a88f-9c29c8558a62\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lucario-mega-z",
+      "DisplayName": "Lucario",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Aura"
+      }
+    }
+  }
+}

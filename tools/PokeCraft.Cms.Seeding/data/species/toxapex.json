@@ -1,0 +1,27 @@
+﻿{
+  "Id": "15afa5cb-20b7-4767-83ae-e205f7dfc5c9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toxapex",
+    "DisplayName": "Toxapex",
+    "Description": null,
+    "FieldValues": {
+      "Number": "748",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toxapex",
+      "DisplayName": "Toxapex",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

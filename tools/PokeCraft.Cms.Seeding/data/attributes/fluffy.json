@@ -1,0 +1,19 @@
+﻿{
+  "Id": "fb7066f4-554f-4f05-8921-e5198d35baf7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fluffy",
+    "DisplayName": "Fluffy",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fluffy",
+      "DisplayName": "Fluffy",
+      "Description": "Halves the damage taken from moves that make direct contact, but doubles that of Fire-type moves.",
+      "FieldValues": {}
+    }
+  }
+}

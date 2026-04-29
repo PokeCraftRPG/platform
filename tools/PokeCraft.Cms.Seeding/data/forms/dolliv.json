@@ -1,0 +1,42 @@
+﻿{
+  "Id": "03c62fca-955b-4e36-b77b-100bab5b1268",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dolliv",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c322da1c-cda9-4ba1-a222-8eb04669b7bf\"]",
+      "Height": "6",
+      "Weight": "119",
+      "YieldExperience": "124",
+      "PrimaryAbility": "[\"922cb4e0-72ea-40f7-b6c5-6fbefa939214\"]",
+      "HiddenAbility": "[\"173ca115-de73-4599-a301-8ac567198f12\"]",
+      "BaseHP": "52",
+      "YieldHP": "0",
+      "BaseAttack": "53",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "78",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "78",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "33",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dolliv",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

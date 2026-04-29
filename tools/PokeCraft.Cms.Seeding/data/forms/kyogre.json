@@ -1,0 +1,40 @@
+﻿{
+  "Id": "28980885-7397-4959-8bae-26160b53ce8b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kyogre",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ea14ea9d-cbd4-41f1-9d8b-1aa3a1c08e44\"]",
+      "Height": "45",
+      "Weight": "3520",
+      "YieldExperience": "302",
+      "PrimaryAbility": "[\"4e10a4cc-0c01-4d26-82fa-8d912b60647b\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "150",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "140",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kyogre",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

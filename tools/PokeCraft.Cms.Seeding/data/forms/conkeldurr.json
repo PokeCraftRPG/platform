@@ -1,0 +1,42 @@
+﻿{
+  "Id": "784a5d15-e558-4076-804a-0362fbfcae05",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "conkeldurr",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"275e9d77-514a-4bee-b2ea-cd5fd828ce46\"]",
+      "Height": "14",
+      "Weight": "870",
+      "YieldExperience": "227",
+      "PrimaryAbility": "[\"1c326e45-7c1a-4f8a-a55c-751b60f62f10\"]",
+      "SecondaryAbility": "[\"ef348627-bea1-4c87-9bf1-417ed3b66855\"]",
+      "HiddenAbility": "[\"e3b961ab-87de-40fc-9d8d-95dda45c14df\"]",
+      "BaseHP": "105",
+      "YieldHP": "0",
+      "BaseAttack": "140",
+      "YieldAttack": "3",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "conkeldurr",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

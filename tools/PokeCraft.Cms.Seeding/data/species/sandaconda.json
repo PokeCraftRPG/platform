@@ -1,0 +1,28 @@
+﻿{
+  "Id": "dd48ff75-e0eb-4fb3-97e4-6c154065ddad",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sandaconda",
+    "DisplayName": "Sandaconda",
+    "Description": null,
+    "FieldValues": {
+      "Number": "844",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sandaconda",
+      "DisplayName": "Sandaconda",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

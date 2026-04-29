@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f8641c8e-9d29-4212-8135-88dc6fa9a5ca",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "charcadet",
+    "DisplayName": "Charcadet",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4bdb319b-6925-4eec-ab8a-7f3d28bc7c1f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "charcadet",
+      "DisplayName": "Charcadet",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fire Child"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a9e258e8-faf1-42c3-8ca5-949897b24076",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "munchlax",
+    "DisplayName": "Munchlax",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ef36b6a4-8808-48ad-a5f4-099c74a21ecc\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "munchlax",
+      "DisplayName": "Munchlax",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Big Eater"
+      }
+    }
+  }
+}

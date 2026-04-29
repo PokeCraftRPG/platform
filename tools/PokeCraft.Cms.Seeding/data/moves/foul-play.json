@@ -1,0 +1,25 @@
+﻿{
+  "Id": "4902dd73-f082-449e-9da8-8dc4f9b1cd2e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "foul-play",
+    "DisplayName": "Foul Play",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "95",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "foul-play",
+      "DisplayName": "Foul Play",
+      "Description": "The user turns the target's strength against it. The higher the target's Attack stat, the greater the damage this move inflicts.",
+      "FieldValues": {}
+    }
+  }
+}

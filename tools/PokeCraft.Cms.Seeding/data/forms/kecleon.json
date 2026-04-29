@@ -1,0 +1,41 @@
+﻿{
+  "Id": "79f49c8e-edb4-4f27-bc8b-7a09669c6b1b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kecleon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4d2555ba-4da8-46fc-90a8-5f303c0bdc1e\"]",
+      "Height": "10",
+      "Weight": "220",
+      "YieldExperience": "154",
+      "PrimaryAbility": "[\"963ea42c-14da-4d3b-8eba-9fb50c76b215\"]",
+      "HiddenAbility": "[\"65291225-4bca-4334-a235-9f7d9e09f7a2\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "120",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kecleon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

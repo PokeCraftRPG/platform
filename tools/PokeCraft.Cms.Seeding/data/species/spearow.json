@@ -1,0 +1,27 @@
+﻿{
+  "Id": "80187547-6485-4b8a-b7cc-ad6444408b79",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spearow",
+    "DisplayName": "Spearow",
+    "Description": null,
+    "FieldValues": {
+      "Number": "21",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spearow",
+      "DisplayName": "Spearow",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

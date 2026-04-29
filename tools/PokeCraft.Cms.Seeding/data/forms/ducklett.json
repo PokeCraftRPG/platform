@@ -1,0 +1,43 @@
+﻿{
+  "Id": "d10d526c-29f2-4119-a122-155c659fdc95",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ducklett",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6ddc8be9-91a5-4b6f-a7b6-c0a9becc499a\"]",
+      "Height": "5",
+      "Weight": "55",
+      "YieldExperience": "61",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "SecondaryAbility": "[\"15e51a3f-bb28-4ca8-abdf-27130d9930b4\"]",
+      "HiddenAbility": "[\"14243d95-6028-489e-acf7-18592c5695c2\"]",
+      "BaseHP": "62",
+      "YieldHP": "1",
+      "BaseAttack": "44",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "44",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ducklett",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d3f1b54e-fdfc-465b-a974-73cee0217dae",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "moltres",
+    "DisplayName": "Moltres",
+    "Description": null,
+    "FieldValues": {
+      "Number": "146",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "80",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "moltres",
+      "DisplayName": "Moltres",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

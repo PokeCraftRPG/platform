@@ -1,0 +1,25 @@
+﻿{
+  "Id": "55101383-c533-4e9b-a0d9-ea8506b83f80",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "diancie",
+    "DisplayName": "Diancie",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6e6a3ca2-bce4-446f-afa1-5e5e12b6e65c\"]",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "diancie",
+      "DisplayName": "Diancie",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Jewel"
+      }
+    }
+  }
+}

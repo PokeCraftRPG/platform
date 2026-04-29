@@ -1,0 +1,27 @@
+﻿{
+  "Id": "276629f2-a0ed-47f8-90cb-4ca2846dc0d1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kleavor",
+    "DisplayName": "Kleavor",
+    "Description": null,
+    "FieldValues": {
+      "Number": "900",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "115",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kleavor",
+      "DisplayName": "Kleavor",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1fad9a28-1ed7-4145-ad58-3184afa5e528",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gliscor",
+    "DisplayName": "Gliscor",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d4f383c6-1ce4-4c0a-b582-861e1d9e5e15\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gliscor",
+      "DisplayName": "Gliscor",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fang Scorpion"
+      }
+    }
+  }
+}

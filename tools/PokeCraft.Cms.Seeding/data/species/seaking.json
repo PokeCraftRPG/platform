@@ -1,0 +1,27 @@
+﻿{
+  "Id": "838bde7b-5a73-4b3c-81c1-bc9129264b1a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "seaking",
+    "DisplayName": "Seaking",
+    "Description": null,
+    "FieldValues": {
+      "Number": "119",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "seaking",
+      "DisplayName": "Seaking",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

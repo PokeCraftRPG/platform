@@ -1,0 +1,23 @@
+﻿{
+  "Id": "8e361a2b-2acf-4835-8c0f-44de2ccdd044",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "jungle-healing",
+    "DisplayName": "Jungle Healing",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "jungle-healing",
+      "DisplayName": "Jungle Healing",
+      "Description": "The user becomes one with the jungle, restoring HP and curing status conditions for itself and its ally Pokémon currently in the battle.",
+      "FieldValues": {}
+    }
+  }
+}

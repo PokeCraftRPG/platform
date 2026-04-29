@@ -1,0 +1,28 @@
+﻿{
+  "Id": "e6f4f962-5634-467b-82a6-f9b46fb5fc6e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "togedemaru",
+    "DisplayName": "Togedemaru",
+    "Description": null,
+    "FieldValues": {
+      "Number": "777",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "180",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "togedemaru",
+      "DisplayName": "Togedemaru",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9a9e5c36-872c-45ff-bb22-0af4d4ad1b87",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blissey",
+    "DisplayName": "Blissey",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"17db8831-92c4-4bd9-8c1d-c1d5e28ff839\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blissey",
+      "DisplayName": "Blissey",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Happiness"
+      }
+    }
+  }
+}

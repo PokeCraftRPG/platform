@@ -1,0 +1,27 @@
+﻿{
+  "Id": "16646451-7076-40ee-827d-696af7598f56",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "conkeldurr",
+    "DisplayName": "Conkeldurr",
+    "Description": null,
+    "FieldValues": {
+      "Number": "534",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "conkeldurr",
+      "DisplayName": "Conkeldurr",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "2f97bac1-0c0f-46b0-897d-d523fa29578e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "earth-power",
+    "DisplayName": "Earth Power",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "earth-power",
+      "DisplayName": "Earth Power",
+      "Description": "The user makes the ground under the target erupt with power. This may also lower the target's Sp. Def stat.",
+      "FieldValues": {}
+    }
+  }
+}

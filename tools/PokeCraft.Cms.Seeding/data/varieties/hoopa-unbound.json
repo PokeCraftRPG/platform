@@ -1,0 +1,25 @@
+﻿{
+  "Id": "df371e1c-5f0c-4a4c-85ec-afd2be8cda6f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hoopa-unbound",
+    "DisplayName": "Hoopa",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b723fb02-eb60-4bbe-9fa7-e5fb56f36f3e\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hoopa-unbound",
+      "DisplayName": "Hoopa",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mischief"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "93ceee25-109b-4c26-a424-dbfcfd0e920c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ingrain",
+    "DisplayName": "Ingrain",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ingrain",
+      "DisplayName": "Ingrain",
+      "Description": "The user lays roots that restore its own HP every turn. Because the user is now rooted, it can't switch out.",
+      "FieldValues": {}
+    }
+  }
+}

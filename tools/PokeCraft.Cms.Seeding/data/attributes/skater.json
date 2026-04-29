@@ -1,0 +1,19 @@
+﻿{
+  "Id": "10385879-a177-4a76-b442-25af2aca3f46",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skater",
+    "DisplayName": "Skater",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skater",
+      "DisplayName": "Skater",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

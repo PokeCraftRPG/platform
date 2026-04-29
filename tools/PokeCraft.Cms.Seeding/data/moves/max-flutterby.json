@@ -1,0 +1,24 @@
+﻿{
+  "Id": "9178c54e-82df-4171-8ef6-fd23e98901be",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "max-flutterby",
+    "DisplayName": "Max Flutterby",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "10",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "max-flutterby",
+      "DisplayName": "Max Flutterby",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

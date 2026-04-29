@@ -1,0 +1,27 @@
+﻿{
+  "Id": "9c7da31e-3388-48cd-9138-181e094786f8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zigzagoon",
+    "DisplayName": "Zigzagoon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "263",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zigzagoon",
+      "DisplayName": "Zigzagoon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

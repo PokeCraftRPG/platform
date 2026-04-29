@@ -1,0 +1,41 @@
+﻿{
+  "Id": "b4936f65-7567-419f-ad72-5a31e9a30460",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chien-pao",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7e35482b-0795-4ac8-9be1-86d2c4cca921\"]",
+      "Height": "19",
+      "Weight": "1522",
+      "YieldExperience": "285",
+      "PrimaryAbility": "[\"5e485c54-c31e-47e5-a83b-fca808e9c060\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "90",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "135",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chien-pao",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "f844ddf6-ae53-417f-8700-b74f7b35d4da",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "water-sport",
+    "DisplayName": "Water Sport",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "water-sport",
+      "DisplayName": "Water Sport",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

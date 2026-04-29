@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6eee33e2-bcfa-4d98-bbf8-30b8e844cc18",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "metapod",
+    "DisplayName": "Metapod",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"752db4db-daa2-48bd-a71d-76100f6d68bd\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "metapod",
+      "DisplayName": "Metapod",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cocoon"
+      }
+    }
+  }
+}

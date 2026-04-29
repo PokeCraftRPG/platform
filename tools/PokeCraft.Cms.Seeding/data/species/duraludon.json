@@ -1,0 +1,28 @@
+﻿{
+  "Id": "c0a322a7-f280-4c78-8478-0cc6bf1c8177",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "duraludon",
+    "DisplayName": "Duraludon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "884",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Mineral\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "duraludon",
+      "DisplayName": "Duraludon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

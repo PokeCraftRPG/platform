@@ -1,0 +1,24 @@
+﻿{
+  "Id": "508581ed-4751-424a-8140-8d9b186e6a38",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sonic-boom",
+    "DisplayName": "Sonic Boom",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "90",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sonic-boom",
+      "DisplayName": "Sonic Boom",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

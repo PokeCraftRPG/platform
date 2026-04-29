@@ -1,0 +1,25 @@
+﻿{
+  "Id": "932827af-8851-4469-9388-e5a341183090",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mega-punch",
+    "DisplayName": "Mega Punch",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "85",
+      "Power": "80",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mega-punch",
+      "DisplayName": "Mega Punch",
+      "Description": "The target is slugged by a punch thrown with muscle-packed power.",
+      "FieldValues": {}
+    }
+  }
+}

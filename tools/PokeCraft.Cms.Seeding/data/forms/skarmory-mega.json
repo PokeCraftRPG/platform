@@ -1,0 +1,40 @@
+﻿{
+  "Id": "49a96526-ef68-4ce4-a8d3-2ed0cb741866",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skarmory-mega",
+    "DisplayName": "Mega Skarmory",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f9e9754c-41d7-47fe-bc39-64ae380a6022\"]",
+      "Height": "17",
+      "Weight": "404",
+      "PrimaryAbility": "[\"2d79c523-5ef7-4cb9-bdab-70a71bdbdd99\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "140",
+      "YieldAttack": "0",
+      "BaseDefense": "110",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "110",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skarmory-mega",
+      "DisplayName": "Mega Skarmory",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

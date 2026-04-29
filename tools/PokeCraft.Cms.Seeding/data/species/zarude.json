@@ -1,0 +1,27 @@
+﻿{
+  "Id": "08e5b2d9-daeb-4f44-9a11-9fde2ea0a137",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zarude",
+    "DisplayName": "Zarude",
+    "Description": null,
+    "FieldValues": {
+      "Number": "893",
+      "Category": "[\"Mythical\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zarude",
+      "DisplayName": "Zarude",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

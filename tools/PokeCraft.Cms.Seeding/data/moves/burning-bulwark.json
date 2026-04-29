@@ -1,0 +1,25 @@
+﻿{
+  "Id": "9c30ca55-9290-4599-90d4-2695023a820f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "burning-bulwark",
+    "DisplayName": "Burning Bulwark",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "0",
+      "Power": "0",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "burning-bulwark",
+      "DisplayName": "Burning Bulwark",
+      "Description": "The user's intensely hot fur protects it from attacks and also burns any attacker that makes direct contact with it.",
+      "FieldValues": {}
+    }
+  }
+}

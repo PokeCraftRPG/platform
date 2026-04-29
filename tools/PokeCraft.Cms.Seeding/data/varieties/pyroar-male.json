@@ -1,0 +1,26 @@
+﻿{
+  "Id": "30727977-feca-43c1-a852-5f97ae12f65e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pyroar-male",
+    "DisplayName": "Pyroar",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"be19ace4-f78c-4508-8d92-77ca596222dd\"]",
+      "GenderRatio": "1",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pyroar-male",
+      "DisplayName": "Pyroar",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Royal"
+      }
+    }
+  }
+}

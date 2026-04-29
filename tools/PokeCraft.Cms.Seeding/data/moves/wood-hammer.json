@@ -1,0 +1,25 @@
+﻿{
+  "Id": "3246f134-9dae-48b8-bb73-b6fcf3daf111",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wood-hammer",
+    "DisplayName": "Wood Hammer",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wood-hammer",
+      "DisplayName": "Wood Hammer",
+      "Description": "The user slams its rugged body into the target to attack. This also damages the user quite a lot.",
+      "FieldValues": {}
+    }
+  }
+}

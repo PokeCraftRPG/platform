@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c74b5f51-5c68-4aec-8d81-61b66a22fcf4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "farfetchd",
+    "DisplayName": "Farfetch’d",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d0d6e551-dd7d-4ba6-8e7e-d1f8b2c5cf65\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "farfetchd",
+      "DisplayName": "Farfetch’d",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Wild Duck"
+      }
+    }
+  }
+}

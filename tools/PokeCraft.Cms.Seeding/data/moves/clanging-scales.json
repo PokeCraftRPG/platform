@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6ecdf543-9e21-4db2-ae78-e6a232631e9a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clanging-scales",
+    "DisplayName": "Clanging Scales",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "110",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clanging-scales",
+      "DisplayName": "Clanging Scales",
+      "Description": "The user rubs the scales on its entire body and makes a huge noise to attack opposing Pokémon. The user's Defense stat is lowered after the attack.",
+      "FieldValues": {}
+    }
+  }
+}

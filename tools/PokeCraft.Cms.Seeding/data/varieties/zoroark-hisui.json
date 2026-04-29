@@ -1,0 +1,26 @@
+﻿{
+  "Id": "30c9e19b-a6aa-4145-ab10-7a741be748d5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zoroark-hisui",
+    "DisplayName": "Zoroark",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b9c18ca6-3a31-47d0-8904-286fbdf4dad0\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zoroark-hisui",
+      "DisplayName": "Zoroark",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Illusion Fox"
+      }
+    }
+  }
+}

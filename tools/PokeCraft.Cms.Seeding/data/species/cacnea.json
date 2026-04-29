@@ -1,0 +1,28 @@
+﻿{
+  "Id": "9b2f9c32-3a6e-4a50-8397-45d199f4dc28",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cacnea",
+    "DisplayName": "Cacnea",
+    "Description": null,
+    "FieldValues": {
+      "Number": "331",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]",
+      "SecondaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cacnea",
+      "DisplayName": "Cacnea",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

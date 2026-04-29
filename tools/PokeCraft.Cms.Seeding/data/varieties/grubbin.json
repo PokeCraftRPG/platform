@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e53cdf9a-9fde-4148-9f05-744658614a09",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grubbin",
+    "DisplayName": "Grubbin",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6c2d553a-1430-4dab-866f-ca2249574dc7\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grubbin",
+      "DisplayName": "Grubbin",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Larva"
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+﻿{
+  "Id": "7f8b523f-7706-4cc0-8bcf-1f7a7aa59ec5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "absol-mega",
+    "DisplayName": "Mega Absol",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"62ecb256-cc8b-42b5-928e-101d0cb0b1e3\"]",
+      "Height": "12",
+      "Weight": "490",
+      "YieldExperience": "198",
+      "PrimaryAbility": "[\"67f51e12-608d-4075-9293-523b122271f5\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "150",
+      "YieldAttack": "2",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "115",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "115",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "absol-mega",
+      "DisplayName": "Mega Absol",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

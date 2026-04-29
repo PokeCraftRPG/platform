@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3bb7079f-6397-4b23-b77a-45fee1514b47",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragapult",
+    "DisplayName": "Dragapult",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f4119f78-8e17-4f13-a919-466b915e2deb\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragapult",
+      "DisplayName": "Dragapult",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Stealth"
+      }
+    }
+  }
+}

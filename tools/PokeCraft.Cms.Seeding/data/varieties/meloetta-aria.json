@@ -1,0 +1,25 @@
+﻿{
+  "Id": "8315d0b1-c2f7-479a-b8d4-89cc27776cc7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meloetta-aria",
+    "DisplayName": "Meloetta",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"349df19d-4e67-400e-b2d9-88b27b6c7f1b\"]",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meloetta-aria",
+      "DisplayName": "Meloetta",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Melody"
+      }
+    }
+  }
+}

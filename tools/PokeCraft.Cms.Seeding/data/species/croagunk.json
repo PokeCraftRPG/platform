@@ -1,0 +1,27 @@
+﻿{
+  "Id": "b4c4dca0-9d51-4cf9-8313-2e85fa868dcc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "croagunk",
+    "DisplayName": "Croagunk",
+    "Description": null,
+    "FieldValues": {
+      "Number": "453",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "100",
+      "CatchRate": "140",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "croagunk",
+      "DisplayName": "Croagunk",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

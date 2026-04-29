@@ -1,0 +1,19 @@
+﻿{
+  "Id": "e0a4917c-57f5-4c38-be65-1ce0617b53aa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "as-one-glastrier",
+    "DisplayName": "As One",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "as-one-glastrier",
+      "DisplayName": "As One",
+      "Description": "This Ability combines the effects of both Calyrex's Unnerve Ability and Glastrier's Chilling Neigh Ability.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "8e24954f-4a87-4c76-bc8a-69ce033d99f0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ursaring",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c0ff1a20-3574-45c6-b357-a334701dbe35\"]",
+      "Height": "18",
+      "Weight": "1258",
+      "YieldExperience": "175",
+      "PrimaryAbility": "[\"1c326e45-7c1a-4f8a-a55c-751b60f62f10\"]",
+      "SecondaryAbility": "[\"69ed006e-469a-417a-824a-dd844d36ba47\"]",
+      "HiddenAbility": "[\"5cdb3b5f-b72c-4361-b715-922fc4cb31f9\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "130",
+      "YieldAttack": "2",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ursaring",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

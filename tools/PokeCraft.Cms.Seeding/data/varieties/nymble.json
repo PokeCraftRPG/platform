@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ee600c2a-f52a-4330-83ca-6313c6318196",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nymble",
+    "DisplayName": "Nymble",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c43c610f-172e-49f9-81be-704d7e66b912\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nymble",
+      "DisplayName": "Nymble",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Grasshopper"
+      }
+    }
+  }
+}

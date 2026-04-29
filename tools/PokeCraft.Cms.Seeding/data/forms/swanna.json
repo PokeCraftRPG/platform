@@ -1,0 +1,43 @@
+﻿{
+  "Id": "a0ab8cc4-d882-4550-b95b-177585018b8d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swanna",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"87fc79f1-1792-4b0e-95b8-3f8b0ddcb433\"]",
+      "Height": "13",
+      "Weight": "242",
+      "YieldExperience": "166",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "SecondaryAbility": "[\"15e51a3f-bb28-4ca8-abdf-27130d9930b4\"]",
+      "HiddenAbility": "[\"14243d95-6028-489e-acf7-18592c5695c2\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "87",
+      "YieldAttack": "0",
+      "BaseDefense": "63",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "87",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "63",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "98",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swanna",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

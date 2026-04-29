@@ -1,0 +1,41 @@
+﻿{
+  "Id": "bf964f85-d3dc-4cb8-a6e7-02e742fba31e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fidough",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5a51b9e7-c898-46c8-aa67-cfd0401e54e9\"]",
+      "Height": "3",
+      "Weight": "109",
+      "YieldExperience": "62",
+      "PrimaryAbility": "[\"1d2b3915-c19d-4017-baac-19e24cc4b20a\"]",
+      "HiddenAbility": "[\"0d470a82-2040-4e95-8e52-999c26f4514d\"]",
+      "BaseHP": "37",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fidough",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

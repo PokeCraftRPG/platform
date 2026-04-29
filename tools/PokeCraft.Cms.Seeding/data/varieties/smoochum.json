@@ -1,0 +1,26 @@
+﻿{
+  "Id": "33310247-fb78-4c9e-b865-26c3fa788f59",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "smoochum",
+    "DisplayName": "Smoochum",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"feaf47e0-b2ba-4310-88ff-d3d3606e25a7\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "smoochum",
+      "DisplayName": "Smoochum",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Kiss"
+      }
+    }
+  }
+}

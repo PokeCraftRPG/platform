@@ -1,0 +1,19 @@
+﻿{
+  "Id": "afeb496e-67f0-4a46-8423-9572efeb696a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hospitality",
+    "DisplayName": "Hospitality",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hospitality",
+      "DisplayName": "Hospitality",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

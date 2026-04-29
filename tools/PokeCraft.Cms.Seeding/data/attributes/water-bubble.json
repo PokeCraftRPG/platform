@@ -1,0 +1,19 @@
+﻿{
+  "Id": "c0e2cc4d-23b0-4da5-80b6-04fdd110eb85",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "water-bubble",
+    "DisplayName": "Water Bubble",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "water-bubble",
+      "DisplayName": "Water Bubble",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

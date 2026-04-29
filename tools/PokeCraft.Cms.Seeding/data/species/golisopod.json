@@ -1,0 +1,28 @@
+﻿{
+  "Id": "775bf140-7faa-4e99-86cf-03afe9dd75e7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "golisopod",
+    "DisplayName": "Golisopod",
+    "Description": null,
+    "FieldValues": {
+      "Number": "768",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]",
+      "SecondaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "golisopod",
+      "DisplayName": "Golisopod",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

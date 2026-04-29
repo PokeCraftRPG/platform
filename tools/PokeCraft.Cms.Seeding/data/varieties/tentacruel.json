@@ -1,0 +1,26 @@
+﻿{
+  "Id": "812f87bc-1b2c-450d-8036-72fa7b9ee72a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tentacruel",
+    "DisplayName": "Tentacruel",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"680be794-1a1c-49c5-b980-d74a34d39853\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tentacruel",
+      "DisplayName": "Tentacruel",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Jellyfish"
+      }
+    }
+  }
+}

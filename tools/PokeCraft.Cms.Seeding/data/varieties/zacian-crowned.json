@@ -1,0 +1,25 @@
+﻿{
+  "Id": "f033fe17-9f9d-4424-b6e9-dc173ccf33a2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zacian-crowned",
+    "DisplayName": "Zacian",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4959dd63-171a-491d-98a9-76a11d235a28\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zacian-crowned",
+      "DisplayName": "Zacian",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Warrior"
+      }
+    }
+  }
+}

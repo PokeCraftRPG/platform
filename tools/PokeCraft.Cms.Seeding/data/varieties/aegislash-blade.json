@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ee088629-9613-4607-95d8-1a9c6e26288d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aegislash-blade",
+    "DisplayName": "Aegislash",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ef630628-ed06-4d55-b0f0-3294e44316e9\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aegislash-blade",
+      "DisplayName": "Aegislash",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Royal Sword"
+      }
+    }
+  }
+}

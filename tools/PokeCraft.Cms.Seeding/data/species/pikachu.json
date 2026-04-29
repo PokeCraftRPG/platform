@@ -1,0 +1,28 @@
+﻿{
+  "Id": "9b081c4f-db6c-4c9b-b4fd-ae6099e099ad",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pikachu",
+    "DisplayName": "Pikachu",
+    "Description": null,
+    "FieldValues": {
+      "Number": "25",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pikachu",
+      "DisplayName": "Pikachu",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

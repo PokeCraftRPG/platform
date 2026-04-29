@@ -1,0 +1,43 @@
+﻿{
+  "Id": "b800bf4b-1777-4bbb-b675-33274cbe3100",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "voltorb-hisui",
+    "DisplayName": "Hisuian Voltorb",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ef783c26-a638-4cf2-b5c3-c2af2e512e7d\"]",
+      "Height": "5",
+      "Weight": "130",
+      "YieldExperience": "66",
+      "PrimaryAbility": "[\"6df60939-ffd8-4ddb-ad1e-f4add0129eeb\"]",
+      "SecondaryAbility": "[\"4d8cefa4-dbcc-4c78-b5f5-0a1c30bdb019\"]",
+      "HiddenAbility": "[\"553c341c-debe-46e1-809e-34544a36ee63\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "30",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "voltorb-hisui",
+      "DisplayName": "Hisuian Voltorb",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

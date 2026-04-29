@@ -1,0 +1,23 @@
+﻿{
+  "Id": "da12d49d-321b-4838-ae53-0456e556485b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pain-split",
+    "DisplayName": "Pain Split",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pain-split",
+      "DisplayName": "Pain Split",
+      "Description": "The user adds its HP to the target's HP, then equally splits the combined HP between the target and itself.",
+      "FieldValues": {}
+    }
+  }
+}

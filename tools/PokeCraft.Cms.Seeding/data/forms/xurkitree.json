@@ -1,0 +1,40 @@
+﻿{
+  "Id": "cf9611e2-7606-4029-97b1-e0954f9080ee",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "xurkitree",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3d115366-bdc5-44bf-83c8-a763fed5f0d2\"]",
+      "Height": "38",
+      "Weight": "1000",
+      "YieldExperience": "257",
+      "PrimaryAbility": "[\"e7ec0ce2-6979-45a9-80ab-215081d487e3\"]",
+      "BaseHP": "83",
+      "YieldHP": "0",
+      "BaseAttack": "89",
+      "YieldAttack": "0",
+      "BaseDefense": "71",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "173",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "71",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "83",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "xurkitree",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

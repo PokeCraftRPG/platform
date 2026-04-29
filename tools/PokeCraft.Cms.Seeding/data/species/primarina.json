@@ -1,0 +1,28 @@
+﻿{
+  "Id": "c6a034da-e7f7-4b1b-aaa7-9e74d31919b7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "primarina",
+    "DisplayName": "Primarina",
+    "Description": null,
+    "FieldValues": {
+      "Number": "730",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "primarina",
+      "DisplayName": "Primarina",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

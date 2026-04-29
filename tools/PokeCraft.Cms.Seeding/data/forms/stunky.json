@@ -1,0 +1,43 @@
+﻿{
+  "Id": "6224adfa-d993-492c-b33d-702828c4bef0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stunky",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7ef71e89-7567-40a4-8d9a-05bc9df2c634\"]",
+      "Height": "4",
+      "Weight": "192",
+      "YieldExperience": "66",
+      "PrimaryAbility": "[\"7cea48e5-cd7c-41df-82f9-a91772037aff\"]",
+      "SecondaryAbility": "[\"553c341c-debe-46e1-809e-34544a36ee63\"]",
+      "HiddenAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "BaseHP": "63",
+      "YieldHP": "0",
+      "BaseAttack": "63",
+      "YieldAttack": "0",
+      "BaseDefense": "47",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "41",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "41",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "74",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stunky",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

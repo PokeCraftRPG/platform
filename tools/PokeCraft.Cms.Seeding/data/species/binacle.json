@@ -1,0 +1,27 @@
+﻿{
+  "Id": "54428165-bea3-4772-97c2-9fa60d00972f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "binacle",
+    "DisplayName": "Binacle",
+    "Description": null,
+    "FieldValues": {
+      "Number": "688",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "binacle",
+      "DisplayName": "Binacle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

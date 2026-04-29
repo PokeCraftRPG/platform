@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3c94f9a4-803c-4d35-8833-23c9b955b868",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sharpedo-mega",
+    "DisplayName": "Sharpedo",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b531da99-7bd3-41c6-8b53-0159295714b5\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sharpedo-mega",
+      "DisplayName": "Sharpedo",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Brutal"
+      }
+    }
+  }
+}

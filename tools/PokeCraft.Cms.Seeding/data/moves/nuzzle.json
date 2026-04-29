@@ -1,0 +1,25 @@
+﻿{
+  "Id": "7f73eabb-d1a1-4fa8-ab09-210e06ef35d7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nuzzle",
+    "DisplayName": "Nuzzle",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "20",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nuzzle",
+      "DisplayName": "Nuzzle",
+      "Description": "The user attacks by nuzzling its electrified cheeks against the target. This also leaves the target with paralysis.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c3289636-7ca5-41aa-936c-bc2236639ef1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hypno",
+    "DisplayName": "Hypno",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"75a2ec1d-0c4c-4a51-bd4a-6e4d3b4f9462\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hypno",
+      "DisplayName": "Hypno",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Hypnosis"
+      }
+    }
+  }
+}

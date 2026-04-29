@@ -1,0 +1,26 @@
+﻿{
+  "Id": "2a070580-ef18-4ccc-9dee-ab1e0e191d5a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "basculegion-male",
+    "DisplayName": "Basculegion",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"fdbc28f2-b6a4-4ee1-bb54-6f6154b2ba7b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "basculegion-male",
+      "DisplayName": "Basculegion",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Big Fish"
+      }
+    }
+  }
+}

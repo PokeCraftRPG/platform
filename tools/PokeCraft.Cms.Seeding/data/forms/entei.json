@@ -1,0 +1,41 @@
+﻿{
+  "Id": "c560fa60-8118-4ce2-a80a-9580fb89f917",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "entei",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a8a1abaf-c534-4ba8-85d2-ce350dcffae2\"]",
+      "Height": "21",
+      "Weight": "1980",
+      "YieldExperience": "261",
+      "PrimaryAbility": "[\"04822c52-0ef2-4b5e-a4bb-176772f6c3d8\"]",
+      "HiddenAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "BaseHP": "115",
+      "YieldHP": "1",
+      "BaseAttack": "115",
+      "YieldAttack": "2",
+      "BaseDefense": "85",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "90",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "entei",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

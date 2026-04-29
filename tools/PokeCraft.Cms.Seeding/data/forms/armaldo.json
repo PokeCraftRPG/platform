@@ -1,0 +1,42 @@
+﻿{
+  "Id": "a3988917-5163-45d0-8fac-c611f296b711",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "armaldo",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"64088898-440e-486e-9547-22fa2a3f178b\"]",
+      "Height": "15",
+      "Weight": "682",
+      "YieldExperience": "173",
+      "PrimaryAbility": "[\"eb1618b5-7ebc-4d80-b57a-76484f0061da\"]",
+      "HiddenAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "125",
+      "YieldAttack": "2",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "armaldo",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

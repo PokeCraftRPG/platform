@@ -1,0 +1,43 @@
+﻿{
+  "Id": "2a8cfdb5-109e-43c8-b657-febcb8408281",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "obstagoon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6adb3d8a-ff33-47aa-adc7-55761fba5bfd\"]",
+      "Height": "16",
+      "Weight": "460",
+      "YieldExperience": "260",
+      "PrimaryAbility": "[\"3e4191ac-398f-48f3-a3ce-106d5ddd1742\"]",
+      "SecondaryAbility": "[\"1c326e45-7c1a-4f8a-a55c-751b60f62f10\"]",
+      "HiddenAbility": "[\"493ac234-5dd4-4767-9e41-8ec4cd322437\"]",
+      "BaseHP": "93",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "101",
+      "YieldDefense": "3",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "81",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "obstagoon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

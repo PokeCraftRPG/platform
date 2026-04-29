@@ -1,0 +1,26 @@
+﻿{
+  "Id": "639a4133-ec35-4563-86b1-283333dd89e0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "persian",
+    "DisplayName": "Persian",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"29fb55b0-4d93-4b4c-a106-1d024e15080e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "persian",
+      "DisplayName": "Persian",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Classy Cat"
+      }
+    }
+  }
+}

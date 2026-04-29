@@ -1,0 +1,25 @@
+﻿{
+  "Id": "8001973f-e755-407f-b8ff-e9aba910e2e8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bone-club",
+    "DisplayName": "Bone Club",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "85",
+      "Power": "65",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bone-club",
+      "DisplayName": "Bone Club",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

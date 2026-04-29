@@ -1,0 +1,25 @@
+﻿{
+  "Id": "696e83fc-d65d-4967-945a-87a0125f4aab",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drill-run",
+    "DisplayName": "Drill Run",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "95",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drill-run",
+      "DisplayName": "Drill Run",
+      "Description": "The user crashes into the target while rotating its body like a drill. This move has a heightened chance of landing a critical hit.",
+      "FieldValues": {}
+    }
+  }
+}

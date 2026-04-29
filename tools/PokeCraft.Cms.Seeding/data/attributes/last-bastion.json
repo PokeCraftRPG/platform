@@ -1,0 +1,19 @@
+﻿{
+  "Id": "ece94009-143d-42c9-89c9-f0624b09d8c9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "last-bastion",
+    "DisplayName": "Last Bastion",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "last-bastion",
+      "DisplayName": "Last Bastion",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

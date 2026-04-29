@@ -1,0 +1,25 @@
+﻿{
+  "Id": "58364f3f-6e20-4b59-8fd6-2e60960d9b8c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "electro-drift",
+    "DisplayName": "Electro Drift",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "electro-drift",
+      "DisplayName": "Electro Drift",
+      "Description": "The user races forward at ultrafast speeds, piercing its target with futuristic electricity. This move's power is boosted more than usual if it's a supereffective hit.",
+      "FieldValues": {}
+    }
+  }
+}

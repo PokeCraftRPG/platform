@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e40450c8-8689-4ab2-9cd2-977dc070200a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "onix",
+    "DisplayName": "Onix",
+    "Description": null,
+    "FieldValues": {
+      "Number": "95",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "onix",
+      "DisplayName": "Onix",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

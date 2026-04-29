@@ -1,0 +1,27 @@
+﻿{
+  "Id": "87a23f95-8c65-484b-8699-c95cd3c334a2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "purrloin",
+    "DisplayName": "Purrloin",
+    "Description": null,
+    "FieldValues": {
+      "Number": "509",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "purrloin",
+      "DisplayName": "Purrloin",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

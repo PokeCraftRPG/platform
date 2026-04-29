@@ -1,0 +1,25 @@
+﻿{
+  "Id": "f69d5981-be52-43e0-9d7e-fa19fde92aea",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "carbink",
+    "DisplayName": "Carbink",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a80b31ca-fdb3-4077-9c27-ae00e51b5c05\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "carbink",
+      "DisplayName": "Carbink",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Jewel"
+      }
+    }
+  }
+}

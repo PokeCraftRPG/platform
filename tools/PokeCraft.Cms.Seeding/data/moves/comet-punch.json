@@ -1,0 +1,25 @@
+﻿{
+  "Id": "eaf25794-7252-489b-9228-b662e0e50188",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "comet-punch",
+    "DisplayName": "Comet Punch",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "85",
+      "Power": "18",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "comet-punch",
+      "DisplayName": "Comet Punch",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

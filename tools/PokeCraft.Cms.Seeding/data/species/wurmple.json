@@ -1,0 +1,27 @@
+﻿{
+  "Id": "711ed10a-3659-425d-9155-dcfba46e72b6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wurmple",
+    "DisplayName": "Wurmple",
+    "Description": null,
+    "FieldValues": {
+      "Number": "265",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wurmple",
+      "DisplayName": "Wurmple",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c63b9454-257e-4643-812a-1077f0317a55",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wailord",
+    "DisplayName": "Wailord",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"87ea3a6a-2c29-4db3-81ce-9918e84dfd2b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wailord",
+      "DisplayName": "Wailord",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Float Whale"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "423b0161-c1f1-4b03-a8a7-ff7de849ed6b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "breakneck-blitz--special",
+    "DisplayName": "Breakneck Blitz",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Special\"]",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "breakneck-blitz--special",
+      "DisplayName": "Breakneck Blitz",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

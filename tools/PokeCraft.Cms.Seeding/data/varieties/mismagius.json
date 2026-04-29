@@ -1,0 +1,26 @@
+﻿{
+  "Id": "954f6766-c8be-4a50-a624-cd038cb07ca3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mismagius",
+    "DisplayName": "Mismagius",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2d0fe5a7-7783-4c0e-a76a-4c77138ddea4\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mismagius",
+      "DisplayName": "Mismagius",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Magical"
+      }
+    }
+  }
+}

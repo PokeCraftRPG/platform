@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e6db9d01-fca1-46fa-8271-80ed2b714adf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "unfezant",
+    "DisplayName": "Unfezant",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a765155f-9d29-4051-95e8-0739ecf26239\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "unfezant",
+      "DisplayName": "Unfezant",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Proud"
+      }
+    }
+  }
+}

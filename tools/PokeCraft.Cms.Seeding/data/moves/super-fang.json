@@ -1,0 +1,24 @@
+﻿{
+  "Id": "c13ab475-6360-4036-8c2b-7d4e8d9d1684",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "super-fang",
+    "DisplayName": "Super Fang",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "super-fang",
+      "DisplayName": "Super Fang",
+      "Description": "The user chomps hard on the target with its sharp front fangs. This cuts the target's HP in half.",
+      "FieldValues": {}
+    }
+  }
+}

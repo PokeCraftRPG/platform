@@ -1,0 +1,28 @@
+﻿{
+  "Id": "6686be7b-b6f1-4f0f-9201-41243857c19f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "castform",
+    "DisplayName": "Castform",
+    "Description": null,
+    "FieldValues": {
+      "Number": "351",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Fairy\"]",
+      "SecondaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "castform",
+      "DisplayName": "Castform",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

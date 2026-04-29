@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6af91d2d-a988-4bec-b478-f7644c292c1c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "behemoth-bash",
+    "DisplayName": "Behemoth Bash",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "behemoth-bash",
+      "DisplayName": "Behemoth Bash",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "a5cd1fe7-e816-4bad-a763-b05ca1eb6e70",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "minccino",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"284a6772-d8f2-4e1e-afdf-e3fc9fc5d505\"]",
+      "Height": "4",
+      "Weight": "58",
+      "YieldExperience": "60",
+      "PrimaryAbility": "[\"1547f00e-f05d-4d0c-98c7-9a77e75e1bf5\"]",
+      "SecondaryAbility": "[\"d20432c3-18d0-4160-a3f1-a363c9e6633d\"]",
+      "HiddenAbility": "[\"7b7f445f-0584-452d-ae34-0b472382a706\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "75",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "minccino",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

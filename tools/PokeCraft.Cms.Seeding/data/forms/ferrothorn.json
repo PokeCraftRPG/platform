@@ -1,0 +1,42 @@
+﻿{
+  "Id": "cdf53608-3840-4866-8069-68bad6af0181",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ferrothorn",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ea8c3b61-3c05-401b-a460-439f2768e42e\"]",
+      "Height": "10",
+      "Weight": "1100",
+      "YieldExperience": "171",
+      "PrimaryAbility": "[\"889ae121-b252-4176-9acd-146583e36c72\"]",
+      "HiddenAbility": "[\"6eea2506-c8b3-44c8-9082-76bec64e5880\"]",
+      "BaseHP": "74",
+      "YieldHP": "0",
+      "BaseAttack": "94",
+      "YieldAttack": "0",
+      "BaseDefense": "131",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "54",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "116",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "20",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ferrothorn",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

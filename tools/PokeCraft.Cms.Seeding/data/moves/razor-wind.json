@@ -1,0 +1,25 @@
+﻿{
+  "Id": "50fc2fb4-5256-4e37-94c8-e078ec466abf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "razor-wind",
+    "DisplayName": "Razor Wind",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "razor-wind",
+      "DisplayName": "Razor Wind",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

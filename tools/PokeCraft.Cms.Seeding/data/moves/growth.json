@@ -1,0 +1,23 @@
+﻿{
+  "Id": "7906c25a-ecc4-4782-ba8e-17f69101a81b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "growth",
+    "DisplayName": "Growth",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "growth",
+      "DisplayName": "Growth",
+      "Description": "The user's body grows all at once, boosting the Attack and Sp. Atk stats.",
+      "FieldValues": {}
+    }
+  }
+}

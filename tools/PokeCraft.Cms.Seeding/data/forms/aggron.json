@@ -1,0 +1,43 @@
+﻿{
+  "Id": "e5777e95-a045-436a-8cf4-2ff9db649d3b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aggron",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f80900cd-638c-4bb9-9445-21bc9665e947\"]",
+      "Height": "21",
+      "Weight": "3600",
+      "YieldExperience": "239",
+      "PrimaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "SecondaryAbility": "[\"98ae35ae-b156-4c2e-b4a7-8af42a8b0ef6\"]",
+      "HiddenAbility": "[\"598518b6-1116-4c2a-b768-5a90de740ff2\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "110",
+      "YieldAttack": "0",
+      "BaseDefense": "180",
+      "YieldDefense": "3",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aggron",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

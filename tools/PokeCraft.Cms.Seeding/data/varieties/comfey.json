@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b230de33-c7a5-4788-a801-c6601c79aefb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "comfey",
+    "DisplayName": "Comfey",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a71e934e-ef8a-409e-a964-9d00b36b5077\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "comfey",
+      "DisplayName": "Comfey",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Posy Picker"
+      }
+    }
+  }
+}

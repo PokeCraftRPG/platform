@@ -1,0 +1,41 @@
+﻿{
+  "Id": "d804f369-cc61-4539-8104-0188038d78eb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tarountula",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2b54eea6-24b0-4fcf-8ffe-91916a433ac7\"]",
+      "Height": "3",
+      "Weight": "40",
+      "YieldExperience": "42",
+      "PrimaryAbility": "[\"74551570-259c-470c-a9ba-64ffd0e3afad\"]",
+      "HiddenAbility": "[\"df0d1b67-be4a-45c3-9aee-f183bc1e0edd\"]",
+      "BaseHP": "35",
+      "YieldHP": "0",
+      "BaseAttack": "41",
+      "YieldAttack": "0",
+      "BaseDefense": "45",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "29",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "20",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tarountula",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

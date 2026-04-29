@@ -1,0 +1,25 @@
+﻿{
+  "Id": "bae74fa4-bd0e-4604-b83d-cf32d1c56662",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "yveltal",
+    "DisplayName": "Yveltal",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4aafc949-40f0-4d20-812d-33260e577aab\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "yveltal",
+      "DisplayName": "Yveltal",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Destruction"
+      }
+    }
+  }
+}

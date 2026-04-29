@@ -1,0 +1,25 @@
+﻿{
+  "Id": "0ace3a46-a46c-43e0-b1ef-54b9887210ba",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "acrobatics",
+    "DisplayName": "Acrobatics",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "55",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "acrobatics",
+      "DisplayName": "Acrobatics",
+      "Description": "The user nimbly strikes the target. This attack does massive damage if the user isn't holding an item.",
+      "FieldValues": {}
+    }
+  }
+}

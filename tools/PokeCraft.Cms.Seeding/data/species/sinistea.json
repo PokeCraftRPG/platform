@@ -1,0 +1,28 @@
+﻿{
+  "Id": "ee429b75-72c7-4b07-9f6f-2b16411c1ed9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sinistea",
+    "DisplayName": "Sinistea",
+    "Description": null,
+    "FieldValues": {
+      "Number": "854",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]",
+      "SecondaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sinistea",
+      "DisplayName": "Sinistea",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

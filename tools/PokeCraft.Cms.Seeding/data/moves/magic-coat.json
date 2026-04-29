@@ -1,0 +1,23 @@
+﻿{
+  "Id": "6b051ec5-b044-4b8e-b0ee-700a88082e40",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magic-coat",
+    "DisplayName": "Magic Coat",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magic-coat",
+      "DisplayName": "Magic Coat",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

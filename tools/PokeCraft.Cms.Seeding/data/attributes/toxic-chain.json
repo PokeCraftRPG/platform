@@ -1,0 +1,19 @@
+﻿{
+  "Id": "897d3f02-52df-441e-a74e-f9b4f4598da3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toxic-chain",
+    "DisplayName": "Toxic Chain",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toxic-chain",
+      "DisplayName": "Toxic Chain",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

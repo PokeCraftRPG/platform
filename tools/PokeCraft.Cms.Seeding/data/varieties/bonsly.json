@@ -1,0 +1,26 @@
+﻿{
+  "Id": "608e1457-fb37-4c86-94f4-312f54d84ef4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bonsly",
+    "DisplayName": "Bonsly",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5a5f5f3a-3cc1-4e76-af5c-25a645bac15c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bonsly",
+      "DisplayName": "Bonsly",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bonsai"
+      }
+    }
+  }
+}

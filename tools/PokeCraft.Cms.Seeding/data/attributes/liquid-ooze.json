@@ -1,0 +1,19 @@
+﻿{
+  "Id": "b482a4ff-53ed-43e3-8c96-e06c23762a48",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "liquid-ooze",
+    "DisplayName": "Liquid Ooze",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "liquid-ooze",
+      "DisplayName": "Liquid Ooze",
+      "Description": "The strong stench of the Pokémon's oozed liquid damages attackers that use HP-draining moves.",
+      "FieldValues": {}
+    }
+  }
+}

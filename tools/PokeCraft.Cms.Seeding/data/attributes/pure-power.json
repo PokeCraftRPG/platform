@@ -1,0 +1,19 @@
+﻿{
+  "Id": "820eb316-147b-47dc-860c-3308eb41e6e0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pure-power",
+    "DisplayName": "Pure Power",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pure-power",
+      "DisplayName": "Pure Power",
+      "Description": "Using its pure power, the Pokémon doubles its Attack stat.",
+      "FieldValues": {}
+    }
+  }
+}

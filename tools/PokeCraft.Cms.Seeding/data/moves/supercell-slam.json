@@ -1,0 +1,25 @@
+﻿{
+  "Id": "7fa778f6-0c7a-4510-945a-d669ec17e4f6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "supercell-slam",
+    "DisplayName": "Supercell Slam",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "95",
+      "Power": "100",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "supercell-slam",
+      "DisplayName": "Supercell Slam",
+      "Description": "The user electrifies its body and drops onto the target to inflict damage. If this move misses, the user takes damage instead.",
+      "FieldValues": {}
+    }
+  }
+}

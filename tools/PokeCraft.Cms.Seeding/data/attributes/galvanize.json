@@ -1,0 +1,19 @@
+﻿{
+  "Id": "25689f9a-42d4-4d84-8210-b4841575e186",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "galvanize",
+    "DisplayName": "Galvanize",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "galvanize",
+      "DisplayName": "Galvanize",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

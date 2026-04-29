@@ -1,0 +1,27 @@
+﻿{
+  "Id": "0705c0fb-6f05-4ebf-a19f-8118607a7c53",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nihilego",
+    "DisplayName": "Nihilego",
+    "Description": null,
+    "FieldValues": {
+      "Number": "793",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nihilego",
+      "DisplayName": "Nihilego",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

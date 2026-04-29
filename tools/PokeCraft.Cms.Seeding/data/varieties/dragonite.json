@@ -1,0 +1,26 @@
+﻿{
+  "Id": "2e13070c-86e2-4983-92c3-2434de66ec00",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragonite",
+    "DisplayName": "Dragonite",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9098a2ac-6a16-424a-99af-97b7f4434e6e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragonite",
+      "DisplayName": "Dragonite",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Dragon"
+      }
+    }
+  }
+}

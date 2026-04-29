@@ -1,0 +1,19 @@
+﻿{
+  "Id": "3c9c9307-f766-43a4-8417-851955114a4b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "honey-gather",
+    "DisplayName": "Honey Gather",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "honey-gather",
+      "DisplayName": "Honey Gather",
+      "Description": "The Pokémon may gather Honey after a battle.",
+      "FieldValues": {}
+    }
+  }
+}

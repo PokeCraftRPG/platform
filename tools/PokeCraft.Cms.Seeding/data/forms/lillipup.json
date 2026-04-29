@@ -1,0 +1,42 @@
+﻿{
+  "Id": "f49035ef-0792-4a15-9f66-04e8268bae0e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lillipup",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5f6118f7-d3de-49b4-9f83-6b825f593167\"]",
+      "Height": "4",
+      "Weight": "41",
+      "YieldExperience": "55",
+      "PrimaryAbility": "[\"45a56091-34c8-4407-8d66-a4a64e2eb101\"]",
+      "SecondaryAbility": "[\"071551b8-ee73-4742-85e8-264e82a49f57\"]",
+      "HiddenAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "1",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "25",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lillipup",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

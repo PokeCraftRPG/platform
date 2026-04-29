@@ -1,0 +1,27 @@
+﻿{
+  "Id": "324db9cd-4cff-4eca-bc1f-855829383591",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wormadam",
+    "DisplayName": "Wormadam",
+    "Description": null,
+    "FieldValues": {
+      "Number": "413",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wormadam",
+      "DisplayName": "Wormadam",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

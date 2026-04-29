@@ -1,0 +1,25 @@
+﻿{
+  "Id": "fb671cbd-f664-43e5-9779-cf13160bec2c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rotom-heat",
+    "DisplayName": "Rotom",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a623e9e5-4718-4c59-8522-ba95dbaf6121\"]",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rotom-heat",
+      "DisplayName": "Rotom",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Plasma"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "7f99d7c9-54be-46ed-8603-a8f649f78d98",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "litwick",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"24c6ef15-9d29-4b3d-8d33-aa03d82e8ad0\"]",
+      "Height": "3",
+      "Weight": "31",
+      "YieldExperience": "55",
+      "PrimaryAbility": "[\"956efecf-ecf7-4731-9df1-25171033ad13\"]",
+      "SecondaryAbility": "[\"61541bb6-568e-4dd0-b07a-56233b9fe96f\"]",
+      "HiddenAbility": "[\"0a9fa785-a966-4ed6-8ab9-a33aecd0847c\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "30",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "20",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]",
+      "SecondaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "litwick",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

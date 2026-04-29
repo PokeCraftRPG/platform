@@ -1,0 +1,26 @@
+﻿{
+  "Id": "eea7891b-7ebd-43b8-bb62-5378de935cab",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "corviknight-gmax",
+    "DisplayName": "Corviknight",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b4d40260-910f-4412-aa93-d4a9867d14a2\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "corviknight-gmax",
+      "DisplayName": "Corviknight",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Raven"
+      }
+    }
+  }
+}

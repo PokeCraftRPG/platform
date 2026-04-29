@@ -1,0 +1,28 @@
+﻿{
+  "Id": "438aae75-b766-4a1e-97c8-45deef09323f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "maushold",
+    "DisplayName": "Maushold",
+    "Description": null,
+    "FieldValues": {
+      "Number": "925",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "75",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "maushold",
+      "DisplayName": "Maushold",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

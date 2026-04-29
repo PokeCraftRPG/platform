@@ -1,0 +1,43 @@
+﻿{
+  "Id": "ebcffd04-4a89-40d8-987b-b909fec7d4fe",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spheal",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"917be08f-572e-49d4-8ff0-d8b1a5bd92f0\"]",
+      "Height": "8",
+      "Weight": "395",
+      "YieldExperience": "58",
+      "PrimaryAbility": "[\"d6fa994e-7a48-48b5-9f1f-c1b84dd3225f\"]",
+      "SecondaryAbility": "[\"c28be462-7265-4527-a8aa-85774f7eaf7b\"]",
+      "HiddenAbility": "[\"a720be5d-1a4e-4e14-8426-1ba0fc59a8ed\"]",
+      "BaseHP": "70",
+      "YieldHP": "1",
+      "BaseAttack": "40",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "25",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]",
+      "SecondaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spheal",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

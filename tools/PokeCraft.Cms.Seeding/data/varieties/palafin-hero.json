@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4d702c1f-5928-4753-9b8c-ea281f466f0c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "palafin-hero",
+    "DisplayName": "Palafin",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0c7180c4-04b4-4dcf-94aa-fc984b091166\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "palafin-hero",
+      "DisplayName": "Palafin",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Dolphin"
+      }
+    }
+  }
+}

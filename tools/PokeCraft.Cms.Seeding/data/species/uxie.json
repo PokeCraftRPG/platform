@@ -1,0 +1,27 @@
+﻿{
+  "Id": "9296da3a-a6c8-4f11-8b1e-fa64beccf056",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "uxie",
+    "DisplayName": "Uxie",
+    "Description": null,
+    "FieldValues": {
+      "Number": "480",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "140",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "80",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "uxie",
+      "DisplayName": "Uxie",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

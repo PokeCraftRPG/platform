@@ -1,0 +1,42 @@
+﻿{
+  "Id": "a2520f43-19a5-46cd-8b32-ce256d0ba6b8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "steenee",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5bed40bf-c76b-422d-8ec7-a8e06f1b04dc\"]",
+      "Height": "7",
+      "Weight": "82",
+      "YieldExperience": "102",
+      "PrimaryAbility": "[\"d724fdd9-3db1-4a76-8de7-aa696033fa20\"]",
+      "SecondaryAbility": "[\"a720be5d-1a4e-4e14-8426-1ba0fc59a8ed\"]",
+      "HiddenAbility": "[\"cd664007-8bcb-4772-9253-08beb8edb12e\"]",
+      "BaseHP": "52",
+      "YieldHP": "0",
+      "BaseAttack": "40",
+      "YieldAttack": "0",
+      "BaseDefense": "48",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "48",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "62",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "steenee",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

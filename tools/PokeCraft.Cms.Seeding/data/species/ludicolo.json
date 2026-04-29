@@ -1,0 +1,28 @@
+﻿{
+  "Id": "c8c0f415-70fa-4491-9189-5a5aa3efbf7b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ludicolo",
+    "DisplayName": "Ludicolo",
+    "Description": null,
+    "FieldValues": {
+      "Number": "272",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ludicolo",
+      "DisplayName": "Ludicolo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

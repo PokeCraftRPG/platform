@@ -1,0 +1,25 @@
+﻿{
+  "Id": "97e56be0-c640-4efa-9c10-960f8e618a5a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rage",
+    "DisplayName": "Rage",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "20",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rage",
+      "DisplayName": "Rage",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "40326144-b761-44c6-8ecd-8bed0e1bfb5f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "braviary",
+    "DisplayName": "Braviary",
+    "Description": null,
+    "FieldValues": {
+      "Number": "628",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "braviary",
+      "DisplayName": "Braviary",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

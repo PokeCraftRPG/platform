@@ -1,0 +1,42 @@
+﻿{
+  "Id": "575d6a48-2731-479c-963e-6064ee5d8f72",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lumineon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ead4425a-93ff-4834-9dd2-c63da8cfe67a\"]",
+      "Height": "12",
+      "Weight": "240",
+      "YieldExperience": "161",
+      "PrimaryAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "SecondaryAbility": "[\"f863cc47-85a0-4a65-bb10-a51733957719\"]",
+      "HiddenAbility": "[\"24615c56-6280-47e4-8568-73a412d83865\"]",
+      "BaseHP": "69",
+      "YieldHP": "0",
+      "BaseAttack": "69",
+      "YieldAttack": "0",
+      "BaseDefense": "76",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "69",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "86",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "91",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lumineon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

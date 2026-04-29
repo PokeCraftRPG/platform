@@ -1,0 +1,25 @@
+﻿{
+  "Id": "edde05fb-f746-4ec9-9bc2-db501ae378b9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "explosion",
+    "DisplayName": "Explosion",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "250",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "explosion",
+      "DisplayName": "Explosion",
+      "Description": "The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "d22ac7a6-63b3-4aee-9cf2-ba61a97e3dc3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "parental-bond",
+    "DisplayName": "Parental Bond",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "parental-bond",
+      "DisplayName": "Parental Bond",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

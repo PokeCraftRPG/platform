@@ -1,0 +1,42 @@
+﻿{
+  "Id": "bf302b3f-0911-423d-9070-8bd0b1a59b8a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "froslass",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"403b2657-5a1e-4e8f-830a-97ccd9981c15\"]",
+      "Height": "13",
+      "Weight": "266",
+      "YieldExperience": "168",
+      "PrimaryAbility": "[\"6397856d-ee55-409a-a0aa-3657039b20c4\"]",
+      "HiddenAbility": "[\"de5aabec-d7d6-43c0-9d1a-575c11318439\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "110",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "froslass",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

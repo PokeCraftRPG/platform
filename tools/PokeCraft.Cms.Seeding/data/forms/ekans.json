@@ -1,0 +1,42 @@
+﻿{
+  "Id": "b4cb2114-8408-4099-a356-14cbc823303f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ekans",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ac8b0805-63bd-4150-b44e-6fa5ac990528\"]",
+      "Height": "20",
+      "Weight": "69",
+      "YieldExperience": "58",
+      "PrimaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "SecondaryAbility": "[\"ce764204-79c4-4e66-8017-2144a4e66f3c\"]",
+      "HiddenAbility": "[\"5cdb3b5f-b72c-4361-b715-922fc4cb31f9\"]",
+      "BaseHP": "35",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "1",
+      "BaseDefense": "44",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "54",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ekans",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

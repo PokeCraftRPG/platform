@@ -1,0 +1,42 @@
+﻿{
+  "Id": "127bb879-a459-4fe9-a001-5438b941f7a8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "talonflame",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"bca2e103-4326-4d56-afe6-e0e09b25c87b\"]",
+      "Height": "12",
+      "Weight": "245",
+      "YieldExperience": "175",
+      "PrimaryAbility": "[\"61541bb6-568e-4dd0-b07a-56233b9fe96f\"]",
+      "HiddenAbility": "[\"91394e9f-f713-485c-99df-ac2c53f6a954\"]",
+      "BaseHP": "78",
+      "YieldHP": "0",
+      "BaseAttack": "81",
+      "YieldAttack": "0",
+      "BaseDefense": "71",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "74",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "69",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "126",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "talonflame",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

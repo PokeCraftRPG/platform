@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d76d0cc1-5453-4e6a-941c-6b12debf5950",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cyclizar",
+    "DisplayName": "Cyclizar",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0531c12d-32ab-4079-8c6b-4f2653c1d84b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cyclizar",
+      "DisplayName": "Cyclizar",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mount"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "722fb6fb-a347-4eb4-b74e-1bf84737ceeb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "beedrill",
+    "DisplayName": "Beedrill",
+    "Description": null,
+    "FieldValues": {
+      "Number": "15",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "beedrill",
+      "DisplayName": "Beedrill",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

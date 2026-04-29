@@ -1,0 +1,42 @@
+﻿{
+  "Id": "d3c2d11b-deb0-439e-baaf-def87815606f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "perrserker",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d9109217-4751-4da6-b47b-6e382a77bd72\"]",
+      "Height": "8",
+      "Weight": "280",
+      "YieldExperience": "154",
+      "PrimaryAbility": "[\"eb1618b5-7ebc-4d80-b57a-76484f0061da\"]",
+      "SecondaryAbility": "[\"97aefd91-1b08-4ac4-b2c7-d9c6cb7f555a\"]",
+      "HiddenAbility": "[\"da21af20-a347-4583-8229-3eec8f891827\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "110",
+      "YieldAttack": "2",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "perrserker",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

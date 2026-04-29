@@ -1,0 +1,26 @@
+﻿{
+  "Id": "201d7c78-0393-4023-9497-b2f2d8571549",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snivy",
+    "DisplayName": "Snivy",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"77502c37-598c-4a20-994a-ca6ee80c1b12\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snivy",
+      "DisplayName": "Snivy",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Grass Snake"
+      }
+    }
+  }
+}

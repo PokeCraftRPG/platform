@@ -1,0 +1,25 @@
+﻿{
+  "Id": "8dae49d1-b1ba-4cb7-81ae-9ea248090ea8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mud-bomb",
+    "DisplayName": "Mud Bomb",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "85",
+      "Power": "65",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mud-bomb",
+      "DisplayName": "Mud Bomb",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

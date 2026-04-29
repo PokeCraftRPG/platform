@@ -1,0 +1,28 @@
+﻿{
+  "Id": "f4119f78-8e17-4f13-a919-466b915e2deb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragapult",
+    "DisplayName": "Dragapult",
+    "Description": null,
+    "FieldValues": {
+      "Number": "887",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Amorphous\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragapult",
+      "DisplayName": "Dragapult",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

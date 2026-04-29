@@ -1,0 +1,19 @@
+﻿{
+  "Id": "bfda1b8f-c888-4c4c-af70-c49733be5b08",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "misty-surge",
+    "DisplayName": "Misty Surge",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "misty-surge",
+      "DisplayName": "Misty Surge",
+      "Description": "Turns the ground into Misty Terrain when the Pokémon enters a battle.",
+      "FieldValues": {}
+    }
+  }
+}

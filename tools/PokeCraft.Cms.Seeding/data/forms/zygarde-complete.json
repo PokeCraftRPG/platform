@@ -1,0 +1,41 @@
+﻿{
+  "Id": "6d28ce25-d52f-45f3-8fc2-f38d0a0a9da3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zygarde-complete",
+    "DisplayName": "Complete Zygarde",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6b66527c-6d1d-4147-a629-c9760f3b9b4e\"]",
+      "Height": "45",
+      "Weight": "6100",
+      "YieldExperience": "354",
+      "PrimaryAbility": "[\"6ddb17ba-dbb1-433c-88aa-3ab1376766ff\"]",
+      "BaseHP": "216",
+      "YieldHP": "3",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "121",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "91",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zygarde-complete",
+      "DisplayName": "Complete Zygarde",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

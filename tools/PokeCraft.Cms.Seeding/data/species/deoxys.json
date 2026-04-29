@@ -1,0 +1,27 @@
+﻿{
+  "Id": "db6b9a4c-eb0e-439c-a6ee-fd6b57b39e91",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "deoxys",
+    "DisplayName": "Deoxys",
+    "Description": null,
+    "FieldValues": {
+      "Number": "386",
+      "Category": "[\"Mythical\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "deoxys",
+      "DisplayName": "Deoxys",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "62dbddd5-214b-4b3c-933a-74194f40b08b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rollout",
+    "DisplayName": "Rollout",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Rock\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "30",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rollout",
+      "DisplayName": "Rollout",
+      "Description": "The user continually rolls into the target over five turns. This attack becomes more powerful each time it hits.",
+      "FieldValues": {}
+    }
+  }
+}

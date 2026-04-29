@@ -1,0 +1,25 @@
+﻿{
+  "Id": "873c1d11-a44b-424d-8c2e-1fa5b40d63d2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "great-tusk",
+    "DisplayName": "Great Tusk",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"31abedea-9a2b-4d8d-b1f1-9710d37a8514\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "great-tusk",
+      "DisplayName": "Great Tusk",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

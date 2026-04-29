@@ -1,0 +1,40 @@
+﻿{
+  "Id": "1e059bee-4143-485e-ad83-b6f3dc5dde86",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "regidrago",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"77d19888-7739-47b9-9e3f-9f8c6fa969dd\"]",
+      "Height": "21",
+      "Weight": "2000",
+      "YieldExperience": "290",
+      "PrimaryAbility": "[\"9d5aa7da-f66a-4265-8ecf-6b3ee58e5006\"]",
+      "BaseHP": "200",
+      "YieldHP": "3",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "regidrago",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

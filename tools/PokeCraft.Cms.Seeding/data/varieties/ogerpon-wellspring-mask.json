@@ -1,0 +1,26 @@
+﻿{
+  "Id": "65925af6-b02c-445e-9878-c69c34e2e1b9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ogerpon-wellspring-mask",
+    "DisplayName": "Ogerpon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f1f69fb1-13d8-497e-a705-3716dd9c72c5\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ogerpon-wellspring-mask",
+      "DisplayName": "Ogerpon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mask"
+      }
+    }
+  }
+}

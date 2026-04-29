@@ -1,0 +1,27 @@
+﻿{
+  "Id": "cb815a71-ab56-4ef8-b656-599dba9cddba",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sneasler",
+    "DisplayName": "Sneasler",
+    "Description": null,
+    "FieldValues": {
+      "Number": "903",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "135",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sneasler",
+      "DisplayName": "Sneasler",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

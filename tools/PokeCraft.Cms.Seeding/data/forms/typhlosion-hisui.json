@@ -1,0 +1,42 @@
+﻿{
+  "Id": "c9cffe71-3ef1-46b3-aa17-73cf321d662c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "typhlosion-hisui",
+    "DisplayName": "Hisuian Typhlosion",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"55781900-6f19-4db4-be4a-d30487862144\"]",
+      "Height": "16",
+      "Weight": "698",
+      "YieldExperience": "240",
+      "PrimaryAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "HiddenAbility": "[\"646cd171-4012-41af-b36f-69b1a3142f3e\"]",
+      "BaseHP": "73",
+      "YieldHP": "0",
+      "BaseAttack": "84",
+      "YieldAttack": "0",
+      "BaseDefense": "78",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "119",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "typhlosion-hisui",
+      "DisplayName": "Hisuian Typhlosion",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

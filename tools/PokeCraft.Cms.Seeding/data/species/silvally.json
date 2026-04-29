@@ -1,0 +1,27 @@
+﻿{
+  "Id": "6ad8b537-2449-4ac8-af41-33ea9e6bf895",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "silvally",
+    "DisplayName": "Silvally",
+    "Description": null,
+    "FieldValues": {
+      "Number": "773",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "silvally",
+      "DisplayName": "Silvally",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

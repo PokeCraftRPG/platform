@@ -1,0 +1,23 @@
+﻿{
+  "Id": "0f2f9fc1-b8ea-4613-8b09-59904952720e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "floral-healing",
+    "DisplayName": "Floral Healing",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "floral-healing",
+      "DisplayName": "Floral Healing",
+      "Description": "The user restores the target's HP by up to half its max HP. More HP is restored when the ground is Grassy Terrain.",
+      "FieldValues": {}
+    }
+  }
+}

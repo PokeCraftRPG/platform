@@ -1,0 +1,24 @@
+﻿{
+  "Id": "da69a073-ec96-418d-81f0-eac16fd8269f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "max-overgrowth",
+    "DisplayName": "Max Overgrowth",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "10",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "max-overgrowth",
+      "DisplayName": "Max Overgrowth",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

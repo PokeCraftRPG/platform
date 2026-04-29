@@ -1,0 +1,26 @@
+﻿{
+  "Id": "610f3f0d-099e-4589-9d92-a6ff2e03a49f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "morpeko-hangry",
+    "DisplayName": "Morpeko",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2499240e-3d40-496f-9f4d-7920a847087e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "morpeko-hangry",
+      "DisplayName": "Morpeko",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Two-Sided"
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "0ea0115f-86dd-411e-9da6-739b582a20e8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-jugulis",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3a043944-ea9b-4c3d-926b-e81d41c6a6bc\"]",
+      "Height": "13",
+      "Weight": "1110",
+      "YieldExperience": "285",
+      "PrimaryAbility": "[\"7cef81dc-7c42-4b31-b37d-79a7e926c4cd\"]",
+      "BaseHP": "94",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "86",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "122",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "108",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-jugulis",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

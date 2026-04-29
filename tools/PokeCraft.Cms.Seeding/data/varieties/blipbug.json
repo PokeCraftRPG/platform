@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c7888b3d-1792-4c73-b6bb-6bb387a7bfaa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blipbug",
+    "DisplayName": "Blipbug",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d76d3a76-0fc3-4428-af4b-45164e23e5a4\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blipbug",
+      "DisplayName": "Blipbug",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Larva"
+      }
+    }
+  }
+}

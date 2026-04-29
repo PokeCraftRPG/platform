@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7b7fd683-01ae-4563-bc2e-575704a42d81",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "annihilape",
+    "DisplayName": "Annihilape",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3fe57c04-9d05-4333-9a24-1e8e42cd9520\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "annihilape",
+      "DisplayName": "Annihilape",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rage Monkey"
+      }
+    }
+  }
+}

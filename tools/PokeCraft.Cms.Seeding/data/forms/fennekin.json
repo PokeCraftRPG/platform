@@ -1,0 +1,41 @@
+﻿{
+  "Id": "27621cdd-5575-4a9b-afac-a6078bbc2604",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fennekin",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b6158bd3-ee3f-44fd-91c9-e1fc4b02cd94\"]",
+      "Height": "4",
+      "Weight": "94",
+      "YieldExperience": "61",
+      "PrimaryAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "HiddenAbility": "[\"9d1934a0-3c6e-44b9-b7a4-38ccef17391a\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "62",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fennekin",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

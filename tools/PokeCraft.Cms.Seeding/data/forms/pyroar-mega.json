@@ -1,0 +1,39 @@
+﻿{
+  "Id": "ce5b0362-0870-49b4-846c-aa5e6a2b37b1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pyroar-mega",
+    "DisplayName": "Mega Pyroar",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6265ed50-6f64-4517-b32b-ce9330d73aea\"]",
+      "Height": "15",
+      "Weight": "933",
+      "BaseHP": "86",
+      "YieldHP": "0",
+      "BaseAttack": "88",
+      "YieldAttack": "0",
+      "BaseDefense": "92",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "129",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "86",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "126",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pyroar-mega",
+      "DisplayName": "Mega Pyroar",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

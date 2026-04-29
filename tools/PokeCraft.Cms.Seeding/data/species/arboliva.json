@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d8287e87-b38a-417a-892d-d30598f6ccaa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arboliva",
+    "DisplayName": "Arboliva",
+    "Description": null,
+    "FieldValues": {
+      "Number": "930",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arboliva",
+      "DisplayName": "Arboliva",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

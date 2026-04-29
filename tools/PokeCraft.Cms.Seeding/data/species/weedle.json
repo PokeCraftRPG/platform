@@ -1,0 +1,27 @@
+﻿{
+  "Id": "fdd8d651-f638-4d4f-8f7a-889020aeb438",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "weedle",
+    "DisplayName": "Weedle",
+    "Description": null,
+    "FieldValues": {
+      "Number": "13",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "weedle",
+      "DisplayName": "Weedle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿{
+  "Id": "4cd2688a-8ccd-4711-a4e8-006e0faabb7f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "malicious-moonsault",
+    "DisplayName": "Malicious Moonsault",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "180",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "malicious-moonsault",
+      "DisplayName": "Malicious Moonsault",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "7333e762-805a-4a57-ab13-b8bc1fe2058e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "polteageist",
+    "DisplayName": "Polteageist",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c391488c-66e8-4b3d-a1f9-d4662cd58c86\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "polteageist",
+      "DisplayName": "Polteageist",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Black Tea"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "2a890878-e544-4d3f-ac0c-1c15290ee60b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "run-up",
+    "DisplayName": "Run Up",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "run-up",
+      "DisplayName": "Run Up",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

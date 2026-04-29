@@ -1,0 +1,42 @@
+﻿{
+  "Id": "d54cf4d6-9e82-433c-8227-1ad2b07aadc3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "luxray",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d7574e3c-448a-4e84-89fa-d03e5389900f\"]",
+      "Height": "14",
+      "Weight": "420",
+      "YieldExperience": "235",
+      "PrimaryAbility": "[\"3bb432b8-b38c-4243-888c-20085e000f57\"]",
+      "SecondaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "HiddenAbility": "[\"1c326e45-7c1a-4f8a-a55c-751b60f62f10\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "3",
+      "BaseDefense": "79",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "79",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "luxray",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

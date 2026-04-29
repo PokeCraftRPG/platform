@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d9ada16c-b236-4243-b007-4e2ae0dd169a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wugtrio",
+    "DisplayName": "Wugtrio",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e4e34b04-39f2-4d07-9326-cfeeac09e826\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wugtrio",
+      "DisplayName": "Wugtrio",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Garden Eel"
+      }
+    }
+  }
+}

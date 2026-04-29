@@ -1,0 +1,25 @@
+﻿{
+  "Id": "4a207db4-b6bd-4d72-ad2b-b498d2b7b5ff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bounce",
+    "DisplayName": "Bounce",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "85",
+      "Power": "85",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bounce",
+      "DisplayName": "Bounce",
+      "Description": "The user bounces up high on the first turn, then drops onto the target on the next turn. This may also leave the target with paralysis.",
+      "FieldValues": {}
+    }
+  }
+}

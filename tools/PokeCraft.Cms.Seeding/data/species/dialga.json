@@ -1,0 +1,27 @@
+﻿{
+  "Id": "b4e4994e-6907-4786-a62c-ff43a82c4ab3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dialga",
+    "DisplayName": "Dialga",
+    "Description": null,
+    "FieldValues": {
+      "Number": "483",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dialga",
+      "DisplayName": "Dialga",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "384f3df4-f023-40b8-bbbb-abe4d02cbf86",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "houndstone",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2968bfd3-802f-4bbc-b92c-f2c9fe89961e\"]",
+      "Height": "20",
+      "Weight": "150",
+      "YieldExperience": "171",
+      "PrimaryAbility": "[\"1f97dbb4-7d22-4d79-b63a-492151e1f04a\"]",
+      "HiddenAbility": "[\"fb7066f4-554f-4f05-8921-e5198d35baf7\"]",
+      "BaseHP": "72",
+      "YieldHP": "0",
+      "BaseAttack": "101",
+      "YieldAttack": "2",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "97",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "68",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "houndstone",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "81366f79-d67a-4911-8c80-cb18a0723acd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "trick-room",
+    "DisplayName": "Trick Room",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "trick-room",
+      "DisplayName": "Trick Room",
+      "Description": "The user creates a bizarre area in which slower Pokémon get to move first for five turns.",
+      "FieldValues": {}
+    }
+  }
+}

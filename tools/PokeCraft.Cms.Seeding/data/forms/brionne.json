@@ -1,0 +1,41 @@
+﻿{
+  "Id": "dc0d9f83-2a41-4a53-929d-a5bfff60b71a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "brionne",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9fa311cc-272e-46d4-93cd-e4293b1424da\"]",
+      "Height": "6",
+      "Weight": "175",
+      "YieldExperience": "147",
+      "PrimaryAbility": "[\"973e0e1a-dcca-4ab1-bd25-90df209dfc63\"]",
+      "HiddenAbility": "[\"443bb68b-2ce6-486b-b19e-731be14a03ab\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "69",
+      "YieldAttack": "0",
+      "BaseDefense": "69",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "91",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "81",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "brionne",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

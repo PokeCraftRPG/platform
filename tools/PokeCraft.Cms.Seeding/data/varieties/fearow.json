@@ -1,0 +1,26 @@
+﻿{
+  "Id": "75d12fc3-c3d7-4d27-b91c-af24e5fa1bc6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fearow",
+    "DisplayName": "Fearow",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5c580517-872b-4e08-994a-79d1b28c9e73\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fearow",
+      "DisplayName": "Fearow",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Beak"
+      }
+    }
+  }
+}

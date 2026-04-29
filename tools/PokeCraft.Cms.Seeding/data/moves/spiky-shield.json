@@ -1,0 +1,23 @@
+﻿{
+  "Id": "f565c04b-9027-4cb6-994f-9ca2bc937744",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spiky-shield",
+    "DisplayName": "Spiky Shield",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spiky-shield",
+      "DisplayName": "Spiky Shield",
+      "Description": "In addition to protecting the user from attacks, this move also damages any attacker that makes direct contact.",
+      "FieldValues": {}
+    }
+  }
+}

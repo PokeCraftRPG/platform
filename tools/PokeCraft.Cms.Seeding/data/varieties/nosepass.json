@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c0316c67-17ab-47d0-bd18-cdf43cb78a10",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nosepass",
+    "DisplayName": "Nosepass",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f03877e4-a4bc-46f9-913a-73ffd921ec38\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nosepass",
+      "DisplayName": "Nosepass",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Compass"
+      }
+    }
+  }
+}

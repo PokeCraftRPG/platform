@@ -1,0 +1,40 @@
+﻿{
+  "Id": "3882e2fe-3f39-48e7-aab7-a5b840c3fa7a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zoroark",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"98d0232b-9316-4843-a11c-af7afdb56f5b\"]",
+      "Height": "16",
+      "Weight": "811",
+      "YieldExperience": "179",
+      "PrimaryAbility": "[\"cceea85b-ae3f-41c2-9547-cb15703bb8a8\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "105",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "120",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "105",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zoroark",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

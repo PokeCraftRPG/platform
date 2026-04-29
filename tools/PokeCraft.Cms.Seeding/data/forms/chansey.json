@@ -1,0 +1,42 @@
+﻿{
+  "Id": "9889b75e-aa82-4474-8fb4-043d83f3f839",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chansey",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1296c74b-b0c7-47c4-a8a3-4ecd1c261f9f\"]",
+      "Height": "11",
+      "Weight": "346",
+      "YieldExperience": "395",
+      "PrimaryAbility": "[\"aaaf5fa0-672a-4904-8e65-dc6c8ffe01b7\"]",
+      "SecondaryAbility": "[\"f1619484-cf62-4314-a26f-a79e00b5720f\"]",
+      "HiddenAbility": "[\"e28c42cc-a85f-4f82-89b2-e80210d5b4ef\"]",
+      "BaseHP": "250",
+      "YieldHP": "2",
+      "BaseAttack": "5",
+      "YieldAttack": "0",
+      "BaseDefense": "5",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "105",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chansey",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "264b4f01-6a44-4829-9d20-185234729dfc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lurantis",
+    "DisplayName": "Lurantis",
+    "Description": null,
+    "FieldValues": {
+      "Number": "754",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lurantis",
+      "DisplayName": "Lurantis",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

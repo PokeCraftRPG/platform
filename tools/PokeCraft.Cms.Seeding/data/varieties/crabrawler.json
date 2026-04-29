@@ -1,0 +1,26 @@
+﻿{
+  "Id": "16f4af89-048e-471a-8c3d-9abb1c43bf9f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "crabrawler",
+    "DisplayName": "Crabrawler",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b10851e9-fa27-47d7-8941-4ddcf1434c5b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "crabrawler",
+      "DisplayName": "Crabrawler",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Boxing"
+      }
+    }
+  }
+}

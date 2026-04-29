@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ee57f9e9-7726-4275-89e8-108b2e845310",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grimer",
+    "DisplayName": "Grimer",
+    "Description": null,
+    "FieldValues": {
+      "Number": "88",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grimer",
+      "DisplayName": "Grimer",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

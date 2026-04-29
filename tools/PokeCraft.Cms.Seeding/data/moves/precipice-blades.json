@@ -1,0 +1,25 @@
+﻿{
+  "Id": "f672bd52-d4f3-4939-bc3f-b875773043e7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "precipice-blades",
+    "DisplayName": "Precipice Blades",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "85",
+      "Power": "120",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "precipice-blades",
+      "DisplayName": "Precipice Blades",
+      "Description": "The user attacks opposing Pokémon by manifesting the power of the land in fearsome blades of stone.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6f05b3d8-8f40-4106-86c9-360017750172",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cradily",
+    "DisplayName": "Cradily",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"768e46c5-d679-49a0-9d00-6372c56c23ff\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cradily",
+      "DisplayName": "Cradily",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Barnacle"
+      }
+    }
+  }
+}

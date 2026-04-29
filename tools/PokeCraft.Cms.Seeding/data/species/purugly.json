@@ -1,0 +1,27 @@
+﻿{
+  "Id": "a8ed4233-baa0-4ba5-8e57-1f4a00c7f7ac",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "purugly",
+    "DisplayName": "Purugly",
+    "Description": null,
+    "FieldValues": {
+      "Number": "432",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "purugly",
+      "DisplayName": "Purugly",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

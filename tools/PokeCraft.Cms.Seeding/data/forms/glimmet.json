@@ -1,0 +1,42 @@
+﻿{
+  "Id": "3fd0231d-1e9b-44ea-886a-62899292b049",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glimmet",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"03200bc9-fbc8-42a5-9252-cea32a568fed\"]",
+      "Height": "7",
+      "Weight": "80",
+      "YieldExperience": "70",
+      "PrimaryAbility": "[\"d8e2f41a-732c-4569-8a01-c4544bf6a5ff\"]",
+      "HiddenAbility": "[\"4550f771-4061-4c88-bf71-92d9aaf1d6e5\"]",
+      "BaseHP": "48",
+      "YieldHP": "0",
+      "BaseAttack": "35",
+      "YieldAttack": "0",
+      "BaseDefense": "42",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "105",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glimmet",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

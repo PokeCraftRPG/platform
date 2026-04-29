@@ -1,0 +1,24 @@
+﻿{
+  "Id": "7f43934f-0bc1-4e33-b01b-3fe9ae8b3f82",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lets-snuggle-forever",
+    "DisplayName": "Let’s Snuggle Forever",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "190",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lets-snuggle-forever",
+      "DisplayName": "Let’s Snuggle Forever",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "398d0527-b687-4b9e-9c9d-81e89fd1a68e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rotom-heat",
+    "DisplayName": "Heat Rotom",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"fb671cbd-f664-43e5-9779-cf13160bec2c\"]",
+      "Height": "3",
+      "Weight": "3",
+      "YieldExperience": "182",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "107",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "105",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "107",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "86",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rotom-heat",
+      "DisplayName": "Heat Rotom",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "cfdde332-d11e-4ef8-83d5-027bdb0a1004",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "victreebel",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f00e6053-7655-4dcd-a5c2-2f0bef713060\"]",
+      "Height": "17",
+      "Weight": "155",
+      "YieldExperience": "221",
+      "PrimaryAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "HiddenAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "105",
+      "YieldAttack": "3",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "victreebel",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

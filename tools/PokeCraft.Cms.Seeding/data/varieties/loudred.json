@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5a684f19-7d01-4bea-9d9c-129dfee67979",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "loudred",
+    "DisplayName": "Loudred",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b90ebb5f-c4d3-4d02-b84f-46449428bf28\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "loudred",
+      "DisplayName": "Loudred",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Big Voice"
+      }
+    }
+  }
+}

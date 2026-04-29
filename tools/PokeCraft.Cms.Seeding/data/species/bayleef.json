@@ -1,0 +1,28 @@
+﻿{
+  "Id": "e0a784c5-858f-4965-8969-5ae634294bdf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bayleef",
+    "DisplayName": "Bayleef",
+    "Description": null,
+    "FieldValues": {
+      "Number": "153",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bayleef",
+      "DisplayName": "Bayleef",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

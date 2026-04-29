@@ -1,0 +1,26 @@
+﻿{
+  "Id": "da71c3d3-42fc-413d-8df7-4a3c5dc4fb2c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "braixen",
+    "DisplayName": "Braixen",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"078f7e42-e8f2-4ab1-b7ca-fb6b0cc6d28f\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "braixen",
+      "DisplayName": "Braixen",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fox"
+      }
+    }
+  }
+}

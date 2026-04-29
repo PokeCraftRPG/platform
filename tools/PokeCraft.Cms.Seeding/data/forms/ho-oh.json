@@ -1,0 +1,42 @@
+﻿{
+  "Id": "3f6da774-6ccb-4e86-b456-094e9aadfdf0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ho-oh",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0793fc9e-a79f-4565-acad-4b921a02cfee\"]",
+      "Height": "38",
+      "Weight": "1990",
+      "YieldExperience": "306",
+      "PrimaryAbility": "[\"04822c52-0ef2-4b5e-a4bb-176772f6c3d8\"]",
+      "HiddenAbility": "[\"3f2976c2-09ac-4c69-8b32-5d930032faba\"]",
+      "BaseHP": "106",
+      "YieldHP": "0",
+      "BaseAttack": "130",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "110",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "154",
+      "YieldSpecialDefense": "3",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ho-oh",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9752accd-0bda-4b91-845c-bb1018fd7fbd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "electrike",
+    "DisplayName": "Electrike",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a601b5f2-08da-4ca5-816c-088b0ab2f64d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "electrike",
+      "DisplayName": "Electrike",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Lightning"
+      }
+    }
+  }
+}

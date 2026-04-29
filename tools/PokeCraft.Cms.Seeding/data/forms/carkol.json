@@ -1,0 +1,43 @@
+﻿{
+  "Id": "215ceb4c-9841-4a1a-9dcc-bfa115828da3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "carkol",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f36a623b-a8bc-4683-9f46-cf85bd9e8506\"]",
+      "Height": "11",
+      "Weight": "780",
+      "YieldExperience": "144",
+      "PrimaryAbility": "[\"a9f0f6f8-3ec5-43bb-89cb-5384726469c0\"]",
+      "SecondaryAbility": "[\"61541bb6-568e-4dd0-b07a-56233b9fe96f\"]",
+      "HiddenAbility": "[\"956efecf-ecf7-4731-9df1-25171033ad13\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "carkol",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

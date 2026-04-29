@@ -1,0 +1,19 @@
+﻿{
+  "Id": "364f55f0-ba5d-48e5-89c1-f5f3ae980781",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "earth-eater",
+    "DisplayName": "Earth Eater",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "earth-eater",
+      "DisplayName": "Earth Eater",
+      "Description": "If hit by a Ground-type move, the Pokémon has its HP restored instead of taking damage.",
+      "FieldValues": {}
+    }
+  }
+}

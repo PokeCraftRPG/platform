@@ -1,0 +1,43 @@
+﻿{
+  "Id": "c8b17edc-0ef5-4918-bbc7-675b08b8dd75",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mamoswine",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0842c781-ee7a-402b-96fd-ffd9cbdc0449\"]",
+      "Height": "25",
+      "Weight": "2910",
+      "YieldExperience": "239",
+      "PrimaryAbility": "[\"a720be5d-1a4e-4e14-8426-1ba0fc59a8ed\"]",
+      "SecondaryAbility": "[\"6397856d-ee55-409a-a0aa-3657039b20c4\"]",
+      "HiddenAbility": "[\"d6fa994e-7a48-48b5-9f1f-c1b84dd3225f\"]",
+      "BaseHP": "110",
+      "YieldHP": "0",
+      "BaseAttack": "130",
+      "YieldAttack": "3",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mamoswine",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

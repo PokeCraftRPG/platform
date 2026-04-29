@@ -1,0 +1,23 @@
+﻿{
+  "Id": "1f3073ce-d5cf-4ea6-9a5e-2fec765595e5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "acid-downpour--special",
+    "DisplayName": "Acid Downpour",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Special\"]",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "acid-downpour--special",
+      "DisplayName": "Acid Downpour",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

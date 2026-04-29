@@ -1,0 +1,27 @@
+﻿{
+  "Id": "b543ee61-2d83-4e12-88f2-07cdbdd8cb95",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "caterpie",
+    "DisplayName": "Caterpie",
+    "Description": null,
+    "FieldValues": {
+      "Number": "10",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "caterpie",
+      "DisplayName": "Caterpie",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

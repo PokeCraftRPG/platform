@@ -1,0 +1,41 @@
+﻿{
+  "Id": "ac200aca-2187-4aa7-8b2e-a5057b3afa1d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "totodile",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"58d82249-eb6a-4bb2-a840-309030342bc1\"]",
+      "Height": "6",
+      "Weight": "95",
+      "YieldExperience": "63",
+      "PrimaryAbility": "[\"973e0e1a-dcca-4ab1-bd25-90df209dfc63\"]",
+      "HiddenAbility": "[\"ef348627-bea1-4c87-9bf1-417ed3b66855\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "1",
+      "BaseDefense": "64",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "44",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "48",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "43",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "totodile",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

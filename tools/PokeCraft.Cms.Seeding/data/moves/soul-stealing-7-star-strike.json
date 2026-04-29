@@ -1,0 +1,24 @@
+﻿{
+  "Id": "24aa12cb-40e0-48df-ba5f-047f9391dc00",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "soul-stealing-7-star-strike",
+    "DisplayName": "Soul-Stealing 7-Star Strike",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "195",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "soul-stealing-7-star-strike",
+      "DisplayName": "Soul-Stealing 7-Star Strike",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

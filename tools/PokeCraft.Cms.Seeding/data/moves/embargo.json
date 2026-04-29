@@ -1,0 +1,24 @@
+﻿{
+  "Id": "3d56d8d3-2f9b-4f03-9fc0-f183d170da21",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "embargo",
+    "DisplayName": "Embargo",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "embargo",
+      "DisplayName": "Embargo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

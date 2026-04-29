@@ -1,0 +1,43 @@
+﻿{
+  "Id": "099f1c9d-6a60-492e-b9bf-fdfa1ee41896",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "trumbeak",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0a48778a-b3d5-4c42-9c1e-77195bca218a\"]",
+      "Height": "6",
+      "Weight": "148",
+      "YieldExperience": "124",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "SecondaryAbility": "[\"7b7f445f-0584-452d-ae34-0b472382a706\"]",
+      "HiddenAbility": "[\"071551b8-ee73-4742-85e8-264e82a49f57\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "2",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "75",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "trumbeak",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

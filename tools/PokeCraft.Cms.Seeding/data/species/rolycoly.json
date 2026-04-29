@@ -1,0 +1,27 @@
+﻿{
+  "Id": "6bf0973f-1360-4374-856f-826f26ef099d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rolycoly",
+    "DisplayName": "Rolycoly",
+    "Description": null,
+    "FieldValues": {
+      "Number": "837",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rolycoly",
+      "DisplayName": "Rolycoly",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

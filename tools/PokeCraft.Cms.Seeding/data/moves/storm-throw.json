@@ -1,0 +1,25 @@
+﻿{
+  "Id": "9ec1c4d9-3ceb-4be9-b524-fba89c16e94a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "storm-throw",
+    "DisplayName": "Storm Throw",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "storm-throw",
+      "DisplayName": "Storm Throw",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

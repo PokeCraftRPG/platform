@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c59bd64a-73ed-4c6c-acb7-ea3687955cc1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "xatu",
+    "DisplayName": "Xatu",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"20aac082-e400-4d63-b9aa-27f47bfb00bb\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "xatu",
+      "DisplayName": "Xatu",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mystic"
+      }
+    }
+  }
+}

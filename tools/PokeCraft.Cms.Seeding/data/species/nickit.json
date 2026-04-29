@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d1c21fc6-b910-4f9d-91fc-a6fb62cd24dd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nickit",
+    "DisplayName": "Nickit",
+    "Description": null,
+    "FieldValues": {
+      "Number": "827",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "255",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nickit",
+      "DisplayName": "Nickit",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

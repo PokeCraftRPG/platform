@@ -1,0 +1,42 @@
+﻿{
+  "Id": "234f62c6-6bc3-41c3-8d9f-560f78ce6255",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "persian-alola",
+    "DisplayName": "Alolan Persian",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"090c3242-3c1b-4177-a028-8d20c37121c1\"]",
+      "Height": "11",
+      "Weight": "330",
+      "YieldExperience": "154",
+      "PrimaryAbility": "[\"ddf0f168-034f-4d76-8321-9da0318782f2\"]",
+      "SecondaryAbility": "[\"d20432c3-18d0-4160-a3f1-a363c9e6633d\"]",
+      "HiddenAbility": "[\"9c030956-19a0-4e37-8835-0484c2fa3d91\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "115",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "persian-alola",
+      "DisplayName": "Alolan Persian",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

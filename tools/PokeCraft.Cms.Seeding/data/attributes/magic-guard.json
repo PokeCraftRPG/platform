@@ -1,0 +1,19 @@
+﻿{
+  "Id": "69c09e48-92e7-44ba-99ac-01ed04423dd6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magic-guard",
+    "DisplayName": "Magic Guard",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magic-guard",
+      "DisplayName": "Magic Guard",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

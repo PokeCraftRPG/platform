@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c411e9f7-a65a-474e-8d23-2e3e609c196d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "close-combat",
+    "DisplayName": "Close Combat",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "close-combat",
+      "DisplayName": "Close Combat",
+      "Description": "The user fights the target up close, inflicting damage without guarding itself. This also lowers the user's Defense and Sp. Def stats.",
+      "FieldValues": {}
+    }
+  }
+}

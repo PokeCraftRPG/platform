@@ -1,0 +1,25 @@
+﻿{
+  "Id": "3ef9eb00-508a-4a9b-851f-0dfee917627d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wo-chien",
+    "DisplayName": "Wo-Chien",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c9978d0f-5d60-40cb-8728-21fdf41e31c8\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wo-chien",
+      "DisplayName": "Wo-Chien",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ruinous"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b96cac80-ef3c-4a53-a367-93504b503e58",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rookidee",
+    "DisplayName": "Rookidee",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3e5c215b-a00b-4e8a-867d-89fcc3de2f69\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rookidee",
+      "DisplayName": "Rookidee",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tiny Bird"
+      }
+    }
+  }
+}

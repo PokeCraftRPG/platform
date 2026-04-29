@@ -1,0 +1,40 @@
+﻿{
+  "Id": "fb5b30fe-9740-44a0-99e9-f80793b36fbf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mew",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3f66ca15-355a-42c2-a417-4c3e132dd8a0\"]",
+      "Height": "4",
+      "Weight": "40",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"f5fd746b-4285-427b-ab75-928d416a5c85\"]",
+      "BaseHP": "100",
+      "YieldHP": "3",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mew",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "57b83726-74f7-47cc-a92d-4db2ea0dc3cc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "frillish",
+    "DisplayName": "Frillish",
+    "Description": null,
+    "FieldValues": {
+      "Number": "592",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "frillish",
+      "DisplayName": "Frillish",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f8a185aa-3013-4a68-ab13-5c0fe8cf9766",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sneasel",
+    "DisplayName": "Sneasel",
+    "Description": null,
+    "FieldValues": {
+      "Number": "215",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sneasel",
+      "DisplayName": "Sneasel",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

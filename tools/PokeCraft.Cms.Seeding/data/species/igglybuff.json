@@ -1,0 +1,27 @@
+﻿{
+  "Id": "463e5351-c2eb-4c37-965f-7cf5e75a72e6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "igglybuff",
+    "DisplayName": "Igglybuff",
+    "Description": null,
+    "FieldValues": {
+      "Number": "174",
+      "Category": "[\"Baby\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "170",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "igglybuff",
+      "DisplayName": "Igglybuff",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

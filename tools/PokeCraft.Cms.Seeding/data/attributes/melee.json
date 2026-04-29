@@ -1,0 +1,19 @@
+﻿{
+  "Id": "ef089e64-ebb6-4efb-a86a-2eabbd8985cb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "melee",
+    "DisplayName": "Melee",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "melee",
+      "DisplayName": "Melee",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

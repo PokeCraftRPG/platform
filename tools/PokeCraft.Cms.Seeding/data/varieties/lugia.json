@@ -1,0 +1,25 @@
+﻿{
+  "Id": "3aea619c-9b1c-4bc5-bca1-8b81c644b0fc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lugia",
+    "DisplayName": "Lugia",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"38bd4bb0-9940-4f23-9fa7-d54055a92bd0\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lugia",
+      "DisplayName": "Lugia",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Diving"
+      }
+    }
+  }
+}

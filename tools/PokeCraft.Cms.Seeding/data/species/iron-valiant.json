@@ -1,0 +1,27 @@
+﻿{
+  "Id": "312db99a-3d42-4f08-8042-07b3678f306b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-valiant",
+    "DisplayName": "Iron Valiant",
+    "Description": null,
+    "FieldValues": {
+      "Number": "1006",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "10",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "50",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-valiant",
+      "DisplayName": "Iron Valiant",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

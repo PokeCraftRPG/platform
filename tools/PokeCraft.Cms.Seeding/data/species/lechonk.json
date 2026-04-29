@@ -1,0 +1,27 @@
+﻿{
+  "Id": "712ecdf4-f46e-44c2-8003-8a61e43ed15e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lechonk",
+    "DisplayName": "Lechonk",
+    "Description": null,
+    "FieldValues": {
+      "Number": "915",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lechonk",
+      "DisplayName": "Lechonk",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

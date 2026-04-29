@@ -1,0 +1,42 @@
+﻿{
+  "Id": "cd89ec44-8cef-487d-953d-ce2e62360c86",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stoutland",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0a0dc5ab-0406-429b-9eeb-c870b3a66b73\"]",
+      "Height": "12",
+      "Weight": "610",
+      "YieldExperience": "225",
+      "PrimaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "SecondaryAbility": "[\"1f97dbb4-7d22-4d79-b63a-492151e1f04a\"]",
+      "HiddenAbility": "[\"fa0ae125-7b24-45a0-bf28-4b447dfa5e21\"]",
+      "BaseHP": "85",
+      "YieldHP": "0",
+      "BaseAttack": "110",
+      "YieldAttack": "3",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stoutland",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

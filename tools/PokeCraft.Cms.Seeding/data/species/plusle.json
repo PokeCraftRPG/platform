@@ -1,0 +1,27 @@
+﻿{
+  "Id": "7eab249b-6cb5-4d4b-9f9d-cdaeb2e9ea79",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "plusle",
+    "DisplayName": "Plusle",
+    "Description": null,
+    "FieldValues": {
+      "Number": "311",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "200",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "plusle",
+      "DisplayName": "Plusle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

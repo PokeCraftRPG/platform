@@ -1,0 +1,41 @@
+﻿{
+  "Id": "9e2afac8-5a63-4759-b981-4ce4a2afed3f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "brute-bonnet",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ee040233-3c8d-4c15-b23a-97e519e8f9b1\"]",
+      "Height": "12",
+      "Weight": "210",
+      "YieldExperience": "285",
+      "PrimaryAbility": "[\"fd80fd8e-dbd4-4b54-bfef-8ed47d35c99e\"]",
+      "BaseHP": "111",
+      "YieldHP": "0",
+      "BaseAttack": "127",
+      "YieldAttack": "3",
+      "BaseDefense": "99",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "79",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "99",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "brute-bonnet",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

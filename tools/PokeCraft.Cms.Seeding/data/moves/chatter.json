@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6f3362e2-284a-44fe-ac87-34b469e3d6f6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chatter",
+    "DisplayName": "Chatter",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "65",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chatter",
+      "DisplayName": "Chatter",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

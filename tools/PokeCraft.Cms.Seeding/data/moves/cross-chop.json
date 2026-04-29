@@ -1,0 +1,25 @@
+﻿{
+  "Id": "48300aff-0061-40f8-8a8f-d014ee8986e9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cross-chop",
+    "DisplayName": "Cross Chop",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "80",
+      "Power": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cross-chop",
+      "DisplayName": "Cross Chop",
+      "Description": "The user delivers a double chop with its forearms crossed. This move has a heightened chance of landing a critical hit.",
+      "FieldValues": {}
+    }
+  }
+}

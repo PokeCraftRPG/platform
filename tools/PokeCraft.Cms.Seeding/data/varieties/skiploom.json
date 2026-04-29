@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7d419e87-8289-45f2-8b20-fda699ab9111",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skiploom",
+    "DisplayName": "Skiploom",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4800270b-6352-431e-9e8e-6870d305ca45\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skiploom",
+      "DisplayName": "Skiploom",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cottonweed"
+      }
+    }
+  }
+}

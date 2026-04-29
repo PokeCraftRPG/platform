@@ -1,0 +1,19 @@
+﻿{
+  "Id": "edf74466-d1c2-48d7-ab5c-4afde7124c31",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gorilla-tactics",
+    "DisplayName": "Gorilla Tactics",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gorilla-tactics",
+      "DisplayName": "Gorilla Tactics",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

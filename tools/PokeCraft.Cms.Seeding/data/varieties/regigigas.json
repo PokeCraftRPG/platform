@@ -1,0 +1,25 @@
+﻿{
+  "Id": "9e213222-0338-438d-9afd-6b81f72b5c71",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "regigigas",
+    "DisplayName": "Regigigas",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"40099555-87c4-42e6-9e8f-ecb4a78cceff\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "regigigas",
+      "DisplayName": "Regigigas",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Colossal"
+      }
+    }
+  }
+}

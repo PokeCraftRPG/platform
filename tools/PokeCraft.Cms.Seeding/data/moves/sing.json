@@ -1,0 +1,24 @@
+﻿{
+  "Id": "c6a0e942-10bb-41b0-9f03-4d2e33730e68",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sing",
+    "DisplayName": "Sing",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "55",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sing",
+      "DisplayName": "Sing",
+      "Description": "A soothing lullaby is sung in a beautiful voice that puts the target to sleep.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "c4060491-634d-4342-8e65-9cd57beb8e75",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "granbull",
+    "DisplayName": "Granbull",
+    "Description": null,
+    "FieldValues": {
+      "Number": "210",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "granbull",
+      "DisplayName": "Granbull",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

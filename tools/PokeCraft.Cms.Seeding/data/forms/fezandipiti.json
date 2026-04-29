@@ -1,0 +1,42 @@
+﻿{
+  "Id": "ecfda0c8-7ebe-487e-aeac-8fa2274d9d0a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fezandipiti",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a55435a2-ccb5-487b-ad1e-8bf9f834366f\"]",
+      "Height": "14",
+      "Weight": "301",
+      "YieldExperience": "278",
+      "PrimaryAbility": "[\"897d3f02-52df-441e-a74e-f9b4f4598da3\"]",
+      "HiddenAbility": "[\"d20432c3-18d0-4160-a3f1-a363c9e6633d\"]",
+      "BaseHP": "88",
+      "YieldHP": "0",
+      "BaseAttack": "91",
+      "YieldAttack": "0",
+      "BaseDefense": "82",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "125",
+      "YieldSpecialDefense": "3",
+      "BaseSpeed": "99",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fezandipiti",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

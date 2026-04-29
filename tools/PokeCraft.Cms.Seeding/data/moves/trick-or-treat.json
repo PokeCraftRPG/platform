@@ -1,0 +1,24 @@
+﻿{
+  "Id": "d7ce7732-9906-4e3c-90a7-cfcef0677d94",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "trick-or-treat",
+    "DisplayName": "Trick-or-Treat",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "trick-or-treat",
+      "DisplayName": "Trick-or-Treat",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

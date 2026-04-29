@@ -1,0 +1,27 @@
+﻿{
+  "Id": "dc09d92d-394f-4821-a846-068242e59578",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slakoth",
+    "DisplayName": "Slakoth",
+    "Description": null,
+    "FieldValues": {
+      "Number": "287",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slakoth",
+      "DisplayName": "Slakoth",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

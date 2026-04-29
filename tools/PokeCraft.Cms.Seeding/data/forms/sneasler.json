@@ -1,0 +1,43 @@
+﻿{
+  "Id": "df8dbe2d-b5bd-47e8-b8b3-f02daf0b3fd5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sneasler",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6d157dde-878e-4f87-abfa-b996419abaf3\"]",
+      "Height": "13",
+      "Weight": "430",
+      "YieldExperience": "102",
+      "PrimaryAbility": "[\"04822c52-0ef2-4b5e-a4bb-176772f6c3d8\"]",
+      "SecondaryAbility": "[\"d74f9f1b-dd57-4258-875f-46ec6bc83d99\"]",
+      "HiddenAbility": "[\"5e112e5b-8643-4cbf-9c15-5a0bfce0b0b2\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "130",
+      "YieldAttack": "2",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "120",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sneasler",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

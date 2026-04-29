@@ -1,0 +1,27 @@
+﻿{
+  "Id": "67581ed7-9f08-4fcc-b742-d1e5c16ccaf9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "eelektrik",
+    "DisplayName": "Eelektrik",
+    "Description": null,
+    "FieldValues": {
+      "Number": "603",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "eelektrik",
+      "DisplayName": "Eelektrik",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

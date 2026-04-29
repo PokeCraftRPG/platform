@@ -1,0 +1,41 @@
+﻿{
+  "Id": "fbd92036-518d-4cac-ba37-31221f4703ef",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nihilego",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"42cd55bf-eed9-4527-a903-d56bfecb2e8f\"]",
+      "Height": "12",
+      "Weight": "555",
+      "YieldExperience": "257",
+      "PrimaryAbility": "[\"e7ec0ce2-6979-45a9-80ab-215081d487e3\"]",
+      "BaseHP": "109",
+      "YieldHP": "0",
+      "BaseAttack": "53",
+      "YieldAttack": "0",
+      "BaseDefense": "47",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "127",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "131",
+      "YieldSpecialDefense": "3",
+      "BaseSpeed": "103",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nihilego",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

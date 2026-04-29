@@ -1,0 +1,43 @@
+﻿{
+  "Id": "cece5fd3-e90f-454f-ad4c-23889ec18732",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "probopass",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"632498b3-ec66-420b-80b2-c3bb3411831d\"]",
+      "Height": "14",
+      "Weight": "3400",
+      "YieldExperience": "184",
+      "PrimaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "SecondaryAbility": "[\"fbeddbd6-52d8-452c-97cc-0564133113a1\"]",
+      "HiddenAbility": "[\"19474510-6538-4d3f-8775-1316904fe470\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "145",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "150",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "probopass",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

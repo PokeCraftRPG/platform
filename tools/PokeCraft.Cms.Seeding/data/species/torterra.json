@@ -1,0 +1,28 @@
+﻿{
+  "Id": "40cce308-e632-4075-b3f1-50db67ed5e0f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "torterra",
+    "DisplayName": "Torterra",
+    "Description": null,
+    "FieldValues": {
+      "Number": "389",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "torterra",
+      "DisplayName": "Torterra",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

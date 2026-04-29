@@ -1,0 +1,27 @@
+﻿{
+  "Id": "129b0bdc-13f0-4db7-9281-ef0f908f808e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "happiny",
+    "DisplayName": "Happiny",
+    "Description": null,
+    "FieldValues": {
+      "Number": "440",
+      "Category": "[\"Baby\"]",
+      "BaseFriendship": "140",
+      "CatchRate": "130",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "happiny",
+      "DisplayName": "Happiny",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

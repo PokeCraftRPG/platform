@@ -1,0 +1,41 @@
+﻿{
+  "Id": "393e1620-66b0-4734-8b40-ec68c97dd2a5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lurantis",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d4d12811-a4bd-49a6-90ea-f3eaa9092ce6\"]",
+      "Height": "9",
+      "Weight": "185",
+      "YieldExperience": "168",
+      "PrimaryAbility": "[\"d724fdd9-3db1-4a76-8de7-aa696033fa20\"]",
+      "HiddenAbility": "[\"db725f43-cf10-4966-83cf-8f61405f506f\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "105",
+      "YieldAttack": "2",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lurantis",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

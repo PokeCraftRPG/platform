@@ -1,0 +1,25 @@
+﻿{
+  "Id": "5516867f-ec07-492b-ae2a-4507124f4623",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "brutal-swing",
+    "DisplayName": "Brutal Swing",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "brutal-swing",
+      "DisplayName": "Brutal Swing",
+      "Description": "The user swings its body around violently to inflict damage on everything in its vicinity.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "41359932-f8af-483d-b486-4e5cbeb9e757",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "unown",
+    "DisplayName": "Unown",
+    "Description": null,
+    "FieldValues": {
+      "Number": "201",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "225",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "unown",
+      "DisplayName": "Unown",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

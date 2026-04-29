@@ -1,0 +1,40 @@
+﻿{
+  "Id": "84e72003-cc26-469c-8e67-594120ee74a9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kubfu",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ba92b431-7005-4d2e-b35f-44d10c993a39\"]",
+      "Height": "6",
+      "Weight": "120",
+      "YieldExperience": "77",
+      "PrimaryAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "1",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "53",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "72",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kubfu",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

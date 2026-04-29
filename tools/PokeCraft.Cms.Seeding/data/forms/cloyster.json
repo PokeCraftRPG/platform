@@ -1,0 +1,43 @@
+﻿{
+  "Id": "ab22d4e4-7a18-4740-b820-645378dd1938",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cloyster",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"64072e76-289e-445e-86fb-3de1a458186d\"]",
+      "Height": "15",
+      "Weight": "1325",
+      "YieldExperience": "184",
+      "PrimaryAbility": "[\"238257b2-205c-4b83-b5f1-393b8c11b2e9\"]",
+      "SecondaryAbility": "[\"7b7f445f-0584-452d-ae34-0b472382a706\"]",
+      "HiddenAbility": "[\"ecf92884-7c23-4d13-9d9a-1a687fe3f447\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "0",
+      "BaseDefense": "180",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cloyster",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

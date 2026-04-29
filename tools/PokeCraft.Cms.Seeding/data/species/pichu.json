@@ -1,0 +1,27 @@
+﻿{
+  "Id": "17ff250c-3f70-4d8f-b235-a40b1e68ea58",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pichu",
+    "DisplayName": "Pichu",
+    "Description": null,
+    "FieldValues": {
+      "Number": "172",
+      "Category": "[\"Baby\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pichu",
+      "DisplayName": "Pichu",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

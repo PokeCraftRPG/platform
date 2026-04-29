@@ -1,0 +1,41 @@
+﻿{
+  "Id": "40978a34-fd0a-49e0-802b-c9cfc10cf3c0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "raichu-alola",
+    "DisplayName": "Alolan Raichu",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a59246a1-cb3d-404b-a4fe-1d24f83c0bb7\"]",
+      "Height": "7",
+      "Weight": "210",
+      "YieldExperience": "243",
+      "PrimaryAbility": "[\"baf385dd-127c-48bc-beec-76112c7cef9f\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "110",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "raichu-alola",
+      "DisplayName": "Alolan Raichu",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

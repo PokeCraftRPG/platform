@@ -1,0 +1,19 @@
+﻿{
+  "Id": "63ea29ac-0670-4244-8b4c-d106a5959008",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shadow-shield",
+    "DisplayName": "Shadow Shield",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shadow-shield",
+      "DisplayName": "Shadow Shield",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

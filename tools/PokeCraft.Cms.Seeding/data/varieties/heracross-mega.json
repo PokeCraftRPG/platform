@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a0b27b8b-737c-4df9-bcb6-83269c3a438f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "heracross-mega",
+    "DisplayName": "Heracross",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4cb37a34-855d-49ed-9028-47b1bdcf85db\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "heracross-mega",
+      "DisplayName": "Heracross",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Single Horn"
+      }
+    }
+  }
+}

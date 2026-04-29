@@ -1,0 +1,24 @@
+﻿{
+  "Id": "d482cd4d-aaef-4763-b472-4bd181f3cd95",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cotton-spore",
+    "DisplayName": "Cotton Spore",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "40"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cotton-spore",
+      "DisplayName": "Cotton Spore",
+      "Description": "The user releases cotton-like spores that cling to opposing Pokémon. This harshly lowers their Speed stats.",
+      "FieldValues": {}
+    }
+  }
+}

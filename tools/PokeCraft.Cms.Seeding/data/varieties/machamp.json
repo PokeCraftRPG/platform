@@ -1,0 +1,26 @@
+﻿{
+  "Id": "13aa40c3-4f14-4c06-a511-7274c17adef6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "machamp",
+    "DisplayName": "Machamp",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c8332dd9-83f5-4cd2-808a-f4ba6b2ddff0\"]",
+      "GenderRatio": "6",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "machamp",
+      "DisplayName": "Machamp",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Superpower"
+      }
+    }
+  }
+}

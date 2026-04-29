@@ -1,0 +1,28 @@
+﻿{
+  "Id": "4cfb807e-f8a9-4cca-af67-2cf0abf1378b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "raichu",
+    "DisplayName": "Raichu",
+    "Description": null,
+    "FieldValues": {
+      "Number": "26",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "raichu",
+      "DisplayName": "Raichu",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

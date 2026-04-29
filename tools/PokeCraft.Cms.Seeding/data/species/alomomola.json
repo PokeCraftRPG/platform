@@ -1,0 +1,28 @@
+﻿{
+  "Id": "00929797-4ddf-4726-b826-df30d5b933ef",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "alomomola",
+    "DisplayName": "Alomomola",
+    "Description": null,
+    "FieldValues": {
+      "Number": "594",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "alomomola",
+      "DisplayName": "Alomomola",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

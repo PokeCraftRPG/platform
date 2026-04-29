@@ -1,0 +1,23 @@
+﻿{
+  "Id": "65b1c5a6-8636-42ed-b668-0ec1cab3a31e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "speed-swap",
+    "DisplayName": "Speed Swap",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "speed-swap",
+      "DisplayName": "Speed Swap",
+      "Description": "The user exchanges Speed stats with the target.",
+      "FieldValues": {}
+    }
+  }
+}

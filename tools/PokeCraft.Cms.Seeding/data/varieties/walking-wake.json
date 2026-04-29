@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6b80aecb-b681-4aa2-8646-cde5278f2352",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "walking-wake",
+    "DisplayName": "Walking Wake",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c78fe69f-cd60-4585-9f6d-53c62a8be92c\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "walking-wake",
+      "DisplayName": "Walking Wake",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

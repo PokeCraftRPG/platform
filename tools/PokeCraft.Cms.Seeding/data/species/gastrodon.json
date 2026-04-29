@@ -1,0 +1,28 @@
+﻿{
+  "Id": "8e3fc6dc-9b97-4f86-84d9-302a7af5bc7f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gastrodon",
+    "DisplayName": "Gastrodon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "423",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gastrodon",
+      "DisplayName": "Gastrodon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "1087b2f3-a939-4ef9-8b41-6b4e32b5f0e5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lurantis-totem",
+    "DisplayName": "Totem Lurantis",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"aae8f783-e42b-4d3d-ac6b-9f9be761e506\"]",
+      "Height": "15",
+      "Weight": "580",
+      "YieldExperience": "168",
+      "PrimaryAbility": "[\"d724fdd9-3db1-4a76-8de7-aa696033fa20\"]",
+      "HiddenAbility": "[\"db725f43-cf10-4966-83cf-8f61405f506f\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "105",
+      "YieldAttack": "2",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lurantis-totem",
+      "DisplayName": "Totem Lurantis",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

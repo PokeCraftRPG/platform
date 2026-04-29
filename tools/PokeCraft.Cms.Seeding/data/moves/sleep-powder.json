@@ -1,0 +1,24 @@
+﻿{
+  "Id": "ede3acaa-8867-4429-a5a5-ec1e7b4ce52a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sleep-powder",
+    "DisplayName": "Sleep Powder",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "75",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sleep-powder",
+      "DisplayName": "Sleep Powder",
+      "Description": "The user scatters a cloud of soporific dust that puts the target to sleep.",
+      "FieldValues": {}
+    }
+  }
+}

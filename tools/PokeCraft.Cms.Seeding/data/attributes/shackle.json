@@ -1,0 +1,19 @@
+﻿{
+  "Id": "cfa30a1c-da39-40b2-8318-b6a2e7042a8a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shackle",
+    "DisplayName": "Shackle",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shackle",
+      "DisplayName": "Shackle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

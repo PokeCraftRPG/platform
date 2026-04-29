@@ -1,0 +1,25 @@
+﻿{
+  "Id": "28883878-45d8-4f7f-9990-9b98940995c1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "plasma-fists",
+    "DisplayName": "Plasma Fists",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "100",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "plasma-fists",
+      "DisplayName": "Plasma Fists",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

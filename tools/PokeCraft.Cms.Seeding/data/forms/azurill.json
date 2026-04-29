@@ -1,0 +1,43 @@
+﻿{
+  "Id": "93868741-7dad-4453-96a8-e9b73a852fc2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "azurill",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e106828c-9e0f-4122-861f-9cc5bf8a27d7\"]",
+      "Height": "2",
+      "Weight": "20",
+      "YieldExperience": "38",
+      "PrimaryAbility": "[\"d6fa994e-7a48-48b5-9f1f-c1b84dd3225f\"]",
+      "SecondaryAbility": "[\"fc4446e9-654f-46c3-8257-6cb0986da05f\"]",
+      "HiddenAbility": "[\"a471c5f9-291c-4763-b84a-9c5c666f409b\"]",
+      "BaseHP": "50",
+      "YieldHP": "1",
+      "BaseAttack": "20",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "20",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "20",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "azurill",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

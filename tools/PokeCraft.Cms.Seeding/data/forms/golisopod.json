@@ -1,0 +1,41 @@
+﻿{
+  "Id": "b42f9d92-84e7-4e97-8aa2-b1072483e3a3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "golisopod",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"39d03002-4fa4-47be-95b6-e8eb30391437\"]",
+      "Height": "20",
+      "Weight": "1080",
+      "YieldExperience": "186",
+      "PrimaryAbility": "[\"14a7886f-3c57-4737-9a39-e40e7152388a\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "125",
+      "YieldAttack": "0",
+      "BaseDefense": "140",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "golisopod",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "95ff5b5b-4a03-4670-b027-a69fd15643ac",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "draco-meteor",
+    "DisplayName": "Draco Meteor",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "90",
+      "Power": "130",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "draco-meteor",
+      "DisplayName": "Draco Meteor",
+      "Description": "Comets are summoned down from the sky onto the target. The recoil from this move harshly lowers the user’s Sp. Atk stat.",
+      "FieldValues": {}
+    }
+  }
+}

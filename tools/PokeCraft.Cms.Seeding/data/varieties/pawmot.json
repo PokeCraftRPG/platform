@@ -1,0 +1,26 @@
+﻿{
+  "Id": "8eedf525-0a22-4a4a-b839-d2cb24769577",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pawmot",
+    "DisplayName": "Pawmot",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e9b146da-a62e-420f-bca1-995b9568057c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pawmot",
+      "DisplayName": "Pawmot",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Hands-On"
+      }
+    }
+  }
+}

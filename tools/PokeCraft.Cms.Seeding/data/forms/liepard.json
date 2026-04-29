@@ -1,0 +1,42 @@
+﻿{
+  "Id": "3767d4cb-481c-42ca-a7d0-4d6f2a39a4d4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "liepard",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ce73cdb2-aa32-4615-8c61-74e08e04ca71\"]",
+      "Height": "11",
+      "Weight": "375",
+      "YieldExperience": "156",
+      "PrimaryAbility": "[\"170e2598-7fd5-497f-9003-f9d753aadd0d\"]",
+      "SecondaryAbility": "[\"d74f9f1b-dd57-4258-875f-46ec6bc83d99\"]",
+      "HiddenAbility": "[\"84a30672-4ea5-4904-84fc-d04259c936a3\"]",
+      "BaseHP": "64",
+      "YieldHP": "0",
+      "BaseAttack": "88",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "88",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "106",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "liepard",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

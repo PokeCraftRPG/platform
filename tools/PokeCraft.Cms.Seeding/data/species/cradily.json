@@ -1,0 +1,27 @@
+﻿{
+  "Id": "768e46c5-d679-49a0-9d00-6372c56c23ff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cradily",
+    "DisplayName": "Cradily",
+    "Description": null,
+    "FieldValues": {
+      "Number": "346",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cradily",
+      "DisplayName": "Cradily",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

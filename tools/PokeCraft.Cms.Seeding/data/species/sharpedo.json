@@ -1,0 +1,27 @@
+﻿{
+  "Id": "b531da99-7bd3-41c6-8b53-0159295714b5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sharpedo",
+    "DisplayName": "Sharpedo",
+    "Description": null,
+    "FieldValues": {
+      "Number": "319",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "60",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sharpedo",
+      "DisplayName": "Sharpedo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

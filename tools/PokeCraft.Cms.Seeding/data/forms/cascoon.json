@@ -1,0 +1,40 @@
+﻿{
+  "Id": "161732b9-6388-458b-964c-fce8a68bab89",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cascoon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c0e8f302-0b91-40cc-90bf-7ba4796e327e\"]",
+      "Height": "7",
+      "Weight": "115",
+      "YieldExperience": "72",
+      "PrimaryAbility": "[\"ce764204-79c4-4e66-8017-2144a4e66f3c\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "35",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "25",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "25",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "15",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cascoon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

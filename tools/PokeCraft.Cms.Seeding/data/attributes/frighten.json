@@ -1,0 +1,19 @@
+﻿{
+  "Id": "b04829a8-9339-4669-9da9-027ba073f326",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "frighten",
+    "DisplayName": "Frighten",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "frighten",
+      "DisplayName": "Frighten",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

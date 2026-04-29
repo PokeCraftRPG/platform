@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c92d1c74-af3a-49f5-9e23-500291f3b072",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ting-lu",
+    "DisplayName": "Ting-Lu",
+    "Description": null,
+    "FieldValues": {
+      "Number": "1003",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "6",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "50",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ting-lu",
+      "DisplayName": "Ting-Lu",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

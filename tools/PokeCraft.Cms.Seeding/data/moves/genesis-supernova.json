@@ -1,0 +1,24 @@
+﻿{
+  "Id": "70f5f6ef-c500-4cdb-ad95-e45037acc331",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "genesis-supernova",
+    "DisplayName": "Genesis Supernova",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Power": "185",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "genesis-supernova",
+      "DisplayName": "Genesis Supernova",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

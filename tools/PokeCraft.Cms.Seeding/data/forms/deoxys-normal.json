@@ -1,0 +1,40 @@
+﻿{
+  "Id": "c4fccf57-1768-48e1-a813-f5a79922a7e6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "deoxys-normal",
+    "DisplayName": "Normal Deoxys",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5f3e9a03-75c6-4774-bb5a-a6ed16adc4fa\"]",
+      "Height": "17",
+      "Weight": "608",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"04822c52-0ef2-4b5e-a4bb-176772f6c3d8\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "150",
+      "YieldAttack": "1",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "150",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "150",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "deoxys-normal",
+      "DisplayName": "Normal Deoxys",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

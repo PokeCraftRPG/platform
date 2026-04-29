@@ -1,0 +1,28 @@
+﻿{
+  "Id": "79879755-ff52-4282-a97a-bd2b6fe5ada1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "totodile",
+    "DisplayName": "Totodile",
+    "Description": null,
+    "FieldValues": {
+      "Number": "158",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "totodile",
+      "DisplayName": "Totodile",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

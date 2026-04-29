@@ -1,0 +1,42 @@
+﻿{
+  "Id": "bba32b62-5fc2-45cd-859f-84b494614341",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slugma",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1465c33f-571f-4929-8265-9155ab024358\"]",
+      "Height": "7",
+      "Weight": "350",
+      "YieldExperience": "50",
+      "PrimaryAbility": "[\"e3688f9d-2100-4913-89ea-a1e8e38eb841\"]",
+      "SecondaryAbility": "[\"61541bb6-568e-4dd0-b07a-56233b9fe96f\"]",
+      "HiddenAbility": "[\"2b8b8cfa-e12e-43d2-b403-594ac9a1c1f7\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "40",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "20",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slugma",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

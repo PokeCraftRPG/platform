@@ -1,0 +1,40 @@
+﻿{
+  "Id": "f50d123a-9ac5-4308-8589-a0497c47ac49",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "silvally-bug",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c2d06ff3-39a9-408b-820b-1d1e03216203\"]",
+      "Height": "23",
+      "Weight": "1005",
+      "YieldExperience": "257",
+      "PrimaryAbility": "[\"1aa971bf-bdc5-4fdb-99c9-ac99aa8a572e\"]",
+      "BaseHP": "95",
+      "YieldHP": "3",
+      "BaseAttack": "95",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Alternative\"]",
+      "PrimaryType": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "silvally-bug",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

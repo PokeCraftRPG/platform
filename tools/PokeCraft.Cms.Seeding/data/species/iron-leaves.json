@@ -1,0 +1,27 @@
+﻿{
+  "Id": "4b671efe-60e5-4077-9931-7833173ef2ca",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-leaves",
+    "DisplayName": "Iron Leaves",
+    "Description": null,
+    "FieldValues": {
+      "Number": "1010",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "5",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "50",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-leaves",
+      "DisplayName": "Iron Leaves",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

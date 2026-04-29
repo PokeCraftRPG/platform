@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f85763e5-fcb4-4552-bf66-cd0333a1c088",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "throh",
+    "DisplayName": "Throh",
+    "Description": null,
+    "FieldValues": {
+      "Number": "538",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "throh",
+      "DisplayName": "Throh",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

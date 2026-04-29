@@ -1,0 +1,27 @@
+﻿{
+  "Id": "6abb2d22-841d-46aa-87e3-c9df9de46e3d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "teddiursa",
+    "DisplayName": "Teddiursa",
+    "Description": null,
+    "FieldValues": {
+      "Number": "216",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "teddiursa",
+      "DisplayName": "Teddiursa",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

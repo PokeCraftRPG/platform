@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9f627ff9-2457-4cc0-ac62-d738c1c7e0b8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dewott",
+    "DisplayName": "Dewott",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"71801968-895b-40e9-9b5f-f5efbc524077\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dewott",
+      "DisplayName": "Dewott",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Discipline"
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "58257b95-0497-4533-be2c-e0ff020e4793",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "jirachi",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"918ca3c6-5e04-4810-9043-0afd4b857f46\"]",
+      "Height": "3",
+      "Weight": "11",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"f1619484-cf62-4314-a26f-a79e00b5720f\"]",
+      "BaseHP": "100",
+      "YieldHP": "3",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "jirachi",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

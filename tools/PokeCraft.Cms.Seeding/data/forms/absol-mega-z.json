@@ -1,0 +1,39 @@
+﻿{
+  "Id": "a6bf6baf-8695-433d-b956-cf6ed46f72c2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "absol-mega-z",
+    "DisplayName": "Mega Absol Z",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5245a2ef-51cd-4e35-a120-f770b3d7f1c4\"]",
+      "Height": "12",
+      "Weight": "490",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "154",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "151",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "absol-mega-z",
+      "DisplayName": "Mega Absol Z",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

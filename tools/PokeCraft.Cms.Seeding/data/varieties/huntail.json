@@ -1,0 +1,26 @@
+﻿{
+  "Id": "152482cb-5105-4560-b35b-123acc62dec5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "huntail",
+    "DisplayName": "Huntail",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"93f0f80f-6aa5-452e-8706-a9f3894063a1\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "huntail",
+      "DisplayName": "Huntail",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Deep Sea"
+      }
+    }
+  }
+}

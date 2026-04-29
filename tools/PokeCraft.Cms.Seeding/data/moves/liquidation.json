@@ -1,0 +1,25 @@
+﻿{
+  "Id": "1adaa3cf-56b4-49e4-b124-4d0d5517f3ab",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "liquidation",
+    "DisplayName": "Liquidation",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "85",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "liquidation",
+      "DisplayName": "Liquidation",
+      "Description": "The user slams into the target using a full-force blast of water. This may also lower the target's Defense stat.",
+      "FieldValues": {}
+    }
+  }
+}

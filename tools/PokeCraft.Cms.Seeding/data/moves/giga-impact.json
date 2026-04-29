@@ -1,0 +1,25 @@
+﻿{
+  "Id": "e2901872-9105-4253-ad42-ae6cdaff835e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "giga-impact",
+    "DisplayName": "Giga Impact",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "150",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "giga-impact",
+      "DisplayName": "Giga Impact",
+      "Description": "The user charges at the target using every bit of its power. The user can't move on the next turn.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "bb803009-5750-4e9c-bdd7-0f72b89e81b9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chinchou",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e74fa84c-a608-48bd-adf1-8eb7de7c5164\"]",
+      "Height": "5",
+      "Weight": "120",
+      "YieldExperience": "66",
+      "PrimaryAbility": "[\"891096e9-f25f-4184-8941-fcc6d6dfd5e4\"]",
+      "SecondaryAbility": "[\"c5bb24d5-3152-481e-b7f6-c1637f7cc794\"]",
+      "HiddenAbility": "[\"ce06d228-a509-444d-ab16-f046f2519e89\"]",
+      "BaseHP": "75",
+      "YieldHP": "1",
+      "BaseAttack": "38",
+      "YieldAttack": "0",
+      "BaseDefense": "38",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "56",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "56",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "67",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chinchou",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

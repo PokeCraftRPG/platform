@@ -1,0 +1,28 @@
+﻿{
+  "Id": "d0d6e551-dd7d-4ba6-8e7e-d1f8b2c5cf65",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "farfetchd",
+    "DisplayName": "Farfetch’d",
+    "Description": null,
+    "FieldValues": {
+      "Number": "83",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Flying\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "farfetchd",
+      "DisplayName": "Farfetch’d",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

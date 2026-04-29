@@ -1,0 +1,26 @@
+﻿{
+  "Id": "92bd6f77-f9ce-4d57-a51e-e8d65417b257",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "machoke",
+    "DisplayName": "Machoke",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"97ca61de-c4ba-4d2d-b455-61aef69f1380\"]",
+      "GenderRatio": "6",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "machoke",
+      "DisplayName": "Machoke",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Superpower"
+      }
+    }
+  }
+}

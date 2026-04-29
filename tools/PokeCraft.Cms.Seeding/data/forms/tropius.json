@@ -1,0 +1,43 @@
+﻿{
+  "Id": "9bf25695-7a9b-430c-a1ce-7eb4789c19d8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tropius",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5dfabc28-63d0-49a3-85c3-4eaa3ba54456\"]",
+      "Height": "20",
+      "Weight": "1000",
+      "YieldExperience": "161",
+      "PrimaryAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "SecondaryAbility": "[\"6c7fc1a9-9c49-4e4f-ae09-81bb228713b0\"]",
+      "HiddenAbility": "[\"173ca115-de73-4599-a301-8ac567198f12\"]",
+      "BaseHP": "99",
+      "YieldHP": "2",
+      "BaseAttack": "68",
+      "YieldAttack": "0",
+      "BaseDefense": "83",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "72",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "87",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "51",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tropius",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

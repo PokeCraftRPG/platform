@@ -1,0 +1,25 @@
+﻿{
+  "Id": "4ff2ab12-7e20-40b3-9147-930440857253",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "crabhammer",
+    "DisplayName": "Crabhammer",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "crabhammer",
+      "DisplayName": "Crabhammer",
+      "Description": "The target is hammered with a large pincer. This move has a heightened chance of landing a critical hit.",
+      "FieldValues": {}
+    }
+  }
+}

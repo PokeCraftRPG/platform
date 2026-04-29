@@ -1,0 +1,43 @@
+﻿{
+  "Id": "064eadfd-ccae-4080-b7a3-3e8efdef9e6f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "piloswine",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"95afa2bb-e100-48f2-b668-cfe38388ea87\"]",
+      "Height": "11",
+      "Weight": "558",
+      "YieldExperience": "158",
+      "PrimaryAbility": "[\"a720be5d-1a4e-4e14-8426-1ba0fc59a8ed\"]",
+      "SecondaryAbility": "[\"6397856d-ee55-409a-a0aa-3657039b20c4\"]",
+      "HiddenAbility": "[\"d6fa994e-7a48-48b5-9f1f-c1b84dd3225f\"]",
+      "BaseHP": "100",
+      "YieldHP": "1",
+      "BaseAttack": "100",
+      "YieldAttack": "1",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "piloswine",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

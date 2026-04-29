@@ -1,0 +1,27 @@
+﻿{
+  "Id": "510c34d8-c02e-42ca-8723-e3fb720eaa9c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sandslash",
+    "DisplayName": "Sandslash",
+    "Description": null,
+    "FieldValues": {
+      "Number": "28",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sandslash",
+      "DisplayName": "Sandslash",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

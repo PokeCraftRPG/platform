@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d5e46f79-5f21-45e5-bc81-25b0a8847925",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spoink",
+    "DisplayName": "Spoink",
+    "Description": null,
+    "FieldValues": {
+      "Number": "325",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spoink",
+      "DisplayName": "Spoink",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

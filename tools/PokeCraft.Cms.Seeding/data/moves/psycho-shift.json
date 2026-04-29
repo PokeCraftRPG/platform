@@ -1,0 +1,24 @@
+﻿{
+  "Id": "16ed68ab-ee10-4a8b-924a-76e7633cf3b9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "psycho-shift",
+    "DisplayName": "Psycho Shift",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "psycho-shift",
+      "DisplayName": "Psycho Shift",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

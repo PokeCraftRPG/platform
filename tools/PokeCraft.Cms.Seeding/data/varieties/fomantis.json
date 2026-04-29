@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1d6e5268-26e2-4d56-baac-1f64864a29ed",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fomantis",
+    "DisplayName": "Fomantis",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a1b60c30-d828-47b7-8762-a788421e2fda\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fomantis",
+      "DisplayName": "Fomantis",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sickle Grass"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "b65582e7-3271-4529-bfce-ac81d9e13dc4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bouncy-bubble",
+    "DisplayName": "Bouncy Bubble",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bouncy-bubble",
+      "DisplayName": "Bouncy Bubble",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

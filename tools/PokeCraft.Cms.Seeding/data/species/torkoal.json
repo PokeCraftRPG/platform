@@ -1,0 +1,27 @@
+﻿{
+  "Id": "5ce50977-d3a0-44ed-9858-e9856a05768f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "torkoal",
+    "DisplayName": "Torkoal",
+    "Description": null,
+    "FieldValues": {
+      "Number": "324",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "torkoal",
+      "DisplayName": "Torkoal",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

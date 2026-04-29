@@ -1,0 +1,41 @@
+﻿{
+  "Id": "79facc40-4239-47c0-9afe-d78d464762ba",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "frogadier",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a68d3185-db19-4cb0-bbcd-c2140ea86b5a\"]",
+      "Height": "6",
+      "Weight": "109",
+      "YieldExperience": "142",
+      "PrimaryAbility": "[\"973e0e1a-dcca-4ab1-bd25-90df209dfc63\"]",
+      "HiddenAbility": "[\"65291225-4bca-4334-a235-9f7d9e09f7a2\"]",
+      "BaseHP": "54",
+      "YieldHP": "0",
+      "BaseAttack": "63",
+      "YieldAttack": "0",
+      "BaseDefense": "52",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "83",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "56",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "97",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "frogadier",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

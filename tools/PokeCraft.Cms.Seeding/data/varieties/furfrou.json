@@ -1,0 +1,26 @@
+﻿{
+  "Id": "65e9d061-4d5b-4016-840d-bd887cd0c20a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "furfrou",
+    "DisplayName": "Furfrou",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3c6412a3-671e-4538-90d4-1898ac77a704\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "furfrou",
+      "DisplayName": "Furfrou",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Poodle"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "6fa59f4b-7db9-45bb-b814-55409e06dfab",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wish",
+    "DisplayName": "Wish",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wish",
+      "DisplayName": "Wish",
+      "Description": "One turn after this move is used, the user's or its replacement's HP is restored by up to half the user's max HP.",
+      "FieldValues": {}
+    }
+  }
+}

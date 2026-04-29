@@ -1,0 +1,40 @@
+﻿{
+  "Id": "ea333fc4-c021-481d-bf44-b6eaae0b6bdb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "silvally-normal",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c2d06ff3-39a9-408b-820b-1d1e03216203\"]",
+      "Height": "23",
+      "Weight": "1005",
+      "YieldExperience": "257",
+      "PrimaryAbility": "[\"1aa971bf-bdc5-4fdb-99c9-ac99aa8a572e\"]",
+      "BaseHP": "95",
+      "YieldHP": "3",
+      "BaseAttack": "95",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "silvally-normal",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

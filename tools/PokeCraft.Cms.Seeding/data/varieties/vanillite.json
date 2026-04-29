@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1be7dbc2-2905-44bb-ae2e-0028f8ebe3f9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vanillite",
+    "DisplayName": "Vanillite",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"da4d14f0-9111-49a4-84e3-b509a4a8e1b3\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vanillite",
+      "DisplayName": "Vanillite",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fresh Snow"
+      }
+    }
+  }
+}

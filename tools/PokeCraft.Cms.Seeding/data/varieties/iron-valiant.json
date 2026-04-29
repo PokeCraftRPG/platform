@@ -1,0 +1,25 @@
+﻿{
+  "Id": "1a71636a-9131-4e8d-8cdc-8b77fe11bce8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-valiant",
+    "DisplayName": "Iron Valiant",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"312db99a-3d42-4f08-8042-07b3678f306b\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-valiant",
+      "DisplayName": "Iron Valiant",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿{
+  "Id": "6c5caed4-dc19-4cb6-a7b4-a834cb5f238b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "charm",
+    "DisplayName": "Charm",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "charm",
+      "DisplayName": "Charm",
+      "Description": "The user gazes at the target rather charmingly, making it less wary. This harshly lowers the target's Attack stat.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "7f4c54f8-3dd1-4ab7-853f-e08d23d50eaa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "amnesia",
+    "DisplayName": "Amnesia",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "amnesia",
+      "DisplayName": "Amnesia",
+      "Description": "The user temporarily empties its mind to forget its concerns. This sharply boosts the user's Sp. Def stat.",
+      "FieldValues": {}
+    }
+  }
+}

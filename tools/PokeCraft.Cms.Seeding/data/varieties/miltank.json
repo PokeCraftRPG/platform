@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3d7842dd-c6cd-4125-af89-b240a9afbdd8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "miltank",
+    "DisplayName": "Miltank",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f9d1c94b-771a-46e5-a22c-4846d3cb1886\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "miltank",
+      "DisplayName": "Miltank",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Milk Cow"
+      }
+    }
+  }
+}

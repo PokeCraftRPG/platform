@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c2d06ff3-39a9-408b-820b-1d1e03216203",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "silvally",
+    "DisplayName": "Silvally",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6ad8b537-2449-4ac8-af41-33ea9e6bf895\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "silvally",
+      "DisplayName": "Silvally",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Synthetic"
+      }
+    }
+  }
+}

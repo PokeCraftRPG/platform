@@ -1,0 +1,41 @@
+﻿{
+  "Id": "9d29f7db-f0d4-4b19-b849-e5d9b4af5163",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shedinja",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e3201d12-7e62-4053-b504-1e8b009add9d\"]",
+      "Height": "8",
+      "Weight": "12",
+      "YieldExperience": "83",
+      "PrimaryAbility": "[\"16a8efc6-19e7-4fe1-b8f9-feaf055fba26\"]",
+      "BaseHP": "1",
+      "YieldHP": "2",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "30",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shedinja",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "f31acfd0-dd53-47dd-a0b2-a034390b7e89",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hold-hands",
+    "DisplayName": "Hold Hands",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "40"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hold-hands",
+      "DisplayName": "Hold Hands",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

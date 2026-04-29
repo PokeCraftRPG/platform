@@ -1,0 +1,23 @@
+﻿{
+  "Id": "8de311d2-d045-410e-8f18-de654e5d9a7e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "life-dew",
+    "DisplayName": "Life Dew",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "life-dew",
+      "DisplayName": "Life Dew",
+      "Description": "The user scatters mysterious water around and restores the HP of itself and its ally Pokémon currently in the battle.",
+      "FieldValues": {}
+    }
+  }
+}

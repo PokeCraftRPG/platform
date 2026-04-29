@@ -1,0 +1,25 @@
+﻿{
+  "Id": "06f51eb7-c7e8-4cbd-91e9-eb19ec087316",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mach-punch",
+    "DisplayName": "Mach Punch",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mach-punch",
+      "DisplayName": "Mach Punch",
+      "Description": "The user throws a punch at blinding speed. This move always goes first.",
+      "FieldValues": {}
+    }
+  }
+}

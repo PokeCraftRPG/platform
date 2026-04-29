@@ -1,0 +1,27 @@
+﻿{
+  "Id": "3545ff18-d0ae-4a4b-9375-a4bae958b11c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ninjask",
+    "DisplayName": "Ninjask",
+    "Description": null,
+    "FieldValues": {
+      "Number": "291",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ninjask",
+      "DisplayName": "Ninjask",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "cfe95390-9317-4dd2-b65f-ad39c6606362",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zubat",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4606d7e7-b7af-40ef-9644-82375c18219a\"]",
+      "Height": "8",
+      "Weight": "75",
+      "YieldExperience": "49",
+      "PrimaryAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "HiddenAbility": "[\"0a9fa785-a966-4ed6-8ab9-a33aecd0847c\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "35",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zubat",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

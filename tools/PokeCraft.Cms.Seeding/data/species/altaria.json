@@ -1,0 +1,28 @@
+﻿{
+  "Id": "2858b66e-0946-459f-954a-62ade31d6ae0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "altaria",
+    "DisplayName": "Altaria",
+    "Description": null,
+    "FieldValues": {
+      "Number": "334",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Flying\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "altaria",
+      "DisplayName": "Altaria",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

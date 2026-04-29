@@ -1,0 +1,42 @@
+﻿{
+  "Id": "18f2902b-9833-46fd-9590-9a739c5cbd69",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "beartic",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5ccc78f4-ddd2-42a8-9a73-0510a6081904\"]",
+      "Height": "26",
+      "Weight": "2600",
+      "YieldExperience": "177",
+      "PrimaryAbility": "[\"6397856d-ee55-409a-a0aa-3657039b20c4\"]",
+      "SecondaryAbility": "[\"1529f289-3c54-49ef-a5b7-924ae1f92aa8\"]",
+      "HiddenAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "BaseHP": "95",
+      "YieldHP": "0",
+      "BaseAttack": "130",
+      "YieldAttack": "2",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "beartic",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

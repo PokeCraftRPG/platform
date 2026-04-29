@@ -1,0 +1,27 @@
+﻿{
+  "Id": "47dfe6a0-52e2-4c7b-ad12-d23a911655cb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zebstrika",
+    "DisplayName": "Zebstrika",
+    "Description": null,
+    "FieldValues": {
+      "Number": "523",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zebstrika",
+      "DisplayName": "Zebstrika",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

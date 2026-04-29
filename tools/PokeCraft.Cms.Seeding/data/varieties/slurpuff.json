@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c98e5aaf-31dd-439e-9cf4-0ff24a677d35",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slurpuff",
+    "DisplayName": "Slurpuff",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e6ed9bd5-0050-406b-85b1-72c8b217d5c1\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slurpuff",
+      "DisplayName": "Slurpuff",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Meringue"
+      }
+    }
+  }
+}

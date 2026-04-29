@@ -1,0 +1,26 @@
+﻿{
+  "Id": "308a0a58-2777-478e-9ea8-a74b96adcf36",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "exeggcute",
+    "DisplayName": "Exeggcute",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d73cced4-8e8e-4fe1-930e-6660a43a0e3f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "exeggcute",
+      "DisplayName": "Exeggcute",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Egg"
+      }
+    }
+  }
+}

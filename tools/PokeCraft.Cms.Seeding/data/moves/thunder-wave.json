@@ -1,0 +1,24 @@
+﻿{
+  "Id": "4b5e9cb1-6124-4cf1-9ded-71bcf8ce95f7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thunder-wave",
+    "DisplayName": "Thunder Wave",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "90",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thunder-wave",
+      "DisplayName": "Thunder Wave",
+      "Description": "The user launches a weak jolt of electricity that paralyzes the target.",
+      "FieldValues": {}
+    }
+  }
+}

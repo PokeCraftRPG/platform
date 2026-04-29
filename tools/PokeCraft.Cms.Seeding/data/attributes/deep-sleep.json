@@ -1,0 +1,19 @@
+﻿{
+  "Id": "0f13b315-2d85-42aa-bbfb-cbb9737fc523",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "deep-sleep",
+    "DisplayName": "Deep Sleep",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "deep-sleep",
+      "DisplayName": "Deep Sleep",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

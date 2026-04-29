@@ -1,0 +1,23 @@
+﻿{
+  "Id": "c71d068f-9fb5-44bb-aa50-bd101e0df6e5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "corkscrew-crash--special",
+    "DisplayName": "Corkscrew Crash",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Special\"]",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "corkscrew-crash--special",
+      "DisplayName": "Corkscrew Crash",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

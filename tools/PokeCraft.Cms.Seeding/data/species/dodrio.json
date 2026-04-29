@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e03111f4-bc49-4bc6-af2d-713369438f94",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dodrio",
+    "DisplayName": "Dodrio",
+    "Description": null,
+    "FieldValues": {
+      "Number": "85",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dodrio",
+      "DisplayName": "Dodrio",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

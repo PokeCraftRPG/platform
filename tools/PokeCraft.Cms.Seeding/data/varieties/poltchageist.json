@@ -1,0 +1,25 @@
+﻿{
+  "Id": "b345a082-959f-4e2b-9128-1297b621201f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "poltchageist",
+    "DisplayName": "Poltchageist",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"bd0e9ecc-a82c-47e6-9e9e-f2f1c2bd6583\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "poltchageist",
+      "DisplayName": "Poltchageist",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Matcha"
+      }
+    }
+  }
+}

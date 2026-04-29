@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a6c2c0ab-b821-4bff-ba84-16990b875a25",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cresselia",
+    "DisplayName": "Cresselia",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e59fba75-818e-4901-8198-deec451bc3da\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cresselia",
+      "DisplayName": "Cresselia",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Lunar"
+      }
+    }
+  }
+}

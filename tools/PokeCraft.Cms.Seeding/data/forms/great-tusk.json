@@ -1,0 +1,41 @@
+﻿{
+  "Id": "1dd54726-eb3a-49c5-83c0-bf52ae657f2f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "great-tusk",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"873c1d11-a44b-424d-8c2e-1fa5b40d63d2\"]",
+      "Height": "22",
+      "Weight": "3200",
+      "YieldExperience": "285",
+      "PrimaryAbility": "[\"fd80fd8e-dbd4-4b54-bfef-8ed47d35c99e\"]",
+      "BaseHP": "115",
+      "YieldHP": "0",
+      "BaseAttack": "131",
+      "YieldAttack": "3",
+      "BaseDefense": "131",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "53",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "53",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "87",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "great-tusk",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

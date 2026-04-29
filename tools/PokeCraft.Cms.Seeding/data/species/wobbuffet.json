@@ -1,0 +1,27 @@
+﻿{
+  "Id": "b1884112-f507-462c-a5dd-a8bb41d83e23",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wobbuffet",
+    "DisplayName": "Wobbuffet",
+    "Description": null,
+    "FieldValues": {
+      "Number": "202",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wobbuffet",
+      "DisplayName": "Wobbuffet",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e7f01c40-2265-411c-9704-d8a1a1616d08",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "smoliv",
+    "DisplayName": "Smoliv",
+    "Description": null,
+    "FieldValues": {
+      "Number": "928",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "smoliv",
+      "DisplayName": "Smoliv",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

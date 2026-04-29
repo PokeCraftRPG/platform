@@ -1,0 +1,28 @@
+﻿{
+  "Id": "76dd193b-c7de-4f8b-9657-7e97f12201f0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grovyle",
+    "DisplayName": "Grovyle",
+    "Description": null,
+    "FieldValues": {
+      "Number": "253",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grovyle",
+      "DisplayName": "Grovyle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

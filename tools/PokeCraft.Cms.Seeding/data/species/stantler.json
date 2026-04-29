@@ -1,0 +1,27 @@
+﻿{
+  "Id": "94525546-e8c3-4391-a6f8-4ac1c845f550",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stantler",
+    "DisplayName": "Stantler",
+    "Description": null,
+    "FieldValues": {
+      "Number": "234",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stantler",
+      "DisplayName": "Stantler",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

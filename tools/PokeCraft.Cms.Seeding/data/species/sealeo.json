@@ -1,0 +1,28 @@
+﻿{
+  "Id": "2b552d39-aee9-456d-862b-3cabd2fe6e37",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sealeo",
+    "DisplayName": "Sealeo",
+    "Description": null,
+    "FieldValues": {
+      "Number": "364",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sealeo",
+      "DisplayName": "Sealeo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

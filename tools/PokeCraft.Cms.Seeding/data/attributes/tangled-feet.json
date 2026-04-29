@@ -1,0 +1,19 @@
+﻿{
+  "Id": "15d2abba-2012-411a-9b8f-92ed5b04e17d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tangled-feet",
+    "DisplayName": "Tangled Feet",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tangled-feet",
+      "DisplayName": "Tangled Feet",
+      "Description": "Boosts the Pokémon's evasiveness if it is confused.",
+      "FieldValues": {}
+    }
+  }
+}

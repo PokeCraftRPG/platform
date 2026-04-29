@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5f8cd69e-aea5-456e-961f-aa799a00fac5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rillaboom",
+    "DisplayName": "Rillaboom",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"07672c26-d1fa-4a4c-9924-b9d148314366\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rillaboom",
+      "DisplayName": "Rillaboom",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Drummer"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "a0b4c265-6a3e-4fd6-8736-3731e8eee3b1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "graveler",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7961423e-eb00-44fe-be9d-1dc121b620d9\"]",
+      "Height": "10",
+      "Weight": "1050",
+      "YieldExperience": "137",
+      "PrimaryAbility": "[\"98ae35ae-b156-4c2e-b4a7-8af42a8b0ef6\"]",
+      "SecondaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "HiddenAbility": "[\"2298dae8-5c1f-423f-960d-8cf61b19c897\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "0",
+      "BaseDefense": "115",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "graveler",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

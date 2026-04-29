@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7c452555-a342-42b1-ad97-fc00d18af95d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "runerigus",
+    "DisplayName": "Runerigus",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"dec94f41-f414-46b8-8c1f-6761f02a918a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "runerigus",
+      "DisplayName": "Runerigus",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Grudge"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6859cad5-f984-4fab-ab3f-205f7e0d2e07",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "petal-blizzard",
+    "DisplayName": "Petal Blizzard",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "petal-blizzard",
+      "DisplayName": "Petal Blizzard",
+      "Description": "The user stirs up a violent petal blizzard and damages everything around it.",
+      "FieldValues": {}
+    }
+  }
+}

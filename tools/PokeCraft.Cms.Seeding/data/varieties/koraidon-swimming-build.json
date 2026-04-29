@@ -1,0 +1,25 @@
+﻿{
+  "Id": "bd413093-e04c-4068-96a1-f38149007a95",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "koraidon-swimming-build",
+    "DisplayName": "Koraidon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"12f419f1-928e-450d-9bc9-5fd1a0aa6db9\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "koraidon-swimming-build",
+      "DisplayName": "Koraidon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

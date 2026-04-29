@@ -1,0 +1,26 @@
+﻿{
+  "Id": "691d8b7d-96cb-4879-a6a2-fd9002c4c090",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragonair",
+    "DisplayName": "Dragonair",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"dff1d81f-a9ef-4b37-b5bd-b43a6f62ae3e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragonair",
+      "DisplayName": "Dragonair",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Dragon"
+      }
+    }
+  }
+}

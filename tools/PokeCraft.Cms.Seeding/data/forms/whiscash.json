@@ -1,0 +1,43 @@
+﻿{
+  "Id": "72635fa9-d02b-451b-b0c8-8d33fdd00cfb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "whiscash",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b2ed0fd5-1e47-406f-99ce-d2d43f4c0579\"]",
+      "Height": "9",
+      "Weight": "236",
+      "YieldExperience": "164",
+      "PrimaryAbility": "[\"a720be5d-1a4e-4e14-8426-1ba0fc59a8ed\"]",
+      "SecondaryAbility": "[\"6eea2506-c8b3-44c8-9082-76bec64e5880\"]",
+      "HiddenAbility": "[\"14243d95-6028-489e-acf7-18592c5695c2\"]",
+      "BaseHP": "110",
+      "YieldHP": "2",
+      "BaseAttack": "78",
+      "YieldAttack": "0",
+      "BaseDefense": "73",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "76",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "71",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "whiscash",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

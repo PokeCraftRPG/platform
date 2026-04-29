@@ -1,0 +1,42 @@
+﻿{
+  "Id": "3495e5b6-dc25-49f2-a622-0a2c5e09d768",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "capsakid",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d1b981bb-dd5a-4095-8994-4b514346854a\"]",
+      "Height": "3",
+      "Weight": "30",
+      "YieldExperience": "61",
+      "PrimaryAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "SecondaryAbility": "[\"74551570-259c-470c-a9ba-64ffd0e3afad\"]",
+      "HiddenAbility": "[\"0d470a82-2040-4e95-8e52-999c26f4514d\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "62",
+      "YieldAttack": "1",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "62",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "capsakid",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

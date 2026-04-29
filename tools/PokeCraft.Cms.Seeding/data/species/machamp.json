@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c8332dd9-83f5-4cd2-808a-f4ba6b2ddff0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "machamp",
+    "DisplayName": "Machamp",
+    "Description": null,
+    "FieldValues": {
+      "Number": "68",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "machamp",
+      "DisplayName": "Machamp",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

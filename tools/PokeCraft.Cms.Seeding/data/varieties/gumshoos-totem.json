@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7c1a9039-261f-42b9-9cdf-9dac04400215",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gumshoos-totem",
+    "DisplayName": "Gumshoos",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c9d87583-7ad1-44f4-9931-9705b3cbfe2b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gumshoos-totem",
+      "DisplayName": "Gumshoos",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Stakeout"
+      }
+    }
+  }
+}

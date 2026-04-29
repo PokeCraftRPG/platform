@@ -1,0 +1,41 @@
+﻿{
+  "Id": "a7113a21-69c6-43d9-8a90-2ff8128c77d5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drizzile",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"fb4c97d8-19fd-48c3-84e5-88264b0212cd\"]",
+      "Height": "7",
+      "Weight": "115",
+      "YieldExperience": "147",
+      "PrimaryAbility": "[\"973e0e1a-dcca-4ab1-bd25-90df209dfc63\"]",
+      "HiddenAbility": "[\"e1b8fd69-5bf8-4889-ab24-ea30a8419d99\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drizzile",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

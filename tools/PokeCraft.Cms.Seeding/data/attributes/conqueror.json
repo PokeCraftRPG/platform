@@ -1,0 +1,19 @@
+﻿{
+  "Id": "30a34498-e3ef-4fce-a86d-6bebde350175",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "conqueror",
+    "DisplayName": "Conqueror",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "conqueror",
+      "DisplayName": "Conqueror",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

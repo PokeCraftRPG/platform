@@ -1,0 +1,19 @@
+﻿{
+  "Id": "5862cc42-bc4d-4f40-8ab8-dd42a051a125",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "truant",
+    "DisplayName": "Truant",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "truant",
+      "DisplayName": "Truant",
+      "Description": "Each time the Pokémon uses a move, it spends the next turn loafing around.",
+      "FieldValues": {}
+    }
+  }
+}

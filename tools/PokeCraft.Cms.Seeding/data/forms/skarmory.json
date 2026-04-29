@@ -1,0 +1,43 @@
+﻿{
+  "Id": "0484a00b-d191-4716-b802-a3105d457b3b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skarmory",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a7b05fe1-536e-4a4f-b4a5-d43a25ad95b1\"]",
+      "Height": "17",
+      "Weight": "505",
+      "YieldExperience": "163",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "SecondaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "HiddenAbility": "[\"2b8b8cfa-e12e-43d2-b403-594ac9a1c1f7\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "140",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skarmory",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

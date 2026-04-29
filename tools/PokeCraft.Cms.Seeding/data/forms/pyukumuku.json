@@ -1,0 +1,41 @@
+﻿{
+  "Id": "caf918b9-2e95-4ae1-9bcc-f0c2a5c2a841",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pyukumuku",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3d1f790d-5220-437a-aa03-ce074f832680\"]",
+      "Height": "3",
+      "Weight": "12",
+      "YieldExperience": "144",
+      "PrimaryAbility": "[\"aa16ecbd-2d02-4eb8-819f-2d930f54507d\"]",
+      "HiddenAbility": "[\"f9f08a4a-14de-4ff0-8844-8f97068aa2a3\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "130",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "130",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "5",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pyukumuku",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "13b469f7-4b69-407a-b4de-2ed62fd59340",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "soft-boiled",
+    "DisplayName": "Soft-Boiled",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "soft-boiled",
+      "DisplayName": "Soft-Boiled",
+      "Description": "The user restores its own HP by up to half its max HP.",
+      "FieldValues": {}
+    }
+  }
+}

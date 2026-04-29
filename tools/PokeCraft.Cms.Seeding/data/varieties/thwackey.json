@@ -1,0 +1,26 @@
+﻿{
+  "Id": "05869a5f-535b-408e-a554-985e91d9a062",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thwackey",
+    "DisplayName": "Thwackey",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7fa8057a-634e-40b8-83f9-7903dcea3ae8\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thwackey",
+      "DisplayName": "Thwackey",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Beat"
+      }
+    }
+  }
+}

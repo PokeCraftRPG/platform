@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e646a9c2-12e5-463b-bda6-45e4b9844e99",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sentret",
+    "DisplayName": "Sentret",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"316cfd25-41c7-4fb5-ad7b-167a6db0c686\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sentret",
+      "DisplayName": "Sentret",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Scout"
+      }
+    }
+  }
+}

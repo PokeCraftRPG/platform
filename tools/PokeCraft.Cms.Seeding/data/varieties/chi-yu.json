@@ -1,0 +1,25 @@
+﻿{
+  "Id": "feeeefa8-d5a2-4b9d-868f-15e859085c00",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chi-yu",
+    "DisplayName": "Chi-Yu",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"bc080f49-ef72-493d-8de0-694648ad70ec\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chi-yu",
+      "DisplayName": "Chi-Yu",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ruinous"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿{
+  "Id": "ecaadcf0-0f91-45f6-82f5-55797db60956",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stoked-sparksurfer",
+    "DisplayName": "Stoked Sparksurfer",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Special\"]",
+      "Power": "175",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stoked-sparksurfer",
+      "DisplayName": "Stoked Sparksurfer",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

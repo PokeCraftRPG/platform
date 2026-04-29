@@ -1,0 +1,25 @@
+﻿{
+  "Id": "bb93a006-4f71-4134-a04d-8eb439ca5b1a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "buzzwole",
+    "DisplayName": "Buzzwole",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"be778bff-8d18-4b91-8a2f-660f19e066ef\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "buzzwole",
+      "DisplayName": "Buzzwole",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Swollen"
+      }
+    }
+  }
+}

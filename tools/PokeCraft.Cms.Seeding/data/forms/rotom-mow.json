@@ -1,0 +1,41 @@
+﻿{
+  "Id": "6b465ce3-047c-4dac-8ce1-9def9f5a0c5f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rotom-mow",
+    "DisplayName": "Mow Rotom",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9add46fb-fc4b-43ae-af27-65316e197dd2\"]",
+      "Height": "3",
+      "Weight": "3",
+      "YieldExperience": "182",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "107",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "105",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "107",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "86",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rotom-mow",
+      "DisplayName": "Mow Rotom",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

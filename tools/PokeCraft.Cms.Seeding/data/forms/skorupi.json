@@ -1,0 +1,43 @@
+﻿{
+  "Id": "7fed4028-3aef-413b-8d7c-d5905df059c6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skorupi",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7436923b-9552-4d9a-bb03-d416f9b314f0\"]",
+      "Height": "8",
+      "Weight": "120",
+      "YieldExperience": "66",
+      "PrimaryAbility": "[\"eb1618b5-7ebc-4d80-b57a-76484f0061da\"]",
+      "SecondaryAbility": "[\"e1b8fd69-5bf8-4889-ab24-ea30a8419d99\"]",
+      "HiddenAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]",
+      "SecondaryType": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skorupi",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

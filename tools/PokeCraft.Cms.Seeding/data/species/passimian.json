@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f551a890-df72-4c29-ab46-1ab753e95c84",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "passimian",
+    "DisplayName": "Passimian",
+    "Description": null,
+    "FieldValues": {
+      "Number": "766",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "passimian",
+      "DisplayName": "Passimian",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

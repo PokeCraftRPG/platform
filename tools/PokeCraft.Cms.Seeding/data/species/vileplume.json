@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e15a7280-e597-42ae-83c5-0af5241a8f5c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vileplume",
+    "DisplayName": "Vileplume",
+    "Description": null,
+    "FieldValues": {
+      "Number": "45",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vileplume",
+      "DisplayName": "Vileplume",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

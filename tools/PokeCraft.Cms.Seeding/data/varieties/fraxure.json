@@ -1,0 +1,26 @@
+﻿{
+  "Id": "59034355-0a84-4b9d-9ffa-9c8506c7ca12",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fraxure",
+    "DisplayName": "Fraxure",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"30fc3dc9-d6c0-4a51-855a-81f1f27a1b32\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fraxure",
+      "DisplayName": "Fraxure",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Axe Jaw"
+      }
+    }
+  }
+}

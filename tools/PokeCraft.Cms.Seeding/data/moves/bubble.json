@@ -1,0 +1,25 @@
+﻿{
+  "Id": "e4cc4cb6-4d8b-4847-bf27-ffab01d4cad8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bubble",
+    "DisplayName": "Bubble",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bubble",
+      "DisplayName": "Bubble",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

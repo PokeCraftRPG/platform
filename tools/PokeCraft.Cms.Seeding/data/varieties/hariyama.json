@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3c666f74-b06d-468f-b38c-144a84bddb0f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hariyama",
+    "DisplayName": "Hariyama",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4fb90a5f-f90b-49db-a2fe-ffdf65140f44\"]",
+      "GenderRatio": "6",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hariyama",
+      "DisplayName": "Hariyama",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Arm Thrust"
+      }
+    }
+  }
+}

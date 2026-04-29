@@ -1,0 +1,23 @@
+﻿{
+  "Id": "f2f2d21b-7995-4bd0-969f-f1a593f692f0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cotton-guard",
+    "DisplayName": "Cotton Guard",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cotton-guard",
+      "DisplayName": "Cotton Guard",
+      "Description": "The user protects itself by wrapping its body in soft cotton, drastically boosting its Defense stat.",
+      "FieldValues": {}
+    }
+  }
+}

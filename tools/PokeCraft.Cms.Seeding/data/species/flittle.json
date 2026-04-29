@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f67aad23-7f14-4a72-b24c-2b1858e70185",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flittle",
+    "DisplayName": "Flittle",
+    "Description": null,
+    "FieldValues": {
+      "Number": "955",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flittle",
+      "DisplayName": "Flittle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

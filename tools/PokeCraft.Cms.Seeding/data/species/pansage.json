@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c7fc0f66-d4b3-439f-adc3-45ea9eada606",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pansage",
+    "DisplayName": "Pansage",
+    "Description": null,
+    "FieldValues": {
+      "Number": "511",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pansage",
+      "DisplayName": "Pansage",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

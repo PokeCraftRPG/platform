@@ -1,0 +1,26 @@
+﻿{
+  "Id": "90e5c3eb-b3a7-49dc-9c97-942a21f569ac",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snom",
+    "DisplayName": "Snom",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"df237fda-d7d1-4ed6-9fcb-7e510ff5772c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snom",
+      "DisplayName": "Snom",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Worm"
+      }
+    }
+  }
+}

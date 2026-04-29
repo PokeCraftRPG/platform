@@ -1,0 +1,19 @@
+﻿{
+  "Id": "d92f025f-7bbb-48c6-a933-f09579d97436",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spirit",
+    "DisplayName": "Spirit",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spirit",
+      "DisplayName": "Spirit",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

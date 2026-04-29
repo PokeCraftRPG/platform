@@ -1,0 +1,25 @@
+﻿{
+  "Id": "65dd2509-97fc-4f25-8cc6-afdeddfaa51f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rotom-wash",
+    "DisplayName": "Rotom",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a623e9e5-4718-4c59-8522-ba95dbaf6121\"]",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rotom-wash",
+      "DisplayName": "Rotom",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Plasma"
+      }
+    }
+  }
+}

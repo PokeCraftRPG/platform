@@ -1,0 +1,26 @@
+﻿{
+  "Id": "582f8421-4454-44a8-8e6a-a131b1eb9088",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "torchic",
+    "DisplayName": "Torchic",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ba8701ae-e27d-40f4-ba55-5d89fbbcc799\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "torchic",
+      "DisplayName": "Torchic",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Chick"
+      }
+    }
+  }
+}

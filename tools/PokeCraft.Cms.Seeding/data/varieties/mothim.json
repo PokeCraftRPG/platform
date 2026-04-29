@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4619fd76-d7c7-4465-b5a6-68a0cfe74244",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mothim",
+    "DisplayName": "Mothim",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"91461455-0487-418a-a664-7c8018dbae5a\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mothim",
+      "DisplayName": "Mothim",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Moth"
+      }
+    }
+  }
+}

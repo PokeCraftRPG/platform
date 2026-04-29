@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ff5c6aa3-ac45-40bd-a8e9-18589291692e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scovillain",
+    "DisplayName": "Scovillain",
+    "Description": null,
+    "FieldValues": {
+      "Number": "952",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scovillain",
+      "DisplayName": "Scovillain",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

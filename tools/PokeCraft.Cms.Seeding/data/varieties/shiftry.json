@@ -1,0 +1,26 @@
+﻿{
+  "Id": "31786267-39a1-4b8d-99e3-526d94f96e8a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shiftry",
+    "DisplayName": "Shiftry",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a7d6295c-d306-4748-95b9-5fd793d7817c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shiftry",
+      "DisplayName": "Shiftry",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Wicked"
+      }
+    }
+  }
+}

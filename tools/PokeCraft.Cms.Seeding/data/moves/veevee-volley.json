@@ -1,0 +1,23 @@
+﻿{
+  "Id": "86328e65-b50b-4966-a57a-2384165638bd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "veevee-volley",
+    "DisplayName": "Veevee Volley",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "veevee-volley",
+      "DisplayName": "Veevee Volley",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

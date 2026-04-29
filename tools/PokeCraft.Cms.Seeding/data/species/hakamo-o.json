@@ -1,0 +1,27 @@
+﻿{
+  "Id": "4b9e8605-b7c9-45eb-b33e-ec7ee51cca68",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hakamo-o",
+    "DisplayName": "Hakamo-o",
+    "Description": null,
+    "FieldValues": {
+      "Number": "783",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hakamo-o",
+      "DisplayName": "Hakamo-o",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

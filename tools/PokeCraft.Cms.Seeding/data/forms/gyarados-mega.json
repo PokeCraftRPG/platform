@@ -1,0 +1,41 @@
+﻿{
+  "Id": "6367fdb5-9fe0-4462-9d15-441886b349a2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gyarados-mega",
+    "DisplayName": "Mega Gyarados",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"59b12438-ac35-4a49-bff2-3fbaead33474\"]",
+      "Height": "65",
+      "Weight": "3050",
+      "YieldExperience": "224",
+      "PrimaryAbility": "[\"f35847b5-de3c-4706-a9d6-010903615537\"]",
+      "BaseHP": "95",
+      "YieldHP": "0",
+      "BaseAttack": "155",
+      "YieldAttack": "2",
+      "BaseDefense": "109",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "130",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "81",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gyarados-mega",
+      "DisplayName": "Mega Gyarados",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

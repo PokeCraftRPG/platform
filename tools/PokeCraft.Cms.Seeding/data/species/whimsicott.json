@@ -1,0 +1,28 @@
+﻿{
+  "Id": "a6d3aa79-1230-40ba-a41b-b7250573100e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "whimsicott",
+    "DisplayName": "Whimsicott",
+    "Description": null,
+    "FieldValues": {
+      "Number": "547",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]",
+      "SecondaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "whimsicott",
+      "DisplayName": "Whimsicott",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

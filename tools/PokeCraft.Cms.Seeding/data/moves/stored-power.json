@@ -1,0 +1,25 @@
+﻿{
+  "Id": "5741cf1a-8244-4985-b231-476390b1ab07",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stored-power",
+    "DisplayName": "Stored Power",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "20",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stored-power",
+      "DisplayName": "Stored Power",
+      "Description": "The user attacks the target with stored power. The more the user's stats are boosted, the greater the move's power.",
+      "FieldValues": {}
+    }
+  }
+}

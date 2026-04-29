@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9dba4bd2-adb4-4cd8-8fd5-1c50c34af6d1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "charizard-mega-x",
+    "DisplayName": "Charizard",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"75f394dd-d8ab-4969-ad85-5567c1133b43\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "charizard-mega-x",
+      "DisplayName": "Charizard",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Flame"
+      }
+    }
+  }
+}

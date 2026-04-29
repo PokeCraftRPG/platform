@@ -1,0 +1,25 @@
+﻿{
+  "Id": "9ef1d943-61aa-48d2-8259-81ae55adc765",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pecharunt",
+    "DisplayName": "Pecharunt",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"cf5173e7-4434-4ea9-b898-bddbcd809cf2\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pecharunt",
+      "DisplayName": "Pecharunt",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Subjugation"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "9250c4df-2318-449b-8ff4-6fe71cdeb132",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dire-claw",
+    "DisplayName": "Dire Claw",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dire-claw",
+      "DisplayName": "Dire Claw",
+      "Description": "The user lashes out at the target with ruinous claws. This may also leave the target poisoned, paralyzed, or asleep.",
+      "FieldValues": {}
+    }
+  }
+}

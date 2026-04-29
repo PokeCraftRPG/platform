@@ -1,0 +1,19 @@
+﻿{
+  "Id": "7fe7cc68-1824-4102-8424-454921c8de9b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "forecast",
+    "DisplayName": "Forecast",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "forecast",
+      "DisplayName": "Forecast",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

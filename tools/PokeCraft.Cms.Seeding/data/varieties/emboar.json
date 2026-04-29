@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f6899deb-2ce8-478d-bf12-d79adf59290d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "emboar",
+    "DisplayName": "Emboar",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"04a024a6-a16d-4b84-8fc8-e7789534e35c\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "emboar",
+      "DisplayName": "Emboar",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mega Fire Pig"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d069f66b-48de-4c9b-b579-d91300d85411",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "combusken",
+    "DisplayName": "Combusken",
+    "Description": null,
+    "FieldValues": {
+      "Number": "256",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "combusken",
+      "DisplayName": "Combusken",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

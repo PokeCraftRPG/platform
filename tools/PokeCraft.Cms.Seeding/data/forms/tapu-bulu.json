@@ -1,0 +1,42 @@
+﻿{
+  "Id": "87eee48f-e92c-47b9-834b-4dc0c57a8204",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tapu-bulu",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d1e5f5c4-d7b6-471a-9ecc-aa2a738ccdee\"]",
+      "Height": "19",
+      "Weight": "455",
+      "YieldExperience": "257",
+      "PrimaryAbility": "[\"190efac3-8c0f-43d2-b1f6-815d28a8f299\"]",
+      "HiddenAbility": "[\"f5863110-b5b9-4629-b95c-3869ed34433d\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "130",
+      "YieldAttack": "3",
+      "BaseDefense": "115",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "75",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tapu-bulu",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "a720be5d-1a4e-4e14-8426-1ba0fc59a8ed",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "oblivious",
+    "DisplayName": "Oblivious",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "oblivious",
+      "DisplayName": "Oblivious",
+      "Description": "The Pokémon is oblivious, keeping it from being infatuated, falling for taunts, or being affected by Intimidate.",
+      "FieldValues": {}
+    }
+  }
+}

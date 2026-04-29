@@ -1,0 +1,40 @@
+﻿{
+  "Id": "23c568e5-02bc-407f-837e-093d2306f287",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "xerneas-neutral",
+    "DisplayName": "Neutral Xerneas",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b5e72cf0-087d-4ac8-a985-e1b01a5bfde9\"]",
+      "Height": "30",
+      "Weight": "2150",
+      "YieldExperience": "306",
+      "PrimaryAbility": "[\"18fae078-c83d-4365-962c-5a2b67bb2b72\"]",
+      "BaseHP": "126",
+      "YieldHP": "3",
+      "BaseAttack": "131",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "131",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "98",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "99",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "xerneas-neutral",
+      "DisplayName": "Neutral Xerneas",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

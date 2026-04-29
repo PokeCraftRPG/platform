@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3dc3993a-64ec-4593-9dbd-7af1f012f3ea",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hydreigon",
+    "DisplayName": "Hydreigon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f2fefe6a-f9cd-448f-93ef-1fc371e45ad2\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hydreigon",
+      "DisplayName": "Hydreigon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Brutal"
+      }
+    }
+  }
+}

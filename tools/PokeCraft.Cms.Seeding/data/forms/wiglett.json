@@ -1,0 +1,42 @@
+﻿{
+  "Id": "fbf65c87-9b7c-49b9-bdf4-1921d4e49dcd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wiglett",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0e882e55-476a-4e88-a261-6ac808c365e8\"]",
+      "Height": "12",
+      "Weight": "18",
+      "YieldExperience": "49",
+      "PrimaryAbility": "[\"b26695ec-9331-4ca1-b94c-d371e8bbbb15\"]",
+      "SecondaryAbility": "[\"9c030956-19a0-4e37-8835-0484c2fa3d91\"]",
+      "HiddenAbility": "[\"2298dae8-5c1f-423f-960d-8cf61b19c897\"]",
+      "BaseHP": "10",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "25",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "25",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wiglett",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

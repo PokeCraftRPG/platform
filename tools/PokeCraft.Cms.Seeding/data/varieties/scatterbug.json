@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6bbf423e-a7a1-4bd5-b2a3-86b0564f8ca4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scatterbug",
+    "DisplayName": "Scatterbug",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1d3c730a-0cd4-4ddd-a759-d1f1bb0ee279\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scatterbug",
+      "DisplayName": "Scatterbug",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Scatterdust"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "603b4de4-5b09-4320-a7d8-47923c13ef2b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "golbat",
+    "DisplayName": "Golbat",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8bdde3fa-863c-48d3-a1e0-48a0ae36b71d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "golbat",
+      "DisplayName": "Golbat",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bat"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "26fcf79c-eb30-4907-8539-b6ba4d5108bf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pancham",
+    "DisplayName": "Pancham",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"78b6c1bb-1184-41b4-94d2-87ccfbb7598d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pancham",
+      "DisplayName": "Pancham",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Playful"
+      }
+    }
+  }
+}

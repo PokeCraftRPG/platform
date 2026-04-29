@@ -1,0 +1,25 @@
+﻿{
+  "Id": "3d115366-bdc5-44bf-83c8-a763fed5f0d2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "xurkitree",
+    "DisplayName": "Xurkitree",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4e8bf19b-69f1-412b-93d6-8472d2df647c\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "xurkitree",
+      "DisplayName": "Xurkitree",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Glowing"
+      }
+    }
+  }
+}

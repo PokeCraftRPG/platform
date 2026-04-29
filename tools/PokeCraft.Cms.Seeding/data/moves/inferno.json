@@ -1,0 +1,25 @@
+﻿{
+  "Id": "aa409bf0-5e3d-43d2-bf97-015394dfe227",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "inferno",
+    "DisplayName": "Inferno",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "50",
+      "Power": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "inferno",
+      "DisplayName": "Inferno",
+      "Description": "The user attacks by engulfing the target in an intense fire. This leaves the target with a burn.",
+      "FieldValues": {}
+    }
+  }
+}

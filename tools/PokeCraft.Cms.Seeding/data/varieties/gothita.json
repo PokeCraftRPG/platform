@@ -1,0 +1,26 @@
+﻿{
+  "Id": "819c6077-0697-466d-b2d5-c1bc85a80cde",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gothita",
+    "DisplayName": "Gothita",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"13d89a05-c5ab-4648-9b2b-0316d1943f3b\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gothita",
+      "DisplayName": "Gothita",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fixation"
+      }
+    }
+  }
+}

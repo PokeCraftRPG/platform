@@ -1,0 +1,25 @@
+﻿{
+  "Id": "7fb1a8d5-4000-44d1-8fc3-db9e24fea55c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dual-chop",
+    "DisplayName": "Dual Chop",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "40",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dual-chop",
+      "DisplayName": "Dual Chop",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

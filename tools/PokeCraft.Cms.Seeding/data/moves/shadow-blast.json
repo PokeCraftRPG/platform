@@ -1,0 +1,23 @@
+﻿{
+  "Id": "f29ce560-bfe2-4cc2-8b4d-a1c57e92c0ce",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shadow-blast",
+    "DisplayName": "Shadow Blast",
+    "Description": null,
+    "FieldValues": {
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shadow-blast",
+      "DisplayName": "Shadow Blast",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

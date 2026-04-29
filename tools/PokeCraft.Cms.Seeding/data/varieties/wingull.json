@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f5679773-f0a3-42c5-8d2f-979c3b691f5f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wingull",
+    "DisplayName": "Wingull",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9fd9426a-cc0e-4415-9e85-739b6b3d3a80\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wingull",
+      "DisplayName": "Wingull",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Seagull"
+      }
+    }
+  }
+}

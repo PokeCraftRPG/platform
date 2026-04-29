@@ -1,0 +1,27 @@
+﻿{
+  "Id": "2ee56fc5-a188-4a5d-8831-b5a50db69c63",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "electrode",
+    "DisplayName": "Electrode",
+    "Description": null,
+    "FieldValues": {
+      "Number": "101",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "electrode",
+      "DisplayName": "Electrode",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

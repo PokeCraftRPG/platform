@@ -1,0 +1,19 @@
+﻿{
+  "Id": "c28be462-7265-4527-a8aa-85774f7eaf7b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ice-body",
+    "DisplayName": "Ice Body",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ice-body",
+      "DisplayName": "Ice Body",
+      "Description": "The Pokémon gradually regains HP in snow.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "fd7c5a57-91b0-4f7b-af9a-c5dd919a9db5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "eevee",
+    "DisplayName": "Eevee",
+    "Description": null,
+    "FieldValues": {
+      "Number": "133",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "35",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "eevee",
+      "DisplayName": "Eevee",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

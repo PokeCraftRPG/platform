@@ -1,0 +1,42 @@
+﻿{
+  "Id": "417f1e44-df70-40b2-bdfb-45a63e78e500",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "heatran",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4d0878a2-5757-49d8-b040-760d6885a59f\"]",
+      "Height": "17",
+      "Weight": "4300",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"956efecf-ecf7-4731-9df1-25171033ad13\"]",
+      "HiddenAbility": "[\"61541bb6-568e-4dd0-b07a-56233b9fe96f\"]",
+      "BaseHP": "91",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "106",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "130",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "106",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "77",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "heatran",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "19620fbd-3663-455d-b3c5-43db9e8c6614",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "x-scissor",
+    "DisplayName": "X-Scissor",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "x-scissor",
+      "DisplayName": "X-Scissor",
+      "Description": "The user slashes at the target by crossing its scythes, claws, or the like as if they were a pair of scissors.",
+      "FieldValues": {}
+    }
+  }
+}

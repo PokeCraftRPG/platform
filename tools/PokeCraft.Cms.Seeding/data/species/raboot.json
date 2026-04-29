@@ -1,0 +1,28 @@
+﻿{
+  "Id": "349f6a0f-dd2f-47f9-8668-26a393d84a0d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "raboot",
+    "DisplayName": "Raboot",
+    "Description": null,
+    "FieldValues": {
+      "Number": "814",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "raboot",
+      "DisplayName": "Raboot",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

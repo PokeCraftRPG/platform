@@ -1,0 +1,26 @@
+﻿{
+  "Id": "db917fa3-1477-4ef8-90b7-8b8f964e58c0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "darmanitan-galar-zen",
+    "DisplayName": "Darmanitan",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"cc2c78fe-7bb3-4c76-b90b-7218218fba68\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "darmanitan-galar-zen",
+      "DisplayName": "Darmanitan",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Blazing"
+      }
+    }
+  }
+}

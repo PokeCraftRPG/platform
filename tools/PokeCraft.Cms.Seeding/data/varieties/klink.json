@@ -1,0 +1,25 @@
+﻿{
+  "Id": "43ffa9e5-0945-409f-9f15-0e2165b3be34",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "klink",
+    "DisplayName": "Klink",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"15c06a85-a75b-4b83-92e7-5ffe64b501e2\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "klink",
+      "DisplayName": "Klink",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Gear"
+      }
+    }
+  }
+}

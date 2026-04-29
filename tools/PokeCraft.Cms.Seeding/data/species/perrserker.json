@@ -1,0 +1,27 @@
+﻿{
+  "Id": "0eb1011e-8075-4cca-881f-1c910224ce85",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "perrserker",
+    "DisplayName": "Perrserker",
+    "Description": null,
+    "FieldValues": {
+      "Number": "863",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "perrserker",
+      "DisplayName": "Perrserker",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

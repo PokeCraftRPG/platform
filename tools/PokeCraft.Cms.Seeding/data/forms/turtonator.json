@@ -1,0 +1,41 @@
+﻿{
+  "Id": "ab240826-9d68-40ff-937d-088132be9049",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "turtonator",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"05726fe3-7717-4f08-b514-539ebe545e99\"]",
+      "Height": "20",
+      "Weight": "2120",
+      "YieldExperience": "170",
+      "PrimaryAbility": "[\"238257b2-205c-4b83-b5f1-393b8c11b2e9\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "78",
+      "YieldAttack": "0",
+      "BaseDefense": "135",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "91",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "36",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "turtonator",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "dbd05eb2-1e3b-45b5-bc85-6e52d453a950",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "defeatist",
+    "DisplayName": "Defeatist",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "defeatist",
+      "DisplayName": "Defeatist",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

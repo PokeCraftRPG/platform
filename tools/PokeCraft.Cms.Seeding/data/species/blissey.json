@@ -1,0 +1,27 @@
+﻿{
+  "Id": "17db8831-92c4-4bd9-8c1d-c1d5e28ff839",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blissey",
+    "DisplayName": "Blissey",
+    "Description": null,
+    "FieldValues": {
+      "Number": "242",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "140",
+      "CatchRate": "30",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blissey",
+      "DisplayName": "Blissey",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

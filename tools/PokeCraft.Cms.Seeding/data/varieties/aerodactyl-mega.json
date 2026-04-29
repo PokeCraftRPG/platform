@@ -1,0 +1,26 @@
+﻿{
+  "Id": "660df8c3-d777-41fb-a8bc-0c30f7334911",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aerodactyl-mega",
+    "DisplayName": "Aerodactyl",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f64f4a67-aca7-460c-93bf-e0d33c3e89ff\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aerodactyl-mega",
+      "DisplayName": "Aerodactyl",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fossil"
+      }
+    }
+  }
+}

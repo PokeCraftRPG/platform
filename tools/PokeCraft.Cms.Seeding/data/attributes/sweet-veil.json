@@ -1,0 +1,19 @@
+﻿{
+  "Id": "cd664007-8bcb-4772-9253-08beb8edb12e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sweet-veil",
+    "DisplayName": "Sweet Veil",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sweet-veil",
+      "DisplayName": "Sweet Veil",
+      "Description": "Prevents the Pokémon and its allies from falling asleep.",
+      "FieldValues": {}
+    }
+  }
+}

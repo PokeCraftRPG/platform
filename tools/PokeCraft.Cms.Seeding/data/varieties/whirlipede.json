@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f320f279-57f7-4ffd-b5b1-3aedf695b2d3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "whirlipede",
+    "DisplayName": "Whirlipede",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7b961c81-7a6b-4147-80b6-83985919aeb2\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "whirlipede",
+      "DisplayName": "Whirlipede",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Curlipede"
+      }
+    }
+  }
+}

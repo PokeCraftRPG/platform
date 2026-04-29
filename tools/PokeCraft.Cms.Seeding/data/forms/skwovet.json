@@ -1,0 +1,41 @@
+﻿{
+  "Id": "364a4b1e-2fa7-493c-a053-9271cf238cce",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skwovet",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0ec40eab-ca65-4980-bb4b-b0ad63a231ab\"]",
+      "Height": "3",
+      "Weight": "25",
+      "YieldExperience": "55",
+      "PrimaryAbility": "[\"f6d802de-f5c1-41cc-bdc8-744a3fdfcf19\"]",
+      "HiddenAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "BaseHP": "70",
+      "YieldHP": "1",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "35",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "25",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skwovet",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

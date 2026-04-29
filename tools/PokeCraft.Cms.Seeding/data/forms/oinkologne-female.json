@@ -1,0 +1,42 @@
+﻿{
+  "Id": "023b9216-d328-4c16-bd1a-ac65722a83fa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "oinkologne-female",
+    "DisplayName": "Female Oinkologne",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"fa864a83-c2f3-40b2-bdd9-2baf084ac2f1\"]",
+      "Height": "10",
+      "Weight": "1200",
+      "YieldExperience": "171",
+      "PrimaryAbility": "[\"56b529e6-13d3-4830-992f-f1807b22cd23\"]",
+      "SecondaryAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "HiddenAbility": "[\"d6fa994e-7a48-48b5-9f1f-c1b84dd3225f\"]",
+      "BaseHP": "115",
+      "YieldHP": "2",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "59",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "oinkologne-female",
+      "DisplayName": "Female Oinkologne",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

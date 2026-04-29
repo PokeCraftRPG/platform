@@ -1,0 +1,25 @@
+﻿{
+  "Id": "51c0cc1c-2e91-4c92-b958-2dc7e2e2e98c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lumina-crash",
+    "DisplayName": "Lumina Crash",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lumina-crash",
+      "DisplayName": "Lumina Crash",
+      "Description": "The user attacks by unleashing a peculiar light that even affects the mind. This also harshly lowers the target's Sp. Def stat.",
+      "FieldValues": {}
+    }
+  }
+}

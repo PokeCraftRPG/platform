@@ -1,0 +1,41 @@
+﻿{
+  "Id": "546a13be-3b39-4ce3-ae27-da678ba5e328",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "deino",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5c415edd-0d54-4fb2-894d-cb44742978c4\"]",
+      "Height": "8",
+      "Weight": "173",
+      "YieldExperience": "60",
+      "PrimaryAbility": "[\"12b608f7-a7b7-412e-803f-28d4eaba64c8\"]",
+      "BaseHP": "52",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "1",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "38",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "deino",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

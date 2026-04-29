@@ -1,0 +1,25 @@
+﻿{
+  "Id": "019fa975-76ae-4f95-ae1f-a29362735a86",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "luster-purge",
+    "DisplayName": "Luster Purge",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "95",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "luster-purge",
+      "DisplayName": "Luster Purge",
+      "Description": "The user lets loose a damaging burst of light. This may also lower the target's Sp. Def stat.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f2d15fac-b63c-4984-87e9-d46d39920192",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pichu",
+    "DisplayName": "Pichu",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"17ff250c-3f70-4d8f-b235-a40b1e68ea58\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pichu",
+      "DisplayName": "Pichu",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tiny Mouse"
+      }
+    }
+  }
+}

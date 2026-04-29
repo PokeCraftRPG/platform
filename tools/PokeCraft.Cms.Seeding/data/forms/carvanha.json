@@ -1,0 +1,42 @@
+﻿{
+  "Id": "3fd0d219-c05b-45c6-ab86-ba9506672c19",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "carvanha",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"79772620-c336-433e-83d1-1e95052079ae\"]",
+      "Height": "8",
+      "Weight": "208",
+      "YieldExperience": "61",
+      "PrimaryAbility": "[\"b48ce3db-30ec-4675-8331-7389c8cc19c6\"]",
+      "HiddenAbility": "[\"c34cae01-916e-44ec-8e58-1cc63029592f\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "1",
+      "BaseDefense": "20",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "20",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "carvanha",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

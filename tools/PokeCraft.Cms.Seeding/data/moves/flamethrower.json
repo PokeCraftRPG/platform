@@ -1,0 +1,25 @@
+﻿{
+  "Id": "31ea3e83-0d02-4af9-a9c0-81216fb55cf6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flamethrower",
+    "DisplayName": "Flamethrower",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flamethrower",
+      "DisplayName": "Flamethrower",
+      "Description": "The target is scorched with an intense blast of fire. This may also leave the target with a burn.",
+      "FieldValues": {}
+    }
+  }
+}

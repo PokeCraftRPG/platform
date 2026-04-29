@@ -1,0 +1,27 @@
+﻿{
+  "Id": "51a2411e-4a0c-4e2a-bd8b-7c01656bc647",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scolipede",
+    "DisplayName": "Scolipede",
+    "Description": null,
+    "FieldValues": {
+      "Number": "545",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scolipede",
+      "DisplayName": "Scolipede",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

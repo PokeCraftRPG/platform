@@ -1,0 +1,28 @@
+﻿{
+  "Id": "1dbcb55b-ee48-48da-81c0-922a80a577e8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drapion",
+    "DisplayName": "Drapion",
+    "Description": null,
+    "FieldValues": {
+      "Number": "452",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]",
+      "SecondaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drapion",
+      "DisplayName": "Drapion",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

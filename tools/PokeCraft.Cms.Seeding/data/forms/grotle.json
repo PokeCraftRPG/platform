@@ -1,0 +1,41 @@
+﻿{
+  "Id": "dd31cce9-1d1d-48aa-9587-b889bd684d05",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grotle",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7e4dc75c-c96f-4276-8c4a-f19db6b729b2\"]",
+      "Height": "11",
+      "Weight": "970",
+      "YieldExperience": "142",
+      "PrimaryAbility": "[\"f635691a-6cf0-4a55-a848-a2183d487971\"]",
+      "HiddenAbility": "[\"238257b2-205c-4b83-b5f1-393b8c11b2e9\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "89",
+      "YieldAttack": "1",
+      "BaseDefense": "85",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "36",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grotle",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

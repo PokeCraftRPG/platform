@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ff67e4ea-3e0d-4e53-8a02-482d0aac0c02",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sneasel",
+    "DisplayName": "Sneasel",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f8a185aa-3013-4a68-ab13-5c0fe8cf9766\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sneasel",
+      "DisplayName": "Sneasel",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sharp Claw"
+      }
+    }
+  }
+}

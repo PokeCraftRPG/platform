@@ -1,0 +1,25 @@
+﻿{
+  "Id": "67d9ee79-f1df-464b-84df-aea8484cf5b1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sizzly-slide",
+    "DisplayName": "Sizzly Slide",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sizzly-slide",
+      "DisplayName": "Sizzly Slide",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

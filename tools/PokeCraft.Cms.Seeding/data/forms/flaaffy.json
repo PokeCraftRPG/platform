@@ -1,0 +1,41 @@
+﻿{
+  "Id": "e995a43c-db97-44c6-b596-55791bc8bc4c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flaaffy",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2fffa76c-31fc-4902-a7a8-17876df00cb0\"]",
+      "Height": "8",
+      "Weight": "133",
+      "YieldExperience": "128",
+      "PrimaryAbility": "[\"4d8cefa4-dbcc-4c78-b5f5-0a1c30bdb019\"]",
+      "HiddenAbility": "[\"885b9c4a-a988-4730-a7dd-b11c03474e5d\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flaaffy",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "58c6a41b-e23b-4652-9f3e-864eab137d30",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skeledirge",
+    "DisplayName": "Skeledirge",
+    "Description": null,
+    "FieldValues": {
+      "Number": "911",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skeledirge",
+      "DisplayName": "Skeledirge",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

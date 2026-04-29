@@ -1,0 +1,25 @@
+﻿{
+  "Id": "357ce240-3336-4966-b3cb-29fead455b1f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "steel-beam",
+    "DisplayName": "Steel Beam",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "95",
+      "Power": "140",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "steel-beam",
+      "DisplayName": "Steel Beam",
+      "Description": "The user fires a beam of steel that it collected from its entire body. This also damages the user.",
+      "FieldValues": {}
+    }
+  }
+}

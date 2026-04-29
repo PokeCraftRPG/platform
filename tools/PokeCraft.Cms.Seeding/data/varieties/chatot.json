@@ -1,0 +1,26 @@
+﻿{
+  "Id": "36af867c-2f1b-49a4-aa0c-14a5b5a2a00a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chatot",
+    "DisplayName": "Chatot",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f5400998-4d79-4234-af7a-3d3385cbee08\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chatot",
+      "DisplayName": "Chatot",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Music Note"
+      }
+    }
+  }
+}

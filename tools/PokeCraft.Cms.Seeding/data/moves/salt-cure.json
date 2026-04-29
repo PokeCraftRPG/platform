@@ -1,0 +1,25 @@
+﻿{
+  "Id": "5e8223ff-d04a-4687-a7c0-8a01db3552c6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "salt-cure",
+    "DisplayName": "Salt Cure",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Rock\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "salt-cure",
+      "DisplayName": "Salt Cure",
+      "Description": "The user salt cures the target, inflicting damage every turn. Steel and Water types are more strongly affected by this move.",
+      "FieldValues": {}
+    }
+  }
+}

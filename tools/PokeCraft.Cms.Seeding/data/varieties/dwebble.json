@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e596818e-87ea-4d66-a512-7a8929b34fc8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dwebble",
+    "DisplayName": "Dwebble",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5b34f813-cb4f-4ccf-ad4d-844933566b17\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dwebble",
+      "DisplayName": "Dwebble",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rock Inn"
+      }
+    }
+  }
+}

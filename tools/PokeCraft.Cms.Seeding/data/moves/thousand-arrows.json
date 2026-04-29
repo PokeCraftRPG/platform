@@ -1,0 +1,25 @@
+﻿{
+  "Id": "77286446-1a5b-4aa0-9bb4-30da2f4d632a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thousand-arrows",
+    "DisplayName": "Thousand Arrows",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thousand-arrows",
+      "DisplayName": "Thousand Arrows",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

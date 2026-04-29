@@ -1,0 +1,23 @@
+﻿{
+  "Id": "efa299e3-cefc-46ae-b919-d27dfeac9063",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stealth-rock",
+    "DisplayName": "Stealth Rock",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Rock\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stealth-rock",
+      "DisplayName": "Stealth Rock",
+      "Description": "The user lays a trap of levitating stones around the opposing team. The trap damages opposing Pokémon that switch into battle.",
+      "FieldValues": {}
+    }
+  }
+}

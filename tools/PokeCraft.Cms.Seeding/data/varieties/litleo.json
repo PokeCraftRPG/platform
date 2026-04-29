@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a7873759-d1ff-4a39-b52b-c2099213f679",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "litleo",
+    "DisplayName": "Litleo",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c88a2e18-245b-4307-92cb-44d08938f0e1\"]",
+      "GenderRatio": "1",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "litleo",
+      "DisplayName": "Litleo",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Lion Cub"
+      }
+    }
+  }
+}

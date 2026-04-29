@@ -1,0 +1,41 @@
+﻿{
+  "Id": "c10a4919-9b79-43b3-af98-605cdeb35c7a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magby",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c0f5b684-af68-4156-b621-0aa529448186\"]",
+      "Height": "7",
+      "Weight": "214",
+      "YieldExperience": "73",
+      "PrimaryAbility": "[\"61541bb6-568e-4dd0-b07a-56233b9fe96f\"]",
+      "HiddenAbility": "[\"45a56091-34c8-4407-8d66-a4a64e2eb101\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "37",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "83",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magby",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

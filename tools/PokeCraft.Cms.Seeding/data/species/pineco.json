@@ -1,0 +1,27 @@
+﻿{
+  "Id": "770e3faa-3e4c-4155-a6b0-6be85b08e10e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pineco",
+    "DisplayName": "Pineco",
+    "Description": null,
+    "FieldValues": {
+      "Number": "204",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pineco",
+      "DisplayName": "Pineco",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

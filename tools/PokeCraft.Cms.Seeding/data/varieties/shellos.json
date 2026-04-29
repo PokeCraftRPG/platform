@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9237d774-7355-44cb-8de5-06a9230fd247",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shellos",
+    "DisplayName": "Shellos",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1ddf1800-e1af-4888-9acb-370d8abc2a20\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shellos",
+      "DisplayName": "Shellos",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sea Slug"
+      }
+    }
+  }
+}

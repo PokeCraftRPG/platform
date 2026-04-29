@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6ce6ee56-a034-4da6-9572-21cecd54b2f8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kommo-o-totem",
+    "DisplayName": "Kommo-o",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c70705f8-e942-4a67-b256-68829af9c867\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kommo-o-totem",
+      "DisplayName": "Kommo-o",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Scaly"
+      }
+    }
+  }
+}

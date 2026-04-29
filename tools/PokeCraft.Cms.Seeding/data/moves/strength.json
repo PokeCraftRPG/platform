@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ce08e858-e2f7-4508-ab2a-8c53972fb008",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "strength",
+    "DisplayName": "Strength",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "strength",
+      "DisplayName": "Strength",
+      "Description": "The target is slugged with a punch thrown at maximum power.",
+      "FieldValues": {}
+    }
+  }
+}

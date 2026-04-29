@@ -1,0 +1,42 @@
+﻿{
+  "Id": "afee63c9-0185-4ae9-9541-00e14a90860f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "teddiursa",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5d344952-d913-4fa8-a65c-fe26ecd68c50\"]",
+      "Height": "6",
+      "Weight": "88",
+      "YieldExperience": "66",
+      "PrimaryAbility": "[\"071551b8-ee73-4742-85e8-264e82a49f57\"]",
+      "SecondaryAbility": "[\"69ed006e-469a-417a-824a-dd844d36ba47\"]",
+      "HiddenAbility": "[\"3c9c9307-f766-43a4-8417-851955114a4b\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "1",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "teddiursa",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "4ccb16c2-f737-49a6-8324-11144c0e3131",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "crush-claw",
+    "DisplayName": "Crush Claw",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "95",
+      "Power": "75",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "crush-claw",
+      "DisplayName": "Crush Claw",
+      "Description": "The user slashes the target with hard and sharp claws. This may also lower the target's Defense stat.",
+      "FieldValues": {}
+    }
+  }
+}

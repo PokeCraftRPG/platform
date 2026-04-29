@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3010ddda-9099-458b-9f9b-ae80876c0e0e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pangoro",
+    "DisplayName": "Pangoro",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c055290b-3727-4f0b-9b45-3884d9efb807\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pangoro",
+      "DisplayName": "Pangoro",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Daunting"
+      }
+    }
+  }
+}

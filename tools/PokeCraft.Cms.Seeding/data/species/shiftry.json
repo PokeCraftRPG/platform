@@ -1,0 +1,28 @@
+﻿{
+  "Id": "a7d6295c-d306-4748-95b9-5fd793d7817c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shiftry",
+    "DisplayName": "Shiftry",
+    "Description": null,
+    "FieldValues": {
+      "Number": "275",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shiftry",
+      "DisplayName": "Shiftry",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

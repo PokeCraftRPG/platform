@@ -1,0 +1,25 @@
+﻿{
+  "Id": "b77ac5de-b87c-438d-ba7b-f5096641fd2b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "make-it-rain",
+    "DisplayName": "Make It Rain",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "make-it-rain",
+      "DisplayName": "Make It Rain",
+      "Description": "The user attacks by throwing out a mass of coins. This also lowers the user's Sp. Atk stat. Money is earned after the battle.",
+      "FieldValues": {}
+    }
+  }
+}

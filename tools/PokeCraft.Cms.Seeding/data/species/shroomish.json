@@ -1,0 +1,28 @@
+﻿{
+  "Id": "cfdcf752-29cc-462e-9b92-87ec6931a2dc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shroomish",
+    "DisplayName": "Shroomish",
+    "Description": null,
+    "FieldValues": {
+      "Number": "285",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"Fluctuating\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Fairy\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shroomish",
+      "DisplayName": "Shroomish",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

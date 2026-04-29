@@ -1,0 +1,28 @@
+﻿{
+  "Id": "6723cac2-e924-4b39-a2ef-bbd94a1ce859",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dewgong",
+    "DisplayName": "Dewgong",
+    "Description": null,
+    "FieldValues": {
+      "Number": "87",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dewgong",
+      "DisplayName": "Dewgong",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

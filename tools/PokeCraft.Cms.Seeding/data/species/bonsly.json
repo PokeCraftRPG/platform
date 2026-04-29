@@ -1,0 +1,27 @@
+﻿{
+  "Id": "5a5f5f3a-3cc1-4e76-af5c-25a645bac15c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bonsly",
+    "DisplayName": "Bonsly",
+    "Description": null,
+    "FieldValues": {
+      "Number": "438",
+      "Category": "[\"Baby\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bonsly",
+      "DisplayName": "Bonsly",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "cfd6109b-b83c-4025-8320-6f84d92903f9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spider-web",
+    "DisplayName": "Spider Web",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spider-web",
+      "DisplayName": "Spider Web",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

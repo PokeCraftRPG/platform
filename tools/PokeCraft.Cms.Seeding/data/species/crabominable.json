@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ba28b867-c72d-4173-802a-ca22b36a9473",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "crabominable",
+    "DisplayName": "Crabominable",
+    "Description": null,
+    "FieldValues": {
+      "Number": "740",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "crabominable",
+      "DisplayName": "Crabominable",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

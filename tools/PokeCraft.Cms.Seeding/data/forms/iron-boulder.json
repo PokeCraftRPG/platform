@@ -1,0 +1,41 @@
+﻿{
+  "Id": "8d423bd6-f207-44d1-a05d-6a7fd58ec7f5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-boulder",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"da16d961-8e3d-40b8-bb1b-4ef883bbec41\"]",
+      "Height": "15",
+      "Weight": "1625",
+      "YieldExperience": "295",
+      "PrimaryAbility": "[\"7cef81dc-7c42-4b31-b37d-79a7e926c4cd\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "68",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "108",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "124",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-boulder",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

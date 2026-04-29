@@ -1,0 +1,25 @@
+﻿{
+  "Id": "e649d8d8-059c-4c74-8570-35841392caac",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sparkling-aria",
+    "DisplayName": "Sparkling Aria",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sparkling-aria",
+      "DisplayName": "Sparkling Aria",
+      "Description": "The user bursts into song, emitting many bubbles. Any Pokémon suffering from a burn will be cured by the touch of these bubbles.",
+      "FieldValues": {}
+    }
+  }
+}

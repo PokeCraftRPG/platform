@@ -1,0 +1,19 @@
+﻿{
+  "Id": "cfcb27cb-4217-496e-a1fc-337a5de8cc2d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "turboblaze",
+    "DisplayName": "Turboblaze",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "turboblaze",
+      "DisplayName": "Turboblaze",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

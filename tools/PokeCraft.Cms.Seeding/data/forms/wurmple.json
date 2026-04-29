@@ -1,0 +1,41 @@
+﻿{
+  "Id": "70a6f23a-5b97-4f25-804a-d92a0f49e47f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wurmple",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6ae10779-f788-4dd9-96de-59ff742ad8de\"]",
+      "Height": "3",
+      "Weight": "36",
+      "YieldExperience": "56",
+      "PrimaryAbility": "[\"29bd00fc-e0bf-4f2e-8cf9-f87e1aa11c4a\"]",
+      "HiddenAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "BaseHP": "45",
+      "YieldHP": "1",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "35",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "20",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "30",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "20",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wurmple",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

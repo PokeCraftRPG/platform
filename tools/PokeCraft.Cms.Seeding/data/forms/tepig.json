@@ -1,0 +1,41 @@
+﻿{
+  "Id": "244c38e4-4286-4e6d-954b-3e8ec047e338",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tepig",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"11aace48-1728-46da-8b8d-79c5d7358b87\"]",
+      "Height": "5",
+      "Weight": "99",
+      "YieldExperience": "62",
+      "PrimaryAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "HiddenAbility": "[\"d6fa994e-7a48-48b5-9f1f-c1b84dd3225f\"]",
+      "BaseHP": "65",
+      "YieldHP": "1",
+      "BaseAttack": "63",
+      "YieldAttack": "0",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tepig",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

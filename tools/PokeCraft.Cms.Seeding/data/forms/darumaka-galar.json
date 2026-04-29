@@ -1,0 +1,41 @@
+﻿{
+  "Id": "c79882a2-6708-4c94-bc71-261d1a61122a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "darumaka-galar",
+    "DisplayName": "Galarian Darumaka",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"05f884c3-2cb6-4366-a26b-48a130081e60\"]",
+      "Height": "7",
+      "Weight": "400",
+      "YieldExperience": "63",
+      "PrimaryAbility": "[\"12b608f7-a7b7-412e-803f-28d4eaba64c8\"]",
+      "HiddenAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "1",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "15",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "darumaka-galar",
+      "DisplayName": "Galarian Darumaka",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

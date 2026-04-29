@@ -1,0 +1,27 @@
+﻿{
+  "Id": "885d1fa6-9048-4545-b904-a1766d45edac",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tapu-lele",
+    "DisplayName": "Tapu Lele",
+    "Description": null,
+    "FieldValues": {
+      "Number": "786",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tapu-lele",
+      "DisplayName": "Tapu Lele",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

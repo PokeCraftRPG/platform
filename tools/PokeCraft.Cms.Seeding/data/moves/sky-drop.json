@@ -1,0 +1,25 @@
+﻿{
+  "Id": "33a90c88-c0a3-405c-839c-3158ee59744a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sky-drop",
+    "DisplayName": "Sky Drop",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sky-drop",
+      "DisplayName": "Sky Drop",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

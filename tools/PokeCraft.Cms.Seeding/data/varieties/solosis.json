@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c9b4e0db-1a95-4b26-99d5-d5b0bbbc84eb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "solosis",
+    "DisplayName": "Solosis",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"bb0b6693-6628-44a2-a5ae-fa73310adb5a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "solosis",
+      "DisplayName": "Solosis",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cell"
+      }
+    }
+  }
+}

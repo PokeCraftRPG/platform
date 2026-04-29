@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3dd61764-503c-46e9-bd3e-d7e23a98c211",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "munkidori",
+    "DisplayName": "Munkidori",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b6b64327-0db7-45de-bed7-781caad28bbc\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "munkidori",
+      "DisplayName": "Munkidori",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Retainer"
+      }
+    }
+  }
+}

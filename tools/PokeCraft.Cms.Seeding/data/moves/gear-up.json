@@ -1,0 +1,23 @@
+﻿{
+  "Id": "e4a8a419-3eeb-48c3-9568-aeb47d78a127",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gear-up",
+    "DisplayName": "Gear Up",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gear-up",
+      "DisplayName": "Gear Up",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "9df792ac-3459-4bd6-b560-d5bf17a84e4a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zoroark-hisui",
+    "DisplayName": "Hisuian Zoroark",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"30c9e19b-a6aa-4145-ab10-7a741be748d5\"]",
+      "Height": "16",
+      "Weight": "730",
+      "YieldExperience": "179",
+      "PrimaryAbility": "[\"cceea85b-ae3f-41c2-9547-cb15703bb8a8\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "125",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "110",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zoroark-hisui",
+      "DisplayName": "Hisuian Zoroark",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

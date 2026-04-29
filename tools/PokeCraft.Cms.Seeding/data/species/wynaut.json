@@ -1,0 +1,27 @@
+﻿{
+  "Id": "335f6431-4126-489e-a21b-4b5fff5b89d6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wynaut",
+    "DisplayName": "Wynaut",
+    "Description": null,
+    "FieldValues": {
+      "Number": "360",
+      "Category": "[\"Baby\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "125",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wynaut",
+      "DisplayName": "Wynaut",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "25e9d41c-6f6f-4ca2-baed-41d595030c0c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hattrem",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"473787a6-6ba1-4f9a-960f-e3803c594652\"]",
+      "Height": "6",
+      "Weight": "48",
+      "YieldExperience": "130",
+      "PrimaryAbility": "[\"e28c42cc-a85f-4f82-89b2-e80210d5b4ef\"]",
+      "SecondaryAbility": "[\"6eea2506-c8b3-44c8-9082-76bec64e5880\"]",
+      "HiddenAbility": "[\"67f51e12-608d-4075-9293-523b122271f5\"]",
+      "BaseHP": "57",
+      "YieldHP": "0",
+      "BaseAttack": "40",
+      "YieldAttack": "0",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "86",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "73",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "49",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hattrem",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f0654b40-baa9-40c3-8642-9a2ac7dd9a0f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "garganacl",
+    "DisplayName": "Garganacl",
+    "Description": null,
+    "FieldValues": {
+      "Number": "934",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "garganacl",
+      "DisplayName": "Garganacl",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

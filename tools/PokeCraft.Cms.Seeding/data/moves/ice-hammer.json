@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6be43596-04ed-439b-b62b-e88fa0743cc1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ice-hammer",
+    "DisplayName": "Ice Hammer",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ice-hammer",
+      "DisplayName": "Ice Hammer",
+      "Description": "The user swings its strong, heavy fist at the target to inflict damage. This also lowers the user's Speed stat.",
+      "FieldValues": {}
+    }
+  }
+}

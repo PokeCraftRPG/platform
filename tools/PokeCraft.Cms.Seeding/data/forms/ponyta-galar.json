@@ -1,0 +1,42 @@
+﻿{
+  "Id": "ce39328a-aaf7-46f7-b7da-dfff104ba3a4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ponyta-galar",
+    "DisplayName": "Galarian Ponyta",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"aabf9831-78f8-4f32-a2af-d3bf67963b1d\"]",
+      "Height": "8",
+      "Weight": "240",
+      "YieldExperience": "82",
+      "PrimaryAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "SecondaryAbility": "[\"18c111db-23d2-4f3f-9097-e1d435c7611d\"]",
+      "HiddenAbility": "[\"6eea2506-c8b3-44c8-9082-76bec64e5880\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ponyta-galar",
+      "DisplayName": "Galarian Ponyta",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

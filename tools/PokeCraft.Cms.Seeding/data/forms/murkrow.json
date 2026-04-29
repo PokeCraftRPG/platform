@@ -1,0 +1,43 @@
+﻿{
+  "Id": "2684d17d-2d1a-4271-925c-5323e424d21c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "murkrow",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"19068d73-6dab-4c91-9df3-7ff3178f2b9d\"]",
+      "Height": "5",
+      "Weight": "21",
+      "YieldExperience": "81",
+      "PrimaryAbility": "[\"74551570-259c-470c-a9ba-64ffd0e3afad\"]",
+      "SecondaryAbility": "[\"c1dc8f0f-7de1-4657-b135-5bd8efc74e80\"]",
+      "HiddenAbility": "[\"84a30672-4ea5-4904-84fc-d04259c936a3\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "42",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "42",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "91",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "murkrow",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

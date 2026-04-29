@@ -1,0 +1,23 @@
+﻿{
+  "Id": "6ec6545e-4c74-4b99-9d51-a0cbb1018f31",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragon-dance",
+    "DisplayName": "Dragon Dance",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragon-dance",
+      "DisplayName": "Dragon Dance",
+      "Description": "The user vigorously performs a mystic, powerful dance that boosts its Attack and Speed stats.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e4508ce7-c596-4704-be76-f60d22b95b0d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "absol",
+    "DisplayName": "Absol",
+    "Description": null,
+    "FieldValues": {
+      "Number": "359",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "30",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "absol",
+      "DisplayName": "Absol",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

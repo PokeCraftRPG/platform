@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e46a98a0-3f6f-41ed-8d70-226867fcc9c3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tinkatuff",
+    "DisplayName": "Tinkatuff",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3e4dbe31-b3b9-4ac7-a268-7d879ef0e121\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tinkatuff",
+      "DisplayName": "Tinkatuff",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Hammer"
+      }
+    }
+  }
+}

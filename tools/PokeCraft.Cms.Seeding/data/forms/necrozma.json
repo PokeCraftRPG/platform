@@ -1,0 +1,40 @@
+﻿{
+  "Id": "183f1834-1456-4861-b964-6c58cdd38b4b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "necrozma",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"54e42712-8e4d-4cf1-939c-8589182d8633\"]",
+      "Height": "24",
+      "Weight": "2300",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"5d1a9a16-1d41-4d5c-ab3f-38e269190a81\"]",
+      "BaseHP": "97",
+      "YieldHP": "0",
+      "BaseAttack": "107",
+      "YieldAttack": "1",
+      "BaseDefense": "101",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "127",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "89",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "79",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "necrozma",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

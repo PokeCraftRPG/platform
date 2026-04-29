@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d0ced83a-2f43-4b4f-8f92-123212a8a42e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "togepi",
+    "DisplayName": "Togepi",
+    "Description": null,
+    "FieldValues": {
+      "Number": "175",
+      "Category": "[\"Baby\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "togepi",
+      "DisplayName": "Togepi",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

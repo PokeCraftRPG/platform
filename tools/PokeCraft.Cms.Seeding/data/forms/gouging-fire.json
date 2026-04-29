@@ -1,0 +1,41 @@
+﻿{
+  "Id": "0542f552-86d8-4f5d-a8b2-554ad46fc9e1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gouging-fire",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9db94965-af01-46af-bcc4-0a49401893cd\"]",
+      "Height": "35",
+      "Weight": "5900",
+      "YieldExperience": "295",
+      "PrimaryAbility": "[\"fd80fd8e-dbd4-4b54-bfef-8ed47d35c99e\"]",
+      "BaseHP": "105",
+      "YieldHP": "0",
+      "BaseAttack": "115",
+      "YieldAttack": "0",
+      "BaseDefense": "121",
+      "YieldDefense": "3",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "93",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "91",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gouging-fire",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

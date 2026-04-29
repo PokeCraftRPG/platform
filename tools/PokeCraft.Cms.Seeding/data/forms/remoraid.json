@@ -1,0 +1,42 @@
+﻿{
+  "Id": "58bbd55b-bc65-4758-9198-773aff36b01b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "remoraid",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"956b717e-e28d-49a7-820c-c2a2d0c1f632\"]",
+      "Height": "6",
+      "Weight": "120",
+      "YieldExperience": "60",
+      "PrimaryAbility": "[\"12b608f7-a7b7-412e-803f-28d4eaba64c8\"]",
+      "SecondaryAbility": "[\"e1b8fd69-5bf8-4889-ab24-ea30a8419d99\"]",
+      "HiddenAbility": "[\"e54f140b-893f-4621-b7ac-44928594080e\"]",
+      "BaseHP": "35",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "35",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "35",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "remoraid",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

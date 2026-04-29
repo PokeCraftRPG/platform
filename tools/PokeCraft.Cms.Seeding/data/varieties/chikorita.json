@@ -1,0 +1,26 @@
+﻿{
+  "Id": "120f5107-bf3a-4b70-8a7b-ea809dc28a2c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chikorita",
+    "DisplayName": "Chikorita",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0c5efd23-405b-49e3-820b-a100b837d0e8\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chikorita",
+      "DisplayName": "Chikorita",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Leaf"
+      }
+    }
+  }
+}

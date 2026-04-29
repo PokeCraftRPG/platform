@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3b090c48-982b-4475-8d40-1e68e0b7c53b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rhydon",
+    "DisplayName": "Rhydon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"25282318-f2b2-40a6-a3ae-74ac70e982e3\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rhydon",
+      "DisplayName": "Rhydon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Drill"
+      }
+    }
+  }
+}

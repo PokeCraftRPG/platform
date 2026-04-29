@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c3376215-3843-4120-8f8e-5d4823f6f52c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "crocalor",
+    "DisplayName": "Crocalor",
+    "Description": null,
+    "FieldValues": {
+      "Number": "910",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "crocalor",
+      "DisplayName": "Crocalor",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

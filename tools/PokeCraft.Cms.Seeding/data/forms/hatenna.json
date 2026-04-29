@@ -1,0 +1,42 @@
+﻿{
+  "Id": "fba4c946-b6d4-49e5-8b69-61277a4ab4a9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hatenna",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0a9efff7-a6d9-463d-b4c8-e09806a1f8e4\"]",
+      "Height": "4",
+      "Weight": "34",
+      "YieldExperience": "53",
+      "PrimaryAbility": "[\"e28c42cc-a85f-4f82-89b2-e80210d5b4ef\"]",
+      "SecondaryAbility": "[\"6eea2506-c8b3-44c8-9082-76bec64e5880\"]",
+      "HiddenAbility": "[\"67f51e12-608d-4075-9293-523b122271f5\"]",
+      "BaseHP": "42",
+      "YieldHP": "0",
+      "BaseAttack": "30",
+      "YieldAttack": "0",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "56",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "53",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "39",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hatenna",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

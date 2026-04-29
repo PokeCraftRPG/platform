@@ -1,0 +1,19 @@
+﻿{
+  "Id": "12b608f7-a7b7-412e-803f-28d4eaba64c8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hustle",
+    "DisplayName": "Hustle",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hustle",
+      "DisplayName": "Hustle",
+      "Description": "Boosts the Pokémon's Attack stat but lowers its accuracy.",
+      "FieldValues": {}
+    }
+  }
+}

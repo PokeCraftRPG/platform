@@ -1,0 +1,28 @@
+﻿{
+  "Id": "cdc07197-e10d-4d27-8063-4138613efee8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mawile",
+    "DisplayName": "Mawile",
+    "Description": null,
+    "FieldValues": {
+      "Number": "303",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mawile",
+      "DisplayName": "Mawile",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

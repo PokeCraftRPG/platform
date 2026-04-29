@@ -1,0 +1,28 @@
+﻿{
+  "Id": "a7465445-7e0e-460a-840f-5f700cd3eec9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sirfetchd",
+    "DisplayName": "Sirfetch’d",
+    "Description": null,
+    "FieldValues": {
+      "Number": "865",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Flying\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sirfetchd",
+      "DisplayName": "Sirfetch’d",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "132d7aca-fd52-45e8-8981-030f24ea772d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dugtrio",
+    "DisplayName": "Dugtrio",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"54682795-9928-40b6-9288-f24d3d9f0fa2\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dugtrio",
+      "DisplayName": "Dugtrio",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mole"
+      }
+    }
+  }
+}

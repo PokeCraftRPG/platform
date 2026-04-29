@@ -1,0 +1,41 @@
+﻿{
+  "Id": "095e48a0-714c-4811-80f1-c34def1b82e0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ninetales",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"556c92ae-2dab-4f1e-bf60-7998373ea7c0\"]",
+      "Height": "11",
+      "Weight": "199",
+      "YieldExperience": "177",
+      "PrimaryAbility": "[\"956efecf-ecf7-4731-9df1-25171033ad13\"]",
+      "HiddenAbility": "[\"4ff1984e-e319-4645-a10d-f63ec55997fe\"]",
+      "BaseHP": "73",
+      "YieldHP": "0",
+      "BaseAttack": "76",
+      "YieldAttack": "0",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "81",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "100",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ninetales",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

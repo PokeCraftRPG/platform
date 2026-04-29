@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ea84e57c-ac57-46fc-8dd7-378a8231d228",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "veluza",
+    "DisplayName": "Veluza",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a2c7500d-6836-4842-9c53-5f49594c693f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "veluza",
+      "DisplayName": "Veluza",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Jettison"
+      }
+    }
+  }
+}

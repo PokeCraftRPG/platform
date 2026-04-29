@@ -1,0 +1,39 @@
+﻿{
+  "Id": "a5f2273d-f823-4dea-b1d2-7d804d4392a0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meowstic-mega",
+    "DisplayName": "Mega Meowstic",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d92c6768-cb22-49f0-a640-93f0b0bfc457\"]",
+      "Height": "8",
+      "Weight": "101",
+      "PrimaryAbility": "[\"187f6a3c-7975-4e72-9285-a225d83376ac\"]",
+      "BaseHP": "74",
+      "YieldHP": "0",
+      "BaseAttack": "48",
+      "YieldAttack": "0",
+      "BaseDefense": "76",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "143",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "101",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "124",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meowstic-mega",
+      "DisplayName": "Mega Meowstic",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

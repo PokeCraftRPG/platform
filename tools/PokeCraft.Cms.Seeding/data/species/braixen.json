@@ -1,0 +1,27 @@
+﻿{
+  "Id": "078f7e42-e8f2-4ab1-b7ca-fb6b0cc6d28f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "braixen",
+    "DisplayName": "Braixen",
+    "Description": null,
+    "FieldValues": {
+      "Number": "654",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "braixen",
+      "DisplayName": "Braixen",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

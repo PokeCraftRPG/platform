@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ee077648-dec1-4d4d-97c3-fb8c266b644c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gigaton-hammer",
+    "DisplayName": "Gigaton Hammer",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "160",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gigaton-hammer",
+      "DisplayName": "Gigaton Hammer",
+      "Description": "The user swings its whole body around to attack with its huge hammer. This move can't be used twice in a row.",
+      "FieldValues": {}
+    }
+  }
+}

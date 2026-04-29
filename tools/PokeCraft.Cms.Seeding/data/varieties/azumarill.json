@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3c5eaa6a-fc8e-4334-8ff4-fb39e0273261",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "azumarill",
+    "DisplayName": "Azumarill",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1dc3c77d-0c9e-471f-9d9d-42b2b8e1cc2d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "azumarill",
+      "DisplayName": "Azumarill",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Aqua Rabbit"
+      }
+    }
+  }
+}

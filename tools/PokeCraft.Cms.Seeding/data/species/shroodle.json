@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e9af37bf-948c-40ff-8944-152e070d173c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shroodle",
+    "DisplayName": "Shroodle",
+    "Description": null,
+    "FieldValues": {
+      "Number": "944",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shroodle",
+      "DisplayName": "Shroodle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

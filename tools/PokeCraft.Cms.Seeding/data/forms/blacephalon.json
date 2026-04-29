@@ -1,0 +1,41 @@
+﻿{
+  "Id": "a8982b1f-095d-4c46-92e7-160dffe23a20",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blacephalon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1ccdc94c-8ec1-4ba9-9323-fa3cd32b68ca\"]",
+      "Height": "18",
+      "Weight": "130",
+      "YieldExperience": "257",
+      "PrimaryAbility": "[\"e7ec0ce2-6979-45a9-80ab-215081d487e3\"]",
+      "BaseHP": "53",
+      "YieldHP": "0",
+      "BaseAttack": "127",
+      "YieldAttack": "0",
+      "BaseDefense": "53",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "151",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "79",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "107",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blacephalon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

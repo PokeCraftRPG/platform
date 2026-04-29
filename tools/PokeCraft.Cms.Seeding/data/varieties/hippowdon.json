@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4f5ad8b6-9fce-42a1-a871-5b9ca2ae3633",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hippowdon",
+    "DisplayName": "Hippowdon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3f23f132-4b61-43de-abd7-c313546c7704\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hippowdon",
+      "DisplayName": "Hippowdon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Heavyweight"
+      }
+    }
+  }
+}

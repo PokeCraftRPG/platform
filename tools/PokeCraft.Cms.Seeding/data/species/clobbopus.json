@@ -1,0 +1,28 @@
+﻿{
+  "Id": "b6ecf3ac-1fd4-4ebb-9b89-33ec8832e288",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clobbopus",
+    "DisplayName": "Clobbopus",
+    "Description": null,
+    "FieldValues": {
+      "Number": "852",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "180",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clobbopus",
+      "DisplayName": "Clobbopus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

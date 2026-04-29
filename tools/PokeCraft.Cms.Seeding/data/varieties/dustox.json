@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f68a1a85-90c5-4c7f-a257-319dafb270d4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dustox",
+    "DisplayName": "Dustox",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1e48d391-cdf2-4336-833d-e8aa716135f6\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dustox",
+      "DisplayName": "Dustox",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Poison Moth"
+      }
+    }
+  }
+}

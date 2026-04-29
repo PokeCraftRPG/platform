@@ -1,0 +1,42 @@
+﻿{
+  "Id": "236b7491-1eaa-4207-8b02-72543e6ce523",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thievul",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"cd79778e-69fb-4c77-86d8-b9adc0c12f2a\"]",
+      "Height": "12",
+      "Weight": "199",
+      "YieldExperience": "159",
+      "PrimaryAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "SecondaryAbility": "[\"d74f9f1b-dd57-4258-875f-46ec6bc83d99\"]",
+      "HiddenAbility": "[\"df0d1b67-be4a-45c3-9aee-f183bc1e0edd\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "58",
+      "YieldAttack": "0",
+      "BaseDefense": "58",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "87",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "92",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thievul",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

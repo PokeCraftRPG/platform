@@ -1,0 +1,23 @@
+﻿{
+  "Id": "bba56944-4e9e-494b-9e76-b8f0c62852f1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meditate",
+    "DisplayName": "Meditate",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "40"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meditate",
+      "DisplayName": "Meditate",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

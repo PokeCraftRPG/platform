@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6c68f69f-87e4-4cdf-bf8e-9a919fcac80e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clamp",
+    "DisplayName": "Clamp",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "85",
+      "Power": "35",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clamp",
+      "DisplayName": "Clamp",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

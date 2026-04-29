@@ -1,0 +1,26 @@
+﻿{
+  "Id": "abbd64bc-5b4f-4d07-aa84-88d356426b04",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nickit",
+    "DisplayName": "Nickit",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d1c21fc6-b910-4f9d-91fc-a6fb62cd24dd\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nickit",
+      "DisplayName": "Nickit",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fox"
+      }
+    }
+  }
+}

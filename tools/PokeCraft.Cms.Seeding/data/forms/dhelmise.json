@@ -1,0 +1,41 @@
+﻿{
+  "Id": "e55bdc5c-28f7-4cf8-882b-b38af000c629",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dhelmise",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4b89d922-76fc-491d-a257-0fb2082775ca\"]",
+      "Height": "39",
+      "Weight": "2100",
+      "YieldExperience": "181",
+      "PrimaryAbility": "[\"c1b6bb39-4a66-42c9-b717-c6310696dd49\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "131",
+      "YieldAttack": "2",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "86",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]",
+      "SecondaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dhelmise",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

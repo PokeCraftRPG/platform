@@ -1,0 +1,19 @@
+﻿{
+  "Id": "f7fe16ee-0684-4a21-a1a2-76abe2c67361",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "electromorphosis",
+    "DisplayName": "Electromorphosis",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "electromorphosis",
+      "DisplayName": "Electromorphosis",
+      "Description": "The Pokémon becomes charged when it takes damage, boosting the power of the next Electric-type move the Pokémon uses.",
+      "FieldValues": {}
+    }
+  }
+}

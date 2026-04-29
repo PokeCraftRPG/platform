@@ -1,0 +1,19 @@
+﻿{
+  "Id": "2fc1fa11-53bd-4603-b060-0c3674ca4910",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aerilate",
+    "DisplayName": "Aerilate",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aerilate",
+      "DisplayName": "Aerilate",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "0d470a82-2040-4e95-8e52-999c26f4514d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "klutz",
+    "DisplayName": "Klutz",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "klutz",
+      "DisplayName": "Klutz",
+      "Description": "The Pokémon can't use any held items.",
+      "FieldValues": {}
+    }
+  }
+}

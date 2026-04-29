@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f2a7c64d-5557-4446-aa10-43cce5b04a66",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "jangmo-o",
+    "DisplayName": "Jangmo-o",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"15b2bb1c-9dba-4784-bead-3933f4669df7\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "jangmo-o",
+      "DisplayName": "Jangmo-o",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Scaly"
+      }
+    }
+  }
+}

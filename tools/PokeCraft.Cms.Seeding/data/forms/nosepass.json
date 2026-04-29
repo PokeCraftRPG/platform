@@ -1,0 +1,42 @@
+﻿{
+  "Id": "d3a93702-dbac-4acd-998a-1f9da759147b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nosepass",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c0316c67-17ab-47d0-bd18-cdf43cb78a10\"]",
+      "Height": "10",
+      "Weight": "970",
+      "YieldExperience": "75",
+      "PrimaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "SecondaryAbility": "[\"fbeddbd6-52d8-452c-97cc-0564133113a1\"]",
+      "HiddenAbility": "[\"19474510-6538-4d3f-8775-1316904fe470\"]",
+      "BaseHP": "30",
+      "YieldHP": "0",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "135",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nosepass",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

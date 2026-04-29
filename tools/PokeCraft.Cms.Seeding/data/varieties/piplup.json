@@ -1,0 +1,26 @@
+﻿{
+  "Id": "cb9a85c8-0acd-4756-ba35-ace76ca4ea0a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "piplup",
+    "DisplayName": "Piplup",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"81820d2b-c1b6-4730-a8b2-45fe6ffc2ac7\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "piplup",
+      "DisplayName": "Piplup",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Penguin"
+      }
+    }
+  }
+}

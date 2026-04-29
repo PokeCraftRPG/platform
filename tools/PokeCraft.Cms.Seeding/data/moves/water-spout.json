@@ -1,0 +1,25 @@
+﻿{
+  "Id": "fba470a0-a6eb-4940-bb5f-d705b1186137",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "water-spout",
+    "DisplayName": "Water Spout",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "150",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "water-spout",
+      "DisplayName": "Water Spout",
+      "Description": "The user spouts water to damage opposing Pokémon. The lower the user's HP, the lower the move's power.",
+      "FieldValues": {}
+    }
+  }
+}

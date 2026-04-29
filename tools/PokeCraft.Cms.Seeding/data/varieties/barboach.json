@@ -1,0 +1,26 @@
+﻿{
+  "Id": "712bd9dc-fda6-4031-ac57-773fe679fd36",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "barboach",
+    "DisplayName": "Barboach",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"527dee6b-4624-4fb5-8883-cf87a9089717\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "barboach",
+      "DisplayName": "Barboach",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Whiskers"
+      }
+    }
+  }
+}

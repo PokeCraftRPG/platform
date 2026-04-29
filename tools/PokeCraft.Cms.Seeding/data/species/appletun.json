@@ -1,0 +1,28 @@
+﻿{
+  "Id": "4548ce46-99dd-4091-b7c3-e9da6842e281",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "appletun",
+    "DisplayName": "Appletun",
+    "Description": null,
+    "FieldValues": {
+      "Number": "842",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "appletun",
+      "DisplayName": "Appletun",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

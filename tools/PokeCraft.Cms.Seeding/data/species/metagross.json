@@ -1,0 +1,27 @@
+﻿{
+  "Id": "46fb2e6e-967d-41d5-9ca0-7f633aa8e01c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "metagross",
+    "DisplayName": "Metagross",
+    "Description": null,
+    "FieldValues": {
+      "Number": "376",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "metagross",
+      "DisplayName": "Metagross",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

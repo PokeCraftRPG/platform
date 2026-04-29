@@ -1,0 +1,23 @@
+﻿{
+  "Id": "ce9e8cf4-5344-4156-ad0c-fbcdf99869d7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "coaching",
+    "DisplayName": "Coaching",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "coaching",
+      "DisplayName": "Coaching",
+      "Description": "The user properly coaches its ally Pokémon, boosting their Attack and Defense stats.",
+      "FieldValues": {}
+    }
+  }
+}

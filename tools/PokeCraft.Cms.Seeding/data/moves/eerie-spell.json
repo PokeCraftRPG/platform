@@ -1,0 +1,25 @@
+﻿{
+  "Id": "8f82c083-4f36-44e3-a341-c21d9e7853a6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "eerie-spell",
+    "DisplayName": "Eerie Spell",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "eerie-spell",
+      "DisplayName": "Eerie Spell",
+      "Description": "The user attacks with its tremendous psychic power. This also drains 3 PP from the move last used by the target.",
+      "FieldValues": {}
+    }
+  }
+}

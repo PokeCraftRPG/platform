@@ -1,0 +1,27 @@
+﻿{
+  "Id": "669cfb0c-40ea-4a78-810d-cd499a6a116c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "boltund",
+    "DisplayName": "Boltund",
+    "Description": null,
+    "FieldValues": {
+      "Number": "836",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "boltund",
+      "DisplayName": "Boltund",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

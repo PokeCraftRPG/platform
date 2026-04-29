@@ -1,0 +1,25 @@
+﻿{
+  "Id": "52491ea9-03b9-457c-a763-dc2975943100",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arctovish",
+    "DisplayName": "Arctovish",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a532c60f-ad62-42d2-be51-0564521ed70a\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arctovish",
+      "DisplayName": "Arctovish",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fossil"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "a2318dcb-9676-4813-8822-577bfa077474",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gliscor",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1fad9a28-1ed7-4145-ad58-3184afa5e528\"]",
+      "Height": "20",
+      "Weight": "425",
+      "YieldExperience": "179",
+      "PrimaryAbility": "[\"57e539ec-9a7b-4925-ad82-81080aa7ceb2\"]",
+      "SecondaryAbility": "[\"2298dae8-5c1f-423f-960d-8cf61b19c897\"]",
+      "HiddenAbility": "[\"679361b8-19ae-401b-9f8c-969aed015f88\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "0",
+      "BaseDefense": "125",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gliscor",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

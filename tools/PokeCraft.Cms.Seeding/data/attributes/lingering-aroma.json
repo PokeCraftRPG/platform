@@ -1,0 +1,19 @@
+﻿{
+  "Id": "f7da21db-3a79-455c-a52a-e96dbc8f15ec",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lingering-aroma",
+    "DisplayName": "Lingering Aroma",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lingering-aroma",
+      "DisplayName": "Lingering Aroma",
+      "Description": "Contact with the Pokémon changes the attacker's Ability to Lingering Aroma.",
+      "FieldValues": {}
+    }
+  }
+}

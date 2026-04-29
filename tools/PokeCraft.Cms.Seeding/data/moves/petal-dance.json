@@ -1,0 +1,25 @@
+﻿{
+  "Id": "4f6aa51e-fc0c-4f21-b392-dffe9b9c4172",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "petal-dance",
+    "DisplayName": "Petal Dance",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "petal-dance",
+      "DisplayName": "Petal Dance",
+      "Description": "The user attacks the target by scattering petals for two to three turns. The user then becomes confused.",
+      "FieldValues": {}
+    }
+  }
+}

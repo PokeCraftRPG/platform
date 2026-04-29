@@ -1,0 +1,42 @@
+﻿{
+  "Id": "eb0c9967-dca6-4fc8-ab40-89272d0eca52",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tauros",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e6bbf42b-96a4-43c1-a6f8-10cc5efa6d82\"]",
+      "Height": "14",
+      "Weight": "884",
+      "YieldExperience": "172",
+      "PrimaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "SecondaryAbility": "[\"35627a6f-38f0-4832-b663-c5ba955aa328\"]",
+      "HiddenAbility": "[\"ef348627-bea1-4c87-9bf1-417ed3b66855\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "1",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "110",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tauros",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

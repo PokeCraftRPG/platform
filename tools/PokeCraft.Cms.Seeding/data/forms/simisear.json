@@ -1,0 +1,41 @@
+﻿{
+  "Id": "6b22b235-0139-4062-ad20-2cb59c5435f8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "simisear",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"65ad5d31-2dd3-4812-b2ff-698b95f36321\"]",
+      "Height": "10",
+      "Weight": "280",
+      "YieldExperience": "174",
+      "PrimaryAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "HiddenAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "98",
+      "YieldAttack": "0",
+      "BaseDefense": "63",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "98",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "63",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "101",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "simisear",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

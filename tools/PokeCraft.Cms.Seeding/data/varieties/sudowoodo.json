@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7e8505a9-8a22-4198-b933-3bbf23b51edf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sudowoodo",
+    "DisplayName": "Sudowoodo",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"54179a6c-ea7e-470d-b518-54ab98af969d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sudowoodo",
+      "DisplayName": "Sudowoodo",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Imitation"
+      }
+    }
+  }
+}

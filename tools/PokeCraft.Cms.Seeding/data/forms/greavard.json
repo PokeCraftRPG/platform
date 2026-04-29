@@ -1,0 +1,41 @@
+﻿{
+  "Id": "ba759dc5-b9d6-4e69-9ce3-f6cae3c5f8fa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "greavard",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"15faa6e1-e813-4396-9374-ebf4d119ce06\"]",
+      "Height": "6",
+      "Weight": "350",
+      "YieldExperience": "58",
+      "PrimaryAbility": "[\"071551b8-ee73-4742-85e8-264e82a49f57\"]",
+      "HiddenAbility": "[\"fb7066f4-554f-4f05-8921-e5198d35baf7\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "61",
+      "YieldAttack": "1",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "34",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "greavard",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "7ab91f90-409e-41c9-86ce-ce2d2b95fcf3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lilligant",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"51d3fa14-24fd-4c48-a5c4-431b2080214e\"]",
+      "Height": "11",
+      "Weight": "163",
+      "YieldExperience": "168",
+      "PrimaryAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "SecondaryAbility": "[\"1d2b3915-c19d-4017-baac-19e24cc4b20a\"]",
+      "HiddenAbility": "[\"d724fdd9-3db1-4a76-8de7-aa696033fa20\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "110",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lilligant",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

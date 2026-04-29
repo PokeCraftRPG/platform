@@ -1,0 +1,25 @@
+﻿{
+  "Id": "8e0c7125-09d1-4980-a6ca-d8b8326497fd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "darkrai",
+    "DisplayName": "Darkrai",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8fc3ef41-bd1b-4aed-afa5-94e6416d5989\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "darkrai",
+      "DisplayName": "Darkrai",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Pitch-Black"
+      }
+    }
+  }
+}

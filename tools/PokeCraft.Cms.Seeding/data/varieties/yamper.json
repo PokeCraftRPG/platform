@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5614ead0-0841-482f-947e-4f45055db867",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "yamper",
+    "DisplayName": "Yamper",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"64a7232e-a896-4144-84a1-f3e3f6352d0f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "yamper",
+      "DisplayName": "Yamper",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Puppy"
+      }
+    }
+  }
+}

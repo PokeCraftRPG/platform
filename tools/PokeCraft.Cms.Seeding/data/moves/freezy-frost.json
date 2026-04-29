@@ -1,0 +1,25 @@
+﻿{
+  "Id": "a055da0c-1a0c-4118-a75f-e97e32ecd1fa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "freezy-frost",
+    "DisplayName": "Freezy Frost",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "90",
+      "Power": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "freezy-frost",
+      "DisplayName": "Freezy Frost",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

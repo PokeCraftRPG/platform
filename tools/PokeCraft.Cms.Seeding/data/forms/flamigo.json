@@ -1,0 +1,43 @@
+﻿{
+  "Id": "d597d481-5523-4db3-9a96-d1e5bfceda9f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flamigo",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b8f3acf1-f0ef-4972-859a-e672a85cd2de\"]",
+      "Height": "16",
+      "Weight": "370",
+      "YieldExperience": "175",
+      "PrimaryAbility": "[\"fa0ae125-7b24-45a0-bf28-4b447dfa5e21\"]",
+      "SecondaryAbility": "[\"15d2abba-2012-411a-9b8f-92ed5b04e17d\"]",
+      "HiddenAbility": "[\"9e254b5e-7b55-4450-9660-a83bd2431c8c\"]",
+      "BaseHP": "82",
+      "YieldHP": "0",
+      "BaseAttack": "115",
+      "YieldAttack": "2",
+      "BaseDefense": "74",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "64",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Flying\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flamigo",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

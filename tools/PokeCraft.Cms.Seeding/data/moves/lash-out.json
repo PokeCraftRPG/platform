@@ -1,0 +1,25 @@
+﻿{
+  "Id": "125eaa30-c0a0-45c0-92df-89ebf690992b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lash-out",
+    "DisplayName": "Lash Out",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "75",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lash-out",
+      "DisplayName": "Lash Out",
+      "Description": "The user lashes out to vent its frustration toward the target. This move's power is doubled if the user's stats were lowered during this turn.",
+      "FieldValues": {}
+    }
+  }
+}

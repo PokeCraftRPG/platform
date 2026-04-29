@@ -1,0 +1,27 @@
+﻿{
+  "Id": "9d127f5d-294d-428e-a226-03415627563e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hoothoot",
+    "DisplayName": "Hoothoot",
+    "Description": null,
+    "FieldValues": {
+      "Number": "163",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hoothoot",
+      "DisplayName": "Hoothoot",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

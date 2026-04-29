@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d2d346c4-d877-4609-aedf-5477045688ad",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "eelektrik",
+    "DisplayName": "Eelektrik",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"67581ed7-9f08-4fcc-b742-d1e5c16ccaf9\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "eelektrik",
+      "DisplayName": "Eelektrik",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "EleFish"
+      }
+    }
+  }
+}

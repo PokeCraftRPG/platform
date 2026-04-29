@@ -1,0 +1,27 @@
+﻿{
+  "Id": "aebc26dc-e2db-4171-8b07-e50c0542399f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pawmi",
+    "DisplayName": "Pawmi",
+    "Description": null,
+    "FieldValues": {
+      "Number": "921",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pawmi",
+      "DisplayName": "Pawmi",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

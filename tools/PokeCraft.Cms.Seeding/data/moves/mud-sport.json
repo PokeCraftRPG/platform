@@ -1,0 +1,23 @@
+﻿{
+  "Id": "fdcdd98f-c969-4ca5-84de-2f36c29cd246",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mud-sport",
+    "DisplayName": "Mud Sport",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mud-sport",
+      "DisplayName": "Mud Sport",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

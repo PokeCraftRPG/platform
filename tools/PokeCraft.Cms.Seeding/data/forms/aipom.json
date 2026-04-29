@@ -1,0 +1,42 @@
+﻿{
+  "Id": "31f337f9-0209-4534-8d22-c9000eb0cabd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aipom",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"34a83d48-1ac7-4dff-8d9b-dd4ff58328aa\"]",
+      "Height": "8",
+      "Weight": "115",
+      "YieldExperience": "72",
+      "PrimaryAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "SecondaryAbility": "[\"071551b8-ee73-4742-85e8-264e82a49f57\"]",
+      "HiddenAbility": "[\"7b7f445f-0584-452d-ae34-0b472382a706\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "85",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aipom",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

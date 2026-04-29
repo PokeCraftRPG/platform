@@ -1,0 +1,25 @@
+﻿{
+  "Id": "67980d56-e368-498c-971a-819607526807",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "whirlpool",
+    "DisplayName": "Whirlpool",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "85",
+      "Power": "35",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "whirlpool",
+      "DisplayName": "Whirlpool",
+      "Description": "The user traps the target inside a violent, swirling whirlpool that inflicts damage for four to five turns.",
+      "FieldValues": {}
+    }
+  }
+}

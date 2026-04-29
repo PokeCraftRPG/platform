@@ -1,0 +1,24 @@
+﻿{
+  "Id": "449abdac-0dff-4a73-b484-9e20b9363cbd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magnitude",
+    "DisplayName": "Magnitude",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magnitude",
+      "DisplayName": "Magnitude",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

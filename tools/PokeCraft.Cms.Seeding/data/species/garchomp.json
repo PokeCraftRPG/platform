@@ -1,0 +1,28 @@
+﻿{
+  "Id": "a79d0337-e458-4999-9372-eb79d31f409c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "garchomp",
+    "DisplayName": "Garchomp",
+    "Description": null,
+    "FieldValues": {
+      "Number": "445",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "garchomp",
+      "DisplayName": "Garchomp",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

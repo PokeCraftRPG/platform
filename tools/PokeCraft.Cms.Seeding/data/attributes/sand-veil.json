@@ -1,0 +1,19 @@
+﻿{
+  "Id": "2298dae8-5c1f-423f-960d-8cf61b19c897",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sand-veil",
+    "DisplayName": "Sand Veil",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sand-veil",
+      "DisplayName": "Sand Veil",
+      "Description": "Boosts the Pokémon's evasiveness in a sandstorm.",
+      "FieldValues": {}
+    }
+  }
+}

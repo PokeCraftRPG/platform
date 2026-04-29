@@ -1,0 +1,28 @@
+﻿{
+  "Id": "a8820e1a-e5d7-4e6c-bf0f-0da90250116d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pincurchin",
+    "DisplayName": "Pincurchin",
+    "Description": null,
+    "FieldValues": {
+      "Number": "871",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pincurchin",
+      "DisplayName": "Pincurchin",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d027aae7-b3de-44ae-bfdb-b884f78490a8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magcargo",
+    "DisplayName": "Magcargo",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"802d5201-b566-4151-92fe-3609b780f5b2\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magcargo",
+      "DisplayName": "Magcargo",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Lava"
+      }
+    }
+  }
+}

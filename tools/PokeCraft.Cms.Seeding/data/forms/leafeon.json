@@ -1,0 +1,41 @@
+﻿{
+  "Id": "16ea627d-f7ac-48c2-9b72-76c92a709d3b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "leafeon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"95b36a68-847e-435e-a584-363fd279a9be\"]",
+      "Height": "10",
+      "Weight": "255",
+      "YieldExperience": "184",
+      "PrimaryAbility": "[\"d724fdd9-3db1-4a76-8de7-aa696033fa20\"]",
+      "HiddenAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "110",
+      "YieldAttack": "0",
+      "BaseDefense": "130",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "leafeon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

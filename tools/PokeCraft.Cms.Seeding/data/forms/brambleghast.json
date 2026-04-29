@@ -1,0 +1,42 @@
+﻿{
+  "Id": "6945ccc5-bceb-483e-a6c2-dcc4cd44dcdc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "brambleghast",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e40f1665-b848-4087-9768-1c563d009665\"]",
+      "Height": "12",
+      "Weight": "60",
+      "YieldExperience": "168",
+      "PrimaryAbility": "[\"f440465e-0c15-46e4-9b0b-85aa434439e3\"]",
+      "HiddenAbility": "[\"0a9fa785-a966-4ed6-8ab9-a33aecd0847c\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "115",
+      "YieldAttack": "2",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "brambleghast",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

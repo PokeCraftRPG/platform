@@ -1,0 +1,27 @@
+﻿{
+  "Id": "7649c41d-c321-4a49-9aec-7ded8a2b5524",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hitmonchan",
+    "DisplayName": "Hitmonchan",
+    "Description": null,
+    "FieldValues": {
+      "Number": "107",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hitmonchan",
+      "DisplayName": "Hitmonchan",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

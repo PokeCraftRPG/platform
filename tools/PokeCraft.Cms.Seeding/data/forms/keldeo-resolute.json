@@ -1,0 +1,41 @@
+﻿{
+  "Id": "8e4141d5-194d-4abc-b1d8-f32dae22c3f6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "keldeo-resolute",
+    "DisplayName": "Resolute Keldeo",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"8c689856-b3d7-4409-b5c7-942716cfaef8\"]",
+      "Height": "14",
+      "Weight": "485",
+      "YieldExperience": "290",
+      "PrimaryAbility": "[\"a1454a00-6731-4df8-b5b9-51b8ec1979e8\"]",
+      "BaseHP": "91",
+      "YieldHP": "0",
+      "BaseAttack": "72",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "129",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "108",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "keldeo-resolute",
+      "DisplayName": "Resolute Keldeo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

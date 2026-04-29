@@ -1,0 +1,25 @@
+﻿{
+  "Id": "dc613a56-3d3b-4bfa-99db-bbd6f1d8372d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tapu-fini",
+    "DisplayName": "Tapu Fini",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"13ef98c1-b2ef-4fd5-93c5-947bb81dd976\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tapu-fini",
+      "DisplayName": "Tapu Fini",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Land Spirit"
+      }
+    }
+  }
+}

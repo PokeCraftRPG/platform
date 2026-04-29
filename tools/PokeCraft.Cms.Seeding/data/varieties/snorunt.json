@@ -1,0 +1,26 @@
+﻿{
+  "Id": "10372e03-c494-4492-ba6c-a02330582e59",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snorunt",
+    "DisplayName": "Snorunt",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5e526e2d-2aa9-452c-89b4-81877c3f4cca\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snorunt",
+      "DisplayName": "Snorunt",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Snow Hat"
+      }
+    }
+  }
+}

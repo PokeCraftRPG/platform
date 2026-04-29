@@ -1,0 +1,26 @@
+﻿{
+  "Id": "caa8cf9a-6653-425c-a72b-7b24b09214ef",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hitmontop",
+    "DisplayName": "Hitmontop",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"429fe2f8-59e4-4b00-9a90-c6ef912cd061\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hitmontop",
+      "DisplayName": "Hitmontop",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Handstand"
+      }
+    }
+  }
+}

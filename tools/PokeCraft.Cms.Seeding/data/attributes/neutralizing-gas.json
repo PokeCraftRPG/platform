@@ -1,0 +1,19 @@
+﻿{
+  "Id": "cb37802d-b8b1-45d2-8691-527c5dde90d0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "neutralizing-gas",
+    "DisplayName": "Neutralizing Gas",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "neutralizing-gas",
+      "DisplayName": "Neutralizing Gas",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

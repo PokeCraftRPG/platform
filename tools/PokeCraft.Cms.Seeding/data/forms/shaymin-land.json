@@ -1,0 +1,40 @@
+﻿{
+  "Id": "5f6ad870-27e9-473b-b746-ab591def8ffe",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shaymin-land",
+    "DisplayName": "Land Shaymin",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a81cce4c-3207-448c-b7c3-3a7cc1b23e88\"]",
+      "Height": "2",
+      "Weight": "21",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"aaaf5fa0-672a-4904-8e65-dc6c8ffe01b7\"]",
+      "BaseHP": "100",
+      "YieldHP": "3",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shaymin-land",
+      "DisplayName": "Land Shaymin",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

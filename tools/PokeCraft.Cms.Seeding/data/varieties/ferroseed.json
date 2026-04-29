@@ -1,0 +1,26 @@
+﻿{
+  "Id": "64f842fc-31db-4e52-8ceb-5c7eff93f99c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ferroseed",
+    "DisplayName": "Ferroseed",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"620e7e34-3e05-4855-afbb-567829a21d30\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ferroseed",
+      "DisplayName": "Ferroseed",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Thorn Seed"
+      }
+    }
+  }
+}

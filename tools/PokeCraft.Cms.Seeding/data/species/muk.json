@@ -1,0 +1,27 @@
+﻿{
+  "Id": "6098954c-7b84-4f1f-8785-6f6ca1c367d9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "muk",
+    "DisplayName": "Muk",
+    "Description": null,
+    "FieldValues": {
+      "Number": "89",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "muk",
+      "DisplayName": "Muk",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

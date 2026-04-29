@@ -1,0 +1,43 @@
+﻿{
+  "Id": "8690891b-3e20-4b78-b420-d4acfb2bb06b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shuckle",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"bf0530b9-de3f-453e-92be-70422b49e087\"]",
+      "Height": "6",
+      "Weight": "205",
+      "YieldExperience": "177",
+      "PrimaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "SecondaryAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "HiddenAbility": "[\"db725f43-cf10-4966-83cf-8f61405f506f\"]",
+      "BaseHP": "20",
+      "YieldHP": "0",
+      "BaseAttack": "10",
+      "YieldAttack": "0",
+      "BaseDefense": "230",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "10",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "230",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "5",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shuckle",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

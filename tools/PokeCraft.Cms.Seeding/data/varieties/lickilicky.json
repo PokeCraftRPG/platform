@@ -1,0 +1,26 @@
+﻿{
+  "Id": "2fd8dfe2-efe9-4391-9c66-98a9ebb3be3f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lickilicky",
+    "DisplayName": "Lickilicky",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5bafe282-eca6-4491-b5f3-0dd293a8a649\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lickilicky",
+      "DisplayName": "Lickilicky",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Licking"
+      }
+    }
+  }
+}

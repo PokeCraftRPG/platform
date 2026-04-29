@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9b52871e-dac0-4612-9e41-f8b849fb3752",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "torkoal",
+    "DisplayName": "Torkoal",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5ce50977-d3a0-44ed-9858-e9856a05768f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "torkoal",
+      "DisplayName": "Torkoal",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Coal"
+      }
+    }
+  }
+}

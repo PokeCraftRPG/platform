@@ -1,0 +1,28 @@
+﻿{
+  "Id": "0c9d770d-44e6-43a4-b639-b85ac842fa92",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "seedot",
+    "DisplayName": "Seedot",
+    "Description": null,
+    "FieldValues": {
+      "Number": "273",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "seedot",
+      "DisplayName": "Seedot",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

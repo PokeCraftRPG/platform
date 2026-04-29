@@ -1,0 +1,40 @@
+﻿{
+  "Id": "91e4938b-3d54-4a33-b4f0-9903fe5dcf95",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kyogre-primal",
+    "DisplayName": "Primal Kyogre",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"66ab65b5-9e36-4c55-b832-a61bea93ea01\"]",
+      "Height": "98",
+      "Weight": "4300",
+      "YieldExperience": "347",
+      "PrimaryAbility": "[\"8a628afa-cbdd-42b8-bd13-2030e7ffdda1\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "150",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "180",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "160",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kyogre-primal",
+      "DisplayName": "Primal Kyogre",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

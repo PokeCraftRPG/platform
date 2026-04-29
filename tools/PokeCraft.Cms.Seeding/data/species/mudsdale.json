@@ -1,0 +1,27 @@
+﻿{
+  "Id": "1e35484b-ebf6-4ea0-a7c0-e335fb70eefa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mudsdale",
+    "DisplayName": "Mudsdale",
+    "Description": null,
+    "FieldValues": {
+      "Number": "750",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mudsdale",
+      "DisplayName": "Mudsdale",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

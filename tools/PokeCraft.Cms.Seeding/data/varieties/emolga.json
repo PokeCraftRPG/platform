@@ -1,0 +1,26 @@
+﻿{
+  "Id": "21eca61c-123f-434c-b050-2987ddabe624",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "emolga",
+    "DisplayName": "Emolga",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"30a35a89-0b80-448d-9148-593d85683f2d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "emolga",
+      "DisplayName": "Emolga",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sky Squirrel"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿{
+  "Id": "d18344eb-42d7-462a-a886-5a5fb9b21563",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spit-up",
+    "DisplayName": "Spit Up",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spit-up",
+      "DisplayName": "Spit Up",
+      "Description": "The power stored using the move Stockpile is released at once in an attack. The more power is stored, the greater the move's power.",
+      "FieldValues": {}
+    }
+  }
+}

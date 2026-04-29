@@ -1,0 +1,43 @@
+﻿{
+  "Id": "41907b33-d2a4-41f5-88e8-6c132a0f9c50",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "crustle",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0d0dc24d-bd53-41af-8ebc-8bd70f00b035\"]",
+      "Height": "14",
+      "Weight": "2000",
+      "YieldExperience": "170",
+      "PrimaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "SecondaryAbility": "[\"238257b2-205c-4b83-b5f1-393b8c11b2e9\"]",
+      "HiddenAbility": "[\"2b8b8cfa-e12e-43d2-b403-594ac9a1c1f7\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "105",
+      "YieldAttack": "0",
+      "BaseDefense": "125",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "crustle",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

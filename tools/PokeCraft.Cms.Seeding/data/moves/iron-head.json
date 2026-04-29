@@ -1,0 +1,25 @@
+﻿{
+  "Id": "7742d7f9-38d0-435a-8acf-811683e629a0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-head",
+    "DisplayName": "Iron Head",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-head",
+      "DisplayName": "Iron Head",
+      "Description": "The user slams the target with its steel-hard head. This may also make the target flinch.",
+      "FieldValues": {}
+    }
+  }
+}

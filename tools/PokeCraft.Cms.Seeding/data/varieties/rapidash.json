@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1a958ab9-3ee1-4432-bfb4-6c82d0b52836",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rapidash",
+    "DisplayName": "Rapidash",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4b0d34f5-b974-4e07-b897-41d4c742b1c2\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rapidash",
+      "DisplayName": "Rapidash",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fire Horse"
+      }
+    }
+  }
+}

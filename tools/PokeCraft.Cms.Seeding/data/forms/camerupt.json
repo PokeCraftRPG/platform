@@ -1,0 +1,43 @@
+﻿{
+  "Id": "3e535094-a16c-492f-9f98-7492e1c48395",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "camerupt",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e043758f-dccf-4c9e-a5d3-14bfa517d97e\"]",
+      "Height": "19",
+      "Weight": "2200",
+      "YieldExperience": "161",
+      "PrimaryAbility": "[\"e3688f9d-2100-4913-89ea-a1e8e38eb841\"]",
+      "SecondaryAbility": "[\"374028f4-f9d7-4171-9322-47ca228e20ce\"]",
+      "HiddenAbility": "[\"35627a6f-38f0-4832-b663-c5ba955aa328\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "1",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "105",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "camerupt",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

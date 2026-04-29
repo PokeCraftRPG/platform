@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5cbdadf8-23bd-486c-9c5b-259b09fe55bc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "graveler-alola",
+    "DisplayName": "Graveler",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e9d7ee85-9089-4b7d-af4f-6528785416a5\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "graveler-alola",
+      "DisplayName": "Graveler",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rock"
+      }
+    }
+  }
+}

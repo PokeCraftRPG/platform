@@ -1,0 +1,23 @@
+﻿{
+  "Id": "e7814695-61f8-45a6-81ad-fc1601cd4de1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mirror-move",
+    "DisplayName": "Mirror Move",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mirror-move",
+      "DisplayName": "Mirror Move",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

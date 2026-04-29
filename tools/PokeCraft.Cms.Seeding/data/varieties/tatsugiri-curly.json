@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4def65c8-fc74-43b2-a9b2-32fbcc2a4a5a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tatsugiri-curly",
+    "DisplayName": "Tatsugiri",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"79be7ae9-0729-4759-b75d-b9b31acdac26\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tatsugiri-curly",
+      "DisplayName": "Tatsugiri",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mimicry"
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "a89483fd-633a-4e63-b349-cee36ad62e0d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "umbreon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"13d8a46f-fa3f-477e-a95d-4058f8b55825\"]",
+      "Height": "10",
+      "Weight": "270",
+      "YieldExperience": "184",
+      "PrimaryAbility": "[\"f5fd746b-4285-427b-ab75-928d416a5c85\"]",
+      "HiddenAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "BaseHP": "95",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "110",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "130",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "umbreon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

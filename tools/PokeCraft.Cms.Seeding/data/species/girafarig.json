@@ -1,0 +1,27 @@
+﻿{
+  "Id": "dbf59b03-d0e2-4844-ba08-ed4080d71ccd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "girafarig",
+    "DisplayName": "Girafarig",
+    "Description": null,
+    "FieldValues": {
+      "Number": "203",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "girafarig",
+      "DisplayName": "Girafarig",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

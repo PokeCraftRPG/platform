@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ed0dc4b7-b77d-4fff-bf97-e892af5f7e05",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hurricane",
+    "DisplayName": "Hurricane",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "70",
+      "Power": "110",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hurricane",
+      "DisplayName": "Hurricane",
+      "Description": "The user attacks by wrapping its opponent in a fierce wind. This may also confuse the target.",
+      "FieldValues": {}
+    }
+  }
+}

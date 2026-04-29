@@ -1,0 +1,23 @@
+﻿{
+  "Id": "96267496-8e7f-4128-b713-05b68fbe3a55",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "minimize",
+    "DisplayName": "Minimize",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "minimize",
+      "DisplayName": "Minimize",
+      "Description": "The user compresses its body to make itself look smaller, which sharply boosts its evasiveness.",
+      "FieldValues": {}
+    }
+  }
+}

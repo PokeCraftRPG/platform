@@ -1,0 +1,27 @@
+﻿{
+  "Id": "bbdf5007-11a6-4142-877e-e049d1f6d37d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spiritomb",
+    "DisplayName": "Spiritomb",
+    "Description": null,
+    "FieldValues": {
+      "Number": "442",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "100",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spiritomb",
+      "DisplayName": "Spiritomb",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

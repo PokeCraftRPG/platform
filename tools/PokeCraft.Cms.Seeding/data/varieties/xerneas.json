@@ -1,0 +1,25 @@
+﻿{
+  "Id": "b5e72cf0-087d-4ac8-a985-e1b01a5bfde9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "xerneas",
+    "DisplayName": "Xerneas",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"25167da3-14ee-4dc0-94c2-632d4befd3f5\"]",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "xerneas",
+      "DisplayName": "Xerneas",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Life"
+      }
+    }
+  }
+}

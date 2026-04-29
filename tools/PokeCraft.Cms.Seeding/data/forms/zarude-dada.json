@@ -1,0 +1,41 @@
+﻿{
+  "Id": "3882f0af-ea8d-41a8-a1c1-4d72c813db0b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zarude-dada",
+    "DisplayName": "Dada Zarude",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"cd087fab-87b8-4948-af81-633d1fa0cb13\"]",
+      "Height": "18",
+      "Weight": "700",
+      "YieldExperience": "300",
+      "PrimaryAbility": "[\"d724fdd9-3db1-4a76-8de7-aa696033fa20\"]",
+      "BaseHP": "105",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "3",
+      "BaseDefense": "105",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "105",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zarude-dada",
+      "DisplayName": "Dada Zarude",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

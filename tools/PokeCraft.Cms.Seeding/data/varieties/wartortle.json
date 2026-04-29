@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0c010769-6850-4bfc-a38d-19b57c991f37",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wartortle",
+    "DisplayName": "Wartortle",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"13c4f380-a477-4fb7-9e2a-1110081ded37\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wartortle",
+      "DisplayName": "Wartortle",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Turtle"
+      }
+    }
+  }
+}

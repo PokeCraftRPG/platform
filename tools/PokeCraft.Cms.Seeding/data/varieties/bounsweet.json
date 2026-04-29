@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0111df10-c6e6-4b1a-827e-db789bd0e6de",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bounsweet",
+    "DisplayName": "Bounsweet",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d4607381-8192-4729-8574-5afedd76c16f\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bounsweet",
+      "DisplayName": "Bounsweet",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fruit"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "b2e94eec-2cf4-457c-a40b-7b78a5da8ace",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "regidrago",
+    "DisplayName": "Regidrago",
+    "Description": null,
+    "FieldValues": {
+      "Number": "895",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "regidrago",
+      "DisplayName": "Regidrago",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

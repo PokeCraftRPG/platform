@@ -1,0 +1,28 @@
+﻿{
+  "Id": "9430bb33-291f-4bdd-9dfa-2fc603676c27",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "yamask",
+    "DisplayName": "Yamask",
+    "Description": null,
+    "FieldValues": {
+      "Number": "562",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Mineral\"]",
+      "SecondaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "yamask",
+      "DisplayName": "Yamask",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

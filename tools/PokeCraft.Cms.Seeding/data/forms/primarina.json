@@ -1,0 +1,42 @@
+﻿{
+  "Id": "4467c542-a8b9-4de1-b97f-9edc2cfe9712",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "primarina",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"fe596764-5031-40a7-9513-f3d87e309e07\"]",
+      "Height": "18",
+      "Weight": "440",
+      "YieldExperience": "239",
+      "PrimaryAbility": "[\"973e0e1a-dcca-4ab1-bd25-90df209dfc63\"]",
+      "HiddenAbility": "[\"443bb68b-2ce6-486b-b19e-731be14a03ab\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "74",
+      "YieldAttack": "0",
+      "BaseDefense": "74",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "126",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "116",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "primarina",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

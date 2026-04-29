@@ -1,0 +1,25 @@
+﻿{
+  "Id": "89cc5740-8955-4e3d-a201-b51e41746440",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "miraidon-drive-mode",
+    "DisplayName": "Miraidon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e2523254-5c7f-4b63-beb9-6824533adf80\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "miraidon-drive-mode",
+      "DisplayName": "Miraidon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0e882e55-476a-4e88-a261-6ac808c365e8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wiglett",
+    "DisplayName": "Wiglett",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"67637841-22ca-4aa4-9bd3-53a6782bdb61\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wiglett",
+      "DisplayName": "Wiglett",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Garden Eel"
+      }
+    }
+  }
+}

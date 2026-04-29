@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3a338d78-8497-4fd5-8454-b04180892169",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gastly",
+    "DisplayName": "Gastly",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ccf958fd-e7a1-4262-85d4-85fa22ecbd6b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gastly",
+      "DisplayName": "Gastly",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Gas"
+      }
+    }
+  }
+}

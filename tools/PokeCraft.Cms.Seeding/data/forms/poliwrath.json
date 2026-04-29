@@ -1,0 +1,43 @@
+﻿{
+  "Id": "c33f87b0-69d4-4e86-a702-8d760408bdf7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "poliwrath",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"65d6e85d-2d0a-4847-8b39-03eb32149a32\"]",
+      "Height": "13",
+      "Weight": "540",
+      "YieldExperience": "230",
+      "PrimaryAbility": "[\"ce06d228-a509-444d-ab16-f046f2519e89\"]",
+      "SecondaryAbility": "[\"ebbf0ce1-0fb1-42cd-81bf-091e737bbfd4\"]",
+      "HiddenAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "3",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "poliwrath",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

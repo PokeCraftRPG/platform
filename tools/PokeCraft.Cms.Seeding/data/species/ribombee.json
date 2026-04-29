@@ -1,0 +1,28 @@
+﻿{
+  "Id": "35051f36-ab0b-4720-85bc-58d491d90de1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ribombee",
+    "DisplayName": "Ribombee",
+    "Description": null,
+    "FieldValues": {
+      "Number": "743",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]",
+      "SecondaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ribombee",
+      "DisplayName": "Ribombee",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

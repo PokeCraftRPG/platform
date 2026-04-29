@@ -1,0 +1,43 @@
+﻿{
+  "Id": "3dfee2b7-d146-41d0-b678-56f74c579b2c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "yanmega",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"70d76165-2878-46c2-93f5-32b9b4072309\"]",
+      "Height": "19",
+      "Weight": "515",
+      "YieldExperience": "180",
+      "PrimaryAbility": "[\"c34cae01-916e-44ec-8e58-1cc63029592f\"]",
+      "SecondaryAbility": "[\"786cffd7-a22d-4bc0-87f2-6a9ffbbc07d2\"]",
+      "HiddenAbility": "[\"646cd171-4012-41af-b36f-69b1a3142f3e\"]",
+      "BaseHP": "86",
+      "YieldHP": "0",
+      "BaseAttack": "76",
+      "YieldAttack": "2",
+      "BaseDefense": "86",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "116",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "56",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "yanmega",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

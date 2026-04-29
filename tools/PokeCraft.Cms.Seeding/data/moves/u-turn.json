@@ -1,0 +1,25 @@
+﻿{
+  "Id": "7106b94e-5d64-4f40-a745-df58b6c908f9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "u-turn",
+    "DisplayName": "U-turn",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "70",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "u-turn",
+      "DisplayName": "U-turn",
+      "Description": "After making its attack, the user rushes back to switch places with a party Pokémon in waiting.",
+      "FieldValues": {}
+    }
+  }
+}

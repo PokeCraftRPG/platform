@@ -1,0 +1,42 @@
+﻿{
+  "Id": "a80b3d14-1065-4898-a240-301c3390ca44",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "landorus-incarnate",
+    "DisplayName": "Incarnate Landorus",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3a3d8749-3375-4390-899f-ce18f454079e\"]",
+      "Height": "15",
+      "Weight": "680",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"19474510-6538-4d3f-8775-1316904fe470\"]",
+      "HiddenAbility": "[\"ef348627-bea1-4c87-9bf1-417ed3b66855\"]",
+      "BaseHP": "89",
+      "YieldHP": "0",
+      "BaseAttack": "125",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "115",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "101",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "landorus-incarnate",
+      "DisplayName": "Incarnate Landorus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

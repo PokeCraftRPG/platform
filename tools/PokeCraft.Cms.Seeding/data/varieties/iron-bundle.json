@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6d3596ba-6e19-4b4a-b997-9dac90272857",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-bundle",
+    "DisplayName": "Iron Bundle",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"dccca96d-9fa6-404f-9b4c-0ec5e77dde11\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-bundle",
+      "DisplayName": "Iron Bundle",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

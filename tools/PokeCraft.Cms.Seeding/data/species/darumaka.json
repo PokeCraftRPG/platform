@@ -1,0 +1,27 @@
+﻿{
+  "Id": "7634c931-53a6-4215-98b5-6d7679542f53",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "darumaka",
+    "DisplayName": "Darumaka",
+    "Description": null,
+    "FieldValues": {
+      "Number": "554",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "darumaka",
+      "DisplayName": "Darumaka",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "75f01f32-b335-47a8-a6fb-beb547aa225f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swift-swim",
+    "DisplayName": "Swift Swim",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swift-swim",
+      "DisplayName": "Swift Swim",
+      "Description": "Boosts the Pokémon's Speed stat in rain.",
+      "FieldValues": {}
+    }
+  }
+}

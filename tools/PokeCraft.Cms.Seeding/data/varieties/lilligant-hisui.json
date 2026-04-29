@@ -1,0 +1,26 @@
+﻿{
+  "Id": "2bc650bf-dc73-484a-81cd-bb3e28d240ae",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lilligant-hisui",
+    "DisplayName": "Lilligant",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e21358a3-a1f2-46d5-82a7-b1d52fe5b496\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lilligant-hisui",
+      "DisplayName": "Lilligant",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Flowering"
+      }
+    }
+  }
+}

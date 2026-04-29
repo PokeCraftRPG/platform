@@ -1,0 +1,23 @@
+﻿{
+  "Id": "bffc7f49-42ad-4ae0-a1b5-103e7ce53210",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "heal-order",
+    "DisplayName": "Heal Order",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "heal-order",
+      "DisplayName": "Heal Order",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

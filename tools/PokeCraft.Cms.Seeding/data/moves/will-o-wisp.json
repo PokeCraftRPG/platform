@@ -1,0 +1,24 @@
+﻿{
+  "Id": "334a40f7-50c3-400f-b931-d40f3cf1fe48",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "will-o-wisp",
+    "DisplayName": "Will-O-Wisp",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "85",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "will-o-wisp",
+      "DisplayName": "Will-O-Wisp",
+      "Description": "The user shoots a sinister flame at the target to inflict a burn.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c98856be-9658-4a78-b26e-78909fa76f12",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "solgaleo",
+    "DisplayName": "Solgaleo",
+    "Description": null,
+    "FieldValues": {
+      "Number": "791",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "solgaleo",
+      "DisplayName": "Solgaleo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

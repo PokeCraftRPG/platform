@@ -1,0 +1,26 @@
+﻿{
+  "Id": "bde46ddb-f9ae-450a-adcc-5eb6b0772966",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vibrava",
+    "DisplayName": "Vibrava",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8a42eb9a-6dd4-4623-a210-40347420ad50\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vibrava",
+      "DisplayName": "Vibrava",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Vibration"
+      }
+    }
+  }
+}

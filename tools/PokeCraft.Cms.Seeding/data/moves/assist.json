@@ -1,0 +1,23 @@
+﻿{
+  "Id": "61ff995e-e5a6-4d3e-8e42-546144b30ce6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "assist",
+    "DisplayName": "Assist",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "assist",
+      "DisplayName": "Assist",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

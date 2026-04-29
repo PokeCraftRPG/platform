@@ -1,0 +1,28 @@
+﻿{
+  "Id": "45ae3d3b-3d05-4b06-92ad-727093b13089",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hawlucha",
+    "DisplayName": "Hawlucha",
+    "Description": null,
+    "FieldValues": {
+      "Number": "701",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "100",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Flying\"]",
+      "SecondaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hawlucha",
+      "DisplayName": "Hawlucha",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

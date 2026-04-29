@@ -1,0 +1,19 @@
+﻿{
+  "Id": "374028f4-f9d7-4171-9322-47ca228e20ce",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "solid-rock",
+    "DisplayName": "Solid Rock",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "solid-rock",
+      "DisplayName": "Solid Rock",
+      "Description": "Reduces the power of supereffective attacks that hit the Pokémon.",
+      "FieldValues": {}
+    }
+  }
+}

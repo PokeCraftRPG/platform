@@ -1,0 +1,27 @@
+﻿{
+  "Id": "25167da3-14ee-4dc0-94c2-632d4befd3f5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "xerneas",
+    "DisplayName": "Xerneas",
+    "Description": null,
+    "FieldValues": {
+      "Number": "716",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "xerneas",
+      "DisplayName": "Xerneas",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "4517cefd-8aab-459d-a22b-e6ca633b4e5e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dauntless-shield",
+    "DisplayName": "Dauntless Shield",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dauntless-shield",
+      "DisplayName": "Dauntless Shield",
+      "Description": "Boosts the Pokémon’s Defense stat the first time the Pokémon enters a battle.",
+      "FieldValues": {}
+    }
+  }
+}

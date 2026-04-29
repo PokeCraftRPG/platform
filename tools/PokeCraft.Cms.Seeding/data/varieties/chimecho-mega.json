@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9b4dc6ea-bfee-4281-b286-f9a2bd2efcbf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chimecho-mega",
+    "DisplayName": "Chimecho",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d13ac907-6dee-47af-888f-12e448fbb8a6\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chimecho-mega",
+      "DisplayName": "Chimecho",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Wind Chime"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "2001d877-7a6b-4ec0-86a8-e558d8bfd531",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "furret",
+    "DisplayName": "Furret",
+    "Description": null,
+    "FieldValues": {
+      "Number": "162",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "furret",
+      "DisplayName": "Furret",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

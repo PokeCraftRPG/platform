@@ -1,0 +1,26 @@
+﻿{
+  "Id": "bbba1a1f-88a4-46b3-92bd-874f5e24a87c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "okidogi",
+    "DisplayName": "Okidogi",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2102f420-a75f-4fbc-8664-b36dffbfee16\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "okidogi",
+      "DisplayName": "Okidogi",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Retainer"
+      }
+    }
+  }
+}

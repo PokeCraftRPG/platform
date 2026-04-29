@@ -1,0 +1,26 @@
+﻿{
+  "Id": "57057737-c240-4566-b138-041d487568d6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fuecoco",
+    "DisplayName": "Fuecoco",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3fad5c4c-b2d7-48ce-a91e-d5612efe85b3\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fuecoco",
+      "DisplayName": "Fuecoco",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fire Croc"
+      }
+    }
+  }
+}

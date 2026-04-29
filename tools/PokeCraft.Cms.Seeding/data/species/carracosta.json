@@ -1,0 +1,28 @@
+﻿{
+  "Id": "e615d1c3-d3ce-4a08-8c6f-b271ade463ad",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "carracosta",
+    "DisplayName": "Carracosta",
+    "Description": null,
+    "FieldValues": {
+      "Number": "565",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "carracosta",
+      "DisplayName": "Carracosta",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

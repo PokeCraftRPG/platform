@@ -1,0 +1,19 @@
+﻿{
+  "Id": "c6f1b814-650e-4b1f-a482-7ed07ca1c7af",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sticky-hold",
+    "DisplayName": "Sticky Hold",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sticky-hold",
+      "DisplayName": "Sticky Hold",
+      "Description": "The Pokémon's held items cling to its sticky body and cannot be removed by other Pokémon.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "49f76bf1-d147-40eb-9586-2b4eaa1a5b43",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scyther",
+    "DisplayName": "Scyther",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7ea0f5a5-33f5-4840-9adb-2f588353a3e8\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scyther",
+      "DisplayName": "Scyther",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mantis"
+      }
+    }
+  }
+}

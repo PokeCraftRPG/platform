@@ -1,0 +1,42 @@
+﻿{
+  "Id": "9721e2d6-99bc-44c9-bad5-80836c9873c0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meditite",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0d97e4a0-2a43-4e01-a56f-0027d9c6463d\"]",
+      "Height": "6",
+      "Weight": "112",
+      "YieldExperience": "56",
+      "PrimaryAbility": "[\"820eb316-147b-47dc-860c-3308eb41e6e0\"]",
+      "HiddenAbility": "[\"f5863110-b5b9-4629-b95c-3869ed34433d\"]",
+      "BaseHP": "30",
+      "YieldHP": "0",
+      "BaseAttack": "40",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meditite",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

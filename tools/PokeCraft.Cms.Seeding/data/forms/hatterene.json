@@ -1,0 +1,43 @@
+﻿{
+  "Id": "8d716d25-7044-4975-8bcf-b7c1388f50d6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hatterene",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7766ca55-c896-401c-ad00-0834ad47d9f9\"]",
+      "Height": "21",
+      "Weight": "51",
+      "YieldExperience": "255",
+      "PrimaryAbility": "[\"e28c42cc-a85f-4f82-89b2-e80210d5b4ef\"]",
+      "SecondaryAbility": "[\"6eea2506-c8b3-44c8-9082-76bec64e5880\"]",
+      "HiddenAbility": "[\"67f51e12-608d-4075-9293-523b122271f5\"]",
+      "BaseHP": "57",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "136",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "103",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "29",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hatterene",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

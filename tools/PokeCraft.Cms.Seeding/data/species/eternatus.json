@@ -1,0 +1,27 @@
+﻿{
+  "Id": "48a6f435-d28b-4378-80fd-23bf4c1d379a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "eternatus",
+    "DisplayName": "Eternatus",
+    "Description": null,
+    "FieldValues": {
+      "Number": "890",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "255",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "eternatus",
+      "DisplayName": "Eternatus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

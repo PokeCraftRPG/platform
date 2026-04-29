@@ -1,0 +1,23 @@
+﻿{
+  "Id": "db7609fe-9600-44ba-9991-0475e5da4aee",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "psychic-terrain",
+    "DisplayName": "Psychic Terrain",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "psychic-terrain",
+      "DisplayName": "Psychic Terrain",
+      "Description": "This protects Pokémon on the ground from priority moves and powers up Psychic-type moves for five turns.",
+      "FieldValues": {}
+    }
+  }
+}

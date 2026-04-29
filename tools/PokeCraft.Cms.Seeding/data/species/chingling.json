@@ -1,0 +1,27 @@
+﻿{
+  "Id": "57810082-069c-4ba4-a7d8-04a7584ab884",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chingling",
+    "DisplayName": "Chingling",
+    "Description": null,
+    "FieldValues": {
+      "Number": "433",
+      "Category": "[\"Baby\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chingling",
+      "DisplayName": "Chingling",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

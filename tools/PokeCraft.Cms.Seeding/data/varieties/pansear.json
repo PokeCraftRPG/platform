@@ -1,0 +1,26 @@
+﻿{
+  "Id": "34729c92-f364-4ff7-bbd8-d99f49becf73",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pansear",
+    "DisplayName": "Pansear",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8b50a046-6227-44a2-a202-c59ea09e18a6\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pansear",
+      "DisplayName": "Pansear",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "High Temp"
+      }
+    }
+  }
+}

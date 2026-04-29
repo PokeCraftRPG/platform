@@ -1,0 +1,43 @@
+﻿{
+  "Id": "02a7927f-3980-4d8a-bc33-50030c188bd1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spinarak",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"04fe3d82-8aaf-4c08-9300-df013833f72d\"]",
+      "Height": "5",
+      "Weight": "85",
+      "YieldExperience": "50",
+      "PrimaryAbility": "[\"ba1b3a50-acc0-4032-bf14-6572fa26daed\"]",
+      "SecondaryAbility": "[\"74551570-259c-470c-a9ba-64ffd0e3afad\"]",
+      "HiddenAbility": "[\"e1b8fd69-5bf8-4889-ab24-ea30a8419d99\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "1",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spinarak",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

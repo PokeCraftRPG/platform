@@ -1,0 +1,19 @@
+﻿{
+  "Id": "1538dc09-0678-4490-8143-241c5e8f9ee3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "guard-dog",
+    "DisplayName": "Guard Dog",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "guard-dog",
+      "DisplayName": "Guard Dog",
+      "Description": "Boosts the Pokémon’s Attack stat if intimidated. Moves and items that would force the Pokémon to switch out also fail to work.",
+      "FieldValues": {}
+    }
+  }
+}

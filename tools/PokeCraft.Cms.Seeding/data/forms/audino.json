@@ -1,0 +1,42 @@
+﻿{
+  "Id": "d943fd75-66bd-4132-8dcd-52c990d276cb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "audino",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"35e633a0-3a2b-48fd-90e0-07f25a58b390\"]",
+      "Height": "11",
+      "Weight": "310",
+      "YieldExperience": "390",
+      "PrimaryAbility": "[\"e28c42cc-a85f-4f82-89b2-e80210d5b4ef\"]",
+      "SecondaryAbility": "[\"3f2976c2-09ac-4c69-8b32-5d930032faba\"]",
+      "HiddenAbility": "[\"0d470a82-2040-4e95-8e52-999c26f4514d\"]",
+      "BaseHP": "103",
+      "YieldHP": "2",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "86",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "86",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "audino",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

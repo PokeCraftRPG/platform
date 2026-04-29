@@ -1,0 +1,25 @@
+﻿{
+  "Id": "87ad4774-61fb-43e2-98d1-52497f7e8577",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "relic-song",
+    "DisplayName": "Relic Song",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "75",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "relic-song",
+      "DisplayName": "Relic Song",
+      "Description": "The user sings an ancient song and attacks by appealing to the hearts of the listening opposing Pokémon. This may also induce sleep.",
+      "FieldValues": {}
+    }
+  }
+}

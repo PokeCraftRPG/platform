@@ -1,0 +1,42 @@
+﻿{
+  "Id": "667a335c-8b80-4b29-bba9-87a0ee695742",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "poochyena",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"480004c2-d4b6-4011-8d93-b01e06a4bc98\"]",
+      "Height": "5",
+      "Weight": "136",
+      "YieldExperience": "56",
+      "PrimaryAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "SecondaryAbility": "[\"69ed006e-469a-417a-824a-dd844d36ba47\"]",
+      "HiddenAbility": "[\"9c030956-19a0-4e37-8835-0484c2fa3d91\"]",
+      "BaseHP": "35",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "1",
+      "BaseDefense": "35",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "30",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "poochyena",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

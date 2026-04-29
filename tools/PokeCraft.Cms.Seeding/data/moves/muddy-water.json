@@ -1,0 +1,25 @@
+﻿{
+  "Id": "7428e637-146f-4a7f-8468-fd276e8e7322",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "muddy-water",
+    "DisplayName": "Muddy Water",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "85",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "muddy-water",
+      "DisplayName": "Muddy Water",
+      "Description": "The user attacks by shooting muddy water at opposing Pokémon. This may also lower their accuracy.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "f3250f9d-a83d-4312-be23-e61f33f37118",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "heracross",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a90f8464-e346-4783-b63d-dbc9329c93ad\"]",
+      "Height": "15",
+      "Weight": "540",
+      "YieldExperience": "175",
+      "PrimaryAbility": "[\"ba1b3a50-acc0-4032-bf14-6572fa26daed\"]",
+      "SecondaryAbility": "[\"1c326e45-7c1a-4f8a-a55c-751b60f62f10\"]",
+      "HiddenAbility": "[\"5ca88ad1-2039-4935-9e88-99d81c4bf372\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "125",
+      "YieldAttack": "2",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "heracross",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

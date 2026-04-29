@@ -1,0 +1,25 @@
+﻿{
+  "Id": "5996c579-91ed-475c-9624-fa76358add90",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "extreme-speed",
+    "DisplayName": "Extreme Speed",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "extreme-speed",
+      "DisplayName": "Extreme Speed",
+      "Description": "The user charges the target at blinding speed. This move always goes first.",
+      "FieldValues": {}
+    }
+  }
+}

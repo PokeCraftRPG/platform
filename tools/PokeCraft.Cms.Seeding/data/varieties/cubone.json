@@ -1,0 +1,26 @@
+﻿{
+  "Id": "05aa2cb4-9504-4519-ab25-67147947b92c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cubone",
+    "DisplayName": "Cubone",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5ce35e87-61fa-469b-9ddd-46247a810ea2\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cubone",
+      "DisplayName": "Cubone",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Lonely"
+      }
+    }
+  }
+}

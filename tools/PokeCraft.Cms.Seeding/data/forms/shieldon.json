@@ -1,0 +1,42 @@
+﻿{
+  "Id": "127a8da2-d4dd-41e5-9bdf-91512368f75b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shieldon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9aafbbdf-f638-449b-8104-51df552bb36b\"]",
+      "Height": "5",
+      "Weight": "570",
+      "YieldExperience": "70",
+      "PrimaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "HiddenAbility": "[\"6df60939-ffd8-4ddb-ad1e-f4add0129eeb\"]",
+      "BaseHP": "30",
+      "YieldHP": "0",
+      "BaseAttack": "42",
+      "YieldAttack": "0",
+      "BaseDefense": "118",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "42",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "88",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shieldon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

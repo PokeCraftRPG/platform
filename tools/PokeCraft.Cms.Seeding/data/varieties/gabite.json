@@ -1,0 +1,26 @@
+﻿{
+  "Id": "37343f8e-0b13-4467-84fd-5bf71f2469c2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gabite",
+    "DisplayName": "Gabite",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"fa678801-6339-494a-9864-48d07849aa32\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gabite",
+      "DisplayName": "Gabite",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cave"
+      }
+    }
+  }
+}

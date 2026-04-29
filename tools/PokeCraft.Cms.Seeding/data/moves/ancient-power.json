@@ -1,0 +1,25 @@
+﻿{
+  "Id": "0c5a33c0-7ac7-41bd-a652-0187dadd4b0a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ancient-power",
+    "DisplayName": "Ancient Power",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Rock\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ancient-power",
+      "DisplayName": "Ancient Power",
+      "Description": "The user attacks with a prehistoric power. This may also boost all the user's stats at once.",
+      "FieldValues": {}
+    }
+  }
+}

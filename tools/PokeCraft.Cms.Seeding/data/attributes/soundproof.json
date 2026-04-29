@@ -1,0 +1,19 @@
+﻿{
+  "Id": "6df60939-ffd8-4ddb-ad1e-f4add0129eeb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "soundproof",
+    "DisplayName": "Soundproof",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "soundproof",
+      "DisplayName": "Soundproof",
+      "Description": "Soundproofing gives the Pokémon full immunity to all sound-based moves.",
+      "FieldValues": {}
+    }
+  }
+}

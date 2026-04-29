@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9dcfe06c-966c-4acf-8568-524f22cc97db",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mareanie",
+    "DisplayName": "Mareanie",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6ad25193-9c6a-4e16-928f-ac5e189f69cd\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mareanie",
+      "DisplayName": "Mareanie",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Brutal Star"
+      }
+    }
+  }
+}

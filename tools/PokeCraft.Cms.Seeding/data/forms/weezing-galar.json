@@ -1,0 +1,43 @@
+﻿{
+  "Id": "b5560a53-4d29-4be9-a734-60b91692e4fb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "weezing-galar",
+    "DisplayName": "Galarian Weezing",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d677ad86-6914-4b55-983b-bf450d2c1641\"]",
+      "Height": "30",
+      "Weight": "160",
+      "YieldExperience": "172",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "SecondaryAbility": "[\"cb37802d-b8b1-45d2-8691-527c5dde90d0\"]",
+      "HiddenAbility": "[\"bfda1b8f-c888-4c4c-af70-c49733be5b08\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "120",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "weezing-galar",
+      "DisplayName": "Galarian Weezing",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

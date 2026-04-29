@@ -1,0 +1,42 @@
+﻿{
+  "Id": "bfdef1b1-dcb8-4c61-a282-eb171b2d0a28",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "amaura",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"25e75f34-88c1-45be-8dd2-cad4e414504c\"]",
+      "Height": "13",
+      "Weight": "252",
+      "YieldExperience": "72",
+      "PrimaryAbility": "[\"0315e132-cf16-4bfe-8d13-4db13a321385\"]",
+      "HiddenAbility": "[\"94d77255-80ed-447a-8809-43dc73a72602\"]",
+      "BaseHP": "77",
+      "YieldHP": "1",
+      "BaseAttack": "59",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "67",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "63",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "46",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "amaura",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

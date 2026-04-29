@@ -1,0 +1,24 @@
+﻿{
+  "Id": "1701f79b-6cf3-4981-ab55-17a259a2a5f6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clangorous-soulblaze",
+    "DisplayName": "Clangorous Soulblaze",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Special\"]",
+      "Power": "185",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clangorous-soulblaze",
+      "DisplayName": "Clangorous Soulblaze",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

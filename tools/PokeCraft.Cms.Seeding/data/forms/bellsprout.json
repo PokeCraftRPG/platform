@@ -1,0 +1,42 @@
+﻿{
+  "Id": "c1ee4cac-92cc-4590-b43e-7ef82c6cb132",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bellsprout",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5f21d4b1-f5c2-4096-9cd9-91496ebdeb76\"]",
+      "Height": "7",
+      "Weight": "40",
+      "YieldExperience": "60",
+      "PrimaryAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "HiddenAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "1",
+      "BaseDefense": "35",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "30",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bellsprout",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

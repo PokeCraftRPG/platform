@@ -1,0 +1,43 @@
+﻿{
+  "Id": "dfaaa4ef-feab-41f1-abd1-3865f374d0aa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "crabominable",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3cf457ce-238a-49d7-913f-dfbca9ca0a67\"]",
+      "Height": "17",
+      "Weight": "1800",
+      "YieldExperience": "167",
+      "PrimaryAbility": "[\"57e539ec-9a7b-4925-ad82-81080aa7ceb2\"]",
+      "SecondaryAbility": "[\"e3b961ab-87de-40fc-9d8d-95dda45c14df\"]",
+      "HiddenAbility": "[\"35627a6f-38f0-4832-b663-c5ba955aa328\"]",
+      "BaseHP": "97",
+      "YieldHP": "0",
+      "BaseAttack": "132",
+      "YieldAttack": "2",
+      "BaseDefense": "77",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "62",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "67",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "43",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]",
+      "SecondaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "crabominable",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6fe1e0ca-f8c1-4eb8-a629-3587e496d6d9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glaciate",
+    "DisplayName": "Glaciate",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "95",
+      "Power": "65",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glaciate",
+      "DisplayName": "Glaciate",
+      "Description": "The user attacks by blowing freezing cold air at opposing Pokémon. This also lowers their Speed stats.",
+      "FieldValues": {}
+    }
+  }
+}

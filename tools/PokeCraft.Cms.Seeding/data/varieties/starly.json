@@ -1,0 +1,26 @@
+﻿{
+  "Id": "50c885db-12f5-4cc9-8e42-71bf82bfbf1a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "starly",
+    "DisplayName": "Starly",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9961e69d-ec39-4a10-874d-1792ec245387\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "starly",
+      "DisplayName": "Starly",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Starling"
+      }
+    }
+  }
+}

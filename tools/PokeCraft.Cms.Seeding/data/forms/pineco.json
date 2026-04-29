@@ -1,0 +1,41 @@
+﻿{
+  "Id": "084c6dc7-6647-4698-bfb2-b0b5e7ab08a2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pineco",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d485a6d0-f83d-4257-9e36-b50be770ac6f\"]",
+      "Height": "6",
+      "Weight": "72",
+      "YieldExperience": "58",
+      "PrimaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "HiddenAbility": "[\"ecf92884-7c23-4d13-9d9a-1a687fe3f447\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "35",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "15",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pineco",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

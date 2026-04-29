@@ -1,0 +1,42 @@
+﻿{
+  "Id": "2638b855-c4be-4b02-99f9-eab3c21cfae8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "salamence",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"383c3a47-c48b-4ea0-8639-372530213ae5\"]",
+      "Height": "15",
+      "Weight": "1026",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "HiddenAbility": "[\"5ca88ad1-2039-4935-9e88-99d81c4bf372\"]",
+      "BaseHP": "95",
+      "YieldHP": "0",
+      "BaseAttack": "135",
+      "YieldAttack": "3",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "110",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "salamence",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

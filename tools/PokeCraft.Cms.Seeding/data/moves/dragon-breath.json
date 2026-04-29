@@ -1,0 +1,25 @@
+﻿{
+  "Id": "5f66ed1c-27bb-4abd-b7f0-cc29b2354350",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragon-breath",
+    "DisplayName": "Dragon Breath",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragon-breath",
+      "DisplayName": "Dragon Breath",
+      "Description": "The user exhales a mighty gust that inflicts damage. This may also leave the target with paralysis.",
+      "FieldValues": {}
+    }
+  }
+}

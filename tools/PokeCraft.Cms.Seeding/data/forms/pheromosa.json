@@ -1,0 +1,41 @@
+﻿{
+  "Id": "485b6001-5663-4751-9768-90fe850d2e38",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pheromosa",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"636ac97e-2947-4aa7-b750-448d5a0a1052\"]",
+      "Height": "18",
+      "Weight": "250",
+      "YieldExperience": "257",
+      "PrimaryAbility": "[\"e7ec0ce2-6979-45a9-80ab-215081d487e3\"]",
+      "BaseHP": "71",
+      "YieldHP": "0",
+      "BaseAttack": "137",
+      "YieldAttack": "0",
+      "BaseDefense": "37",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "137",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "37",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "151",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pheromosa",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "489d598b-83bf-4f00-bf2f-3a6c218f99a9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "turtwig",
+    "DisplayName": "Turtwig",
+    "Description": null,
+    "FieldValues": {
+      "Number": "387",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "turtwig",
+      "DisplayName": "Turtwig",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

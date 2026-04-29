@@ -1,0 +1,41 @@
+﻿{
+  "Id": "6036121e-f37b-4812-88f5-4c1628ad7b1e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zekrom",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"fbc47019-86ee-4a88-a239-34f936eb770c\"]",
+      "Height": "29",
+      "Weight": "3450",
+      "YieldExperience": "306",
+      "PrimaryAbility": "[\"907d08f0-8502-4646-8ba1-b99310286997\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "150",
+      "YieldAttack": "3",
+      "BaseDefense": "120",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "120",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zekrom",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

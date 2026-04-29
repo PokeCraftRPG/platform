@@ -1,0 +1,41 @@
+﻿{
+  "Id": "31b46fe8-2cb0-4e9f-8b67-2ca18c93f377",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "minior-orange-meteor",
+    "DisplayName": "Orange Meteor Minior",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"87209d63-c203-46ad-9d9c-f36c61d0f90a\"]",
+      "Height": "3",
+      "Weight": "400",
+      "YieldExperience": "154",
+      "PrimaryAbility": "[\"a521c824-65bf-45af-b621-33901339def9\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "minior-orange-meteor",
+      "DisplayName": "Orange Meteor Minior",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

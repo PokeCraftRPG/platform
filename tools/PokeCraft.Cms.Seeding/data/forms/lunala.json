@@ -1,0 +1,41 @@
+﻿{
+  "Id": "ba29528c-804f-45ee-9f61-fb29dc2fa600",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lunala",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1e0b53b0-f1a3-4ec2-8079-e71baa194403\"]",
+      "Height": "40",
+      "Weight": "1200",
+      "YieldExperience": "306",
+      "PrimaryAbility": "[\"63ea29ac-0670-4244-8b4c-d106a5959008\"]",
+      "BaseHP": "137",
+      "YieldHP": "0",
+      "BaseAttack": "113",
+      "YieldAttack": "0",
+      "BaseDefense": "89",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "137",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "107",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "97",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lunala",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

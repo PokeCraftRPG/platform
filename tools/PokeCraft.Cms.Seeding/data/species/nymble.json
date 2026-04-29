@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c43c610f-172e-49f9-81be-704d7e66b912",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nymble",
+    "DisplayName": "Nymble",
+    "Description": null,
+    "FieldValues": {
+      "Number": "919",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "20",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nymble",
+      "DisplayName": "Nymble",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

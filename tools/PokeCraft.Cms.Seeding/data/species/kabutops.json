@@ -1,0 +1,28 @@
+﻿{
+  "Id": "476b2b84-c697-4566-87eb-5f3070a8dc61",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kabutops",
+    "DisplayName": "Kabutops",
+    "Description": null,
+    "FieldValues": {
+      "Number": "141",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kabutops",
+      "DisplayName": "Kabutops",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

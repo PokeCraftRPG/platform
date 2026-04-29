@@ -1,0 +1,43 @@
+﻿{
+  "Id": "d873b76c-6227-4fba-9af2-09f11dae0d63",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skrelp",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a1a38735-d7dc-45ce-9555-1c07654aa04e\"]",
+      "Height": "5",
+      "Weight": "73",
+      "YieldExperience": "64",
+      "PrimaryAbility": "[\"2f1ed275-bfaf-494d-8d85-c48aee736e43\"]",
+      "SecondaryAbility": "[\"5e112e5b-8643-4cbf-9c15-5a0bfce0b0b2\"]",
+      "HiddenAbility": "[\"463a60e6-bf15-4972-9934-481d443a8534\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]",
+      "SecondaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skrelp",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

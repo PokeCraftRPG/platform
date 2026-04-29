@@ -1,0 +1,19 @@
+﻿{
+  "Id": "4d8cefa4-dbcc-4c78-b5f5-0a1c30bdb019",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "static",
+    "DisplayName": "Static",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "static",
+      "DisplayName": "Static",
+      "Description": "The Pokémon is charged with static electricity and may paralyze attackers that make direct contact with it.",
+      "FieldValues": {}
+    }
+  }
+}

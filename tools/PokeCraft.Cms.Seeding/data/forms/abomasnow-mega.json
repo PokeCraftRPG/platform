@@ -1,0 +1,41 @@
+﻿{
+  "Id": "1115e785-57fc-4a75-ac85-52ed49e4170e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "abomasnow-mega",
+    "DisplayName": "Mega Abomasnow",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5b33899d-8f68-4db4-a9b7-f03665e252a8\"]",
+      "Height": "27",
+      "Weight": "1850",
+      "YieldExperience": "208",
+      "PrimaryAbility": "[\"94d77255-80ed-447a-8809-43dc73a72602\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "132",
+      "YieldAttack": "1",
+      "BaseDefense": "105",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "132",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "105",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "abomasnow-mega",
+      "DisplayName": "Mega Abomasnow",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

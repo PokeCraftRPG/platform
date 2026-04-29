@@ -1,0 +1,25 @@
+﻿{
+  "Id": "df652cb3-03e0-46e8-8002-98298a860edb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thunder-cage",
+    "DisplayName": "Thunder Cage",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "90",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thunder-cage",
+      "DisplayName": "Thunder Cage",
+      "Description": "The user traps the target inside a cage of sparking electricity that inflicts damage for four to five turns.",
+      "FieldValues": {}
+    }
+  }
+}

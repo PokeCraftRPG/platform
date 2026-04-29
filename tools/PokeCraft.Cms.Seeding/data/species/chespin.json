@@ -1,0 +1,27 @@
+﻿{
+  "Id": "91f4f570-3686-416a-8451-d571902ccba0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chespin",
+    "DisplayName": "Chespin",
+    "Description": null,
+    "FieldValues": {
+      "Number": "650",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chespin",
+      "DisplayName": "Chespin",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

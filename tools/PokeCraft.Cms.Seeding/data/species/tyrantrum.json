@@ -1,0 +1,28 @@
+﻿{
+  "Id": "598ceed7-32a2-4ab4-8cdd-9f6f39dec6d6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tyrantrum",
+    "DisplayName": "Tyrantrum",
+    "Description": null,
+    "FieldValues": {
+      "Number": "697",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tyrantrum",
+      "DisplayName": "Tyrantrum",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

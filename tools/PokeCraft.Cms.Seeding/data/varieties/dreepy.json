@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c98b093b-87d8-44f0-b6c4-c87b1e8b340a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dreepy",
+    "DisplayName": "Dreepy",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e2510fb8-0f2a-421b-8d3d-0334609c3a4d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dreepy",
+      "DisplayName": "Dreepy",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Lingering"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "3583abdc-906b-4839-a1a7-7aeeb5cdbfa6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mr-mime",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"bc9c6e31-e916-44de-8eb0-08ef7ce304d4\"]",
+      "Height": "13",
+      "Weight": "545",
+      "YieldExperience": "161",
+      "PrimaryAbility": "[\"6df60939-ffd8-4ddb-ad1e-f4add0129eeb\"]",
+      "SecondaryAbility": "[\"7262528d-ef5d-4457-96f6-86321b5fb727\"]",
+      "HiddenAbility": "[\"d20432c3-18d0-4160-a3f1-a363c9e6633d\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "120",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mr-mime",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

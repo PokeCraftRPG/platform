@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c7be3153-4914-4843-8c8e-c7ca241b3725",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "butterfree",
+    "DisplayName": "Butterfree",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f079b229-e8f5-4904-bd22-c2608719dc3f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "butterfree",
+      "DisplayName": "Butterfree",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Butterfly"
+      }
+    }
+  }
+}

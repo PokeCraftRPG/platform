@@ -1,0 +1,23 @@
+﻿{
+  "Id": "5e7628ec-15c0-461d-95d3-91d14b8b14e2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shadow-bolt",
+    "DisplayName": "Shadow Bolt",
+    "Description": null,
+    "FieldValues": {
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "75"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shadow-bolt",
+      "DisplayName": "Shadow Bolt",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "2d9e2c93-f76e-4774-892e-711b04c81c34",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "roggenrola",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f00dfe3c-eb8a-4e66-bfc5-3bc197a5e69e\"]",
+      "Height": "4",
+      "Weight": "180",
+      "YieldExperience": "56",
+      "PrimaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "SecondaryAbility": "[\"2b8b8cfa-e12e-43d2-b403-594ac9a1c1f7\"]",
+      "HiddenAbility": "[\"19474510-6538-4d3f-8775-1316904fe470\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "85",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "25",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "25",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "15",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "roggenrola",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

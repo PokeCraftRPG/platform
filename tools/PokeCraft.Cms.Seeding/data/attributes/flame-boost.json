@@ -1,0 +1,19 @@
+﻿{
+  "Id": "e2c0e2a8-2ba2-4472-b2a1-cd80fc27f1dd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flame-boost",
+    "DisplayName": "Flame Boost",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flame-boost",
+      "DisplayName": "Flame Boost",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

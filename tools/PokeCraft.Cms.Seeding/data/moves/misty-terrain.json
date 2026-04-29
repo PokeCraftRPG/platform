@@ -1,0 +1,23 @@
+﻿{
+  "Id": "d4af9eee-fe73-4658-aaf6-0d1d4141e29b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "misty-terrain",
+    "DisplayName": "Misty Terrain",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "misty-terrain",
+      "DisplayName": "Misty Terrain",
+      "Description": "This protects Pokémon on the ground from status conditions and halves damage from Dragon-type moves for five turns.",
+      "FieldValues": {}
+    }
+  }
+}

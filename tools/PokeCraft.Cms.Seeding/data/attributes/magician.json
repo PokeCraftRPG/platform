@@ -1,0 +1,19 @@
+﻿{
+  "Id": "9d1934a0-3c6e-44b9-b7a4-38ccef17391a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magician",
+    "DisplayName": "Magician",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magician",
+      "DisplayName": "Magician",
+      "Description": "The Pokémon steals the held item from any target it hits with a move.",
+      "FieldValues": {}
+    }
+  }
+}

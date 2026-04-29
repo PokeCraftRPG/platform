@@ -1,0 +1,23 @@
+﻿{
+  "Id": "3fb910bf-5eb6-4e9c-9d02-14e484d54dd2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snatch",
+    "DisplayName": "Snatch",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snatch",
+      "DisplayName": "Snatch",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

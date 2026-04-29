@@ -1,0 +1,24 @@
+﻿{
+  "Id": "64530ea8-87db-4c2c-b4d2-e319e6712a4a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flail",
+    "DisplayName": "Flail",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flail",
+      "DisplayName": "Flail",
+      "Description": "The user flails about aimlessly to attack. The less HP the user has, the greater the move's power.",
+      "FieldValues": {}
+    }
+  }
+}

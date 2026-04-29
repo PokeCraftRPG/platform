@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d1b11ce8-9e80-4020-827a-e9a1698b18c2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "munna",
+    "DisplayName": "Munna",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"cc74e1ab-3f52-43ed-a9fb-d83d1af48359\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "munna",
+      "DisplayName": "Munna",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Dream Eater"
+      }
+    }
+  }
+}

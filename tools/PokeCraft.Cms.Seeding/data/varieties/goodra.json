@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0818e7d0-8321-485c-98c9-57355e7581cc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "goodra",
+    "DisplayName": "Goodra",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8da0bc01-60ee-434f-8b6e-3d44f5c28876\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "goodra",
+      "DisplayName": "Goodra",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Dragon"
+      }
+    }
+  }
+}

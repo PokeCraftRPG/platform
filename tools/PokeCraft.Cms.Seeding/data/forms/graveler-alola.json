@@ -1,0 +1,43 @@
+﻿{
+  "Id": "2ea140bb-deb4-4142-8863-07a0b25dc0ea",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "graveler-alola",
+    "DisplayName": "Alolan Graveler",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5cbdadf8-23bd-486c-9c5b-259b09fe55bc\"]",
+      "Height": "10",
+      "Weight": "1100",
+      "YieldExperience": "137",
+      "PrimaryAbility": "[\"fbeddbd6-52d8-452c-97cc-0564133113a1\"]",
+      "SecondaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "HiddenAbility": "[\"25689f9a-42d4-4d84-8210-b4841575e186\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "0",
+      "BaseDefense": "115",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "graveler-alola",
+      "DisplayName": "Alolan Graveler",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

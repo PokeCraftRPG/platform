@@ -1,0 +1,25 @@
+﻿{
+  "Id": "23812f81-9222-4819-b00e-82259d85cbd5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "trailblaze",
+    "DisplayName": "Trailblaze",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "50",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "trailblaze",
+      "DisplayName": "Trailblaze",
+      "Description": "The user attacks suddenly as if leaping out from tall grass. The user's nimble footwork boosts its Speed stat.",
+      "FieldValues": {}
+    }
+  }
+}

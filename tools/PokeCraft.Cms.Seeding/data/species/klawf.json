@@ -1,0 +1,27 @@
+﻿{
+  "Id": "2ae23228-85ee-43cf-86b7-2c4f4877f86c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "klawf",
+    "DisplayName": "Klawf",
+    "Description": null,
+    "FieldValues": {
+      "Number": "950",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "35",
+      "PrimaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "klawf",
+      "DisplayName": "Klawf",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "39c3e5a6-5568-4b17-9861-13004003e3dd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mr-rime",
+    "DisplayName": "Mr. Rime",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e6e18a1b-7907-4e26-b69d-f7384684a6fe\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mr-rime",
+      "DisplayName": "Mr. Rime",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Comedian"
+      }
+    }
+  }
+}

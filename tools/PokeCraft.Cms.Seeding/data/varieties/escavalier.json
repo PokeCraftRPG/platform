@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e4dd8c87-5338-4cd1-8f63-b93917969fb6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "escavalier",
+    "DisplayName": "Escavalier",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"abdefc5d-ac24-4c9b-9303-24ed76b49531\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "escavalier",
+      "DisplayName": "Escavalier",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cavalry"
+      }
+    }
+  }
+}

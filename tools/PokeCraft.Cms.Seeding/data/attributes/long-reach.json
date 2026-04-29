@@ -1,0 +1,19 @@
+﻿{
+  "Id": "643fdf0d-d55d-4626-9ea6-29a486413853",
+  "Invariant": {
+    "IsPublished": true,
+    "UniqueName": "long-reach",
+    "DisplayName": "Long Reach",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": true,
+      "UniqueName": "long-reach",
+      "DisplayName": "Long Reach",
+      "Description": "The Pokémon uses its moves without making contact with the target.",
+      "FieldValues": {}
+    }
+  }
+}

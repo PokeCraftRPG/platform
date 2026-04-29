@@ -1,0 +1,27 @@
+﻿{
+  "Id": "376ce8a1-e1fd-4085-b18d-c14cbea9cce1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "goldeen",
+    "DisplayName": "Goldeen",
+    "Description": null,
+    "FieldValues": {
+      "Number": "118",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "225",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "goldeen",
+      "DisplayName": "Goldeen",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

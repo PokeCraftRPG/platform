@@ -1,0 +1,25 @@
+﻿{
+  "Id": "348fcc58-2a5b-4e5e-b48a-28bbe65abcef",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bulldoze",
+    "DisplayName": "Bulldoze",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bulldoze",
+      "DisplayName": "Bulldoze",
+      "Description": "The user strikes everything around it by stomping down on the ground. This lowers the Speed stats of those hit.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "7b44859c-d104-4e86-bd39-d2ebf73a3c57",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "staravia",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1d4f5ca5-ece4-4e0f-a934-9c8226a4d8bc\"]",
+      "Height": "6",
+      "Weight": "155",
+      "YieldExperience": "119",
+      "PrimaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "HiddenAbility": "[\"3e4191ac-398f-48f3-a3ce-106d5ddd1742\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "staravia",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

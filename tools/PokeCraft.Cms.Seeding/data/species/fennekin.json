@@ -1,0 +1,27 @@
+﻿{
+  "Id": "11ad4453-eeda-48c6-a708-3763d815dd1e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fennekin",
+    "DisplayName": "Fennekin",
+    "Description": null,
+    "FieldValues": {
+      "Number": "653",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fennekin",
+      "DisplayName": "Fennekin",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

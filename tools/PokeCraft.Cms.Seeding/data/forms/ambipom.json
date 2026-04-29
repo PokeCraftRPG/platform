@@ -1,0 +1,42 @@
+﻿{
+  "Id": "0d1ff3d3-b919-4a22-9248-d050bc1ccc71",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ambipom",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c0a36b0c-ecc4-401f-a169-f71b620106a6\"]",
+      "Height": "12",
+      "Weight": "203",
+      "YieldExperience": "169",
+      "PrimaryAbility": "[\"d20432c3-18d0-4160-a3f1-a363c9e6633d\"]",
+      "SecondaryAbility": "[\"071551b8-ee73-4742-85e8-264e82a49f57\"]",
+      "HiddenAbility": "[\"7b7f445f-0584-452d-ae34-0b472382a706\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "66",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "66",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "115",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ambipom",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

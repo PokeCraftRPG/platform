@@ -1,0 +1,26 @@
+﻿{
+  "Id": "57de53f7-f631-493f-9c0a-788dfd1dc116",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "silcoon",
+    "DisplayName": "Silcoon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"fcf9019d-9623-486d-892d-56d264370c8b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "silcoon",
+      "DisplayName": "Silcoon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cocoon"
+      }
+    }
+  }
+}

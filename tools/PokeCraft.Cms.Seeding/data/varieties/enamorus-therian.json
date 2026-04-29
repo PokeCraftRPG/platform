@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9e175c28-4641-4e1c-8666-616f5e8c70a7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "enamorus-therian",
+    "DisplayName": "Enamorus",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"db6efaea-4723-41ee-a19a-e22a8b708764\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "enamorus-therian",
+      "DisplayName": "Enamorus",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Love-Hate"
+      }
+    }
+  }
+}

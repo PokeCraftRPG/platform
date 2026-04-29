@@ -1,0 +1,19 @@
+﻿{
+  "Id": "d8e2f41a-732c-4569-8a01-c4544bf6a5ff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toxic-debris",
+    "DisplayName": "Toxic Debris",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toxic-debris",
+      "DisplayName": "Toxic Debris",
+      "Description": "Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves.",
+      "FieldValues": {}
+    }
+  }
+}

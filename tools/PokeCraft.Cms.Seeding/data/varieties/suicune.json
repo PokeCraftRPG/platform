@@ -1,0 +1,25 @@
+﻿{
+  "Id": "4442eb67-937a-400d-a0d3-e8639cd0fe84",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "suicune",
+    "DisplayName": "Suicune",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1499058c-1538-4cf2-8444-47c213f7c85a\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "suicune",
+      "DisplayName": "Suicune",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Aurora"
+      }
+    }
+  }
+}

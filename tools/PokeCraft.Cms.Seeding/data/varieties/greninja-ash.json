@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d093a2c1-f3fa-4c0e-b14a-d17883029e6b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "greninja-ash",
+    "DisplayName": "Greninja",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"35c0fedb-bd34-45a6-97e8-c67856c35104\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "greninja-ash",
+      "DisplayName": "Greninja",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ninja"
+      }
+    }
+  }
+}

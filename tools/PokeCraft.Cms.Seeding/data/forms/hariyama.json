@@ -1,0 +1,42 @@
+﻿{
+  "Id": "2e4a6b44-ce71-449f-9148-65bc7b7b84fa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hariyama",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3c666f74-b06d-468f-b38c-144a84bddb0f\"]",
+      "Height": "23",
+      "Weight": "2538",
+      "YieldExperience": "166",
+      "PrimaryAbility": "[\"d6fa994e-7a48-48b5-9f1f-c1b84dd3225f\"]",
+      "SecondaryAbility": "[\"1c326e45-7c1a-4f8a-a55c-751b60f62f10\"]",
+      "HiddenAbility": "[\"ef348627-bea1-4c87-9bf1-417ed3b66855\"]",
+      "BaseHP": "144",
+      "YieldHP": "2",
+      "BaseAttack": "120",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hariyama",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

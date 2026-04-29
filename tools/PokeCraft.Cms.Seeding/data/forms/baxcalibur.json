@@ -1,0 +1,42 @@
+﻿{
+  "Id": "f3ff19cf-4330-43d0-a0c1-1a3c05e509fc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "baxcalibur",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4ce36c35-24a8-4012-b002-07cdaaa770fc\"]",
+      "Height": "21",
+      "Weight": "2100",
+      "YieldExperience": "300",
+      "PrimaryAbility": "[\"1117bcee-57ac-4af9-8555-e292ee340c3e\"]",
+      "HiddenAbility": "[\"c28be462-7265-4527-a8aa-85774f7eaf7b\"]",
+      "BaseHP": "115",
+      "YieldHP": "0",
+      "BaseAttack": "145",
+      "YieldAttack": "3",
+      "BaseDefense": "92",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "86",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "87",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "baxcalibur",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

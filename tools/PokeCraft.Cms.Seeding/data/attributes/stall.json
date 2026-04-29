@@ -1,0 +1,19 @@
+﻿{
+  "Id": "e848c112-bcaa-4969-81c7-b56ba516d8e6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stall",
+    "DisplayName": "Stall",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stall",
+      "DisplayName": "Stall",
+      "Description": "The Pokémon is always the last to use its moves.",
+      "FieldValues": {}
+    }
+  }
+}

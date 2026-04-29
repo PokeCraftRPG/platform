@@ -1,0 +1,26 @@
+﻿{
+  "Id": "00c50e3f-8366-4884-853e-8f2056ca3b1b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "eelektross-mega",
+    "DisplayName": "Eelektross",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c614a3dd-8fd6-432d-8eec-d0bd91a75a15\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "eelektross-mega",
+      "DisplayName": "Eelektross",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "EleFish"
+      }
+    }
+  }
+}

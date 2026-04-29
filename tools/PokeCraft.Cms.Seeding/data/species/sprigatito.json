@@ -1,0 +1,28 @@
+﻿{
+  "Id": "519f1e87-03eb-40c9-9ac7-99069e73ca90",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sprigatito",
+    "DisplayName": "Sprigatito",
+    "Description": null,
+    "FieldValues": {
+      "Number": "906",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sprigatito",
+      "DisplayName": "Sprigatito",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

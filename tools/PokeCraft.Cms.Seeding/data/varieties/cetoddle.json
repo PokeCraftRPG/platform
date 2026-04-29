@@ -1,0 +1,26 @@
+﻿{
+  "Id": "724f08f1-e274-4d6c-a554-4b4700dcef0a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cetoddle",
+    "DisplayName": "Cetoddle",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c423ea97-05e3-4408-bde2-f979b4967a6d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cetoddle",
+      "DisplayName": "Cetoddle",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Terra Whale"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7c637573-97b6-45ad-b3d0-d73b54ad703a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "passimian",
+    "DisplayName": "Passimian",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f551a890-df72-4c29-ab46-1ab753e95c84\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "passimian",
+      "DisplayName": "Passimian",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Teamwork"
+      }
+    }
+  }
+}

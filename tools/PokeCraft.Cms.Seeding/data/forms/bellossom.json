@@ -1,0 +1,41 @@
+﻿{
+  "Id": "3caed894-13f6-423f-a4e3-0d1a1b2efee8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bellossom",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b9ec3694-4729-4317-bcc9-2015b3565166\"]",
+      "Height": "4",
+      "Weight": "58",
+      "YieldExperience": "221",
+      "PrimaryAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "HiddenAbility": "[\"e28c42cc-a85f-4f82-89b2-e80210d5b4ef\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "90",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "3",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bellossom",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

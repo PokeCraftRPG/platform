@@ -1,0 +1,27 @@
+﻿{
+  "Id": "99aa2a64-7d12-46e6-8d32-39b8d5924110",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kartana",
+    "DisplayName": "Kartana",
+    "Description": null,
+    "FieldValues": {
+      "Number": "798",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kartana",
+      "DisplayName": "Kartana",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

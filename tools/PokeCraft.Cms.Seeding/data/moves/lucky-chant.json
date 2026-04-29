@@ -1,0 +1,23 @@
+﻿{
+  "Id": "33cf2395-468e-4331-ba6d-20381da08ec4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lucky-chant",
+    "DisplayName": "Lucky Chant",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lucky-chant",
+      "DisplayName": "Lucky Chant",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

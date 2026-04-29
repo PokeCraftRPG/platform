@@ -1,0 +1,23 @@
+﻿{
+  "Id": "734600a7-2d1f-4d78-9000-598206260ec0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sunny-day",
+    "DisplayName": "Sunny Day",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sunny-day",
+      "DisplayName": "Sunny Day",
+      "Description": "The user intensifies the sun for five turns, powering up Fire-type attacks. The sunlight also lowers the power of Water-type attacks.",
+      "FieldValues": {}
+    }
+  }
+}

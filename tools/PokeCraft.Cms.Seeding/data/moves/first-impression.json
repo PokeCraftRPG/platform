@@ -1,0 +1,25 @@
+﻿{
+  "Id": "b6503716-cd32-4277-beca-431283ce724c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "first-impression",
+    "DisplayName": "First Impression",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "first-impression",
+      "DisplayName": "First Impression",
+      "Description": "Although this move has great power, it works only on the first turn each time the user enters battle.",
+      "FieldValues": {}
+    }
+  }
+}

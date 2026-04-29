@@ -1,0 +1,26 @@
+﻿{
+  "Id": "94467a70-0b00-4425-82b4-975343f36741",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "raichu-mega-x",
+    "DisplayName": "Raichu",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4cfb807e-f8a9-4cca-af67-2cf0abf1378b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "raichu-mega-x",
+      "DisplayName": "Raichu",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mouse"
+      }
+    }
+  }
+}

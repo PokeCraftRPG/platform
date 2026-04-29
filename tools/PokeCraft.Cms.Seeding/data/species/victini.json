@@ -1,0 +1,27 @@
+﻿{
+  "Id": "a9385367-6130-48dd-8445-d044086fc728",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "victini",
+    "DisplayName": "Victini",
+    "Description": null,
+    "FieldValues": {
+      "Number": "494",
+      "Category": "[\"Mythical\"]",
+      "BaseFriendship": "100",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "victini",
+      "DisplayName": "Victini",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

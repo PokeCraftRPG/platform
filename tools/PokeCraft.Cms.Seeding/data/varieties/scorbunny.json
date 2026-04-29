@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5ed7061a-a299-4cdc-b965-791fda9d7b82",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scorbunny",
+    "DisplayName": "Scorbunny",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"db20d030-2fdd-41a5-9cb6-3b86ba25d250\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scorbunny",
+      "DisplayName": "Scorbunny",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rabbit"
+      }
+    }
+  }
+}

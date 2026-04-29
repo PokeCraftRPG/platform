@@ -1,0 +1,23 @@
+﻿{
+  "Id": "e6360f46-9f72-4cd6-aa8c-c01415b67dea",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "guardian-of-alola",
+    "DisplayName": "Guardian of Alola",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Special\"]",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "guardian-of-alola",
+      "DisplayName": "Guardian of Alola",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

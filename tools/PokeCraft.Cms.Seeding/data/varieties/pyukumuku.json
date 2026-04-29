@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3d1f790d-5220-437a-aa03-ce074f832680",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pyukumuku",
+    "DisplayName": "Pyukumuku",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"eb0503a9-c7df-4b39-a257-ab49442c171a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pyukumuku",
+      "DisplayName": "Pyukumuku",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sea Cucumber"
+      }
+    }
+  }
+}

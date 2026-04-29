@@ -1,0 +1,43 @@
+﻿{
+  "Id": "13525b71-d0e1-4f3c-b78f-d64e1658b27e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grimmsnarl",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c62820b4-cecc-452c-b270-9388e34f8cdb\"]",
+      "Height": "15",
+      "Weight": "610",
+      "YieldExperience": "255",
+      "PrimaryAbility": "[\"84a30672-4ea5-4904-84fc-d04259c936a3\"]",
+      "SecondaryAbility": "[\"646cd171-4012-41af-b36f-69b1a3142f3e\"]",
+      "HiddenAbility": "[\"03108b44-e57b-442a-ba0e-b6de95a975c1\"]",
+      "BaseHP": "95",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "3",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grimmsnarl",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

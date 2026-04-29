@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4f740143-de86-435d-9004-3b961e8e589f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cinccino",
+    "DisplayName": "Cinccino",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"65ed822e-a0a8-4fd5-94b6-7108b0930a72\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cinccino",
+      "DisplayName": "Cinccino",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Scarf"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "1ee76b60-3b91-41ce-8492-45a03910b078",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aura-wheel",
+    "DisplayName": "Aura Wheel",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "110",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aura-wheel",
+      "DisplayName": "Aura Wheel",
+      "Description": "Morpeko attacks and boosts its Speed stat with the energy stored in its cheeks. This move's type changes depending on the user's form.",
+      "FieldValues": {}
+    }
+  }
+}

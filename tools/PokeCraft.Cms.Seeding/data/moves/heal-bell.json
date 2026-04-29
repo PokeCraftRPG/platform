@@ -1,0 +1,23 @@
+﻿{
+  "Id": "0c98e498-ccae-441f-af73-b8177e11b13a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "heal-bell",
+    "DisplayName": "Heal Bell",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "heal-bell",
+      "DisplayName": "Heal Bell",
+      "Description": "The user makes a soothing bell chime to cure the status conditions of all its fellow party Pokémon and allies.",
+      "FieldValues": {}
+    }
+  }
+}

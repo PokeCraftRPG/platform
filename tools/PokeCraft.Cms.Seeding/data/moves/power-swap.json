@@ -1,0 +1,23 @@
+﻿{
+  "Id": "233de37a-0d70-477f-b494-e4f33399002f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "power-swap",
+    "DisplayName": "Power Swap",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "power-swap",
+      "DisplayName": "Power Swap",
+      "Description": "The user employs its psychic power to switch changes to its Attack and Sp. Atk stats with the target.",
+      "FieldValues": {}
+    }
+  }
+}

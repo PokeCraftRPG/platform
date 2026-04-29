@@ -1,0 +1,27 @@
+﻿{
+  "Id": "65ed822e-a0a8-4fd5-94b6-7108b0930a72",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cinccino",
+    "DisplayName": "Cinccino",
+    "Description": null,
+    "FieldValues": {
+      "Number": "573",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cinccino",
+      "DisplayName": "Cinccino",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

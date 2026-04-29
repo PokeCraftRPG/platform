@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e5e6c8bf-1095-4a1b-add6-0eaa0031cc57",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swalot",
+    "DisplayName": "Swalot",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2632a58e-bc37-494f-b4e0-c970d70238b4\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swalot",
+      "DisplayName": "Swalot",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Poison Bag"
+      }
+    }
+  }
+}

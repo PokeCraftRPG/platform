@@ -1,0 +1,24 @@
+﻿{
+  "Id": "eb26ec12-3631-4aa5-b537-6db9dd355c3f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "max-steelspike",
+    "DisplayName": "Max Steelspike",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "10",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "max-steelspike",
+      "DisplayName": "Max Steelspike",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

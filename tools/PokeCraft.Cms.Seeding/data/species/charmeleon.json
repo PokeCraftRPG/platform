@@ -1,0 +1,28 @@
+﻿{
+  "Id": "1a2040a5-ebbb-4031-9dd1-867ec6eeb750",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "charmeleon",
+    "DisplayName": "Charmeleon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "5",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "charmeleon",
+      "DisplayName": "Charmeleon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

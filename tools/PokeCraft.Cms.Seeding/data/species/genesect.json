@@ -1,0 +1,27 @@
+﻿{
+  "Id": "12de8963-9ebd-42ae-97b9-dce647127005",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "genesect",
+    "DisplayName": "Genesect",
+    "Description": null,
+    "FieldValues": {
+      "Number": "649",
+      "Category": "[\"Mythical\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "genesect",
+      "DisplayName": "Genesect",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

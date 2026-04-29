@@ -1,0 +1,27 @@
+﻿{
+  "Id": "4cd1396d-e43e-4d7e-a97c-cd7acc1585d5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sizzlipede",
+    "DisplayName": "Sizzlipede",
+    "Description": null,
+    "FieldValues": {
+      "Number": "850",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sizzlipede",
+      "DisplayName": "Sizzlipede",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

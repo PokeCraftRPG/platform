@@ -1,0 +1,42 @@
+﻿{
+  "Id": "ca31ca2a-cf0d-49a1-8016-e61ab958ba4c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "volcarona",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ca0128d3-9299-41d4-9576-672725cd96f8\"]",
+      "Height": "16",
+      "Weight": "460",
+      "YieldExperience": "248",
+      "PrimaryAbility": "[\"61541bb6-568e-4dd0-b07a-56233b9fe96f\"]",
+      "HiddenAbility": "[\"ba1b3a50-acc0-4032-bf14-6572fa26daed\"]",
+      "BaseHP": "85",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "135",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "105",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "volcarona",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

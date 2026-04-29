@@ -1,0 +1,25 @@
+﻿{
+  "Id": "0289014c-4b4c-4350-ad95-f96a12fe74b9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ember",
+    "DisplayName": "Ember",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "25"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ember",
+      "DisplayName": "Ember",
+      "Description": "The target is attacked with small flames. This may also leave the target with a burn.",
+      "FieldValues": {}
+    }
+  }
+}

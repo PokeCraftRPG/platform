@@ -1,0 +1,41 @@
+﻿{
+  "Id": "9fd80cad-29e2-442e-a4cb-a4c19492c3f8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spidops",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"50f91113-9eab-46d2-b683-fe18b0c90e01\"]",
+      "Height": "10",
+      "Weight": "165",
+      "YieldExperience": "141",
+      "PrimaryAbility": "[\"74551570-259c-470c-a9ba-64ffd0e3afad\"]",
+      "HiddenAbility": "[\"df0d1b67-be4a-45c3-9aee-f183bc1e0edd\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "79",
+      "YieldAttack": "0",
+      "BaseDefense": "92",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "52",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "86",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spidops",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

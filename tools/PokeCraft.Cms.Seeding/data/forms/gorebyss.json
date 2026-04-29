@@ -1,0 +1,41 @@
+﻿{
+  "Id": "6408e0f9-876c-4f2c-a443-7ac9b3f41127",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gorebyss",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7c2ad454-7531-45a4-ba09-6e51176f060e\"]",
+      "Height": "18",
+      "Weight": "226",
+      "YieldExperience": "170",
+      "PrimaryAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "HiddenAbility": "[\"14243d95-6028-489e-acf7-18592c5695c2\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "84",
+      "YieldAttack": "0",
+      "BaseDefense": "105",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "114",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "52",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gorebyss",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

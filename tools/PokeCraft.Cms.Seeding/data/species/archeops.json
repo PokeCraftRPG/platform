@@ -1,0 +1,28 @@
+﻿{
+  "Id": "620d8090-7bc4-44f3-8acb-c8e0fa83e0f8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "archeops",
+    "DisplayName": "Archeops",
+    "Description": null,
+    "FieldValues": {
+      "Number": "567",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Flying\"]",
+      "SecondaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "archeops",
+      "DisplayName": "Archeops",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

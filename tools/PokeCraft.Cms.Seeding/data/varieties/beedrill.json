@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5c5c46be-904a-4661-8d19-c21d1d2c6725",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "beedrill",
+    "DisplayName": "Beedrill",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"722fb6fb-a347-4eb4-b74e-1bf84737ceeb\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "beedrill",
+      "DisplayName": "Beedrill",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Poison Bee"
+      }
+    }
+  }
+}

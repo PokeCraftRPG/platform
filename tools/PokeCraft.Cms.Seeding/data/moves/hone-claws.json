@@ -1,0 +1,23 @@
+﻿{
+  "Id": "7cdacee9-7f5c-49f3-9802-26f3d28d456c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hone-claws",
+    "DisplayName": "Hone Claws",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hone-claws",
+      "DisplayName": "Hone Claws",
+      "Description": "The user sharpens its claws to boost its Attack stat and accuracy.",
+      "FieldValues": {}
+    }
+  }
+}

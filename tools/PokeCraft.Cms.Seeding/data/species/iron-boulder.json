@@ -1,0 +1,27 @@
+﻿{
+  "Id": "5aa96a05-3c52-44a0-853d-3a7104b9cd0b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-boulder",
+    "DisplayName": "Iron Boulder",
+    "Description": null,
+    "FieldValues": {
+      "Number": "1022",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "10",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "50",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-boulder",
+      "DisplayName": "Iron Boulder",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

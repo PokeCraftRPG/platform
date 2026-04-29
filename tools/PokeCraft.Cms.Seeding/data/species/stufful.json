@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e9529bdc-2326-4bb7-b8c8-287872e8bc3d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stufful",
+    "DisplayName": "Stufful",
+    "Description": null,
+    "FieldValues": {
+      "Number": "759",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "140",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stufful",
+      "DisplayName": "Stufful",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

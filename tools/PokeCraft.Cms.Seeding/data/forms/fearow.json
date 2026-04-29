@@ -1,0 +1,42 @@
+﻿{
+  "Id": "51bfbeaa-90cf-47da-a156-7cbd4f8d4ac1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fearow",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"75d12fc3-c3d7-4d27-b91c-af24e5fa1bc6\"]",
+      "Height": "12",
+      "Weight": "380",
+      "YieldExperience": "155",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "HiddenAbility": "[\"e1b8fd69-5bf8-4889-ab24-ea30a8419d99\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "61",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "61",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fearow",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

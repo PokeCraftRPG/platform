@@ -1,0 +1,28 @@
+﻿{
+  "Id": "8f43fbb7-38ab-4dc5-b033-8d25244703e2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kingdra",
+    "DisplayName": "Kingdra",
+    "Description": null,
+    "FieldValues": {
+      "Number": "230",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kingdra",
+      "DisplayName": "Kingdra",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

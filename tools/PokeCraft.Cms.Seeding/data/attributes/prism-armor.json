@@ -1,0 +1,19 @@
+﻿{
+  "Id": "5d1a9a16-1d41-4d5c-ab3f-38e269190a81",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "prism-armor",
+    "DisplayName": "Prism Armor",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "prism-armor",
+      "DisplayName": "Prism Armor",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

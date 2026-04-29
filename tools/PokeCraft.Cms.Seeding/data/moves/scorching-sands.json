@@ -1,0 +1,25 @@
+﻿{
+  "Id": "fa380540-d505-4141-bd1e-0a1c7dcb685e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scorching-sands",
+    "DisplayName": "Scorching Sands",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "70",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scorching-sands",
+      "DisplayName": "Scorching Sands",
+      "Description": "The user throws scorching sand at the target to attack. This may also leave the target with a burn.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c65663c7-2f6b-41fc-aa44-8393e7015c05",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "infestation",
+    "DisplayName": "Infestation",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "20",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "infestation",
+      "DisplayName": "Infestation",
+      "Description": "The target is infested and attacked for four to five turns. The target can't flee during this time.",
+      "FieldValues": {}
+    }
+  }
+}

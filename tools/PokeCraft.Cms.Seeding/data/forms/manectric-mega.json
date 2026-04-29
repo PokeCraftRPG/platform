@@ -1,0 +1,40 @@
+﻿{
+  "Id": "920ade43-b10b-43ac-b106-f59ed2643273",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "manectric-mega",
+    "DisplayName": "Mega Manectric",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"bd372a36-0249-49b8-9ea1-a007a0531c29\"]",
+      "Height": "18",
+      "Weight": "440",
+      "YieldExperience": "201",
+      "PrimaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "135",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "135",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "manectric-mega",
+      "DisplayName": "Mega Manectric",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

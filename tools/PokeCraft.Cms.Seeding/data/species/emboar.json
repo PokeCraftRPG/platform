@@ -1,0 +1,27 @@
+﻿{
+  "Id": "04a024a6-a16d-4b84-8fc8-e7789534e35c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "emboar",
+    "DisplayName": "Emboar",
+    "Description": null,
+    "FieldValues": {
+      "Number": "500",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "emboar",
+      "DisplayName": "Emboar",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

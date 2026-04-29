@@ -1,0 +1,25 @@
+﻿{
+  "Id": "5cda3647-9d0f-4510-9b32-e302c765bd07",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "water-pulse",
+    "DisplayName": "Water Pulse",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "water-pulse",
+      "DisplayName": "Water Pulse",
+      "Description": "The user attacks the target with a pulsing blast of water. This may also confuse the target.",
+      "FieldValues": {}
+    }
+  }
+}

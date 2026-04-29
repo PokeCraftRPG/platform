@@ -1,0 +1,41 @@
+﻿{
+  "Id": "8f16401e-5d26-4436-9e77-9aa3d04c7fe7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grookey",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9bc148b0-c64a-418c-90f0-bb700619703c\"]",
+      "Height": "3",
+      "Weight": "50",
+      "YieldExperience": "62",
+      "PrimaryAbility": "[\"f635691a-6cf0-4a55-a848-a2183d487971\"]",
+      "HiddenAbility": "[\"190efac3-8c0f-43d2-b1f6-815d28a8f299\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "1",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grookey",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

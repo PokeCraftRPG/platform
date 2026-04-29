@@ -1,0 +1,19 @@
+﻿{
+  "Id": "889ae121-b252-4176-9acd-146583e36c72",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-barbs",
+    "DisplayName": "Iron Barbs",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-barbs",
+      "DisplayName": "Iron Barbs",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

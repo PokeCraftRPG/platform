@@ -1,0 +1,41 @@
+﻿{
+  "Id": "5ddd65f4-40c9-45d6-835f-799584dbb0f4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "medicham-mega",
+    "DisplayName": "Mega Medicham",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c763a7ae-60cf-4e7f-95ff-0cb82805b846\"]",
+      "Height": "13",
+      "Weight": "315",
+      "YieldExperience": "179",
+      "PrimaryAbility": "[\"820eb316-147b-47dc-860c-3308eb41e6e0\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "85",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Fighting\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "medicham-mega",
+      "DisplayName": "Mega Medicham",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

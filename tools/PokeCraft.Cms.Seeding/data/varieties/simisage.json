@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ede8733a-31d5-43d5-815b-8fd92a76e381",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "simisage",
+    "DisplayName": "Simisage",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9acdfe1d-131f-47ec-9908-f6633b2de24b\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "simisage",
+      "DisplayName": "Simisage",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Thorn Monkey"
+      }
+    }
+  }
+}

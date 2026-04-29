@@ -1,0 +1,23 @@
+﻿{
+  "Id": "add093af-25e4-495e-972b-76289d545aab",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "no-retreat",
+    "DisplayName": "No Retreat",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "no-retreat",
+      "DisplayName": "No Retreat",
+      "Description": "This move boosts all the user's stats but prevents the user from switching out or fleeing.",
+      "FieldValues": {}
+    }
+  }
+}

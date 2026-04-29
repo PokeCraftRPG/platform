@@ -1,0 +1,25 @@
+﻿{
+  "Id": "5dc1c004-3139-431e-af25-ad97faa93765",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragon-claw",
+    "DisplayName": "Dragon Claw",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragon-claw",
+      "DisplayName": "Dragon Claw",
+      "Description": "The user slashes the target with huge, sharp claws to inflict damage.",
+      "FieldValues": {}
+    }
+  }
+}

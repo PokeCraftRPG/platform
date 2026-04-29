@@ -1,0 +1,43 @@
+﻿{
+  "Id": "e79a43d3-9d92-48ee-978b-2cdcff4bfa42",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drampa",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"00b7120d-5446-4863-8078-b0505540f1c1\"]",
+      "Height": "30",
+      "Weight": "1850",
+      "YieldExperience": "170",
+      "PrimaryAbility": "[\"06ecb525-1130-4301-ad97-f353a1b42da7\"]",
+      "SecondaryAbility": "[\"a471c5f9-291c-4763-b84a-9c5c666f409b\"]",
+      "HiddenAbility": "[\"dd70f7cd-9d7f-407f-9222-682c011480db\"]",
+      "BaseHP": "78",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "85",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "135",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "91",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "36",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drampa",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

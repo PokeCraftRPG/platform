@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e6b4d811-89a0-4be2-b3c7-7521e061ff89",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gothorita",
+    "DisplayName": "Gothorita",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"16959ec2-1d61-44a7-8840-2e245df69f08\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gothorita",
+      "DisplayName": "Gothorita",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Manipulate"
+      }
+    }
+  }
+}

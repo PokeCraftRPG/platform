@@ -1,0 +1,42 @@
+﻿{
+  "Id": "ac401cb6-bddd-4f3e-aa10-af4fc14da44e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "anorith",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4d7c203e-0a8f-4d94-a0c6-e936dc136971\"]",
+      "Height": "7",
+      "Weight": "125",
+      "YieldExperience": "71",
+      "PrimaryAbility": "[\"eb1618b5-7ebc-4d80-b57a-76484f0061da\"]",
+      "HiddenAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "1",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "75",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "anorith",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

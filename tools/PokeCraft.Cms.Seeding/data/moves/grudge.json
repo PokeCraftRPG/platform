@@ -1,0 +1,23 @@
+﻿{
+  "Id": "68e5cf40-3ae3-40a3-a04a-208cf59d9989",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grudge",
+    "DisplayName": "Grudge",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grudge",
+      "DisplayName": "Grudge",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "a338852c-0731-4518-a2ca-872e48d9780d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "inferno-overdrive--physical",
+    "DisplayName": "Inferno Overdrive",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Physical\"]",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "inferno-overdrive--physical",
+      "DisplayName": "Inferno Overdrive",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

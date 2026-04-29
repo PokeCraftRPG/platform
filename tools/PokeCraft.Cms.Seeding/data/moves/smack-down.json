@@ -1,0 +1,25 @@
+﻿{
+  "Id": "0c573e6e-fc62-4eeb-866f-3d9b3af28b15",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "smack-down",
+    "DisplayName": "Smack Down",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Rock\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "50",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "smack-down",
+      "DisplayName": "Smack Down",
+      "Description": "The user throws a stone or similar projectile to attack the target. If the target is in the air, it will be knocked down to the ground.",
+      "FieldValues": {}
+    }
+  }
+}

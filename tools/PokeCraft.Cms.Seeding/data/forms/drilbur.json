@@ -1,0 +1,42 @@
+﻿{
+  "Id": "bd605db6-716c-4d18-9461-ee2da982c139",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drilbur",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c2157736-74e5-4af1-aa4c-ad67a60a4307\"]",
+      "Height": "3",
+      "Weight": "85",
+      "YieldExperience": "66",
+      "PrimaryAbility": "[\"1f97dbb4-7d22-4d79-b63a-492151e1f04a\"]",
+      "SecondaryAbility": "[\"19474510-6538-4d3f-8775-1316904fe470\"]",
+      "HiddenAbility": "[\"f35847b5-de3c-4706-a9d6-010903615537\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "1",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "68",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drilbur",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

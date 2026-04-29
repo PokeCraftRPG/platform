@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7fa14931-5c6d-4a17-a8e2-ac87c11e2061",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zebstrika",
+    "DisplayName": "Zebstrika",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"47dfe6a0-52e2-4c7b-ad12-d23a911655cb\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zebstrika",
+      "DisplayName": "Zebstrika",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Thunderbolt"
+      }
+    }
+  }
+}

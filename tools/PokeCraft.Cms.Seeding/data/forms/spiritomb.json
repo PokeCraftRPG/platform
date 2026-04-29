@@ -1,0 +1,42 @@
+﻿{
+  "Id": "434ffe39-608a-427c-b278-091173ebfd81",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spiritomb",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e8caf716-95cd-4513-80a7-e9629261c889\"]",
+      "Height": "10",
+      "Weight": "1080",
+      "YieldExperience": "170",
+      "PrimaryAbility": "[\"04822c52-0ef2-4b5e-a4bb-176772f6c3d8\"]",
+      "HiddenAbility": "[\"0a9fa785-a966-4ed6-8ab9-a33aecd0847c\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "92",
+      "YieldAttack": "0",
+      "BaseDefense": "108",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "92",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "108",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spiritomb",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

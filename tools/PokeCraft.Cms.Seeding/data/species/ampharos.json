@@ -1,0 +1,28 @@
+﻿{
+  "Id": "e6fd6439-fc60-48a8-87b6-fd3bcaad5630",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ampharos",
+    "DisplayName": "Ampharos",
+    "Description": null,
+    "FieldValues": {
+      "Number": "181",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ampharos",
+      "DisplayName": "Ampharos",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

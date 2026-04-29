@@ -1,0 +1,43 @@
+﻿{
+  "Id": "6472be55-afbd-445f-8925-9f0c4870eb6c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mr-rime",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"39c3e5a6-5568-4b17-9861-13004003e3dd\"]",
+      "Height": "15",
+      "Weight": "582",
+      "YieldExperience": "182",
+      "PrimaryAbility": "[\"15d2abba-2012-411a-9b8f-92ed5b04e17d\"]",
+      "SecondaryAbility": "[\"9a99c76f-2cac-4cd9-aa69-ee740644f238\"]",
+      "HiddenAbility": "[\"c28be462-7265-4527-a8aa-85774f7eaf7b\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "110",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mr-rime",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

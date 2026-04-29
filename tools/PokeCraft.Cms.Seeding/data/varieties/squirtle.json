@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6dead6b0-505e-4b3c-a2f8-f61a75dc35fc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "squirtle",
+    "DisplayName": "Squirtle",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0e4e9ba8-d7b5-49a9-a2c5-283c98ee415e\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "squirtle",
+      "DisplayName": "Squirtle",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tiny Turtle"
+      }
+    }
+  }
+}

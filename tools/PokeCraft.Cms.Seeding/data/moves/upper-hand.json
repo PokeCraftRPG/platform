@@ -1,0 +1,25 @@
+﻿{
+  "Id": "0b74f706-2c66-4ab8-94cc-ff0ea4435a15",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "upper-hand",
+    "DisplayName": "Upper Hand",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "65",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "upper-hand",
+      "DisplayName": "Upper Hand",
+      "Description": "The user reacts to the target's movement and strikes with the heel of its palm, making the target flinch. This move fails if the target is not readying a priority move.",
+      "FieldValues": {}
+    }
+  }
+}

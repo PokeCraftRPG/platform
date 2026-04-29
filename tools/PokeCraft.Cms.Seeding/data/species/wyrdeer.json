@@ -1,0 +1,27 @@
+﻿{
+  "Id": "0036cbc4-d715-489e-b2f5-5f5750002160",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wyrdeer",
+    "DisplayName": "Wyrdeer",
+    "Description": null,
+    "FieldValues": {
+      "Number": "899",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "135",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wyrdeer",
+      "DisplayName": "Wyrdeer",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

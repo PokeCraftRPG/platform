@@ -1,0 +1,25 @@
+﻿{
+  "Id": "988858c4-c7db-48bf-94d0-ddfc9b261420",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "powder-snow",
+    "DisplayName": "Powder Snow",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "25"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "powder-snow",
+      "DisplayName": "Powder Snow",
+      "Description": "The user attacks with a chilling gust of powdery snow. This may also leave opposing Pokémon frozen.",
+      "FieldValues": {}
+    }
+  }
+}

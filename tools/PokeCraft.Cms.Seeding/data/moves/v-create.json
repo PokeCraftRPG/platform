@@ -1,0 +1,25 @@
+﻿{
+  "Id": "8c1b9c20-f19b-45fd-9a47-2cb390cbc949",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "v-create",
+    "DisplayName": "V-create",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "95",
+      "Power": "180",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "v-create",
+      "DisplayName": "V-create",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

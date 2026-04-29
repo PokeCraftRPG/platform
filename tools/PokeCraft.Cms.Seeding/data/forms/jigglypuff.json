@@ -1,0 +1,43 @@
+﻿{
+  "Id": "4050c9d1-8a81-4f52-ba03-f10106b1e676",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "jigglypuff",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4fd7bb91-06cf-4476-9978-2965cb11e499\"]",
+      "Height": "5",
+      "Weight": "55",
+      "YieldExperience": "95",
+      "PrimaryAbility": "[\"1547f00e-f05d-4d0c-98c7-9a77e75e1bf5\"]",
+      "SecondaryAbility": "[\"2a7439f3-bce4-4614-9969-78ec2ce46f31\"]",
+      "HiddenAbility": "[\"47068609-b1c5-409b-a6c0-abb9e56e4c44\"]",
+      "BaseHP": "115",
+      "YieldHP": "2",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "20",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "25",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "20",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "jigglypuff",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

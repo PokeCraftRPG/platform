@@ -1,0 +1,26 @@
+﻿{
+  "Id": "69166c5b-9d76-4a13-946d-8255b430a892",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "floette-mega",
+    "DisplayName": "Floette",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"af1b545a-de34-4795-bc1d-56d5e67814fa\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "floette-mega",
+      "DisplayName": "Floette",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Single Bloom"
+      }
+    }
+  }
+}

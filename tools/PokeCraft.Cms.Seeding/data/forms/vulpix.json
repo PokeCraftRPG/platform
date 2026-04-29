@@ -1,0 +1,41 @@
+﻿{
+  "Id": "d7055c91-082b-47f2-8e02-9699ce9931e2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vulpix",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"cfb36de9-94ba-41fe-b204-f2dda9443c30\"]",
+      "Height": "6",
+      "Weight": "99",
+      "YieldExperience": "60",
+      "PrimaryAbility": "[\"956efecf-ecf7-4731-9df1-25171033ad13\"]",
+      "HiddenAbility": "[\"4ff1984e-e319-4645-a10d-f63ec55997fe\"]",
+      "BaseHP": "38",
+      "YieldHP": "0",
+      "BaseAttack": "41",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vulpix",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

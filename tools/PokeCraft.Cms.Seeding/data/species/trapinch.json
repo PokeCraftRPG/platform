@@ -1,0 +1,28 @@
+﻿{
+  "Id": "28d324aa-640b-4d49-90bf-230e88261869",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "trapinch",
+    "DisplayName": "Trapinch",
+    "Description": null,
+    "FieldValues": {
+      "Number": "328",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "trapinch",
+      "DisplayName": "Trapinch",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

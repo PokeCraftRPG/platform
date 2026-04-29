@@ -1,0 +1,19 @@
+﻿{
+  "Id": "e3b961ab-87de-40fc-9d8d-95dda45c14df",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-fist",
+    "DisplayName": "Iron Fist",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-fist",
+      "DisplayName": "Iron Fist",
+      "Description": "Powers up punching moves.",
+      "FieldValues": {}
+    }
+  }
+}

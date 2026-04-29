@@ -1,0 +1,27 @@
+﻿{
+  "Id": "be19ace4-f78c-4508-8d92-77ca596222dd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pyroar",
+    "DisplayName": "Pyroar",
+    "Description": null,
+    "FieldValues": {
+      "Number": "668",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "65",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pyroar",
+      "DisplayName": "Pyroar",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

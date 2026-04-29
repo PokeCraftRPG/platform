@@ -1,0 +1,41 @@
+﻿{
+  "Id": "4bbde413-9039-411f-a738-4149e6507bcd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blaziken-mega",
+    "DisplayName": "Mega Blaziken",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"da7557aa-de34-4c0e-b663-42843f5fe26a\"]",
+      "Height": "19",
+      "Weight": "520",
+      "YieldExperience": "284",
+      "PrimaryAbility": "[\"c34cae01-916e-44ec-8e58-1cc63029592f\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "160",
+      "YieldAttack": "3",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "130",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blaziken-mega",
+      "DisplayName": "Mega Blaziken",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

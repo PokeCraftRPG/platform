@@ -1,0 +1,25 @@
+﻿{
+  "Id": "d03deba8-a785-433e-9997-b3c92e332735",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rock-tomb",
+    "DisplayName": "Rock Tomb",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Rock\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "95",
+      "Power": "60",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rock-tomb",
+      "DisplayName": "Rock Tomb",
+      "Description": "The user hurls boulders at the target to inflict damage. This also lowers the target's Speed stat by cutting off its movement.",
+      "FieldValues": {}
+    }
+  }
+}

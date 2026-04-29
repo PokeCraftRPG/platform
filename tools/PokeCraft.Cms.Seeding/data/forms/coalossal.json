@@ -1,0 +1,43 @@
+﻿{
+  "Id": "ae3e17fa-facc-449e-902c-7e035c8af178",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "coalossal",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2e09f3b5-7797-435f-8f95-af1f6a7474f6\"]",
+      "Height": "28",
+      "Weight": "3105",
+      "YieldExperience": "255",
+      "PrimaryAbility": "[\"a9f0f6f8-3ec5-43bb-89cb-5384726469c0\"]",
+      "SecondaryAbility": "[\"61541bb6-568e-4dd0-b07a-56233b9fe96f\"]",
+      "HiddenAbility": "[\"956efecf-ecf7-4731-9df1-25171033ad13\"]",
+      "BaseHP": "110",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "120",
+      "YieldDefense": "3",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "coalossal",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

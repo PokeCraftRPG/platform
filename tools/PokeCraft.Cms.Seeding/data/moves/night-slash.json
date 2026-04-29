@@ -1,0 +1,25 @@
+﻿{
+  "Id": "d17b7550-58a4-465a-aca2-c04b3f1a11cd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "night-slash",
+    "DisplayName": "Night Slash",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "70",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "night-slash",
+      "DisplayName": "Night Slash",
+      "Description": "The user slashes the target the instant an opportunity arises. This move has a heightened chance of landing a critical hit.",
+      "FieldValues": {}
+    }
+  }
+}

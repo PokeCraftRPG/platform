@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6f713086-1687-4554-8c65-9c97ef9cf505",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "moonblast",
+    "DisplayName": "Moonblast",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "95",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "moonblast",
+      "DisplayName": "Moonblast",
+      "Description": "Borrowing the power of the moon, the user attacks the target. This may also lower the target's Sp. Atk stat.",
+      "FieldValues": {}
+    }
+  }
+}

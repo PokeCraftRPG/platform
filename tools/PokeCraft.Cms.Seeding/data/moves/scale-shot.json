@@ -1,0 +1,25 @@
+﻿{
+  "Id": "9b80ba23-d991-4ab4-895f-dae18e7e52cd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scale-shot",
+    "DisplayName": "Scale Shot",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "25",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scale-shot",
+      "DisplayName": "Scale Shot",
+      "Description": "The user attacks by shooting scales two to five times in a row. This move boosts the user's Speed stat but lowers its Defense stat.",
+      "FieldValues": {}
+    }
+  }
+}

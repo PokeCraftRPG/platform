@@ -1,0 +1,19 @@
+﻿{
+  "Id": "a9839af2-6266-4453-a3f7-39226d90dc2e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "light-metal",
+    "DisplayName": "Light Metal",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "light-metal",
+      "DisplayName": "Light Metal",
+      "Description": "Halves the Pokémon's weight.",
+      "FieldValues": {}
+    }
+  }
+}

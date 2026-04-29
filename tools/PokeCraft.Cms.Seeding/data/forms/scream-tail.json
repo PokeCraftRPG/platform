@@ -1,0 +1,41 @@
+﻿{
+  "Id": "d65820fc-8b17-44fe-8d3d-bee889b6388b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scream-tail",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"dee5dc52-360d-4f91-b802-c5f44f5ed119\"]",
+      "Height": "12",
+      "Weight": "80",
+      "YieldExperience": "285",
+      "PrimaryAbility": "[\"fd80fd8e-dbd4-4b54-bfef-8ed47d35c99e\"]",
+      "BaseHP": "115",
+      "YieldHP": "3",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "99",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "115",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "111",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fairy\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scream-tail",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

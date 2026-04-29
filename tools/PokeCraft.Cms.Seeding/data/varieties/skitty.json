@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1496636b-615e-43a8-966d-f57af6b15208",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skitty",
+    "DisplayName": "Skitty",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"dabb6f24-e78c-42c0-b4a8-5af7e070677f\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skitty",
+      "DisplayName": "Skitty",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Kitten"
+      }
+    }
+  }
+}

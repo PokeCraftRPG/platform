@@ -1,0 +1,42 @@
+﻿{
+  "Id": "84fe5615-107f-40da-ba4b-38ee39ba616e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "maractus",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"da94aff6-9524-4602-a492-eb3215beae9b\"]",
+      "Height": "10",
+      "Weight": "280",
+      "YieldExperience": "161",
+      "PrimaryAbility": "[\"ce06d228-a509-444d-ab16-f046f2519e89\"]",
+      "SecondaryAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "HiddenAbility": "[\"f863cc47-85a0-4a65-bb10-a51733957719\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "86",
+      "YieldAttack": "0",
+      "BaseDefense": "67",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "106",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "67",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "maractus",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "700553e2-d47e-4c45-b6e1-af2447ee1831",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vice-grip",
+    "DisplayName": "Vise Grip",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "55",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vice-grip",
+      "DisplayName": "Vise Grip",
+      "Description": "The target is gripped and squeezed from both sides to inflict damage.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "26b4ba7a-eae5-435f-8d06-644ff0375621",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dugtrio-alola",
+    "DisplayName": "Alolan Dugtrio",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c036efc8-50c7-419e-9f0b-d2d9c59aa8c5\"]",
+      "Height": "7",
+      "Weight": "666",
+      "YieldExperience": "149",
+      "PrimaryAbility": "[\"2298dae8-5c1f-423f-960d-8cf61b19c897\"]",
+      "SecondaryAbility": "[\"e48da3f1-77c8-4a85-8c94-6f8e5dc10372\"]",
+      "HiddenAbility": "[\"19474510-6538-4d3f-8775-1316904fe470\"]",
+      "BaseHP": "35",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "2",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "110",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dugtrio-alola",
+      "DisplayName": "Alolan Dugtrio",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b2106552-3331-446e-a603-258f2dc04b57",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wormadam-sandy",
+    "DisplayName": "Wormadam",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"324db9cd-4cff-4eca-bc1f-855829383591\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wormadam-sandy",
+      "DisplayName": "Wormadam",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bagworm"
+      }
+    }
+  }
+}

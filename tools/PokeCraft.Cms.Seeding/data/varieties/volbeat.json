@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c04b4352-7568-4665-894a-0f7488170dfa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "volbeat",
+    "DisplayName": "Volbeat",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8ae8a805-bbc7-4ee0-8e13-37c6bcfb38f2\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "volbeat",
+      "DisplayName": "Volbeat",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Firefly"
+      }
+    }
+  }
+}

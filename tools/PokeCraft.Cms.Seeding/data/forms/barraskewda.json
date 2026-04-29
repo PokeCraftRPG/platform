@@ -1,0 +1,41 @@
+﻿{
+  "Id": "24925795-a9b3-49fd-b16f-6be6e50e0aba",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "barraskewda",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"212f1e42-5bf5-418c-9287-38850205d6cc\"]",
+      "Height": "13",
+      "Weight": "300",
+      "YieldExperience": "172",
+      "PrimaryAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "HiddenAbility": "[\"b6f4cb6f-0ada-4cc2-9831-18a37bbe68e7\"]",
+      "BaseHP": "61",
+      "YieldHP": "0",
+      "BaseAttack": "123",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "136",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "barraskewda",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

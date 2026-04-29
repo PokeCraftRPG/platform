@@ -1,0 +1,43 @@
+﻿{
+  "Id": "2716eaf3-922b-4de6-b875-3d125492458d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "farigiraf",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4de3b2cc-cee5-4530-b3bf-89db687851c0\"]",
+      "Height": "32",
+      "Weight": "1600",
+      "YieldExperience": "260",
+      "PrimaryAbility": "[\"d8f7dbac-c524-4cfe-8995-02e290baa0e8\"]",
+      "SecondaryAbility": "[\"7638e576-aecc-4ad1-8fb4-f75e158c7e7a\"]",
+      "HiddenAbility": "[\"a471c5f9-291c-4763-b84a-9c5c666f409b\"]",
+      "BaseHP": "120",
+      "YieldHP": "3",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "110",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "farigiraf",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

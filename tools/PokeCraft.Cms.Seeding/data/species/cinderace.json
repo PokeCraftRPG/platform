@@ -1,0 +1,28 @@
+﻿{
+  "Id": "b1d02332-96a1-4f6d-b66b-889a39506fb0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cinderace",
+    "DisplayName": "Cinderace",
+    "Description": null,
+    "FieldValues": {
+      "Number": "815",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cinderace",
+      "DisplayName": "Cinderace",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

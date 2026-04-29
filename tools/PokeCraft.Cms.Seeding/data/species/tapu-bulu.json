@@ -1,0 +1,27 @@
+﻿{
+  "Id": "a52af90c-85f2-47f4-9da6-bcacc430d938",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tapu-bulu",
+    "DisplayName": "Tapu Bulu",
+    "Description": null,
+    "FieldValues": {
+      "Number": "787",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tapu-bulu",
+      "DisplayName": "Tapu Bulu",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

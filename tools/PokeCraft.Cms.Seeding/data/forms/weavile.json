@@ -1,0 +1,42 @@
+﻿{
+  "Id": "13e2d8ea-48fa-4d68-9bf9-5463ef080f8e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "weavile",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1501f73a-d7a4-44a8-93bc-e3af88b81c4b\"]",
+      "Height": "11",
+      "Weight": "340",
+      "YieldExperience": "179",
+      "PrimaryAbility": "[\"04822c52-0ef2-4b5e-a4bb-176772f6c3d8\"]",
+      "HiddenAbility": "[\"03108b44-e57b-442a-ba0e-b6de95a975c1\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "1",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "125",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "weavile",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "9c164dca-73a3-4fe2-a7fe-5b276ded4b30",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thunderclap",
+    "DisplayName": "Thunderclap",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "70",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thunderclap",
+      "DisplayName": "Thunderclap",
+      "Description": "This move enables the user to attack first with a jolt of electricity. This move fails if the target is not readying an attack.",
+      "FieldValues": {}
+    }
+  }
+}

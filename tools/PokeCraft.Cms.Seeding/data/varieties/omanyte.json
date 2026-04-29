@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3c6411ed-054a-4c4e-80ea-327dc2714940",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "omanyte",
+    "DisplayName": "Omanyte",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"47be29bd-1c65-48ac-aaa3-88f2a56bc29f\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "omanyte",
+      "DisplayName": "Omanyte",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Spiral"
+      }
+    }
+  }
+}

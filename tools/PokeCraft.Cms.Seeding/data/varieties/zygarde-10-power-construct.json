@@ -1,0 +1,25 @@
+﻿{
+  "Id": "9c86691e-f2cd-4e06-a9ca-a3476a56c747",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zygarde-10-power-construct",
+    "DisplayName": "Zygarde",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0de3e2a2-1b63-4cc3-8ed7-14a08d1271e5\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zygarde-10-power-construct",
+      "DisplayName": "Zygarde",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Order"
+      }
+    }
+  }
+}

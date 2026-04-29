@@ -1,0 +1,28 @@
+﻿{
+  "Id": "2a9520e6-be07-4caf-acf9-d96a9ed9d08f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cursola",
+    "DisplayName": "Cursola",
+    "Description": null,
+    "FieldValues": {
+      "Number": "864",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "30",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cursola",
+      "DisplayName": "Cursola",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

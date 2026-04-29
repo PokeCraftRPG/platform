@@ -1,0 +1,24 @@
+﻿{
+  "Id": "4d507c42-2ebb-4332-9e69-0eb6c59c026f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "poison-gas",
+    "DisplayName": "Poison Gas",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "90",
+      "PowerPoints": "40"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "poison-gas",
+      "DisplayName": "Poison Gas",
+      "Description": "A cloud of poison gas is sprayed in the faces of opposing Pokémon, poisoning those it hits.",
+      "FieldValues": {}
+    }
+  }
+}

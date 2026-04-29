@@ -1,0 +1,43 @@
+﻿{
+  "Id": "ef5b26ec-2a1b-482b-a393-6143bb20daf7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kabuto",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5f127b6d-13b3-4213-93e3-8aabace8f773\"]",
+      "Height": "5",
+      "Weight": "115",
+      "YieldExperience": "71",
+      "PrimaryAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "SecondaryAbility": "[\"eb1618b5-7ebc-4d80-b57a-76484f0061da\"]",
+      "HiddenAbility": "[\"2b8b8cfa-e12e-43d2-b403-594ac9a1c1f7\"]",
+      "BaseHP": "30",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kabuto",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

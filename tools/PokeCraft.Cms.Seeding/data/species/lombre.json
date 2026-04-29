@@ -1,0 +1,28 @@
+﻿{
+  "Id": "cdf0fe7d-c43c-4597-b2c8-351111bc3d95",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lombre",
+    "DisplayName": "Lombre",
+    "Description": null,
+    "FieldValues": {
+      "Number": "271",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lombre",
+      "DisplayName": "Lombre",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

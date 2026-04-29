@@ -1,0 +1,43 @@
+﻿{
+  "Id": "9cf68cff-40f3-4184-8666-351261917bc1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gourgeist-large",
+    "DisplayName": "Large Gourgeist",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"8d969f07-cde1-412f-9291-f9bc4dc4ef78\"]",
+      "Height": "11",
+      "Weight": "140",
+      "YieldExperience": "173",
+      "PrimaryAbility": "[\"071551b8-ee73-4742-85e8-264e82a49f57\"]",
+      "SecondaryAbility": "[\"646cd171-4012-41af-b36f-69b1a3142f3e\"]",
+      "HiddenAbility": "[\"74551570-259c-470c-a9ba-64ffd0e3afad\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "0",
+      "BaseDefense": "122",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "58",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "69",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]",
+      "SecondaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gourgeist-large",
+      "DisplayName": "Large Gourgeist",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

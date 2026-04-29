@@ -1,0 +1,28 @@
+﻿{
+  "Id": "bd7b01bb-da87-4272-b383-8bb673ebb6b3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "illumise",
+    "DisplayName": "Illumise",
+    "Description": null,
+    "FieldValues": {
+      "Number": "314",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "150",
+      "GrowthRate": "[\"Fluctuating\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]",
+      "SecondaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "illumise",
+      "DisplayName": "Illumise",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

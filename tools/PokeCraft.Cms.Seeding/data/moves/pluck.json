@@ -1,0 +1,25 @@
+﻿{
+  "Id": "3ebd4026-2c8a-41b9-9fa4-be794c26272f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pluck",
+    "DisplayName": "Pluck",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pluck",
+      "DisplayName": "Pluck",
+      "Description": "The user attacks by pecking the target. If the target is holding a Berry, the user eats it and gains its effect.",
+      "FieldValues": {}
+    }
+  }
+}

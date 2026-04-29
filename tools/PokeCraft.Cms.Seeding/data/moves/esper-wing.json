@@ -1,0 +1,25 @@
+﻿{
+  "Id": "e12c6430-9aed-4d51-b733-162cb3a8f8fa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "esper-wing",
+    "DisplayName": "Esper Wing",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "esper-wing",
+      "DisplayName": "Esper Wing",
+      "Description": "The user slashes the target with aura-enriched wings. This also boosts the user's Speed stat. This move has a heightened chance of landing a critical hit.",
+      "FieldValues": {}
+    }
+  }
+}

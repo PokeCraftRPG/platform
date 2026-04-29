@@ -1,0 +1,41 @@
+﻿{
+  "Id": "4662454d-9201-4fe6-aa10-bfcfe966b670",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flutter-mane",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d9d68052-f99e-4024-8acc-3a490866ab76\"]",
+      "Height": "14",
+      "Weight": "40",
+      "YieldExperience": "285",
+      "PrimaryAbility": "[\"fd80fd8e-dbd4-4b54-bfef-8ed47d35c99e\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "135",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "135",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "135",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flutter-mane",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "eaa8e193-51ad-4f82-ada7-88474b9578c3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "morelull",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"edd3d953-55f7-47d4-9dfc-959653a04b76\"]",
+      "Height": "2",
+      "Weight": "15",
+      "YieldExperience": "57",
+      "PrimaryAbility": "[\"c5bb24d5-3152-481e-b7f6-c1637f7cc794\"]",
+      "SecondaryAbility": "[\"685f8565-bdee-4058-bd90-d7f3711f5d7d\"]",
+      "HiddenAbility": "[\"0c002ec7-830d-47a9-aae3-7ba687eddf3b\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "35",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "15",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "morelull",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

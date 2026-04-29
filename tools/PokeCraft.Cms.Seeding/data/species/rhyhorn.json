@@ -1,0 +1,28 @@
+﻿{
+  "Id": "47f3bf55-9eb6-47bb-a219-cf636a5e6f55",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rhyhorn",
+    "DisplayName": "Rhyhorn",
+    "Description": null,
+    "FieldValues": {
+      "Number": "111",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rhyhorn",
+      "DisplayName": "Rhyhorn",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

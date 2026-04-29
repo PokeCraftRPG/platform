@@ -1,0 +1,19 @@
+﻿{
+  "Id": "e32dd6e0-15ed-4dce-9f24-981f15f81d2c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "calming",
+    "DisplayName": "Calming",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "calming",
+      "DisplayName": "Calming",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

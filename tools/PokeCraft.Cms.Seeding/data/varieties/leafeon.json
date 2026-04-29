@@ -1,0 +1,26 @@
+﻿{
+  "Id": "95b36a68-847e-435e-a584-363fd279a9be",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "leafeon",
+    "DisplayName": "Leafeon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2a66ed4c-ea62-4513-a48c-d97dc23e4929\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "leafeon",
+      "DisplayName": "Leafeon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Verdant"
+      }
+    }
+  }
+}

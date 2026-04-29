@@ -1,0 +1,42 @@
+﻿{
+  "Id": "7ed195d3-f951-41c0-a10a-cff9a15af325",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sandaconda",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0dfbed9b-2440-44fc-92b4-c3b33980ff95\"]",
+      "Height": "38",
+      "Weight": "655",
+      "YieldExperience": "179",
+      "PrimaryAbility": "[\"2ae8a15b-05f1-4fac-99d9-cec278ed6c0d\"]",
+      "SecondaryAbility": "[\"ce764204-79c4-4e66-8017-2144a4e66f3c\"]",
+      "HiddenAbility": "[\"2298dae8-5c1f-423f-960d-8cf61b19c897\"]",
+      "BaseHP": "72",
+      "YieldHP": "0",
+      "BaseAttack": "107",
+      "YieldAttack": "0",
+      "BaseDefense": "125",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "71",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sandaconda",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

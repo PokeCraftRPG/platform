@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3803c6eb-b0bc-4b83-8da8-5a06903fef62",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snubbull",
+    "DisplayName": "Snubbull",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"71264ade-ad46-4756-8d52-93ce7458b9f0\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snubbull",
+      "DisplayName": "Snubbull",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fairy"
+      }
+    }
+  }
+}

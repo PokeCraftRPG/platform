@@ -1,0 +1,42 @@
+﻿{
+  "Id": "9943cbcd-ff3f-4263-871c-5c9e463a299b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ninetales-alola",
+    "DisplayName": "Alolan Ninetales",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"8b17b835-46be-45ee-8f8a-dcff177d9973\"]",
+      "Height": "11",
+      "Weight": "199",
+      "YieldExperience": "177",
+      "PrimaryAbility": "[\"6397856d-ee55-409a-a0aa-3657039b20c4\"]",
+      "HiddenAbility": "[\"94d77255-80ed-447a-8809-43dc73a72602\"]",
+      "BaseHP": "73",
+      "YieldHP": "0",
+      "BaseAttack": "67",
+      "YieldAttack": "0",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "81",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "109",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ninetales-alola",
+      "DisplayName": "Alolan Ninetales",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

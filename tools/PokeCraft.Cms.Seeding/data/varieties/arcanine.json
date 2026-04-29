@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4992c8a4-cad8-46e5-bd26-5505b25c3a7c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arcanine",
+    "DisplayName": "Arcanine",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1e13afbb-1f05-4655-96e5-fa308299f6b0\"]",
+      "GenderRatio": "6",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arcanine",
+      "DisplayName": "Arcanine",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Legendary"
+      }
+    }
+  }
+}

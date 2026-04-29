@@ -1,0 +1,27 @@
+﻿{
+  "Id": "527dee6b-4624-4fb5-8883-cf87a9089717",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "barboach",
+    "DisplayName": "Barboach",
+    "Description": null,
+    "FieldValues": {
+      "Number": "339",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "barboach",
+      "DisplayName": "Barboach",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

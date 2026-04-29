@@ -1,0 +1,27 @@
+﻿{
+  "Id": "79a56298-c889-445d-be5e-8be6aa23d118",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "venomoth",
+    "DisplayName": "Venomoth",
+    "Description": null,
+    "FieldValues": {
+      "Number": "49",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "venomoth",
+      "DisplayName": "Venomoth",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

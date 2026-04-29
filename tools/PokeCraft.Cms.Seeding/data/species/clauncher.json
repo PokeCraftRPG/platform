@@ -1,0 +1,28 @@
+﻿{
+  "Id": "f36396fe-8eeb-49bd-95ef-ebb77367b254",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clauncher",
+    "DisplayName": "Clauncher",
+    "Description": null,
+    "FieldValues": {
+      "Number": "692",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "225",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clauncher",
+      "DisplayName": "Clauncher",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

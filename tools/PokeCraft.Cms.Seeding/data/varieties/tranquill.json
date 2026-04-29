@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5de50001-c30b-4fbf-a605-991ef11bb79a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tranquill",
+    "DisplayName": "Tranquill",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ec5d68e7-ac57-4cdf-8a4b-c978f2f44551\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tranquill",
+      "DisplayName": "Tranquill",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Wild Pigeon"
+      }
+    }
+  }
+}

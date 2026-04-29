@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d9a74191-d190-4f7e-82d5-00566851c85a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "exploud",
+    "DisplayName": "Exploud",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"040f7196-f338-496f-ba85-86c58ee651e7\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "exploud",
+      "DisplayName": "Exploud",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Loud Noise"
+      }
+    }
+  }
+}

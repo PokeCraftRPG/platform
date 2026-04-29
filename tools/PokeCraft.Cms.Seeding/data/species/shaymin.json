@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ca9195d5-05e2-43b9-9aee-f025aef3f7d3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shaymin",
+    "DisplayName": "Shaymin",
+    "Description": null,
+    "FieldValues": {
+      "Number": "492",
+      "Category": "[\"Mythical\"]",
+      "BaseFriendship": "100",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shaymin",
+      "DisplayName": "Shaymin",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

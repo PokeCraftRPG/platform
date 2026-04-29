@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4fd7bb91-06cf-4476-9978-2965cb11e499",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "jigglypuff",
+    "DisplayName": "Jigglypuff",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9a7628bf-20a9-4bef-953e-f7ccb6759a4a\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "jigglypuff",
+      "DisplayName": "Jigglypuff",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Balloon"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "1f27fbaf-9b12-4b3a-8406-709ffa106dd7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "houndour",
+    "DisplayName": "Houndour",
+    "Description": null,
+    "FieldValues": {
+      "Number": "228",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "120",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "houndour",
+      "DisplayName": "Houndour",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

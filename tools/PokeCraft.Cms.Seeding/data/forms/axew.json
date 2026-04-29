@@ -1,0 +1,42 @@
+﻿{
+  "Id": "632a204a-1d5f-406c-84cf-aab253527fda",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "axew",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7297567b-2d2e-4312-a7ed-801be0463e8b\"]",
+      "Height": "6",
+      "Weight": "180",
+      "YieldExperience": "64",
+      "PrimaryAbility": "[\"3bb432b8-b38c-4243-888c-20085e000f57\"]",
+      "SecondaryAbility": "[\"f35847b5-de3c-4706-a9d6-010903615537\"]",
+      "HiddenAbility": "[\"5cdb3b5f-b72c-4361-b715-922fc4cb31f9\"]",
+      "BaseHP": "46",
+      "YieldHP": "0",
+      "BaseAttack": "87",
+      "YieldAttack": "1",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "57",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "axew",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

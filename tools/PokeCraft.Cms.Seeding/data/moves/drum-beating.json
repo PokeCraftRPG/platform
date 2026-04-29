@@ -1,0 +1,25 @@
+﻿{
+  "Id": "510a5894-1de7-4419-8230-a339ca1b5e79",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drum-beating",
+    "DisplayName": "Drum Beating",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drum-beating",
+      "DisplayName": "Drum Beating",
+      "Description": "The user plays its drum, controlling the drum's roots to attack the target. This also lowers the target's Speed stat.",
+      "FieldValues": {}
+    }
+  }
+}

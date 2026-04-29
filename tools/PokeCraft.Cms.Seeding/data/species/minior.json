@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ec6fcbc3-590c-44c1-9736-43cc4f88ca67",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "minior",
+    "DisplayName": "Minior",
+    "Description": null,
+    "FieldValues": {
+      "Number": "774",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "30",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "minior",
+      "DisplayName": "Minior",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

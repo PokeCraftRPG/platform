@@ -1,0 +1,24 @@
+﻿{
+  "Id": "cc413767-be50-4c9c-9f44-39a668f7b891",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mirror-coat",
+    "DisplayName": "Mirror Coat",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mirror-coat",
+      "DisplayName": "Mirror Coat",
+      "Description": "A retaliatory attack that counters any special move, inflicting double the damage taken.",
+      "FieldValues": {}
+    }
+  }
+}

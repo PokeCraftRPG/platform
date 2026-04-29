@@ -1,0 +1,27 @@
+﻿{
+  "Id": "3c6412a3-671e-4538-90d4-1898ac77a704",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "furfrou",
+    "DisplayName": "Furfrou",
+    "Description": null,
+    "FieldValues": {
+      "Number": "676",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "160",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "furfrou",
+      "DisplayName": "Furfrou",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

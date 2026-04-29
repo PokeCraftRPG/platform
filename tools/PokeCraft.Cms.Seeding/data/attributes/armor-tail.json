@@ -1,0 +1,19 @@
+﻿{
+  "Id": "7638e576-aecc-4ad1-8fb4-f75e158c7e7a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "armor-tail",
+    "DisplayName": "Armor Tail",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "armor-tail",
+      "DisplayName": "Armor Tail",
+      "Description": "The mysterious tail covering the Pokémon's head makes opponents unable to use priority moves against the Pokémon or its allies.",
+      "FieldValues": {}
+    }
+  }
+}

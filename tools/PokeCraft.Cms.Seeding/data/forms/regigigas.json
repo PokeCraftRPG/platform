@@ -1,0 +1,40 @@
+﻿{
+  "Id": "b3d77922-d486-401d-8769-71d3d54d3faa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "regigigas",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9e213222-0338-438d-9afd-6b81f72b5c71\"]",
+      "Height": "37",
+      "Weight": "4200",
+      "YieldExperience": "302",
+      "PrimaryAbility": "[\"a64c19d6-190e-4714-8ee3-2b70aaa879ec\"]",
+      "BaseHP": "110",
+      "YieldHP": "0",
+      "BaseAttack": "160",
+      "YieldAttack": "3",
+      "BaseDefense": "110",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "110",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "regigigas",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

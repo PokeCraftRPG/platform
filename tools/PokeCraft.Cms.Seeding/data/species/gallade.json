@@ -1,0 +1,28 @@
+﻿{
+  "Id": "a425c196-1db5-440d-85f9-0c6d167f551f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gallade",
+    "DisplayName": "Gallade",
+    "Description": null,
+    "FieldValues": {
+      "Number": "475",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]",
+      "SecondaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gallade",
+      "DisplayName": "Gallade",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

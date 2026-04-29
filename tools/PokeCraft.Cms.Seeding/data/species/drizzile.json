@@ -1,0 +1,28 @@
+﻿{
+  "Id": "5ad6db6f-91f8-43db-8556-47e309b40875",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drizzile",
+    "DisplayName": "Drizzile",
+    "Description": null,
+    "FieldValues": {
+      "Number": "817",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drizzile",
+      "DisplayName": "Drizzile",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

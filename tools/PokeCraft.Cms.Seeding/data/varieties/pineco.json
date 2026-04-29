@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d485a6d0-f83d-4257-9e36-b50be770ac6f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pineco",
+    "DisplayName": "Pineco",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"770e3faa-3e4c-4155-a6b0-6be85b08e10e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pineco",
+      "DisplayName": "Pineco",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bagworm"
+      }
+    }
+  }
+}

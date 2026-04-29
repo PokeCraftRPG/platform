@@ -1,0 +1,24 @@
+﻿{
+  "Id": "03f66938-aeb3-409c-bdd5-21dbfe7aa537",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grass-knot",
+    "DisplayName": "Grass Knot",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grass-knot",
+      "DisplayName": "Grass Knot",
+      "Description": "The user snares the target with grass and trips it. The heavier the target, the greater the move's power.",
+      "FieldValues": {}
+    }
+  }
+}

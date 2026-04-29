@@ -1,0 +1,24 @@
+﻿{
+  "Id": "5997b366-82ec-4709-8e7a-df29e81711b3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fling",
+    "DisplayName": "Fling",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fling",
+      "DisplayName": "Fling",
+      "Description": "The user flings its held item at the target to attack. This move's power and effects depend on the item.",
+      "FieldValues": {}
+    }
+  }
+}

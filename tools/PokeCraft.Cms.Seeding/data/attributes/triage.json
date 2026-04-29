@@ -1,0 +1,19 @@
+﻿{
+  "Id": "dcf329bf-b49d-49eb-a80f-024eb6e7ad46",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "triage",
+    "DisplayName": "Triage",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "triage",
+      "DisplayName": "Triage",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

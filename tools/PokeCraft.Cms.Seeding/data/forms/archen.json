@@ -1,0 +1,41 @@
+﻿{
+  "Id": "70963c35-14c2-427c-8fb3-398024a4928f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "archen",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f8c28c68-0506-4673-9859-f415b45a035a\"]",
+      "Height": "5",
+      "Weight": "95",
+      "YieldExperience": "71",
+      "PrimaryAbility": "[\"dbd05eb2-1e3b-45b5-bc85-6e52d453a950\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "112",
+      "YieldAttack": "1",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "74",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "archen",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

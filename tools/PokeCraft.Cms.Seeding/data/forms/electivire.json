@@ -1,0 +1,41 @@
+﻿{
+  "Id": "e726a175-43d4-4371-9167-82c063b1ade0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "electivire",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d5dd9dd4-48ca-4d4f-8064-b3aa78ff5f86\"]",
+      "Height": "18",
+      "Weight": "1386",
+      "YieldExperience": "243",
+      "PrimaryAbility": "[\"1c41e2f3-b9f2-4ba5-a444-5bf018b5657e\"]",
+      "HiddenAbility": "[\"45a56091-34c8-4407-8d66-a4a64e2eb101\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "123",
+      "YieldAttack": "3",
+      "BaseDefense": "67",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "electivire",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

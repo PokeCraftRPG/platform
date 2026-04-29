@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9c822ca0-15dc-487b-b4bb-73470bc9abb7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mantine",
+    "DisplayName": "Mantine",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8c1ec409-d257-43fd-a3e0-24fb56793072\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mantine",
+      "DisplayName": "Mantine",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Kite"
+      }
+    }
+  }
+}

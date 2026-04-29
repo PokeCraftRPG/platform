@@ -1,0 +1,25 @@
+﻿{
+  "Id": "abfc4481-0c36-4dda-8a7f-45f1545f82ad",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "psychic-noise",
+    "DisplayName": "Psychic Noise",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "75",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "psychic-noise",
+      "DisplayName": "Psychic Noise",
+      "Description": "The user attacks the target with unpleasant sound waves. For two turns, the target is prevented from recovering HP through moves, Abilities, or held items.",
+      "FieldValues": {}
+    }
+  }
+}

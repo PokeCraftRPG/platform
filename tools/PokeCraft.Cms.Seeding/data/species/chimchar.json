@@ -1,0 +1,28 @@
+﻿{
+  "Id": "8d01ec03-6c37-4296-9e75-9755a69632da",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chimchar",
+    "DisplayName": "Chimchar",
+    "Description": null,
+    "FieldValues": {
+      "Number": "390",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chimchar",
+      "DisplayName": "Chimchar",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

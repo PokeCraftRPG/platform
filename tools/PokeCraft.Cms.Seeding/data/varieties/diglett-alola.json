@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b37d3abb-dfe8-4402-8ebe-ba9a387c655c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "diglett-alola",
+    "DisplayName": "Diglett",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ac18307d-8faa-489b-8bc6-72af3996f9df\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "diglett-alola",
+      "DisplayName": "Diglett",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mole"
+      }
+    }
+  }
+}

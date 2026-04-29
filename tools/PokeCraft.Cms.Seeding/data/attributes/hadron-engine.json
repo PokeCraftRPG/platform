@@ -1,0 +1,19 @@
+﻿{
+  "Id": "4308a253-e69c-43c7-a381-3bc7dff7874e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hadron-engine",
+    "DisplayName": "Hadron Engine",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hadron-engine",
+      "DisplayName": "Hadron Engine",
+      "Description": "Turns the ground into Electric Terrain when the Pokémon enters a battle. The futuristic engine within the Pokémon also boosts its Sp. Atk stat on Electric Terrain.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "eb5db86d-9e33-43e3-8c20-5624e3886b32",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "popplio",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6af2dd4a-8bbb-47bb-be91-885e3f789e45\"]",
+      "Height": "4",
+      "Weight": "75",
+      "YieldExperience": "64",
+      "PrimaryAbility": "[\"973e0e1a-dcca-4ab1-bd25-90df209dfc63\"]",
+      "HiddenAbility": "[\"443bb68b-2ce6-486b-b19e-731be14a03ab\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "54",
+      "YieldAttack": "0",
+      "BaseDefense": "54",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "66",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "56",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "popplio",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

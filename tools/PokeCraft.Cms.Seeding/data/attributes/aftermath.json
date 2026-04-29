@@ -1,0 +1,19 @@
+﻿{
+  "Id": "553c341c-debe-46e1-809e-34544a36ee63",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aftermath",
+    "DisplayName": "Aftermath",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aftermath",
+      "DisplayName": "Aftermath",
+      "Description": "Damages the attacker if it knocks out the Pokémon with a move that makes direct contact.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3f93d48a-a551-4c38-a5c8-11fc9b61d18c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dachsbun",
+    "DisplayName": "Dachsbun",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"55bb8fd5-8e68-44fe-b11b-0a0f27a2e7a5\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dachsbun",
+      "DisplayName": "Dachsbun",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Dog"
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "ebe86e12-8d29-43be-aa30-156cb2ee645f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "taillow",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e175c09e-7414-45cc-b3ef-445f1ab373a4\"]",
+      "Height": "3",
+      "Weight": "23",
+      "YieldExperience": "54",
+      "PrimaryAbility": "[\"1c326e45-7c1a-4f8a-a55c-751b60f62f10\"]",
+      "HiddenAbility": "[\"fa0ae125-7b24-45a0-bf28-4b447dfa5e21\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "30",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "30",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "85",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "taillow",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

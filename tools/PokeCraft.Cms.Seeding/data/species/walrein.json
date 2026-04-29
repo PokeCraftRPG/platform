@@ -1,0 +1,28 @@
+﻿{
+  "Id": "748ad2d8-07c5-4b65-9249-52ce19e3c1de",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "walrein",
+    "DisplayName": "Walrein",
+    "Description": null,
+    "FieldValues": {
+      "Number": "365",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "walrein",
+      "DisplayName": "Walrein",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

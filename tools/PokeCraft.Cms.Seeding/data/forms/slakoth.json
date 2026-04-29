@@ -1,0 +1,40 @@
+﻿{
+  "Id": "f1f255f1-d527-43d4-b8d7-744dee87b1a8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slakoth",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"abdce8c5-e774-48b7-8d49-8fa9950d114d\"]",
+      "Height": "8",
+      "Weight": "240",
+      "YieldExperience": "56",
+      "PrimaryAbility": "[\"5862cc42-bc4d-4f40-8ab8-dd42a051a125\"]",
+      "BaseHP": "60",
+      "YieldHP": "1",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "35",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slakoth",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

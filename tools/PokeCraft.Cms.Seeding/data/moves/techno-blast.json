@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ae27fe26-a105-4c23-be1b-9bd8a2b78f58",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "techno-blast",
+    "DisplayName": "Techno Blast",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "techno-blast",
+      "DisplayName": "Techno Blast",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

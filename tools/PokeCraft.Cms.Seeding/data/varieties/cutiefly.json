@@ -1,0 +1,26 @@
+﻿{
+  "Id": "109442a9-ea34-4d0e-b74f-c5d3f74a3b53",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cutiefly",
+    "DisplayName": "Cutiefly",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b53a8d9f-c5f6-445a-a004-6b3aeb7cceda\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cutiefly",
+      "DisplayName": "Cutiefly",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bee Fly"
+      }
+    }
+  }
+}

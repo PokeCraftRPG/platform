@@ -1,0 +1,42 @@
+﻿{
+  "Id": "7d7a00c0-2663-44e1-a645-bf8f1cec3c22",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zebstrika",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7fa14931-5c6d-4a17-a8e2-ac87c11e2061\"]",
+      "Height": "16",
+      "Weight": "795",
+      "YieldExperience": "174",
+      "PrimaryAbility": "[\"98bb9191-1993-4224-8922-4a4d13f534a5\"]",
+      "SecondaryAbility": "[\"1c41e2f3-b9f2-4ba5-a444-5bf018b5657e\"]",
+      "HiddenAbility": "[\"a471c5f9-291c-4763-b84a-9c5c666f409b\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "63",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "63",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "116",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zebstrika",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

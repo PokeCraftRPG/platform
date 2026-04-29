@@ -1,0 +1,43 @@
+﻿{
+  "Id": "614a37c7-6d04-443c-ad98-a8bd9a49b422",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arcanine-hisui",
+    "DisplayName": "Hisuian Arcanine",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"af618aaf-713c-412b-9fa5-bcf73547781b\"]",
+      "Height": "20",
+      "Weight": "1680",
+      "YieldExperience": "194",
+      "PrimaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "SecondaryAbility": "[\"956efecf-ecf7-4731-9df1-25171033ad13\"]",
+      "HiddenAbility": "[\"98ae35ae-b156-4c2e-b4a7-8af42a8b0ef6\"]",
+      "BaseHP": "95",
+      "YieldHP": "0",
+      "BaseAttack": "115",
+      "YieldAttack": "2",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arcanine-hisui",
+      "DisplayName": "Hisuian Arcanine",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

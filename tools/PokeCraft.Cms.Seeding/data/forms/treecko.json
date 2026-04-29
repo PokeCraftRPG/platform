@@ -1,0 +1,41 @@
+﻿{
+  "Id": "d32f9b3a-017e-4850-91c8-db9bdc2555a6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "treecko",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"95d8b501-7e13-4291-965b-ec68791ce8ee\"]",
+      "Height": "5",
+      "Weight": "50",
+      "YieldExperience": "62",
+      "PrimaryAbility": "[\"f635691a-6cf0-4a55-a848-a2183d487971\"]",
+      "HiddenAbility": "[\"d74f9f1b-dd57-4258-875f-46ec6bc83d99\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "35",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "treecko",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

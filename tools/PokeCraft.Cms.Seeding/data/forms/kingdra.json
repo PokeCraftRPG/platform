@@ -1,0 +1,43 @@
+﻿{
+  "Id": "71a0734d-84e0-44ef-8bbe-db4508dc3845",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kingdra",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e6dedddf-c8ae-4902-aff2-60a3513367a9\"]",
+      "Height": "18",
+      "Weight": "1520",
+      "YieldExperience": "243",
+      "PrimaryAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "SecondaryAbility": "[\"e1b8fd69-5bf8-4889-ab24-ea30a8419d99\"]",
+      "HiddenAbility": "[\"ebbf0ce1-0fb1-42cd-81bf-091e737bbfd4\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "1",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kingdra",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "758f39f3-cef8-4bd1-8667-b927e4932382",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "entei",
+    "DisplayName": "Entei",
+    "Description": null,
+    "FieldValues": {
+      "Number": "244",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "80",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "entei",
+      "DisplayName": "Entei",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

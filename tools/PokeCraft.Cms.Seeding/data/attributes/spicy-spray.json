@@ -1,0 +1,19 @@
+﻿{
+  "Id": "01f9e2d6-56b5-490e-9027-f0e7bf575898",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spicy-spray",
+    "DisplayName": "Spicy Spray",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spicy-spray",
+      "DisplayName": "Spicy Spray",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

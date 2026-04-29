@@ -1,0 +1,41 @@
+﻿{
+  "Id": "431c13b3-5c7f-44d2-866a-48351a703915",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "victini",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c6ef76d5-1285-4030-bcdf-a8430ad03fa0\"]",
+      "Height": "4",
+      "Weight": "40",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"4d944ca3-093e-4dc1-9650-75829ab11ccf\"]",
+      "BaseHP": "100",
+      "YieldHP": "3",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "victini",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

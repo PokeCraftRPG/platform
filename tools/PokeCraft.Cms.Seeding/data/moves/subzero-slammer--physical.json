@@ -1,0 +1,23 @@
+﻿{
+  "Id": "670dfd0a-e7cf-426d-a04c-6d2100a98c3f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "subzero-slammer--physical",
+    "DisplayName": "Subzero Slammer",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Physical\"]",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "subzero-slammer--physical",
+      "DisplayName": "Subzero Slammer",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

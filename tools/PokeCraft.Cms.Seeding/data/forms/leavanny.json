@@ -1,0 +1,43 @@
+﻿{
+  "Id": "eeecbc82-257c-4d0d-aefb-869e4913b5c0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "leavanny",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"eeded840-c9da-43d1-9475-766ae4cfbaaa\"]",
+      "Height": "12",
+      "Weight": "205",
+      "YieldExperience": "225",
+      "PrimaryAbility": "[\"ba1b3a50-acc0-4032-bf14-6572fa26daed\"]",
+      "SecondaryAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "HiddenAbility": "[\"ecf92884-7c23-4d13-9d9a-1a687fe3f447\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "103",
+      "YieldAttack": "3",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "92",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "leavanny",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

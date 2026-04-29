@@ -1,0 +1,25 @@
+﻿{
+  "Id": "863754e7-6920-4a67-9a7f-2ae07cd86cb9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "needle-arm",
+    "DisplayName": "Needle Arm",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "needle-arm",
+      "DisplayName": "Needle Arm",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

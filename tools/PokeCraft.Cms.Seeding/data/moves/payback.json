@@ -1,0 +1,25 @@
+﻿{
+  "Id": "b71f56a1-eea3-46ab-a672-b31686b9aa24",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "payback",
+    "DisplayName": "Payback",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "50",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "payback",
+      "DisplayName": "Payback",
+      "Description": "The user stores power, then attacks. This move's power is doubled if the user moves after the target.",
+      "FieldValues": {}
+    }
+  }
+}

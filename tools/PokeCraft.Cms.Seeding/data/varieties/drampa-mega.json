@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f99d6c06-0922-4b6e-a710-4c877f9b975a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drampa-mega",
+    "DisplayName": "Drampa",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"361e9a68-6b0f-44c8-9f76-df7edbbd1a9c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drampa-mega",
+      "DisplayName": "Drampa",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Placid"
+      }
+    }
+  }
+}

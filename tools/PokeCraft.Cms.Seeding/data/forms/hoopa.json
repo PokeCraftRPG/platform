@@ -1,0 +1,41 @@
+﻿{
+  "Id": "7dcd8dce-7130-4d3b-8fcc-a4ee9369ea61",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hoopa",
+    "DisplayName": "Confined Hoopa",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4cccd844-dc65-4ee9-b71e-94447da8f576\"]",
+      "Height": "5",
+      "Weight": "90",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"9d1934a0-3c6e-44b9-b7a4-38ccef17391a\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "110",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "150",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "130",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hoopa",
+      "DisplayName": "Confined Hoopa",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

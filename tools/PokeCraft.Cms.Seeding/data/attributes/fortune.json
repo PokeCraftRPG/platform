@@ -1,0 +1,19 @@
+﻿{
+  "Id": "32558c2b-77de-432d-b40a-fff54594bfa7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fortune",
+    "DisplayName": "Fortune",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fortune",
+      "DisplayName": "Fortune",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c5232ac2-0ac0-45b4-87af-edd146d7b258",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pidove",
+    "DisplayName": "Pidove",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"63bde64d-4135-4cb7-b9f3-deb8b2b161de\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pidove",
+      "DisplayName": "Pidove",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tiny Pigeon"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "0cddb4ce-7d72-428c-980a-2cf5a95ddcc1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pumpkaboo-average",
+    "DisplayName": "Average Pumpkaboo",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7038439a-8f2c-44d8-af68-5e7546145793\"]",
+      "Height": "4",
+      "Weight": "50",
+      "YieldExperience": "67",
+      "PrimaryAbility": "[\"071551b8-ee73-4742-85e8-264e82a49f57\"]",
+      "SecondaryAbility": "[\"646cd171-4012-41af-b36f-69b1a3142f3e\"]",
+      "HiddenAbility": "[\"74551570-259c-470c-a9ba-64ffd0e3afad\"]",
+      "BaseHP": "49",
+      "YieldHP": "0",
+      "BaseAttack": "66",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "44",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "51",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]",
+      "SecondaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pumpkaboo-average",
+      "DisplayName": "Average Pumpkaboo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

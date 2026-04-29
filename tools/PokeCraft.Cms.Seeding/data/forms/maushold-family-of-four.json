@@ -1,0 +1,42 @@
+﻿{
+  "Id": "bd2d9568-ab7a-403a-9d25-d06e137f12da",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "maushold-family-of-four",
+    "DisplayName": "Maushold (Family of Four)",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"045f14c3-8388-4de9-acc5-590bcef1237f\"]",
+      "Height": "3",
+      "Weight": "23",
+      "YieldExperience": "165",
+      "PrimaryAbility": "[\"47068609-b1c5-409b-a6c0-abb9e56e4c44\"]",
+      "SecondaryAbility": "[\"f6d802de-f5c1-41cc-bdc8-744a3fdfcf19\"]",
+      "HiddenAbility": "[\"d20432c3-18d0-4160-a3f1-a363c9e6633d\"]",
+      "BaseHP": "74",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "111",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "maushold-family-of-four",
+      "DisplayName": "Maushold (Family of Four)",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

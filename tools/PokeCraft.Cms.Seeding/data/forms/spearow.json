@@ -1,0 +1,42 @@
+﻿{
+  "Id": "a4eaaaf1-92e7-40fc-b20d-76c1a47e21c9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spearow",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"02b21775-19d9-4cef-a456-e5d2a03b276f\"]",
+      "Height": "3",
+      "Weight": "20",
+      "YieldExperience": "52",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "HiddenAbility": "[\"e1b8fd69-5bf8-4889-ab24-ea30a8419d99\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "30",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "31",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "31",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spearow",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

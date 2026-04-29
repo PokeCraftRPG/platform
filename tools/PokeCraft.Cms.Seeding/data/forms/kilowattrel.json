@@ -1,0 +1,43 @@
+﻿{
+  "Id": "a5b052f9-72c3-4f5d-b7f1-6b6340396331",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kilowattrel",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"fe9d5541-4206-4599-84f4-d6c909d0fd27\"]",
+      "Height": "14",
+      "Weight": "386",
+      "YieldExperience": "172",
+      "PrimaryAbility": "[\"42854f3b-6ff8-4a37-822c-884e0ee168d1\"]",
+      "SecondaryAbility": "[\"891096e9-f25f-4184-8941-fcc6d6dfd5e4\"]",
+      "HiddenAbility": "[\"2a7439f3-bce4-4614-9969-78ec2ce46f31\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "105",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "125",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kilowattrel",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

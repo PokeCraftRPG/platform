@@ -1,0 +1,42 @@
+﻿{
+  "Id": "32be98e3-07f8-472e-af0f-2dc7d48c9806",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "greninja",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1f5ff4c4-7b5b-4b49-9270-5c4b47be4370\"]",
+      "Height": "15",
+      "Weight": "400",
+      "YieldExperience": "239",
+      "PrimaryAbility": "[\"973e0e1a-dcca-4ab1-bd25-90df209dfc63\"]",
+      "HiddenAbility": "[\"65291225-4bca-4334-a235-9f7d9e09f7a2\"]",
+      "BaseHP": "72",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "0",
+      "BaseDefense": "67",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "103",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "71",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "122",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "greninja",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

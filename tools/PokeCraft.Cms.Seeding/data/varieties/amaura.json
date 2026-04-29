@@ -1,0 +1,26 @@
+﻿{
+  "Id": "25e75f34-88c1-45be-8dd2-cad4e414504c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "amaura",
+    "DisplayName": "Amaura",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"09617224-c7ca-425a-9d6e-52c570c5e078\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "amaura",
+      "DisplayName": "Amaura",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tundra"
+      }
+    }
+  }
+}

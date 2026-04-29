@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e3aa5a8e-5284-4565-949f-a49fb205e967",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "samurott",
+    "DisplayName": "Samurott",
+    "Description": null,
+    "FieldValues": {
+      "Number": "503",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "samurott",
+      "DisplayName": "Samurott",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

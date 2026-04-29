@@ -1,0 +1,25 @@
+﻿{
+  "Id": "498a69c8-3869-4546-b35f-2b1460792ae2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thousand-waves",
+    "DisplayName": "Thousand Waves",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thousand-waves",
+      "DisplayName": "Thousand Waves",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

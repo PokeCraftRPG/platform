@@ -1,0 +1,27 @@
+﻿{
+  "Id": "bb0b6693-6628-44a2-a5ae-fa73310adb5a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "solosis",
+    "DisplayName": "Solosis",
+    "Description": null,
+    "FieldValues": {
+      "Number": "577",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "200",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "solosis",
+      "DisplayName": "Solosis",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

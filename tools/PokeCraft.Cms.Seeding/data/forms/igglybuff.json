@@ -1,0 +1,43 @@
+﻿{
+  "Id": "9b2c546e-dc8c-4add-86da-a2fdbc2a4bbb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "igglybuff",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"20943ee2-4367-406c-a309-40d321d240fa\"]",
+      "Height": "3",
+      "Weight": "10",
+      "YieldExperience": "42",
+      "PrimaryAbility": "[\"1547f00e-f05d-4d0c-98c7-9a77e75e1bf5\"]",
+      "SecondaryAbility": "[\"2a7439f3-bce4-4614-9969-78ec2ce46f31\"]",
+      "HiddenAbility": "[\"47068609-b1c5-409b-a6c0-abb9e56e4c44\"]",
+      "BaseHP": "90",
+      "YieldHP": "1",
+      "BaseAttack": "30",
+      "YieldAttack": "0",
+      "BaseDefense": "15",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "20",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "15",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "igglybuff",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

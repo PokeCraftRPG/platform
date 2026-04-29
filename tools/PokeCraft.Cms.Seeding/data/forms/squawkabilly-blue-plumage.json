@@ -1,0 +1,43 @@
+﻿{
+  "Id": "9b17b14b-e1cd-493a-84d5-369dbb7c4837",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "squawkabilly-blue-plumage",
+    "DisplayName": "Blue Plumage Squawkabilly",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a83faf38-6793-422b-a196-d615cc858a5a\"]",
+      "Height": "6",
+      "Weight": "24",
+      "YieldExperience": "146",
+      "PrimaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "SecondaryAbility": "[\"12b608f7-a7b7-412e-803f-28d4eaba64c8\"]",
+      "HiddenAbility": "[\"1c326e45-7c1a-4f8a-a55c-751b60f62f10\"]",
+      "BaseHP": "82",
+      "YieldHP": "0",
+      "BaseAttack": "96",
+      "YieldAttack": "1",
+      "BaseDefense": "51",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "51",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "92",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "squawkabilly-blue-plumage",
+      "DisplayName": "Blue Plumage Squawkabilly",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

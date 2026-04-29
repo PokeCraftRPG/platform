@@ -1,0 +1,40 @@
+﻿{
+  "Id": "023e85c4-e075-482e-8ada-b49a1354e435",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slaking",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f2870f5c-82b4-4a34-b0e5-7aa90a7cc49b\"]",
+      "Height": "20",
+      "Weight": "1305",
+      "YieldExperience": "252",
+      "PrimaryAbility": "[\"5862cc42-bc4d-4f40-8ab8-dd42a051a125\"]",
+      "BaseHP": "150",
+      "YieldHP": "3",
+      "BaseAttack": "160",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slaking",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

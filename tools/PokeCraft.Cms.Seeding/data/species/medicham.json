@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e3234798-c051-4abe-9af8-1a36fde4c458",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "medicham",
+    "DisplayName": "Medicham",
+    "Description": null,
+    "FieldValues": {
+      "Number": "308",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "medicham",
+      "DisplayName": "Medicham",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

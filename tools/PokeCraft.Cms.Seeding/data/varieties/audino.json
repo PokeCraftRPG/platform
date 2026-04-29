@@ -1,0 +1,26 @@
+﻿{
+  "Id": "35e633a0-3a2b-48fd-90e0-07f25a58b390",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "audino",
+    "DisplayName": "Audino",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a69dad39-2caa-4db0-ac93-c7447281a6fb\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "audino",
+      "DisplayName": "Audino",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Hearing"
+      }
+    }
+  }
+}

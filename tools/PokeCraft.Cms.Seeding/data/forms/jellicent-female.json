@@ -1,0 +1,43 @@
+﻿{
+  "Id": "309b6169-192a-462f-ab84-ec5abbbd09b9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "jellicent-female",
+    "DisplayName": "Female Jellicent",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f1f7fa01-fe32-4cd9-aa3d-0937e975e30f\"]",
+      "Height": "22",
+      "Weight": "1350",
+      "YieldExperience": "168",
+      "PrimaryAbility": "[\"ce06d228-a509-444d-ab16-f046f2519e89\"]",
+      "SecondaryAbility": "[\"de5aabec-d7d6-43c0-9d1a-575c11318439\"]",
+      "HiddenAbility": "[\"ebbf0ce1-0fb1-42cd-81bf-091e737bbfd4\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "105",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Alternative\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "jellicent-female",
+      "DisplayName": "Female Jellicent",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

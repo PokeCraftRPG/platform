@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f36a623b-a8bc-4683-9f46-cf85bd9e8506",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "carkol",
+    "DisplayName": "Carkol",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b503843d-2e82-4f3c-bf7c-3aa12d99a71f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "carkol",
+      "DisplayName": "Carkol",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Coal"
+      }
+    }
+  }
+}

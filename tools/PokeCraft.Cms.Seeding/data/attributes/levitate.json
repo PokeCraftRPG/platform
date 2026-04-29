@@ -1,0 +1,19 @@
+﻿{
+  "Id": "3daa2a24-9123-4387-a919-83dbd2d4ed32",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "levitate",
+    "DisplayName": "Levitate",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "levitate",
+      "DisplayName": "Levitate",
+      "Description": "By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",
+      "FieldValues": {}
+    }
+  }
+}

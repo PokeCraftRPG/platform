@@ -1,0 +1,25 @@
+﻿{
+  "Id": "a63bf0e1-cf47-4dd2-ac49-e191840fbfc3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "azelf",
+    "DisplayName": "Azelf",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e9d77837-0ed8-4cef-aabf-d9fbea7ff6d3\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "azelf",
+      "DisplayName": "Azelf",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Willpower"
+      }
+    }
+  }
+}

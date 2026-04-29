@@ -1,0 +1,26 @@
+﻿{
+  "Id": "cb6eb31b-41f0-4e25-a93a-a04bd4d9d87e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lairon",
+    "DisplayName": "Lairon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"34b5113a-fa6d-4095-a06c-abcf8edeb92c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lairon",
+      "DisplayName": "Lairon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Iron Armor"
+      }
+    }
+  }
+}

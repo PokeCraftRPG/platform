@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d75da839-88a7-4e87-a1c6-1206ab380d7f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "heatmor",
+    "DisplayName": "Heatmor",
+    "Description": null,
+    "FieldValues": {
+      "Number": "631",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "heatmor",
+      "DisplayName": "Heatmor",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

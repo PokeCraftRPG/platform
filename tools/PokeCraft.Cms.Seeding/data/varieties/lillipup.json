@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5f6118f7-d3de-49b4-9f83-6b825f593167",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lillipup",
+    "DisplayName": "Lillipup",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"652057de-0bd4-463f-8be1-ca7e108186d6\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lillipup",
+      "DisplayName": "Lillipup",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Puppy"
+      }
+    }
+  }
+}

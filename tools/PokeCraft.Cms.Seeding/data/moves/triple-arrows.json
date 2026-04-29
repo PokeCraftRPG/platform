@@ -1,0 +1,25 @@
+﻿{
+  "Id": "355ecdd6-0d5a-48e3-8993-721a2d0c4256",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "triple-arrows",
+    "DisplayName": "Triple Arrows",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "triple-arrows",
+      "DisplayName": "Triple Arrows",
+      "Description": "The user kicks, then fires three arrows. This move has a heightened chance of landing a critical hit and may also lower the target’s Defense stat or make it flinch.",
+      "FieldValues": {}
+    }
+  }
+}

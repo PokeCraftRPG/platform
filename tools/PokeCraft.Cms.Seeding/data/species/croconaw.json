@@ -1,0 +1,28 @@
+﻿{
+  "Id": "1cb180bb-8ddb-4279-8e5b-b830dad47cb8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "croconaw",
+    "DisplayName": "Croconaw",
+    "Description": null,
+    "FieldValues": {
+      "Number": "159",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "croconaw",
+      "DisplayName": "Croconaw",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

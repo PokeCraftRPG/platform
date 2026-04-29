@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7cb6f032-3b82-4aea-9fe1-c3e494fdeefa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stunfisk",
+    "DisplayName": "Stunfisk",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"68c25ec7-d56d-4067-ab58-d0b8dcbab827\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stunfisk",
+      "DisplayName": "Stunfisk",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Trap"
+      }
+    }
+  }
+}

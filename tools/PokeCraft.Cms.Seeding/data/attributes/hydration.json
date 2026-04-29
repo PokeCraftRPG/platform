@@ -1,0 +1,19 @@
+﻿{
+  "Id": "14243d95-6028-489e-acf7-18592c5695c2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hydration",
+    "DisplayName": "Hydration",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hydration",
+      "DisplayName": "Hydration",
+      "Description": "Cures the Pokémon's status conditions in rain.",
+      "FieldValues": {}
+    }
+  }
+}

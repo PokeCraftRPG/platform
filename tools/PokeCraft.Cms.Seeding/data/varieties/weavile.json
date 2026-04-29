@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1501f73a-d7a4-44a8-93bc-e3af88b81c4b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "weavile",
+    "DisplayName": "Weavile",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"91665c9b-e6a1-4b65-829e-f21082f434a0\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "weavile",
+      "DisplayName": "Weavile",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sharp Claw"
+      }
+    }
+  }
+}

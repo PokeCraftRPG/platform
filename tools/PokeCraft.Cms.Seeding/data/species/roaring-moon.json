@@ -1,0 +1,27 @@
+﻿{
+  "Id": "6331fda9-0265-4beb-a859-e7aac26eaa9c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "roaring-moon",
+    "DisplayName": "Roaring Moon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "1005",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "10",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "50",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "roaring-moon",
+      "DisplayName": "Roaring Moon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

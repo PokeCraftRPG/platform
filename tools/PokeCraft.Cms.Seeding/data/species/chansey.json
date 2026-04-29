@@ -1,0 +1,27 @@
+﻿{
+  "Id": "70bc2bb2-4d0a-45c1-9470-7bbcec62ae30",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chansey",
+    "DisplayName": "Chansey",
+    "Description": null,
+    "FieldValues": {
+      "Number": "113",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "140",
+      "CatchRate": "30",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chansey",
+      "DisplayName": "Chansey",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

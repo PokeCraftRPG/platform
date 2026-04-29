@@ -1,0 +1,27 @@
+﻿{
+  "Id": "b0c2a01d-5ec6-43e8-ac16-7697dcb1885d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "starmie",
+    "DisplayName": "Starmie",
+    "Description": null,
+    "FieldValues": {
+      "Number": "121",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "starmie",
+      "DisplayName": "Starmie",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

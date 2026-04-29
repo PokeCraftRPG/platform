@@ -1,0 +1,19 @@
+﻿{
+  "Id": "fe6af37c-ffe3-497d-a4fa-4104e4779565",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "climber",
+    "DisplayName": "Climber",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "climber",
+      "DisplayName": "Climber",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

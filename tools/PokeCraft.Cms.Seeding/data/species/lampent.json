@@ -1,0 +1,27 @@
+﻿{
+  "Id": "31ec9534-2bb7-4e36-9b85-da9f4c314e67",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lampent",
+    "DisplayName": "Lampent",
+    "Description": null,
+    "FieldValues": {
+      "Number": "608",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lampent",
+      "DisplayName": "Lampent",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

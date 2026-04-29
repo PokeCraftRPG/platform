@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e6c21e03-fb98-4df2-b808-d7d89e09e32b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "alcremie-gmax",
+    "DisplayName": "Alcremie",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"112f60c7-9298-47a1-b284-12c72f36b939\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "alcremie-gmax",
+      "DisplayName": "Alcremie",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cream"
+      }
+    }
+  }
+}

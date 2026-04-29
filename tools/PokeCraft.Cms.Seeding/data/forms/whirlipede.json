@@ -1,0 +1,43 @@
+﻿{
+  "Id": "37d301c9-9316-4b70-9643-61365c1a4d77",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "whirlipede",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f320f279-57f7-4ffd-b5b1-3aedf695b2d3\"]",
+      "Height": "12",
+      "Weight": "585",
+      "YieldExperience": "126",
+      "PrimaryAbility": "[\"2f1ed275-bfaf-494d-8d85-c48aee736e43\"]",
+      "SecondaryAbility": "[\"ba1b3a50-acc0-4032-bf14-6572fa26daed\"]",
+      "HiddenAbility": "[\"c34cae01-916e-44ec-8e58-1cc63029592f\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "99",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "79",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "47",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "whirlipede",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

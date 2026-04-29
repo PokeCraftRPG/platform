@@ -1,0 +1,26 @@
+﻿{
+  "Id": "31f20ec0-4733-4cf3-a029-4ebe22a7c6c6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gloom",
+    "DisplayName": "Gloom",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3091c482-c636-485c-883f-4a862fd2f016\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gloom",
+      "DisplayName": "Gloom",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Weed"
+      }
+    }
+  }
+}

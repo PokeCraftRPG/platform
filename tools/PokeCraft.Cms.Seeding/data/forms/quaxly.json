@@ -1,0 +1,41 @@
+﻿{
+  "Id": "09957c19-313b-4796-b545-f595163abe62",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "quaxly",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"891e7d5c-e761-4013-92f6-cc8d1842e860\"]",
+      "Height": "5",
+      "Weight": "61",
+      "YieldExperience": "62",
+      "PrimaryAbility": "[\"973e0e1a-dcca-4ab1-bd25-90df209dfc63\"]",
+      "HiddenAbility": "[\"5ca88ad1-2039-4935-9e88-99d81c4bf372\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "1",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "quaxly",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

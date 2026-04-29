@@ -1,0 +1,24 @@
+﻿{
+  "Id": "fc036cbf-ae77-48b6-b988-f8944e256767",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scary-face",
+    "DisplayName": "Scary Face",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scary-face",
+      "DisplayName": "Scary Face",
+      "Description": "The user frightens the target with a scary face to harshly lower its Speed stat.",
+      "FieldValues": {}
+    }
+  }
+}

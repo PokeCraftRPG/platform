@@ -1,0 +1,27 @@
+﻿{
+  "Id": "360cf353-bc7e-40b6-8e9e-56ce65ba5af0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bramblin",
+    "DisplayName": "Bramblin",
+    "Description": null,
+    "FieldValues": {
+      "Number": "946",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bramblin",
+      "DisplayName": "Bramblin",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

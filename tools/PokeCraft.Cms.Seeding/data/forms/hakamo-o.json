@@ -1,0 +1,43 @@
+﻿{
+  "Id": "bc9d316b-d835-4f47-98ae-e9f8c97b3f34",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hakamo-o",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f8d66488-2bf1-4a60-9acf-124c6842fb2a\"]",
+      "Height": "12",
+      "Weight": "470",
+      "YieldExperience": "147",
+      "PrimaryAbility": "[\"95f8b622-ee64-42b7-be19-313365f588d5\"]",
+      "SecondaryAbility": "[\"6df60939-ffd8-4ddb-ad1e-f4add0129eeb\"]",
+      "HiddenAbility": "[\"ecf92884-7c23-4d13-9d9a-1a687fe3f447\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hakamo-o",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

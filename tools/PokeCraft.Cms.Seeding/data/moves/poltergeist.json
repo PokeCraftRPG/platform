@@ -1,0 +1,25 @@
+﻿{
+  "Id": "8b204c14-08b9-432d-9067-d1e094216ed9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "poltergeist",
+    "DisplayName": "Poltergeist",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "110",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "poltergeist",
+      "DisplayName": "Poltergeist",
+      "Description": "The user attacks by controlling the target's item. This move fails if the target isn't holding an item.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "4775456f-9e26-48c7-be2e-254dcb82b60f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rage-fist",
+    "DisplayName": "Rage Fist",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "50",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rage-fist",
+      "DisplayName": "Rage Fist",
+      "Description": "The user converts its rage into energy to attack. The more times the user has been hit by attacks, the greater the move's power.",
+      "FieldValues": {}
+    }
+  }
+}

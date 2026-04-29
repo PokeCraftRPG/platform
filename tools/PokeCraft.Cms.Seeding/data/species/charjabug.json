@@ -1,0 +1,27 @@
+﻿{
+  "Id": "9235efb5-6d05-412b-8e26-81f7bef94dfc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "charjabug",
+    "DisplayName": "Charjabug",
+    "Description": null,
+    "FieldValues": {
+      "Number": "737",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "charjabug",
+      "DisplayName": "Charjabug",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

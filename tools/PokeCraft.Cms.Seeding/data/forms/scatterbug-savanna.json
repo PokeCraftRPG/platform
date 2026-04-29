@@ -1,0 +1,42 @@
+﻿{
+  "Id": "b638be1c-43eb-4fbe-8a27-6eb68cb0e152",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scatterbug-savanna",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6bbf423e-a7a1-4bd5-b2a3-86b0564f8ca4\"]",
+      "Height": "3",
+      "Weight": "25",
+      "YieldExperience": "40",
+      "PrimaryAbility": "[\"29bd00fc-e0bf-4f2e-8cf9-f87e1aa11c4a\"]",
+      "SecondaryAbility": "[\"65e44b8e-43f4-4e6f-9e4e-db99591d1061\"]",
+      "HiddenAbility": "[\"47068609-b1c5-409b-a6c0-abb9e56e4c44\"]",
+      "BaseHP": "38",
+      "YieldHP": "0",
+      "BaseAttack": "35",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "27",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "25",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Alternative\"]",
+      "PrimaryType": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scatterbug-savanna",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

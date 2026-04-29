@@ -1,0 +1,19 @@
+﻿{
+  "Id": "b51e2c03-5eb2-4253-ab93-ea92b2d3b551",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lullaby",
+    "DisplayName": "Lullaby",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lullaby",
+      "DisplayName": "Lullaby",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

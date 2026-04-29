@@ -1,0 +1,41 @@
+﻿{
+  "Id": "d9205d3b-81ab-4236-8e12-85b3adf12efe",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "solgaleo",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5927ca04-df1d-4206-a166-8b20e5d8d567\"]",
+      "Height": "34",
+      "Weight": "2300",
+      "YieldExperience": "306",
+      "PrimaryAbility": "[\"d2eec3d8-2cfa-4df2-b317-b07503f4ccb2\"]",
+      "BaseHP": "137",
+      "YieldHP": "0",
+      "BaseAttack": "137",
+      "YieldAttack": "3",
+      "BaseDefense": "107",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "113",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "89",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "97",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "solgaleo",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

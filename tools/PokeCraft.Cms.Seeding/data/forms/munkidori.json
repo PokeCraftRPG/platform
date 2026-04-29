@@ -1,0 +1,42 @@
+﻿{
+  "Id": "86be8400-abd5-4bcf-a913-f7aa1386d149",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "munkidori",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3dd61764-503c-46e9-bd3e-d7e23a98c211\"]",
+      "Height": "10",
+      "Weight": "122",
+      "YieldExperience": "278",
+      "PrimaryAbility": "[\"897d3f02-52df-441e-a74e-f9b4f4598da3\"]",
+      "HiddenAbility": "[\"646cd171-4012-41af-b36f-69b1a3142f3e\"]",
+      "BaseHP": "88",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "66",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "130",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "106",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "munkidori",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

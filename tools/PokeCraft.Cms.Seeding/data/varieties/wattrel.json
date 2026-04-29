@@ -1,0 +1,26 @@
+﻿{
+  "Id": "bfc155e4-3c2b-4bab-a7cf-49f8b8a517d8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wattrel",
+    "DisplayName": "Wattrel",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"dc7b7aeb-c7f7-47d2-a381-19db20d9e54f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wattrel",
+      "DisplayName": "Wattrel",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Storm Petrel"
+      }
+    }
+  }
+}

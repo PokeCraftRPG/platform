@@ -1,0 +1,24 @@
+﻿{
+  "Id": "161a89ee-27b0-4b90-8e34-4d24ba648dec",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "light-that-burns-the-sky",
+    "DisplayName": "Light That Burns the Sky",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Power": "200",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "light-that-burns-the-sky",
+      "DisplayName": "Light That Burns the Sky",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

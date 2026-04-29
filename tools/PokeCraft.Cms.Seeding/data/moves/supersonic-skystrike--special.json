@@ -1,0 +1,23 @@
+﻿{
+  "Id": "229e61c8-2a3f-48b6-8738-56964d477be3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "supersonic-skystrike--special",
+    "DisplayName": "Supersonic Skystrike",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Special\"]",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "supersonic-skystrike--special",
+      "DisplayName": "Supersonic Skystrike",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

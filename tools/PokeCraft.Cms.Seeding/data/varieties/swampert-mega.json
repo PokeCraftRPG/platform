@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e1c092d2-95b5-4ec1-8f2a-e903b6c1c239",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swampert-mega",
+    "DisplayName": "Swampert",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"60e1a76b-8153-42e8-878f-0cce9e52a571\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swampert-mega",
+      "DisplayName": "Swampert",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mud Fish"
+      }
+    }
+  }
+}

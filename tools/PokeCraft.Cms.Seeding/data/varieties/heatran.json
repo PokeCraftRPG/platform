@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4d0878a2-5757-49d8-b040-760d6885a59f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "heatran",
+    "DisplayName": "Heatran",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e3bcec64-29d6-494b-95ed-365ca9cfb8b7\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "heatran",
+      "DisplayName": "Heatran",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Lava Dome"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f079b229-e8f5-4904-bd22-c2608719dc3f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "butterfree",
+    "DisplayName": "Butterfree",
+    "Description": null,
+    "FieldValues": {
+      "Number": "12",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "butterfree",
+      "DisplayName": "Butterfree",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

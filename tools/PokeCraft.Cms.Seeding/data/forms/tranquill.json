@@ -1,0 +1,43 @@
+﻿{
+  "Id": "dc025c97-5488-4400-9b5b-29414aae7669",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tranquill",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5de50001-c30b-4fbf-a605-991ef11bb79a\"]",
+      "Height": "6",
+      "Weight": "150",
+      "YieldExperience": "125",
+      "PrimaryAbility": "[\"15e51a3f-bb28-4ca8-abdf-27130d9930b4\"]",
+      "SecondaryAbility": "[\"c1dc8f0f-7de1-4657-b135-5bd8efc74e80\"]",
+      "HiddenAbility": "[\"3bb432b8-b38c-4243-888c-20085e000f57\"]",
+      "BaseHP": "62",
+      "YieldHP": "0",
+      "BaseAttack": "77",
+      "YieldAttack": "2",
+      "BaseDefense": "62",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "42",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tranquill",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

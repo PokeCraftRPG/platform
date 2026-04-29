@@ -1,0 +1,26 @@
+﻿{
+  "Id": "82b2c056-621e-4276-895f-470cd669c774",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rampardos",
+    "DisplayName": "Rampardos",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d38bfc85-df3b-4ceb-ac42-a011432d2ba9\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rampardos",
+      "DisplayName": "Rampardos",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Head Butt"
+      }
+    }
+  }
+}

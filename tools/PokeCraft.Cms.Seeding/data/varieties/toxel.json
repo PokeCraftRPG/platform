@@ -1,0 +1,26 @@
+﻿{
+  "Id": "663f96ca-31eb-450c-a886-a097b5de08aa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toxel",
+    "DisplayName": "Toxel",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"bacc7df0-5641-4508-8287-6ea211cbc52a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toxel",
+      "DisplayName": "Toxel",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Baby"
+      }
+    }
+  }
+}

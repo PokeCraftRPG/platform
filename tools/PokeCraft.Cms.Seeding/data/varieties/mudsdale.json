@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0f1aa3b9-47b8-45e6-9029-51823e5e6322",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mudsdale",
+    "DisplayName": "Mudsdale",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1e35484b-ebf6-4ea0-a7c0-e335fb70eefa\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mudsdale",
+      "DisplayName": "Mudsdale",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Draft Horse"
+      }
+    }
+  }
+}

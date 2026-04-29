@@ -1,0 +1,19 @@
+﻿{
+  "Id": "bba5c5cd-8d94-4ed0-b40a-7004714680c1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vessel-of-ruin",
+    "DisplayName": "Vessel of Ruin",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vessel-of-ruin",
+      "DisplayName": "Vessel of Ruin",
+      "Description": "The power of the Pokémon's ruinous vessel lowers the Sp. Atk stats of all Pokémon except itself.",
+      "FieldValues": {}
+    }
+  }
+}

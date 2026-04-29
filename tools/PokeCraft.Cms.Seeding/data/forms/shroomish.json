@@ -1,0 +1,42 @@
+﻿{
+  "Id": "15e1b325-8581-428f-9eaa-52bf95593786",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shroomish",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"33908a50-a16e-41e3-859e-fec4d4a54863\"]",
+      "Height": "4",
+      "Weight": "45",
+      "YieldExperience": "59",
+      "PrimaryAbility": "[\"685f8565-bdee-4058-bd90-d7f3711f5d7d\"]",
+      "SecondaryAbility": "[\"679361b8-19ae-401b-9f8c-969aed015f88\"]",
+      "HiddenAbility": "[\"69ed006e-469a-417a-824a-dd844d36ba47\"]",
+      "BaseHP": "60",
+      "YieldHP": "1",
+      "BaseAttack": "40",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shroomish",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

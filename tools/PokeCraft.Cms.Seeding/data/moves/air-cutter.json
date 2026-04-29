@@ -1,0 +1,25 @@
+﻿{
+  "Id": "913ca671-9afd-44b2-b957-5c39389c205c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "air-cutter",
+    "DisplayName": "Air Cutter",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "95",
+      "Power": "60",
+      "PowerPoints": "25"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "air-cutter",
+      "DisplayName": "Air Cutter",
+      "Description": "The user launches razor-like wind to slash opposing Pokémon. This move has a heightened chance of landing a critical hit.",
+      "FieldValues": {}
+    }
+  }
+}

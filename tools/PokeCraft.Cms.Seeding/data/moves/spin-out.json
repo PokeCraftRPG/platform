@@ -1,0 +1,25 @@
+﻿{
+  "Id": "785c2588-4e5e-439b-962d-942cb4c50f0b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spin-out",
+    "DisplayName": "Spin Out",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spin-out",
+      "DisplayName": "Spin Out",
+      "Description": "The user spins furiously by straining its legs, inflicting damage on the target. This also harshly lowers the user's Speed stat.",
+      "FieldValues": {}
+    }
+  }
+}

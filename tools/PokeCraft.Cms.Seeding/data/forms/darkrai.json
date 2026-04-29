@@ -1,0 +1,40 @@
+﻿{
+  "Id": "e781e631-4a84-4f5c-bf7f-ab9a235f7851",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "darkrai",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"8e0c7125-09d1-4980-a6ca-d8b8326497fd\"]",
+      "Height": "15",
+      "Weight": "505",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"82ed83d7-5ec8-4a36-b053-9acc8f2315cc\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "135",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "125",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "darkrai",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

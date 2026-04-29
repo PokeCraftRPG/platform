@@ -1,0 +1,25 @@
+﻿{
+  "Id": "7efa1fa7-8aef-4310-a14c-966a89c6247b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "avalanche",
+    "DisplayName": "Avalanche",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "avalanche",
+      "DisplayName": "Avalanche",
+      "Description": "This move's power is doubled if the target has inflicted damage on the user in the same turn.",
+      "FieldValues": {}
+    }
+  }
+}

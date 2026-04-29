@@ -1,0 +1,43 @@
+﻿{
+  "Id": "7562b855-6288-40ae-b45c-ceb3d2755b6d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arctozolt",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"641e4506-c7d2-4558-9fdf-cc72c2118d85\"]",
+      "Height": "23",
+      "Weight": "1500",
+      "YieldExperience": "177",
+      "PrimaryAbility": "[\"891096e9-f25f-4184-8941-fcc6d6dfd5e4\"]",
+      "SecondaryAbility": "[\"4d8cefa4-dbcc-4c78-b5f5-0a1c30bdb019\"]",
+      "HiddenAbility": "[\"1529f289-3c54-49ef-a5b7-924ae1f92aa8\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "2",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "90",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arctozolt",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

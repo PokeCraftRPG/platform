@@ -1,0 +1,26 @@
+﻿{
+  "Id": "fdc49135-a226-4a10-83f2-16baa530e3b6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "floatzel",
+    "DisplayName": "Floatzel",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5379af66-9e1b-4eb8-a1d3-661da21e073a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "floatzel",
+      "DisplayName": "Floatzel",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sea Weasel"
+      }
+    }
+  }
+}

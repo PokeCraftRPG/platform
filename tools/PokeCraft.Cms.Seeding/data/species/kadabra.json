@@ -1,0 +1,27 @@
+﻿{
+  "Id": "2de63d3c-7590-4676-84fe-edf32e424252",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kadabra",
+    "DisplayName": "Kadabra",
+    "Description": null,
+    "FieldValues": {
+      "Number": "64",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "100",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kadabra",
+      "DisplayName": "Kadabra",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

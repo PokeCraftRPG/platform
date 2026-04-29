@@ -1,0 +1,42 @@
+﻿{
+  "Id": "dea5bdc7-4d33-4978-b7b6-513173fd450b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gossifleur",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"db62e17e-c33a-4586-b1c1-a0201f68458c\"]",
+      "Height": "4",
+      "Weight": "22",
+      "YieldExperience": "50",
+      "PrimaryAbility": "[\"79d39dee-7018-4c7d-a6ef-e925d6874424\"]",
+      "SecondaryAbility": "[\"3f2976c2-09ac-4c69-8b32-5d930032faba\"]",
+      "HiddenAbility": "[\"685f8565-bdee-4058-bd90-d7f3711f5d7d\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "40",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "10",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gossifleur",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

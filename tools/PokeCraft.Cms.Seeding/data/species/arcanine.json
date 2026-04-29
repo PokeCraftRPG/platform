@@ -1,0 +1,27 @@
+﻿{
+  "Id": "1e13afbb-1f05-4655-96e5-fa308299f6b0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arcanine",
+    "DisplayName": "Arcanine",
+    "Description": null,
+    "FieldValues": {
+      "Number": "59",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arcanine",
+      "DisplayName": "Arcanine",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

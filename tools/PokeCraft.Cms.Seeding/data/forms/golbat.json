@@ -1,0 +1,42 @@
+﻿{
+  "Id": "ec91eb8b-fcb3-4d82-9cd0-6f2fe88ddc90",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "golbat",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"603b4de4-5b09-4320-a7d8-47923c13ef2b\"]",
+      "Height": "16",
+      "Weight": "550",
+      "YieldExperience": "159",
+      "PrimaryAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "HiddenAbility": "[\"0a9fa785-a966-4ed6-8ab9-a33aecd0847c\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "golbat",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

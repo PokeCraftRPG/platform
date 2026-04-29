@@ -1,0 +1,27 @@
+﻿{
+  "Id": "7f311f95-af06-4548-b520-78706330cdd9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shieldon",
+    "DisplayName": "Shieldon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "410",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Monster\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shieldon",
+      "DisplayName": "Shieldon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "9cc0b568-e256-45da-b0e6-5314fb336f90",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vespiquen",
+    "DisplayName": "Vespiquen",
+    "Description": null,
+    "FieldValues": {
+      "Number": "416",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vespiquen",
+      "DisplayName": "Vespiquen",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

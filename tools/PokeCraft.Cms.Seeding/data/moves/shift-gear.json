@@ -1,0 +1,23 @@
+﻿{
+  "Id": "cfe7ce64-21f7-4a1f-846a-afb5a2d6aa19",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shift-gear",
+    "DisplayName": "Shift Gear",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shift-gear",
+      "DisplayName": "Shift Gear",
+      "Description": "The user rotates its gears, boosting its Attack stat and sharply boosting its Speed stat.",
+      "FieldValues": {}
+    }
+  }
+}

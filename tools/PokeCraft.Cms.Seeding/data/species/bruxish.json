@@ -1,0 +1,27 @@
+﻿{
+  "Id": "a18e578e-389b-4ba0-80d5-3a689d618a58",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bruxish",
+    "DisplayName": "Bruxish",
+    "Description": null,
+    "FieldValues": {
+      "Number": "779",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "80",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bruxish",
+      "DisplayName": "Bruxish",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d2eeddb4-037d-455e-8d6a-3532dfa4a625",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "togetic",
+    "DisplayName": "Togetic",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1e5194ca-6d7e-4923-b590-19d71d8d00a1\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "togetic",
+      "DisplayName": "Togetic",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Happiness"
+      }
+    }
+  }
+}

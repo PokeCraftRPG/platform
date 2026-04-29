@@ -1,0 +1,25 @@
+﻿{
+  "Id": "a4cd9fc1-6004-4c2e-8db3-950fe5cbc3f9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "noxious-torque",
+    "DisplayName": "Noxious Torque",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "noxious-torque",
+      "DisplayName": "Noxious Torque",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

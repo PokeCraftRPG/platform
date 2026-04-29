@@ -1,0 +1,28 @@
+﻿{
+  "Id": "283b379e-dc4a-4435-8935-59714e8fb314",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragalge",
+    "DisplayName": "Dragalge",
+    "Description": null,
+    "FieldValues": {
+      "Number": "691",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "55",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragalge",
+      "DisplayName": "Dragalge",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

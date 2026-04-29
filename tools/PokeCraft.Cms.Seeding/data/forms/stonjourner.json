@@ -1,0 +1,40 @@
+﻿{
+  "Id": "683f44e1-fb34-43ea-81e1-892e4e775976",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stonjourner",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2e63684e-b71b-4dc1-b1a8-acd37c674666\"]",
+      "Height": "25",
+      "Weight": "5200",
+      "YieldExperience": "165",
+      "PrimaryAbility": "[\"b0e81d6c-81a1-4b48-9ea0-b58e7e676e36\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "125",
+      "YieldAttack": "0",
+      "BaseDefense": "135",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "20",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "20",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stonjourner",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

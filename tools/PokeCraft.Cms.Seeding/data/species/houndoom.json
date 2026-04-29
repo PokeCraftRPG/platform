@@ -1,0 +1,27 @@
+﻿{
+  "Id": "bc29c391-4db4-4584-8255-95b8a829fcea",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "houndoom",
+    "DisplayName": "Houndoom",
+    "Description": null,
+    "FieldValues": {
+      "Number": "229",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "houndoom",
+      "DisplayName": "Houndoom",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

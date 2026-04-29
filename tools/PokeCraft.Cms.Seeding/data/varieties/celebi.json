@@ -1,0 +1,25 @@
+﻿{
+  "Id": "805c126e-2956-403d-8267-62dc06e3ec26",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "celebi",
+    "DisplayName": "Celebi",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8e7d21c3-b8b6-4b79-adb0-be9684687a2c\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "celebi",
+      "DisplayName": "Celebi",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Time Travel"
+      }
+    }
+  }
+}

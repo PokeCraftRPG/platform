@@ -1,0 +1,23 @@
+﻿{
+  "Id": "5794769e-f036-4fc5-9a18-ef3cbf44610c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "teleport",
+    "DisplayName": "Teleport",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "teleport",
+      "DisplayName": "Teleport",
+      "Description": "The user switches places with a party Pokémon in waiting, if any. If a wild Pokémon uses this move, it flees.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "db446587-91b2-40eb-b544-87b115e110ca",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragonite",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2e13070c-86e2-4983-92c3-2434de66ec00\"]",
+      "Height": "22",
+      "Weight": "2100",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "HiddenAbility": "[\"c1d5c879-ddfc-4121-a943-0a637effd5ea\"]",
+      "BaseHP": "91",
+      "YieldHP": "0",
+      "BaseAttack": "134",
+      "YieldAttack": "3",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragonite",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

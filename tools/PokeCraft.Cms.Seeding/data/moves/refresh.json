@@ -1,0 +1,23 @@
+﻿{
+  "Id": "f2a693c7-2fa2-40e6-922d-46d60b71dad3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "refresh",
+    "DisplayName": "Refresh",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "refresh",
+      "DisplayName": "Refresh",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

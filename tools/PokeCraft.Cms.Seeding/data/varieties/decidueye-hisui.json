@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0180ba89-0996-4c22-adf4-38259ee32696",
+  "Invariant": {
+    "IsPublished": true,
+    "UniqueName": "decidueye-hisui",
+    "DisplayName": "Hisuian Decidueye",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"77a77bc9-e085-449e-8fb9-45c0dc4a41c8\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": true,
+      "UniqueName": "decidueye-hisui",
+      "DisplayName": "Hisuian Decidueye",
+      "Description": "The air stored inside the rachises of Decidueye's feathers insulates the Pokémon against Hisui's extreme cold. This is firm proof that evolution can be influenced by environment.",
+      "FieldValues": {
+        "Genus": "Arrow Quill"
+      }
+    }
+  }
+}

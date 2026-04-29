@@ -1,0 +1,43 @@
+﻿{
+  "Id": "5e982024-2788-4562-b3c5-1739793f2141",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pyroar-female",
+    "DisplayName": "Female Pyroar",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"30727977-feca-43c1-a852-5f97ae12f65e\"]",
+      "Height": "15",
+      "Weight": "815",
+      "YieldExperience": "177",
+      "PrimaryAbility": "[\"3bb432b8-b38c-4243-888c-20085e000f57\"]",
+      "SecondaryAbility": "[\"5cdb3b5f-b72c-4361-b715-922fc4cb31f9\"]",
+      "HiddenAbility": "[\"5ca88ad1-2039-4935-9e88-99d81c4bf372\"]",
+      "BaseHP": "86",
+      "YieldHP": "0",
+      "BaseAttack": "68",
+      "YieldAttack": "0",
+      "BaseDefense": "72",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "109",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "66",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "106",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Alternative\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pyroar-female",
+      "DisplayName": "Female Pyroar",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

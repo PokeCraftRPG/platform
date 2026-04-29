@@ -1,0 +1,42 @@
+﻿{
+  "Id": "df38ecb5-e574-4559-879c-0618875b6e92",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "milotic",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2f0dd7dc-a239-4264-b5bf-f463ad786897\"]",
+      "Height": "62",
+      "Weight": "1620",
+      "YieldExperience": "189",
+      "PrimaryAbility": "[\"5c5d8885-b852-4598-a3a0-80f5d03d71b8\"]",
+      "SecondaryAbility": "[\"2a7439f3-bce4-4614-9969-78ec2ce46f31\"]",
+      "HiddenAbility": "[\"1547f00e-f05d-4d0c-98c7-9a77e75e1bf5\"]",
+      "BaseHP": "95",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "79",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "125",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "81",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "milotic",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

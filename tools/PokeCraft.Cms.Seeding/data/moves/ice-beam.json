@@ -1,0 +1,25 @@
+﻿{
+  "Id": "363b95f1-e60f-44aa-af38-d7a1a8765808",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ice-beam",
+    "DisplayName": "Ice Beam",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ice-beam",
+      "DisplayName": "Ice Beam",
+      "Description": "The target is struck with an icy-cold beam of energy. This may also leave the target frozen.",
+      "FieldValues": {}
+    }
+  }
+}

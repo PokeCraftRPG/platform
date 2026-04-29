@@ -1,0 +1,42 @@
+﻿{
+  "Id": "1f1d7f17-0cf6-4db7-a2e6-dbc79f866b79",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kingler",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f7db71de-b547-440d-8c61-556cb177a55a\"]",
+      "Height": "13",
+      "Weight": "600",
+      "YieldExperience": "166",
+      "PrimaryAbility": "[\"57e539ec-9a7b-4925-ad82-81080aa7ceb2\"]",
+      "SecondaryAbility": "[\"238257b2-205c-4b83-b5f1-393b8c11b2e9\"]",
+      "HiddenAbility": "[\"ef348627-bea1-4c87-9bf1-417ed3b66855\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "130",
+      "YieldAttack": "2",
+      "BaseDefense": "115",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "75",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kingler",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

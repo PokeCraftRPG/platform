@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0c8f7a28-1f9d-4781-b58c-c0f62650e5fa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "crawdaunt",
+    "DisplayName": "Crawdaunt",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"72ca75d4-6c51-401a-bc8d-332700daa319\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "crawdaunt",
+      "DisplayName": "Crawdaunt",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rogue"
+      }
+    }
+  }
+}

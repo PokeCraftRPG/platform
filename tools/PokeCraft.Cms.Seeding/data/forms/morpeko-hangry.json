@@ -1,0 +1,41 @@
+﻿{
+  "Id": "67597201-2d16-4d3c-960d-f47ad7b45439",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "morpeko-hangry",
+    "DisplayName": "Hangry Morpeko",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"610f3f0d-099e-4589-9d92-a6ff2e03a49f\"]",
+      "Height": "3",
+      "Weight": "30",
+      "YieldExperience": "153",
+      "PrimaryAbility": "[\"67c0f4a9-daae-48bd-af0d-e15346c7a238\"]",
+      "BaseHP": "58",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "0",
+      "BaseDefense": "58",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "58",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "97",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "morpeko-hangry",
+      "DisplayName": "Hangry Morpeko",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

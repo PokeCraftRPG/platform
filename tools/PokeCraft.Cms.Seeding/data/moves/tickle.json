@@ -1,0 +1,24 @@
+﻿{
+  "Id": "d3cd6660-5e6c-4574-871a-63a34157d009",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tickle",
+    "DisplayName": "Tickle",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tickle",
+      "DisplayName": "Tickle",
+      "Description": "The user tickles the target into laughing, lowering its Attack and Defense stats.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "b6b34211-263c-4cc1-98dc-c9a9a426d2ab",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cleffa",
+    "DisplayName": "Cleffa",
+    "Description": null,
+    "FieldValues": {
+      "Number": "173",
+      "Category": "[\"Baby\"]",
+      "BaseFriendship": "140",
+      "CatchRate": "150",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cleffa",
+      "DisplayName": "Cleffa",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

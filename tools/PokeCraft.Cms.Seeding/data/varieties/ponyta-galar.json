@@ -1,0 +1,26 @@
+﻿{
+  "Id": "aabf9831-78f8-4f32-a2af-d3bf67963b1d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ponyta-galar",
+    "DisplayName": "Ponyta",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"55811cc2-f280-4361-af8c-dcc905867010\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ponyta-galar",
+      "DisplayName": "Ponyta",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fire Horse"
+      }
+    }
+  }
+}

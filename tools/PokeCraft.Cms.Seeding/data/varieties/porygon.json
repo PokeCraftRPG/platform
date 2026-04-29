@@ -1,0 +1,25 @@
+﻿{
+  "Id": "5aa7a8b2-e6c7-4268-9afe-ca2af7838518",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "porygon",
+    "DisplayName": "Porygon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a14b0570-8b5c-4a62-929d-a72b48f2f1f8\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "porygon",
+      "DisplayName": "Porygon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Virtual"
+      }
+    }
+  }
+}

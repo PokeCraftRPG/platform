@@ -1,0 +1,38 @@
+﻿{
+  "Id": "cad0a956-fbdd-4d7f-8c96-954648586561",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "eelektross-mega",
+    "DisplayName": "Mega Eelektross",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"00c50e3f-8366-4884-853e-8f2056ca3b1b\"]",
+      "Height": "30",
+      "Weight": "1800",
+      "BaseHP": "85",
+      "YieldHP": "0",
+      "BaseAttack": "145",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "135",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "eelektross-mega",
+      "DisplayName": "Mega Eelektross",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

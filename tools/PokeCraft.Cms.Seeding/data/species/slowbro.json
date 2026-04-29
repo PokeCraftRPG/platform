@@ -1,0 +1,28 @@
+﻿{
+  "Id": "9bd577d8-3e97-41a9-81bf-dd2e5871b68a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slowbro",
+    "DisplayName": "Slowbro",
+    "Description": null,
+    "FieldValues": {
+      "Number": "80",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slowbro",
+      "DisplayName": "Slowbro",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

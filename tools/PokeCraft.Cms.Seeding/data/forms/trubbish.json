@@ -1,0 +1,42 @@
+﻿{
+  "Id": "fd39cdeb-3a45-470b-b27e-93b6b208d74f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "trubbish",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"51ae2e6d-9106-4a73-a8db-de40ac53428c\"]",
+      "Height": "6",
+      "Weight": "310",
+      "YieldExperience": "66",
+      "PrimaryAbility": "[\"7cea48e5-cd7c-41df-82f9-a91772037aff\"]",
+      "SecondaryAbility": "[\"c6f1b814-650e-4b1f-a482-7ed07ca1c7af\"]",
+      "HiddenAbility": "[\"553c341c-debe-46e1-809e-34544a36ee63\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "62",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "62",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "trubbish",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

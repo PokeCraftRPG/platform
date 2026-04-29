@@ -1,0 +1,19 @@
+﻿{
+  "Id": "616f9dcd-3a34-46b8-a6e9-b5b709f5e03f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "soul-heart",
+    "DisplayName": "Soul-Heart",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "soul-heart",
+      "DisplayName": "Soul-Heart",
+      "Description": "Boosts the Pokémon's Sp. Atk stat every time another Pokémon faints.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "16d4e841-a8a3-4259-b926-ab6b461698d6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zero-to-hero",
+    "DisplayName": "Zero to Hero",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zero-to-hero",
+      "DisplayName": "Zero to Hero",
+      "Description": "The Pokémon transforms into its Hero Form when it switches out.",
+      "FieldValues": {}
+    }
+  }
+}

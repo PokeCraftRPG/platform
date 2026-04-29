@@ -1,0 +1,27 @@
+﻿{
+  "Id": "2ed72153-8054-4e74-828f-bc4468f10cbb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flamigo",
+    "DisplayName": "Flamigo",
+    "Description": null,
+    "FieldValues": {
+      "Number": "973",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "100",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flamigo",
+      "DisplayName": "Flamigo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

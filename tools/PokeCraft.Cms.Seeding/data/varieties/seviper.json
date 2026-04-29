@@ -1,0 +1,26 @@
+﻿{
+  "Id": "41130c8b-87c7-4faa-9fd2-07d29543f8a7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "seviper",
+    "DisplayName": "Seviper",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c2c5b514-7320-454e-8bf3-f0da32facc6d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "seviper",
+      "DisplayName": "Seviper",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fang Snake"
+      }
+    }
+  }
+}

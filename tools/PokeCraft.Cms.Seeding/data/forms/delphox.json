@@ -1,0 +1,42 @@
+﻿{
+  "Id": "f039a27a-ffd9-406e-b089-8be5a62d4d7b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "delphox",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b739bbb3-d446-484d-af6b-4d66a8be6031\"]",
+      "Height": "15",
+      "Weight": "390",
+      "YieldExperience": "240",
+      "PrimaryAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "HiddenAbility": "[\"9d1934a0-3c6e-44b9-b7a4-38ccef17391a\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "69",
+      "YieldAttack": "0",
+      "BaseDefense": "72",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "114",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "104",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "delphox",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "d9d68052-f99e-4024-8acc-3a490866ab76",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flutter-mane",
+    "DisplayName": "Flutter Mane",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"dcd32da6-e209-408b-a07a-af32ef5f7d67\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flutter-mane",
+      "DisplayName": "Flutter Mane",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

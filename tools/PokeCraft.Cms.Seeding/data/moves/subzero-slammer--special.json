@@ -1,0 +1,23 @@
+﻿{
+  "Id": "ccbfaa93-2298-4153-8ce1-de686dda7e98",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "subzero-slammer--special",
+    "DisplayName": "Subzero Slammer",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Special\"]",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "subzero-slammer--special",
+      "DisplayName": "Subzero Slammer",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

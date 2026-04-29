@@ -1,0 +1,25 @@
+﻿{
+  "Id": "f08c0460-4195-460e-9cd8-325687791974",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-treads",
+    "DisplayName": "Iron Treads",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f6727dae-c4ba-4a67-97c3-a8443b115c7b\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-treads",
+      "DisplayName": "Iron Treads",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

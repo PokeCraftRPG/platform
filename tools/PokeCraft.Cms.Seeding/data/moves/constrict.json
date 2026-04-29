@@ -1,0 +1,25 @@
+﻿{
+  "Id": "2f9c124a-6e94-4bdc-9e7d-fab8881c2edc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "constrict",
+    "DisplayName": "Constrict",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "10",
+      "PowerPoints": "35"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "constrict",
+      "DisplayName": "Constrict",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

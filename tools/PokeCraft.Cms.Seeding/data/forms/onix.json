@@ -1,0 +1,43 @@
+﻿{
+  "Id": "0cde91b8-84bb-4807-8c91-b7a3dc7f9379",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "onix",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e3854930-b37b-4081-8fbd-50f8b5066a40\"]",
+      "Height": "88",
+      "Weight": "2100",
+      "YieldExperience": "77",
+      "PrimaryAbility": "[\"98ae35ae-b156-4c2e-b4a7-8af42a8b0ef6\"]",
+      "SecondaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "HiddenAbility": "[\"2b8b8cfa-e12e-43d2-b403-594ac9a1c1f7\"]",
+      "BaseHP": "35",
+      "YieldHP": "0",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "160",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "onix",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "b178433d-3a7b-427a-a91d-a4810887305b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "psyduck",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2a687bb4-6b2b-4c0b-9450-a3162b647646\"]",
+      "Height": "8",
+      "Weight": "196",
+      "YieldExperience": "64",
+      "PrimaryAbility": "[\"ebbf0ce1-0fb1-42cd-81bf-091e737bbfd4\"]",
+      "SecondaryAbility": "[\"dd70f7cd-9d7f-407f-9222-682c011480db\"]",
+      "HiddenAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "52",
+      "YieldAttack": "0",
+      "BaseDefense": "48",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "psyduck",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

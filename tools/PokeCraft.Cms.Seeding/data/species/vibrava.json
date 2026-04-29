@@ -1,0 +1,28 @@
+﻿{
+  "Id": "8a42eb9a-6dd4-4623-a210-40347420ad50",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vibrava",
+    "DisplayName": "Vibrava",
+    "Description": null,
+    "FieldValues": {
+      "Number": "329",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vibrava",
+      "DisplayName": "Vibrava",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

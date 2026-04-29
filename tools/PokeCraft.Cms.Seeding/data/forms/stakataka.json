@@ -1,0 +1,41 @@
+﻿{
+  "Id": "a2cfa3ff-cc53-4f7c-afcf-c72457f452de",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stakataka",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e81265da-67d9-4a0e-bf68-b182b116947f\"]",
+      "Height": "55",
+      "Weight": "8200",
+      "YieldExperience": "257",
+      "PrimaryAbility": "[\"e7ec0ce2-6979-45a9-80ab-215081d487e3\"]",
+      "BaseHP": "61",
+      "YieldHP": "0",
+      "BaseAttack": "131",
+      "YieldAttack": "0",
+      "BaseDefense": "211",
+      "YieldDefense": "3",
+      "BaseSpecialAttack": "53",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "101",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "13",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stakataka",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

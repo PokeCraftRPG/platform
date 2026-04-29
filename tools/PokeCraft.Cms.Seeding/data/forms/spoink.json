@@ -1,0 +1,42 @@
+﻿{
+  "Id": "5bcb6884-24bf-42fb-a52a-5e37fdcbeab8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spoink",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"736b4a9e-a127-4b94-9233-c60340c058f7\"]",
+      "Height": "7",
+      "Weight": "306",
+      "YieldExperience": "66",
+      "PrimaryAbility": "[\"d6fa994e-7a48-48b5-9f1f-c1b84dd3225f\"]",
+      "SecondaryAbility": "[\"1d2b3915-c19d-4017-baac-19e24cc4b20a\"]",
+      "HiddenAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "25",
+      "YieldAttack": "0",
+      "BaseDefense": "35",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spoink",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

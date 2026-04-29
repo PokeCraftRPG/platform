@@ -1,0 +1,26 @@
+﻿{
+  "Id": "83caa266-3ae0-4db8-be42-7d8ca1f1220c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sprigatito",
+    "DisplayName": "Sprigatito",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"519f1e87-03eb-40c9-9ac7-99069e73ca90\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sprigatito",
+      "DisplayName": "Sprigatito",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Grass Cat"
+      }
+    }
+  }
+}

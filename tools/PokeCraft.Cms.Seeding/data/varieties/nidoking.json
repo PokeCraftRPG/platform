@@ -1,0 +1,26 @@
+﻿{
+  "Id": "2c530240-41fd-44dc-9f3a-1559e23ed56e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nidoking",
+    "DisplayName": "Nidoking",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"060434dd-22ef-4883-9125-e4368fc8b287\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nidoking",
+      "DisplayName": "Nidoking",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Drill"
+      }
+    }
+  }
+}

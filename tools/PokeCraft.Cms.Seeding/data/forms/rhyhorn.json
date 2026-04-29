@@ -1,0 +1,43 @@
+﻿{
+  "Id": "cd3acb95-2db8-4038-bca5-1d79ed7f12a3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rhyhorn",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c153233e-c65a-4d24-95a0-ae63e09aa2fd\"]",
+      "Height": "10",
+      "Weight": "1150",
+      "YieldExperience": "69",
+      "PrimaryAbility": "[\"98bb9191-1993-4224-8922-4a4d13f534a5\"]",
+      "SecondaryAbility": "[\"98ae35ae-b156-4c2e-b4a7-8af42a8b0ef6\"]",
+      "HiddenAbility": "[\"3e4191ac-398f-48f3-a3ce-106d5ddd1742\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "30",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "25",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rhyhorn",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

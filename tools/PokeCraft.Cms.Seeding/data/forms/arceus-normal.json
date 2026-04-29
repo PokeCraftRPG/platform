@@ -1,0 +1,40 @@
+﻿{
+  "Id": "02093f94-63cb-4f23-a847-03086ee0eb75",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arceus-normal",
+    "DisplayName": "Normal Arceus",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"36bdccba-c20b-4900-ba70-785d17ccec56\"]",
+      "Height": "32",
+      "Weight": "3200",
+      "YieldExperience": "324",
+      "PrimaryAbility": "[\"bd92770c-a08a-4e39-b31d-d2ed64b9c204\"]",
+      "BaseHP": "120",
+      "YieldHP": "3",
+      "BaseAttack": "120",
+      "YieldAttack": "0",
+      "BaseDefense": "120",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "120",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "120",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "120",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arceus-normal",
+      "DisplayName": "Normal Arceus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ae22baf6-8717-4424-8c15-11717f57bfd1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sliggoo-hisui",
+    "DisplayName": "Sliggoo",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6feeb012-3e8a-4ac4-a9ab-a8404654cda9\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sliggoo-hisui",
+      "DisplayName": "Sliggoo",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Soft Tissue"
+      }
+    }
+  }
+}

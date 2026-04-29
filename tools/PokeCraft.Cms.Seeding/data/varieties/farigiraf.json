@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4de3b2cc-cee5-4530-b3bf-89db687851c0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "farigiraf",
+    "DisplayName": "Farigiraf",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"bf69a818-64d7-4c47-bf63-641c2b5eb7e2\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "farigiraf",
+      "DisplayName": "Farigiraf",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Long Neck"
+      }
+    }
+  }
+}

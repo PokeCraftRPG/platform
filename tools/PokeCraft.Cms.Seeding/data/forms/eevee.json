@@ -1,0 +1,42 @@
+﻿{
+  "Id": "4aff24e3-dc3b-4151-99f1-8fc00906cb8e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "eevee",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a3634ec6-9a8f-4390-86b6-aec02ed2dafc\"]",
+      "Height": "3",
+      "Weight": "65",
+      "YieldExperience": "65",
+      "PrimaryAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "SecondaryAbility": "[\"463a60e6-bf15-4972-9934-481d443a8534\"]",
+      "HiddenAbility": "[\"6eea2506-c8b3-44c8-9082-76bec64e5880\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "eevee",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

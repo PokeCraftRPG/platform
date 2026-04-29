@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d0d25e25-2182-401b-8e93-b61373786104",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "breloom",
+    "DisplayName": "Breloom",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8da776fb-cf85-41bf-a693-f1feb32d7039\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "breloom",
+      "DisplayName": "Breloom",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mushroom"
+      }
+    }
+  }
+}

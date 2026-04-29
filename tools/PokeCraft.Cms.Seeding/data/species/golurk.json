@@ -1,0 +1,27 @@
+﻿{
+  "Id": "9ebeb7ba-6c28-420b-9d81-bbb929377cf0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "golurk",
+    "DisplayName": "Golurk",
+    "Description": null,
+    "FieldValues": {
+      "Number": "623",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "golurk",
+      "DisplayName": "Golurk",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

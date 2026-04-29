@@ -1,0 +1,43 @@
+﻿{
+  "Id": "fc6c74dc-a85d-466f-90d0-b5ed2a0bc9b2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sneasel-hisui",
+    "DisplayName": "Hisuian Sneasel",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f6cb74b2-0c3c-455a-b835-b95c0c86f9d7\"]",
+      "Height": "9",
+      "Weight": "270",
+      "YieldExperience": "86",
+      "PrimaryAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "SecondaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "HiddenAbility": "[\"03108b44-e57b-442a-ba0e-b6de95a975c1\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "115",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sneasel-hisui",
+      "DisplayName": "Hisuian Sneasel",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

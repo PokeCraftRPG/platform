@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0b6f8ab5-eb73-4675-a28e-fcee15e691c2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "empoleon",
+    "DisplayName": "Empoleon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"008a1ec2-a325-4c68-9dd1-1936df7e8a2f\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "empoleon",
+      "DisplayName": "Empoleon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Emperor"
+      }
+    }
+  }
+}

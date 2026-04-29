@@ -1,0 +1,40 @@
+﻿{
+  "Id": "d3f4f000-e698-42cf-b64f-914245b7a6f4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glastrier",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2b175696-6f71-4cdd-84ea-860c14ea66a6\"]",
+      "Height": "22",
+      "Weight": "8000",
+      "YieldExperience": "290",
+      "PrimaryAbility": "[\"207d4c85-ca23-4d81-9c30-f471c8b5863e\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "145",
+      "YieldAttack": "3",
+      "BaseDefense": "130",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "110",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glastrier",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

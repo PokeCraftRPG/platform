@@ -1,0 +1,27 @@
+﻿{
+  "Id": "67164647-1951-4a17-84f0-15b236c2add0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "jynx",
+    "DisplayName": "Jynx",
+    "Description": null,
+    "FieldValues": {
+      "Number": "124",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "jynx",
+      "DisplayName": "Jynx",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

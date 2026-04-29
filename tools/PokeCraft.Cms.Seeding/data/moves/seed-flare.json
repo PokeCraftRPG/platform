@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ca2e4ee9-b960-4cc1-9576-ca900aa47cd7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "seed-flare",
+    "DisplayName": "Seed Flare",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "85",
+      "Power": "120",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "seed-flare",
+      "DisplayName": "Seed Flare",
+      "Description": "The user emits a shock wave from its body to attack its target. This may also harshly lower the target's Sp. Def stat.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "21d9fe55-51f4-451f-a3d8-838a58188d0c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-valiant",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1a71636a-9131-4e8d-8cdc-8b77fe11bce8\"]",
+      "Height": "14",
+      "Weight": "350",
+      "YieldExperience": "295",
+      "PrimaryAbility": "[\"7cef81dc-7c42-4b31-b37d-79a7e926c4cd\"]",
+      "BaseHP": "74",
+      "YieldHP": "0",
+      "BaseAttack": "130",
+      "YieldAttack": "3",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "120",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "116",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fairy\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-valiant",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

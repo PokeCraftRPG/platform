@@ -1,0 +1,42 @@
+﻿{
+  "Id": "b65719dc-5b0b-4080-aa6f-40b7f12f0f44",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "oinkologne-male",
+    "DisplayName": "Male Oinkologne",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"31b648d3-da92-48de-8488-118437b1d425\"]",
+      "Height": "10",
+      "Weight": "1200",
+      "YieldExperience": "171",
+      "PrimaryAbility": "[\"f7da21db-3a79-455c-a52a-e96dbc8f15ec\"]",
+      "SecondaryAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "HiddenAbility": "[\"d6fa994e-7a48-48b5-9f1f-c1b84dd3225f\"]",
+      "BaseHP": "110",
+      "YieldHP": "2",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "59",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "oinkologne-male",
+      "DisplayName": "Male Oinkologne",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

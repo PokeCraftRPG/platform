@@ -1,0 +1,28 @@
+﻿{
+  "Id": "dd0d11f2-e1f8-4e40-a78d-73f5fb71a7b9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "corphish",
+    "DisplayName": "Corphish",
+    "Description": null,
+    "FieldValues": {
+      "Number": "341",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "205",
+      "GrowthRate": "[\"Fluctuating\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "corphish",
+      "DisplayName": "Corphish",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "10331087-79cb-46b9-9c9a-28598bca2152",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "incineroar",
+    "DisplayName": "Incineroar",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5ad97cf7-69d6-42d0-9f10-b7942ba5b50a\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "incineroar",
+      "DisplayName": "Incineroar",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Heel"
+      }
+    }
+  }
+}

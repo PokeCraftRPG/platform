@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f506e230-13dd-4151-a58e-cded5e349547",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dottler",
+    "DisplayName": "Dottler",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"75e6c20e-c2ce-450d-a6fe-e8ea6c58a57b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dottler",
+      "DisplayName": "Dottler",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Radome"
+      }
+    }
+  }
+}

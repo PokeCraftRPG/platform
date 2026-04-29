@@ -1,0 +1,19 @@
+﻿{
+  "Id": "7ae43406-75b1-4857-be00-71bd46a49d96",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "beads-of-ruin",
+    "DisplayName": "Beads of Ruin",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "beads-of-ruin",
+      "DisplayName": "Beads of Ruin",
+      "Description": "The power of the Pokémon's ruinous beads lowers the Sp. Def stats of all Pokémon except itself.",
+      "FieldValues": {}
+    }
+  }
+}

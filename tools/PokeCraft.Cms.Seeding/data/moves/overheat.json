@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ce238185-f984-427d-b089-9084b887c619",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "overheat",
+    "DisplayName": "Overheat",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "90",
+      "Power": "130",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "overheat",
+      "DisplayName": "Overheat",
+      "Description": "The user attacks the target with all its might. The recoil from this move harshly lowers the user's Sp. Atk stat.",
+      "FieldValues": {}
+    }
+  }
+}

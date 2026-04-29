@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c0ff1a20-3574-45c6-b357-a334701dbe35",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ursaring",
+    "DisplayName": "Ursaring",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4e254705-c04a-453d-985a-c5e2b5a39b7d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ursaring",
+      "DisplayName": "Ursaring",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Hibernator"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "3c6d4460-b482-46cb-82a7-cb46224d1081",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "power-trick",
+    "DisplayName": "Power Trick",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "power-trick",
+      "DisplayName": "Power Trick",
+      "Description": "The user employs its psychic power to switch its Attack stat with its Defense stat.",
+      "FieldValues": {}
+    }
+  }
+}

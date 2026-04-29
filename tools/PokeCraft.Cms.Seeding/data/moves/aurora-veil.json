@@ -1,0 +1,23 @@
+﻿{
+  "Id": "03392802-3843-43e5-811e-c7a216e56a88",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aurora-veil",
+    "DisplayName": "Aurora Veil",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aurora-veil",
+      "DisplayName": "Aurora Veil",
+      "Description": "This move reduces damage from physical and special moves for five turns. This can be used only when it is snowing.",
+      "FieldValues": {}
+    }
+  }
+}

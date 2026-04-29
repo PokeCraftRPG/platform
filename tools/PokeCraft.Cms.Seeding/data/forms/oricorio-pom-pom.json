@@ -1,0 +1,41 @@
+﻿{
+  "Id": "2185fb32-038b-4f25-84ff-439cf0eae895",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "oricorio-pom-pom",
+    "DisplayName": "Pom-pom Oricorio",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"99224d91-a526-48a4-aedd-f8a28c2b5901\"]",
+      "Height": "6",
+      "Weight": "34",
+      "YieldExperience": "167",
+      "PrimaryAbility": "[\"5368f678-61be-4999-a306-26a2d698772e\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "98",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "93",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "oricorio-pom-pom",
+      "DisplayName": "Pom-pom Oricorio",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

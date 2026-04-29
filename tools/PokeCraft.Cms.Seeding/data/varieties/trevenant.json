@@ -1,0 +1,26 @@
+﻿{
+  "Id": "605ec520-5015-425f-9ced-099fc105d82f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "trevenant",
+    "DisplayName": "Trevenant",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ffc1eab7-1b8c-43cd-b9fb-a0fa4a39e3f1\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "trevenant",
+      "DisplayName": "Trevenant",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Elder Tree"
+      }
+    }
+  }
+}

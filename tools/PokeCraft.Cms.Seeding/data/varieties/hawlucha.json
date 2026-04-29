@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b2f17d07-8117-4432-b84a-6a25cea9d7c6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hawlucha",
+    "DisplayName": "Hawlucha",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"45ae3d3b-3d05-4b06-92ad-727093b13089\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hawlucha",
+      "DisplayName": "Hawlucha",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Wrestling"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "159115c3-1da0-435b-8ea9-ecf4e871c0f0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drakloak",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3610e21b-7520-429f-bbfe-46e19784f78e\"]",
+      "Height": "14",
+      "Weight": "110",
+      "YieldExperience": "144",
+      "PrimaryAbility": "[\"eac52537-4006-4999-9072-1b3e1a92910c\"]",
+      "SecondaryAbility": "[\"0a9fa785-a966-4ed6-8ab9-a33aecd0847c\"]",
+      "HiddenAbility": "[\"de5aabec-d7d6-43c0-9d1a-575c11318439\"]",
+      "BaseHP": "68",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "102",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drakloak",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

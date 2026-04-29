@@ -1,0 +1,42 @@
+﻿{
+  "Id": "577cf039-2677-44ab-9d3a-e2c43881427b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "beheeyem",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d67b3ffd-6bc9-451e-aa97-a0e737d17121\"]",
+      "Height": "10",
+      "Weight": "345",
+      "YieldExperience": "170",
+      "PrimaryAbility": "[\"f5863110-b5b9-4629-b95c-3869ed34433d\"]",
+      "SecondaryAbility": "[\"f5fd746b-4285-427b-ab75-928d416a5c85\"]",
+      "HiddenAbility": "[\"46c2aea0-fa60-492b-8e7f-0d5de67c6321\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "125",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "beheeyem",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

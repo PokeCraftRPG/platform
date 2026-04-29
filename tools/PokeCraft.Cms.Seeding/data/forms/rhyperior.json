@@ -1,0 +1,43 @@
+﻿{
+  "Id": "266dc3e2-6b32-4331-b032-b68b124dadcd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rhyperior",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"96847a1d-9695-48f5-9ca1-7a538e292b13\"]",
+      "Height": "24",
+      "Weight": "2828",
+      "YieldExperience": "241",
+      "PrimaryAbility": "[\"98bb9191-1993-4224-8922-4a4d13f534a5\"]",
+      "SecondaryAbility": "[\"374028f4-f9d7-4171-9322-47ca228e20ce\"]",
+      "HiddenAbility": "[\"3e4191ac-398f-48f3-a3ce-106d5ddd1742\"]",
+      "BaseHP": "115",
+      "YieldHP": "0",
+      "BaseAttack": "140",
+      "YieldAttack": "3",
+      "BaseDefense": "130",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rhyperior",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

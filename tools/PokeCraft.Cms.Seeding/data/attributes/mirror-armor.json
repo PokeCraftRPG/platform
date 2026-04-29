@@ -1,0 +1,19 @@
+﻿{
+  "Id": "6760c98f-9002-41a8-a53e-f5b47ecf29ef",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mirror-armor",
+    "DisplayName": "Mirror Armor",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mirror-armor",
+      "DisplayName": "Mirror Armor",
+      "Description": "Bounces back only the stat-lowering effects that the Pokémon receives.",
+      "FieldValues": {}
+    }
+  }
+}

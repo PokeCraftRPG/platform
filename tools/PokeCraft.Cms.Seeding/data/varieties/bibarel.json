@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b19e2e18-173d-42bf-a9b9-7f42f42e51f2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bibarel",
+    "DisplayName": "Bibarel",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7b4d72bb-4da7-4fac-8924-9882b4196192\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bibarel",
+      "DisplayName": "Bibarel",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Beaver"
+      }
+    }
+  }
+}

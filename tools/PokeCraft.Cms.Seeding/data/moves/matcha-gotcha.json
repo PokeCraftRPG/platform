@@ -1,0 +1,25 @@
+﻿{
+  "Id": "423213d1-8b9e-4781-b94b-4ded50e26d2d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "matcha-gotcha",
+    "DisplayName": "Matcha Gotcha",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "90",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "matcha-gotcha",
+      "DisplayName": "Matcha Gotcha",
+      "Description": "The user fires a blast of tea that it mixed. The user's HP is restored by up to half the damage taken by the target. This may also leave the target with a burn.",
+      "FieldValues": {}
+    }
+  }
+}

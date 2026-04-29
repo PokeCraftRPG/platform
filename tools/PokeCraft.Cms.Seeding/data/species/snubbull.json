@@ -1,0 +1,28 @@
+﻿{
+  "Id": "71264ade-ad46-4756-8d52-93ce7458b9f0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snubbull",
+    "DisplayName": "Snubbull",
+    "Description": null,
+    "FieldValues": {
+      "Number": "209",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snubbull",
+      "DisplayName": "Snubbull",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

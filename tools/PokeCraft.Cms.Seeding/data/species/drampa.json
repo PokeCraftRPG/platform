@@ -1,0 +1,28 @@
+﻿{
+  "Id": "361e9a68-6b0f-44c8-9f76-df7edbbd1a9c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drampa",
+    "DisplayName": "Drampa",
+    "Description": null,
+    "FieldValues": {
+      "Number": "780",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "70",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drampa",
+      "DisplayName": "Drampa",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

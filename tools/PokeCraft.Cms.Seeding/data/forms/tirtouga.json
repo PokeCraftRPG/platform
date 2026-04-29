@@ -1,0 +1,43 @@
+﻿{
+  "Id": "074e4ecb-3d0e-4d1c-a7e0-c6d8be56d939",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tirtouga",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c461849f-f69b-4151-8184-5fe073c4ad40\"]",
+      "Height": "7",
+      "Weight": "165",
+      "YieldExperience": "71",
+      "PrimaryAbility": "[\"374028f4-f9d7-4171-9322-47ca228e20ce\"]",
+      "SecondaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "HiddenAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "BaseHP": "54",
+      "YieldHP": "0",
+      "BaseAttack": "78",
+      "YieldAttack": "0",
+      "BaseDefense": "103",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "53",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "22",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tirtouga",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

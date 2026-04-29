@@ -1,0 +1,19 @@
+﻿{
+  "Id": "526febaf-bfde-4aed-a312-83013608ca09",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bodyguard",
+    "DisplayName": "Bodyguard",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bodyguard",
+      "DisplayName": "Bodyguard",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

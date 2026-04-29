@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ca86e20f-0413-49af-a512-264a6edc91e3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "galvantula",
+    "DisplayName": "Galvantula",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d9ca2254-1bdf-46b5-9502-3c9e93f98671\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "galvantula",
+      "DisplayName": "Galvantula",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "EleSpider"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "0c5efd23-405b-49e3-820b-a100b837d0e8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chikorita",
+    "DisplayName": "Chikorita",
+    "Description": null,
+    "FieldValues": {
+      "Number": "152",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chikorita",
+      "DisplayName": "Chikorita",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

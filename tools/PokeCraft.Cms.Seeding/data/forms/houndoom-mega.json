@@ -1,0 +1,41 @@
+﻿{
+  "Id": "8c96a27e-80e1-4808-9bf5-f9cf87b96631",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "houndoom-mega",
+    "DisplayName": "Mega Houndoom",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b826727d-4627-49f0-ae28-0d1d4980304d\"]",
+      "Height": "19",
+      "Weight": "495",
+      "YieldExperience": "210",
+      "PrimaryAbility": "[\"6c7fc1a9-9c49-4e4f-ae09-81bb228713b0\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "140",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "115",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "houndoom-mega",
+      "DisplayName": "Mega Houndoom",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

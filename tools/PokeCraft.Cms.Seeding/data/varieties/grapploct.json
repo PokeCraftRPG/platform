@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a33fff97-dba2-492d-a671-0e0b2659d2b7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grapploct",
+    "DisplayName": "Grapploct",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4c2dc1e3-0731-42e3-8d68-56e1dfa86704\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grapploct",
+      "DisplayName": "Grapploct",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Jujitsu"
+      }
+    }
+  }
+}

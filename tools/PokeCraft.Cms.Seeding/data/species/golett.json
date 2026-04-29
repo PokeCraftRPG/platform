@@ -1,0 +1,27 @@
+﻿{
+  "Id": "6cee4e75-536a-4b56-b497-78d7fa399af2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "golett",
+    "DisplayName": "Golett",
+    "Description": null,
+    "FieldValues": {
+      "Number": "622",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "golett",
+      "DisplayName": "Golett",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

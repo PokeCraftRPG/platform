@@ -1,0 +1,25 @@
+﻿{
+  "Id": "5b2711d5-d63f-453e-b44c-b1a67a1d5244",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spike-cannon",
+    "DisplayName": "Spike Cannon",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "20",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spike-cannon",
+      "DisplayName": "Spike Cannon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "708b9388-e3bb-439e-9e95-255bdb9d7d4a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "regirock",
+    "DisplayName": "Regirock",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d896d875-7e11-470f-8935-906da8b65d5c\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "regirock",
+      "DisplayName": "Regirock",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rock Peak"
+      }
+    }
+  }
+}

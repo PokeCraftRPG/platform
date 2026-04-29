@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1984cf66-4858-43c1-b3ab-42ed7c166403",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dewgong",
+    "DisplayName": "Dewgong",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6723cac2-e924-4b39-a2ef-bbd94a1ce859\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dewgong",
+      "DisplayName": "Dewgong",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sea Lion"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "74f30f3c-aa34-4b10-a3bd-70d30c6888a9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "play-nice",
+    "DisplayName": "Play Nice",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "play-nice",
+      "DisplayName": "Play Nice",
+      "Description": "The user and the target become friends, and the target loses its will to fight. This lowers the target's Attack stat.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "4ac715b0-def5-4d15-896f-42173e6f1373",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "espeon",
+    "DisplayName": "Espeon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "196",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "35",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "espeon",
+      "DisplayName": "Espeon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

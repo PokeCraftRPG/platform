@@ -1,0 +1,27 @@
+﻿{
+  "Id": "9b3beffd-5bfb-4521-bc05-b3fc28ce80e2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bellsprout",
+    "DisplayName": "Bellsprout",
+    "Description": null,
+    "FieldValues": {
+      "Number": "69",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bellsprout",
+      "DisplayName": "Bellsprout",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "947f9bdd-69e3-4fda-866c-a32f1d8b088f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "forretress",
+    "DisplayName": "Forretress",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"27149594-6e90-462e-b429-cde55e2f1320\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "forretress",
+      "DisplayName": "Forretress",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bagworm"
+      }
+    }
+  }
+}

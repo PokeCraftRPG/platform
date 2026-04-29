@@ -1,0 +1,23 @@
+﻿{
+  "Id": "1346a17b-94bf-4554-aa76-b93ec52a8c23",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gravity",
+    "DisplayName": "Gravity",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gravity",
+      "DisplayName": "Gravity",
+      "Description": "Enables Flying types or Pokémon with the Levitate Ability to be hit by Ground-type moves for five turns. Moves that involve flying can't be used.",
+      "FieldValues": {}
+    }
+  }
+}

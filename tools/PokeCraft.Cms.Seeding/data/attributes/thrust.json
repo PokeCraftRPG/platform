@@ -1,0 +1,19 @@
+﻿{
+  "Id": "b8532542-ae21-4f34-89eb-bc811f58cbde",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thrust",
+    "DisplayName": "Thrust",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thrust",
+      "DisplayName": "Thrust",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

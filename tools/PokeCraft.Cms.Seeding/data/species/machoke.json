@@ -1,0 +1,27 @@
+﻿{
+  "Id": "97ca61de-c4ba-4d2d-b455-61aef69f1380",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "machoke",
+    "DisplayName": "Machoke",
+    "Description": null,
+    "FieldValues": {
+      "Number": "67",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "machoke",
+      "DisplayName": "Machoke",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

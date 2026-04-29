@@ -1,0 +1,25 @@
+﻿{
+  "Id": "8cdefb1b-7ac3-47cd-b898-57436d511f61",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "doom-desire",
+    "DisplayName": "Doom Desire",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "140",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "doom-desire",
+      "DisplayName": "Doom Desire",
+      "Description": "This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.",
+      "FieldValues": {}
+    }
+  }
+}

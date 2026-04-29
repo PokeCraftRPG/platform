@@ -1,0 +1,42 @@
+﻿{
+  "Id": "fc5522d5-104c-4421-954f-3ed1bff90906",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "yungoos",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"8b885077-cd4f-4fa9-88e8-2ec50cbbb816\"]",
+      "Height": "4",
+      "Weight": "60",
+      "YieldExperience": "51",
+      "PrimaryAbility": "[\"df0d1b67-be4a-45c3-9aee-f183bc1e0edd\"]",
+      "SecondaryAbility": "[\"fe62f3be-1b3d-461f-bb4c-963e988d426f\"]",
+      "HiddenAbility": "[\"463a60e6-bf15-4972-9934-481d443a8534\"]",
+      "BaseHP": "48",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "1",
+      "BaseDefense": "30",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "30",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "yungoos",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

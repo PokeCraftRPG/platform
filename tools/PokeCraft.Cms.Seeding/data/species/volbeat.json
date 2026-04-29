@@ -1,0 +1,28 @@
+﻿{
+  "Id": "8ae8a805-bbc7-4ee0-8e13-37c6bcfb38f2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "volbeat",
+    "DisplayName": "Volbeat",
+    "Description": null,
+    "FieldValues": {
+      "Number": "313",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "150",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]",
+      "SecondaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "volbeat",
+      "DisplayName": "Volbeat",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

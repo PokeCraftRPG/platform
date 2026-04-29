@@ -1,0 +1,27 @@
+﻿{
+  "Id": "367bce84-2dbb-42af-8df5-de6296a0b1c5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "klang",
+    "DisplayName": "Klang",
+    "Description": null,
+    "FieldValues": {
+      "Number": "600",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "klang",
+      "DisplayName": "Klang",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

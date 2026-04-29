@@ -1,0 +1,25 @@
+﻿{
+  "Id": "5f8dd655-2425-4d2c-821f-21c0d41f7db9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dual-wingbeat",
+    "DisplayName": "Dual Wingbeat",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "40",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dual-wingbeat",
+      "DisplayName": "Dual Wingbeat",
+      "Description": "The user slams the target with its wings to inflict damage. The target is hit twice in a row.",
+      "FieldValues": {}
+    }
+  }
+}

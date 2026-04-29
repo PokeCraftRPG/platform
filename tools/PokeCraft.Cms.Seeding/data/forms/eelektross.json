@@ -1,0 +1,40 @@
+﻿{
+  "Id": "90247ddd-5e9f-4507-9eca-6da740ed69d6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "eelektross",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1a86634f-6fa8-4b0f-867a-8f56877634d6\"]",
+      "Height": "21",
+      "Weight": "805",
+      "YieldExperience": "232",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "BaseHP": "85",
+      "YieldHP": "0",
+      "BaseAttack": "115",
+      "YieldAttack": "3",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "105",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "eelektross",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

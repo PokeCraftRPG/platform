@@ -1,0 +1,41 @@
+﻿{
+  "Id": "ce38fd34-19d9-43cf-865a-bb73441cc615",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mawile-mega",
+    "DisplayName": "Mega Mawile",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"250a8150-f054-41a5-b4da-ea59e75b0cc6\"]",
+      "Height": "10",
+      "Weight": "235",
+      "YieldExperience": "168",
+      "PrimaryAbility": "[\"fc4446e9-654f-46c3-8257-6cb0986da05f\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "105",
+      "YieldAttack": "1",
+      "BaseDefense": "125",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mawile-mega",
+      "DisplayName": "Mega Mawile",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

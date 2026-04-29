@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ed371434-c088-441e-a3e3-7804b97f73c4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tandemaus",
+    "DisplayName": "Tandemaus",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"88de720c-58df-473b-a821-c91c9509c623\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tandemaus",
+      "DisplayName": "Tandemaus",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Couple"
+      }
+    }
+  }
+}

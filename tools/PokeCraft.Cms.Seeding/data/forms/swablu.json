@@ -1,0 +1,42 @@
+﻿{
+  "Id": "329d356d-f432-4058-b27e-8b9ae60b94eb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swablu",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b6aa1b03-32cd-473d-955d-a8706a88987c\"]",
+      "Height": "4",
+      "Weight": "12",
+      "YieldExperience": "62",
+      "PrimaryAbility": "[\"aaaf5fa0-672a-4904-8e65-dc6c8ffe01b7\"]",
+      "HiddenAbility": "[\"dd70f7cd-9d7f-407f-9222-682c011480db\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "40",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swablu",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

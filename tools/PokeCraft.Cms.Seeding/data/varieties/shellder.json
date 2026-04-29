@@ -1,0 +1,26 @@
+﻿{
+  "Id": "01a7757f-31d4-4a93-abbf-5b9d9c8bb8c1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shellder",
+    "DisplayName": "Shellder",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a2a68441-b813-47f7-a505-487c55792b0d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shellder",
+      "DisplayName": "Shellder",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bivalve"
+      }
+    }
+  }
+}

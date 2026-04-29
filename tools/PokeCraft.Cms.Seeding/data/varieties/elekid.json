@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6a310253-d49b-470c-a212-aaf289f6686d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "elekid",
+    "DisplayName": "Elekid",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"75b679a0-0d53-44e8-8ee7-a0cdefbe70ee\"]",
+      "GenderRatio": "6",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "elekid",
+      "DisplayName": "Elekid",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Electric"
+      }
+    }
+  }
+}

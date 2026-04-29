@@ -1,0 +1,42 @@
+﻿{
+  "Id": "b9eb0def-5211-4c2b-827f-e4a4e4e56bd5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "enamorus-incarnate",
+    "DisplayName": "Incarnate Enamorus",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"070d44a9-f548-4bfa-aeed-bf87d7d70edd\"]",
+      "Height": "16",
+      "Weight": "480",
+      "YieldExperience": "116",
+      "PrimaryAbility": "[\"1547f00e-f05d-4d0c-98c7-9a77e75e1bf5\"]",
+      "HiddenAbility": "[\"db725f43-cf10-4966-83cf-8f61405f506f\"]",
+      "BaseHP": "74",
+      "YieldHP": "0",
+      "BaseAttack": "115",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "135",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "106",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fairy\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "enamorus-incarnate",
+      "DisplayName": "Incarnate Enamorus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

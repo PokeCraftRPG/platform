@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f7eaacef-27ae-4fb0-beb2-6677cd25ba6a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clefairy",
+    "DisplayName": "Clefairy",
+    "Description": null,
+    "FieldValues": {
+      "Number": "35",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "140",
+      "CatchRate": "150",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clefairy",
+      "DisplayName": "Clefairy",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

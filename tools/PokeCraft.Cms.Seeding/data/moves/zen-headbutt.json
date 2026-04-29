@@ -1,0 +1,25 @@
+﻿{
+  "Id": "640d7fe2-38b6-4d86-9c8a-e74c35e0d5ef",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zen-headbutt",
+    "DisplayName": "Zen Headbutt",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zen-headbutt",
+      "DisplayName": "Zen Headbutt",
+      "Description": "The user focuses its willpower to its head and attacks the target. This may also make the target flinch.",
+      "FieldValues": {}
+    }
+  }
+}

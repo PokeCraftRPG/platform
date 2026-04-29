@@ -1,0 +1,41 @@
+﻿{
+  "Id": "507465d6-ab08-4308-b324-5cc7ee350c28",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "raichu",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"517626f0-e7bf-4d3d-96ff-4b03469a4a22\"]",
+      "Height": "8",
+      "Weight": "300",
+      "YieldExperience": "218",
+      "PrimaryAbility": "[\"4d8cefa4-dbcc-4c78-b5f5-0a1c30bdb019\"]",
+      "HiddenAbility": "[\"98bb9191-1993-4224-8922-4a4d13f534a5\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "90",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "110",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "raichu",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

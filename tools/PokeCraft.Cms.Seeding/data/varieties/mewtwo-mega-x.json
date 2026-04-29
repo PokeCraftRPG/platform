@@ -1,0 +1,25 @@
+﻿{
+  "Id": "654e1cba-61df-4bc6-92eb-f67aefbbe7ac",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mewtwo-mega-x",
+    "DisplayName": "Mewtwo",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c030f6b6-120d-4b8b-88f4-64a3658ed563\"]",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mewtwo-mega-x",
+      "DisplayName": "Mewtwo",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Genetic"
+      }
+    }
+  }
+}

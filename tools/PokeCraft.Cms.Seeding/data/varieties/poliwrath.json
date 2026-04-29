@@ -1,0 +1,26 @@
+﻿{
+  "Id": "65d6e85d-2d0a-4847-8b39-03eb32149a32",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "poliwrath",
+    "DisplayName": "Poliwrath",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e31ea832-34ef-4317-8a55-220fddf747bb\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "poliwrath",
+      "DisplayName": "Poliwrath",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tadpole"
+      }
+    }
+  }
+}

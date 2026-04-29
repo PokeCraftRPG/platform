@@ -1,0 +1,42 @@
+﻿{
+  "Id": "f9f5f5b3-50a1-4455-9db7-4023dd356426",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glimmora",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"979f5e08-db21-4d62-9c72-4c30bc5606eb\"]",
+      "Height": "15",
+      "Weight": "450",
+      "YieldExperience": "184",
+      "PrimaryAbility": "[\"d8e2f41a-732c-4569-8a01-c4544bf6a5ff\"]",
+      "HiddenAbility": "[\"4550f771-4061-4c88-bf71-92d9aaf1d6e5\"]",
+      "BaseHP": "83",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "130",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "81",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "86",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glimmora",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

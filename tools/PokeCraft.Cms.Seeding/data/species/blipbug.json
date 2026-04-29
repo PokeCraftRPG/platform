@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d76d3a76-0fc3-4428-af4b-45164e23e5a4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blipbug",
+    "DisplayName": "Blipbug",
+    "Description": null,
+    "FieldValues": {
+      "Number": "824",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blipbug",
+      "DisplayName": "Blipbug",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

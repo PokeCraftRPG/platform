@@ -1,0 +1,42 @@
+﻿{
+  "Id": "42487e94-81ee-4181-9628-3ea529558b39",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lileep",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1bdfdd09-acb8-40b4-8985-5571b190b0c8\"]",
+      "Height": "10",
+      "Weight": "238",
+      "YieldExperience": "71",
+      "PrimaryAbility": "[\"7f395dac-6fba-4c1f-8a37-b6772676e8c8\"]",
+      "HiddenAbility": "[\"f863cc47-85a0-4a65-bb10-a51733957719\"]",
+      "BaseHP": "66",
+      "YieldHP": "0",
+      "BaseAttack": "41",
+      "YieldAttack": "0",
+      "BaseDefense": "77",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "61",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "87",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "23",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lileep",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

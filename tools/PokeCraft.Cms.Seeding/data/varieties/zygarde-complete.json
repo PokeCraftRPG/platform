@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6b66527c-6d1d-4147-a629-c9760f3b9b4e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zygarde-complete",
+    "DisplayName": "Zygarde",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0de3e2a2-1b63-4cc3-8ed7-14a08d1271e5\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zygarde-complete",
+      "DisplayName": "Zygarde",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Order"
+      }
+    }
+  }
+}

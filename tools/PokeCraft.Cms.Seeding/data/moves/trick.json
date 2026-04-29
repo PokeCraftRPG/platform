@@ -1,0 +1,24 @@
+﻿{
+  "Id": "484b0f7a-5f11-4751-9826-75a65c55f817",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "trick",
+    "DisplayName": "Trick",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "trick",
+      "DisplayName": "Trick",
+      "Description": "The user catches the target off guard and swaps the target's held item with its own.",
+      "FieldValues": {}
+    }
+  }
+}

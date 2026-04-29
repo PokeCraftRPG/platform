@@ -1,0 +1,42 @@
+﻿{
+  "Id": "1af79ae8-f409-435e-80ac-f9927ef09dac",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "krabby",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"608b2217-6e2f-40c6-8569-f801de9641f2\"]",
+      "Height": "4",
+      "Weight": "65",
+      "YieldExperience": "65",
+      "PrimaryAbility": "[\"57e539ec-9a7b-4925-ad82-81080aa7ceb2\"]",
+      "SecondaryAbility": "[\"238257b2-205c-4b83-b5f1-393b8c11b2e9\"]",
+      "HiddenAbility": "[\"ef348627-bea1-4c87-9bf1-417ed3b66855\"]",
+      "BaseHP": "30",
+      "YieldHP": "0",
+      "BaseAttack": "105",
+      "YieldAttack": "1",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "25",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "25",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "krabby",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e6dedddf-c8ae-4902-aff2-60a3513367a9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kingdra",
+    "DisplayName": "Kingdra",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8f43fbb7-38ab-4dc5-b033-8d25244703e2\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kingdra",
+      "DisplayName": "Kingdra",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Dragon"
+      }
+    }
+  }
+}

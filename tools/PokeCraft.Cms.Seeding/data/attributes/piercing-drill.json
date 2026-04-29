@@ -1,0 +1,19 @@
+﻿{
+  "Id": "d90a617d-b2c3-4675-b1a0-ac66159113b1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "piercing-drill",
+    "DisplayName": "Piercing Drill",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "piercing-drill",
+      "DisplayName": "Piercing Drill",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

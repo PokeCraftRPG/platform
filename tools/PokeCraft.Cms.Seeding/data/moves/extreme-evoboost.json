@@ -1,0 +1,23 @@
+﻿{
+  "Id": "298a3d7b-fee4-4e4b-b20b-4fc09fae6678",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "extreme-evoboost",
+    "DisplayName": "Extreme Evoboost",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "extreme-evoboost",
+      "DisplayName": "Extreme Evoboost",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "f08023d7-d294-436b-bf75-a812c7532669",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gothitelle",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"bab75097-b4dc-4f0c-989e-ce46bad55879\"]",
+      "Height": "15",
+      "Weight": "440",
+      "YieldExperience": "221",
+      "PrimaryAbility": "[\"646cd171-4012-41af-b36f-69b1a3142f3e\"]",
+      "SecondaryAbility": "[\"2a7439f3-bce4-4614-9969-78ec2ce46f31\"]",
+      "HiddenAbility": "[\"cfe58e17-637f-488f-8a6a-a1a396382876\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "110",
+      "YieldSpecialDefense": "3",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gothitelle",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

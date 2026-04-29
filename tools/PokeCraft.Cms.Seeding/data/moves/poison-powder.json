@@ -1,0 +1,24 @@
+﻿{
+  "Id": "b9ca883f-7568-471c-b420-3270eccb5321",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "poison-powder",
+    "DisplayName": "Poison Powder",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "75",
+      "PowerPoints": "35"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "poison-powder",
+      "DisplayName": "Poison Powder",
+      "Description": "The user scatters a cloud of poisonous dust that poisons the target.",
+      "FieldValues": {}
+    }
+  }
+}

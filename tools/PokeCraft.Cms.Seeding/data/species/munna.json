@@ -1,0 +1,27 @@
+﻿{
+  "Id": "cc74e1ab-3f52-43ed-a9fb-d83d1af48359",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "munna",
+    "DisplayName": "Munna",
+    "Description": null,
+    "FieldValues": {
+      "Number": "517",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "munna",
+      "DisplayName": "Munna",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a68d3185-db19-4cb0-bbcd-c2140ea86b5a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "frogadier",
+    "DisplayName": "Frogadier",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7c21c438-6717-4c58-9083-652c3f3897cc\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "frogadier",
+      "DisplayName": "Frogadier",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bubble Frog"
+      }
+    }
+  }
+}

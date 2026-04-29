@@ -1,0 +1,41 @@
+﻿{
+  "Id": "6b8e62fd-094c-48d5-87b6-a1c187e9f98b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "polteageist-phony",
+    "DisplayName": "Phony Polteageist",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7333e762-805a-4a57-ab13-b8bc1fe2058e\"]",
+      "Height": "2",
+      "Weight": "4",
+      "YieldExperience": "178",
+      "PrimaryAbility": "[\"2b8b8cfa-e12e-43d2-b403-594ac9a1c1f7\"]",
+      "HiddenAbility": "[\"de5aabec-d7d6-43c0-9d1a-575c11318439\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "134",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "114",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "polteageist-phony",
+      "DisplayName": "Phony Polteageist",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "5b2d29d2-37fe-4c03-863d-479f9888f643",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gossifleur",
+    "DisplayName": "Gossifleur",
+    "Description": null,
+    "FieldValues": {
+      "Number": "829",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gossifleur",
+      "DisplayName": "Gossifleur",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

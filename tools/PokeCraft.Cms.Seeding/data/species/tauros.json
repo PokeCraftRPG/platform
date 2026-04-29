@@ -1,0 +1,27 @@
+﻿{
+  "Id": "7c9df02d-cfff-4a23-a7d1-c1e546b9f2b3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tauros",
+    "DisplayName": "Tauros",
+    "Description": null,
+    "FieldValues": {
+      "Number": "128",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tauros",
+      "DisplayName": "Tauros",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

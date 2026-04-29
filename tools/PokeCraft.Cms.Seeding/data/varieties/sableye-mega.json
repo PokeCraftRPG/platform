@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f5579434-3143-4dfb-9694-7fd64a307429",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sableye-mega",
+    "DisplayName": "Sableye",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"10339620-0a56-4e9e-a613-5410498b8b58\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sableye-mega",
+      "DisplayName": "Sableye",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Darkness"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1d4f5ca5-ece4-4e0f-a934-9c8226a4d8bc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "staravia",
+    "DisplayName": "Staravia",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"42b25703-fae3-4817-bd7c-f29f14a5ed83\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "staravia",
+      "DisplayName": "Staravia",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Starling"
+      }
+    }
+  }
+}

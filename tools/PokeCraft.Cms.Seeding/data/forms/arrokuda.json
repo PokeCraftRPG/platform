@@ -1,0 +1,41 @@
+﻿{
+  "Id": "065a2491-3078-4a13-be51-8ad1bfef974e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arrokuda",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"34d5a483-c3da-4271-95ce-49d4cb46c622\"]",
+      "Height": "5",
+      "Weight": "10",
+      "YieldExperience": "56",
+      "PrimaryAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "HiddenAbility": "[\"b6f4cb6f-0ada-4cc2-9831-18a37bbe68e7\"]",
+      "BaseHP": "41",
+      "YieldHP": "0",
+      "BaseAttack": "63",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "30",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "66",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arrokuda",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "514cad4d-d5e3-4e70-a388-c174ef862c9f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kyurem-white",
+    "DisplayName": "White Kyurem",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4a047b83-4c2c-4787-9fb5-1554ff0c1b6b\"]",
+      "Height": "36",
+      "Weight": "3250",
+      "YieldExperience": "350",
+      "PrimaryAbility": "[\"cfcb27cb-4217-496e-a1fc-337a5de8cc2d\"]",
+      "BaseHP": "125",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "170",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kyurem-white",
+      "DisplayName": "White Kyurem",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b739bbb3-d446-484d-af6b-4d66a8be6031",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "delphox",
+    "DisplayName": "Delphox",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"89be3fa3-8839-4641-8797-a33969487dac\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "delphox",
+      "DisplayName": "Delphox",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fox"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "96508e82-5ad1-43c8-9060-1d2a68f7bcb8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "black-hole",
+    "DisplayName": "Black Hole",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "black-hole",
+      "DisplayName": "Black Hole",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

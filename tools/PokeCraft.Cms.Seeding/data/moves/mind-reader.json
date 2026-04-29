@@ -1,0 +1,23 @@
+﻿{
+  "Id": "962ab6cf-b602-4955-ae84-6d97139a0646",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mind-reader",
+    "DisplayName": "Mind Reader",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mind-reader",
+      "DisplayName": "Mind Reader",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

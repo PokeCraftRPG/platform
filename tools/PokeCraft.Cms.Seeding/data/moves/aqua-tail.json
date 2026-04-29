@@ -1,0 +1,25 @@
+﻿{
+  "Id": "2ec7755f-ce3b-448d-b7d1-092a7f6c1cc0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aqua-tail",
+    "DisplayName": "Aqua Tail",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aqua-tail",
+      "DisplayName": "Aqua Tail",
+      "Description": "The user attacks by swinging its tail as if it were a vicious wave in a raging storm.",
+      "FieldValues": {}
+    }
+  }
+}

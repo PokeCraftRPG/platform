@@ -1,0 +1,23 @@
+﻿{
+  "Id": "a078ae1b-113c-47ea-96b8-76818381cdd4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mat-block",
+    "DisplayName": "Mat Block",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mat-block",
+      "DisplayName": "Mat Block",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

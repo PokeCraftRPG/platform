@@ -1,0 +1,26 @@
+﻿{
+  "Id": "58d82249-eb6a-4bb2-a840-309030342bc1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "totodile",
+    "DisplayName": "Totodile",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"79879755-ff52-4282-a97a-bd2b6fe5ada1\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "totodile",
+      "DisplayName": "Totodile",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Big Jaw"
+      }
+    }
+  }
+}

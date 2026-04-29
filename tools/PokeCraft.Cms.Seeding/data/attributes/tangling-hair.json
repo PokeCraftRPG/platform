@@ -1,0 +1,19 @@
+﻿{
+  "Id": "e48da3f1-77c8-4a85-8c94-6f8e5dc10372",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tangling-hair",
+    "DisplayName": "Tangling Hair",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tangling-hair",
+      "DisplayName": "Tangling Hair",
+      "Description": "Contact with the Pokémon lowers the attacker's Speed stat.",
+      "FieldValues": {}
+    }
+  }
+}

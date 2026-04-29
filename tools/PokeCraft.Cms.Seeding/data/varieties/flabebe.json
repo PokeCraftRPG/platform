@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9acd5b4d-999b-40b2-88a0-794eff39df3a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flabebe",
+    "DisplayName": "Flabébé",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"bc0bb618-f04e-4ab2-8cfc-9b0afd286da6\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flabebe",
+      "DisplayName": "Flabébé",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Single Bloom"
+      }
+    }
+  }
+}

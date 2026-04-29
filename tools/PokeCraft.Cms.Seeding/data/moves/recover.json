@@ -1,0 +1,23 @@
+﻿{
+  "Id": "2557a0d3-47cb-4770-b621-1280ebcc6ebc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "recover",
+    "DisplayName": "Recover",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "recover",
+      "DisplayName": "Recover",
+      "Description": "The user regenerates its cells, restoring its own HP by up to half its max HP.",
+      "FieldValues": {}
+    }
+  }
+}

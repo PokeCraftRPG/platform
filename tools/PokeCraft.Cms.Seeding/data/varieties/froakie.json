@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e82f858d-f636-48c5-ad88-a67c4c26008d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "froakie",
+    "DisplayName": "Froakie",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"788ecf6d-c87e-49de-8358-3ae12390a50d\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "froakie",
+      "DisplayName": "Froakie",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bubble Frog"
+      }
+    }
+  }
+}

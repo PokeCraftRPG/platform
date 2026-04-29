@@ -1,0 +1,25 @@
+﻿{
+  "Id": "f3d74aaa-6fb5-4d40-8a17-c84ff96c1bff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "solrock",
+    "DisplayName": "Solrock",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a62edef7-0af0-4bce-8f79-d44a0af1d07d\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "solrock",
+      "DisplayName": "Solrock",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Meteorite"
+      }
+    }
+  }
+}

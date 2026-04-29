@@ -1,0 +1,19 @@
+﻿{
+  "Id": "cbe8b94d-6229-4e0b-b029-1c7535d1e413",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "punk-rock",
+    "DisplayName": "Punk Rock",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "punk-rock",
+      "DisplayName": "Punk Rock",
+      "Description": "Boosts the power of sound-based moves. The Pokémon also takes half the damage from these kinds of moves.",
+      "FieldValues": {}
+    }
+  }
+}

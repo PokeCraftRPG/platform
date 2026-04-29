@@ -1,0 +1,42 @@
+﻿{
+  "Id": "dfa91cab-f8de-4b72-ab8c-bd81800bc1ca",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mabosstiff",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b0b10d23-6bcc-4aec-9fef-6f4ebe8eab5b\"]",
+      "Height": "11",
+      "Weight": "610",
+      "YieldExperience": "177",
+      "PrimaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "SecondaryAbility": "[\"1538dc09-0678-4490-8143-241c5e8f9ee3\"]",
+      "HiddenAbility": "[\"df0d1b67-be4a-45c3-9aee-f183bc1e0edd\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "2",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mabosstiff",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

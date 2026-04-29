@@ -1,0 +1,42 @@
+﻿{
+  "Id": "3cc2d185-4e0c-4ef5-b943-482a71b057f4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wailmer",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9b1774c8-b547-4998-8107-42c4c7d4fdd4\"]",
+      "Height": "20",
+      "Weight": "1300",
+      "YieldExperience": "80",
+      "PrimaryAbility": "[\"24615c56-6280-47e4-8568-73a412d83865\"]",
+      "SecondaryAbility": "[\"a720be5d-1a4e-4e14-8426-1ba0fc59a8ed\"]",
+      "HiddenAbility": "[\"04822c52-0ef2-4b5e-a4bb-176772f6c3d8\"]",
+      "BaseHP": "130",
+      "YieldHP": "1",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "35",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "35",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wailmer",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

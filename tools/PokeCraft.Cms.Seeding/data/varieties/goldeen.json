@@ -1,0 +1,26 @@
+﻿{
+  "Id": "42977939-cb88-4d03-85d0-327821f9d308",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "goldeen",
+    "DisplayName": "Goldeen",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"376ce8a1-e1fd-4085-b18d-c14cbea9cce1\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "goldeen",
+      "DisplayName": "Goldeen",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Goldfish"
+      }
+    }
+  }
+}

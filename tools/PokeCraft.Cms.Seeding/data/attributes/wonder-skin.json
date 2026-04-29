@@ -1,0 +1,19 @@
+﻿{
+  "Id": "f0c9ab67-3a27-4710-9c6c-d1ebe1d18d98",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wonder-skin",
+    "DisplayName": "Wonder Skin",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wonder-skin",
+      "DisplayName": "Wonder Skin",
+      "Description": "Makes status moves more likely to miss the Pokémon.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "cff2dccc-2c21-4b38-8f40-4c03dfe4ba56",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drain-punch",
+    "DisplayName": "Drain Punch",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "75",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drain-punch",
+      "DisplayName": "Drain Punch",
+      "Description": "The user attacks with an energy-draining punch. The user's HP is restored by up to half the damage taken by the target.",
+      "FieldValues": {}
+    }
+  }
+}

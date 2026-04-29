@@ -1,0 +1,40 @@
+﻿{
+  "Id": "c790f2b1-b242-44a2-95b5-fd0250f82762",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aggron-mega",
+    "DisplayName": "Mega Aggron",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a7356a49-aa11-4061-86af-8dbbadb94aac\"]",
+      "Height": "22",
+      "Weight": "3950",
+      "YieldExperience": "284",
+      "PrimaryAbility": "[\"7262528d-ef5d-4457-96f6-86321b5fb727\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "140",
+      "YieldAttack": "0",
+      "BaseDefense": "230",
+      "YieldDefense": "3",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aggron-mega",
+      "DisplayName": "Mega Aggron",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

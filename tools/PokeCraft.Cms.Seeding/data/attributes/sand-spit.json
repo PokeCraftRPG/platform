@@ -1,0 +1,19 @@
+﻿{
+  "Id": "2ae8a15b-05f1-4fac-99d9-cec278ed6c0d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sand-spit",
+    "DisplayName": "Sand Spit",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sand-spit",
+      "DisplayName": "Sand Spit",
+      "Description": "The Pokémon creates a sandstorm when it's hit by an attack.",
+      "FieldValues": {}
+    }
+  }
+}

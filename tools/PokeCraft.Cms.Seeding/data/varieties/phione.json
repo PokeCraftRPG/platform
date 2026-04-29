@@ -1,0 +1,25 @@
+﻿{
+  "Id": "089e3732-bdf3-4b28-bc6b-2f8d940ac206",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "phione",
+    "DisplayName": "Phione",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ab1a5863-64bc-4a59-ae7d-b8a9b43432f9\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "phione",
+      "DisplayName": "Phione",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sea Drifter"
+      }
+    }
+  }
+}

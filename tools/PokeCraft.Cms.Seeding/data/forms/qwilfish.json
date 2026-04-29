@@ -1,0 +1,43 @@
+﻿{
+  "Id": "03f75831-0410-45b9-a1b8-aaef0fd7983a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "qwilfish",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6e2c7d29-4a77-4994-8bfa-dcb44e77796b\"]",
+      "Height": "5",
+      "Weight": "39",
+      "YieldExperience": "88",
+      "PrimaryAbility": "[\"2f1ed275-bfaf-494d-8d85-c48aee736e43\"]",
+      "SecondaryAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "HiddenAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "1",
+      "BaseDefense": "85",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "qwilfish",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

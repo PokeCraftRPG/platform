@@ -1,0 +1,19 @@
+﻿{
+  "Id": "e32eb06e-b4e9-497c-904f-3689aa16a5aa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mimicry",
+    "DisplayName": "Mimicry",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mimicry",
+      "DisplayName": "Mimicry",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

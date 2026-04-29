@@ -1,0 +1,28 @@
+﻿{
+  "Id": "68c25ec7-d56d-4067-ab58-d0b8dcbab827",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stunfisk",
+    "DisplayName": "Stunfisk",
+    "Description": null,
+    "FieldValues": {
+      "Number": "618",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stunfisk",
+      "DisplayName": "Stunfisk",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

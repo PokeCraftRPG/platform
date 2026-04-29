@@ -1,0 +1,43 @@
+﻿{
+  "Id": "fe61cd65-8434-4b57-b16a-25ebdbb3afcb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "impidimp",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"91003d83-86c9-4489-8f08-164d9c49a404\"]",
+      "Height": "4",
+      "Weight": "55",
+      "YieldExperience": "53",
+      "PrimaryAbility": "[\"84a30672-4ea5-4904-84fc-d04259c936a3\"]",
+      "SecondaryAbility": "[\"646cd171-4012-41af-b36f-69b1a3142f3e\"]",
+      "HiddenAbility": "[\"03108b44-e57b-442a-ba0e-b6de95a975c1\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "30",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "impidimp",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

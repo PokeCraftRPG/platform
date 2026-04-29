@@ -1,0 +1,42 @@
+﻿{
+  "Id": "0498f89c-8e46-4b21-88ed-a48e13fc073f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "koffing",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2c424b5d-c056-4312-a892-b9c9f8400c4a\"]",
+      "Height": "6",
+      "Weight": "10",
+      "YieldExperience": "68",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "SecondaryAbility": "[\"cb37802d-b8b1-45d2-8691-527c5dde90d0\"]",
+      "HiddenAbility": "[\"7cea48e5-cd7c-41df-82f9-a91772037aff\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "koffing",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

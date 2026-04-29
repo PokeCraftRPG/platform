@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4407ded7-e8fe-4a3c-a56f-41e924ab46b5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "roselia",
+    "DisplayName": "Roselia",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"40e2964f-f87a-497e-8a88-282dd71c33b8\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "roselia",
+      "DisplayName": "Roselia",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Thorn"
+      }
+    }
+  }
+}

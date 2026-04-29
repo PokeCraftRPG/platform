@@ -1,0 +1,42 @@
+﻿{
+  "Id": "c2ec060f-9b18-4c9f-8af2-01b8a2d3e151",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "weezing",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"76276d6d-f1ce-4160-bd85-d0e67a9d3f34\"]",
+      "Height": "12",
+      "Weight": "95",
+      "YieldExperience": "172",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "SecondaryAbility": "[\"cb37802d-b8b1-45d2-8691-527c5dde90d0\"]",
+      "HiddenAbility": "[\"7cea48e5-cd7c-41df-82f9-a91772037aff\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "120",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "weezing",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

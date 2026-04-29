@@ -1,0 +1,42 @@
+﻿{
+  "Id": "8a9f8a3b-0004-487c-8636-8d4e45d60dbd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slowpoke-galar",
+    "DisplayName": "Galarian Slowpoke",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"744ecfa3-fbdf-416a-b2c1-5ceb40955fda\"]",
+      "Height": "12",
+      "Weight": "360",
+      "YieldExperience": "63",
+      "PrimaryAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "SecondaryAbility": "[\"1d2b3915-c19d-4017-baac-19e24cc4b20a\"]",
+      "HiddenAbility": "[\"3f2976c2-09ac-4c69-8b32-5d930032faba\"]",
+      "BaseHP": "90",
+      "YieldHP": "1",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "15",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slowpoke-galar",
+      "DisplayName": "Galarian Slowpoke",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

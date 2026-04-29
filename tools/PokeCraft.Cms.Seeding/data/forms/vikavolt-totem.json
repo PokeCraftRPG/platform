@@ -1,0 +1,41 @@
+﻿{
+  "Id": "b6b36ca2-70f5-4cc2-ba94-f28cc844a3d9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vikavolt-totem",
+    "DisplayName": "Totem Vikavolt",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"173f0664-dbf8-4e68-b82d-f014e8e53f96\"]",
+      "Height": "26",
+      "Weight": "1475",
+      "YieldExperience": "225",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "BaseHP": "77",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "145",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "43",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vikavolt-totem",
+      "DisplayName": "Totem Vikavolt",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

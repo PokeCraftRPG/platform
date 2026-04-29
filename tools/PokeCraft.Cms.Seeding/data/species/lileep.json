@@ -1,0 +1,27 @@
+﻿{
+  "Id": "6075e706-0ccd-4462-b469-6fcce9280c3c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lileep",
+    "DisplayName": "Lileep",
+    "Description": null,
+    "FieldValues": {
+      "Number": "345",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lileep",
+      "DisplayName": "Lileep",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

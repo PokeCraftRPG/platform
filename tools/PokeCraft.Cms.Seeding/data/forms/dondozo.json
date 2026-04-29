@@ -1,0 +1,42 @@
+﻿{
+  "Id": "cce83855-8d29-4ed6-b69b-4cf8994cb765",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dondozo",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4df4670d-c09b-4a4e-80e6-d9b6b7a50917\"]",
+      "Height": "120",
+      "Weight": "2200",
+      "YieldExperience": "265",
+      "PrimaryAbility": "[\"f9f08a4a-14de-4ff0-8844-8f97068aa2a3\"]",
+      "SecondaryAbility": "[\"a720be5d-1a4e-4e14-8426-1ba0fc59a8ed\"]",
+      "HiddenAbility": "[\"24615c56-6280-47e4-8568-73a412d83865\"]",
+      "BaseHP": "150",
+      "YieldHP": "3",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "115",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dondozo",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

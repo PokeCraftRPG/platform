@@ -1,0 +1,25 @@
+﻿{
+  "Id": "2e7e6b4c-7b0c-414c-83b7-5eaef1b2304b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "double-slap",
+    "DisplayName": "Double Slap",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "85",
+      "Power": "15",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "double-slap",
+      "DisplayName": "Double Slap",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

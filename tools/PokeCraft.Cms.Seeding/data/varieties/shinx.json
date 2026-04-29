@@ -1,0 +1,26 @@
+﻿{
+  "Id": "442659de-9121-483a-bd2a-cbd0d058d4ed",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shinx",
+    "DisplayName": "Shinx",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"28d2f4dd-1ec4-48fa-91db-fdea83f506da\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shinx",
+      "DisplayName": "Shinx",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Flash"
+      }
+    }
+  }
+}

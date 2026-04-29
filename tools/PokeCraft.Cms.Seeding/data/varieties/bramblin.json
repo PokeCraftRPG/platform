@@ -1,0 +1,26 @@
+﻿{
+  "Id": "91a1320a-dafb-4e2a-82e0-87b6760e8d2b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bramblin",
+    "DisplayName": "Bramblin",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"360cf353-bc7e-40b6-8e9e-56ce65ba5af0\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bramblin",
+      "DisplayName": "Bramblin",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tumbleweed"
+      }
+    }
+  }
+}

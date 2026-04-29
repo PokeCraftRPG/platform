@@ -1,0 +1,19 @@
+﻿{
+  "Id": "207d4c85-ca23-4d81-9c30-f471c8b5863e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chilling-neigh",
+    "DisplayName": "Chilling Neigh",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chilling-neigh",
+      "DisplayName": "Chilling Neigh",
+      "Description": "When the Pokémon knocks out a target, it utters a chilling neigh, which boosts its Attack stat.",
+      "FieldValues": {}
+    }
+  }
+}

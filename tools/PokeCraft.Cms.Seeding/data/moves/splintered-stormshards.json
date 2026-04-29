@@ -1,0 +1,24 @@
+﻿{
+  "Id": "b4f06368-54ee-4ca5-9e3e-191e661aa84a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "splintered-stormshards",
+    "DisplayName": "Splintered Stormshards",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Rock\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "190",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "splintered-stormshards",
+      "DisplayName": "Splintered Stormshards",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

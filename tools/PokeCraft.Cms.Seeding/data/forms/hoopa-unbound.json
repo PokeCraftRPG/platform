@@ -1,0 +1,41 @@
+﻿{
+  "Id": "0513e8c7-7262-4b89-909f-f02b1e98b0e3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hoopa-unbound",
+    "DisplayName": "Hoopa Unbound",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"df371e1c-5f0c-4a4c-85ec-afd2be8cda6f\"]",
+      "Height": "65",
+      "Weight": "4900",
+      "YieldExperience": "306",
+      "PrimaryAbility": "[\"9d1934a0-3c6e-44b9-b7a4-38ccef17391a\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "160",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "170",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "130",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hoopa-unbound",
+      "DisplayName": "Hoopa Unbound",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

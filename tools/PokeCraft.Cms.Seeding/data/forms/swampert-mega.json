@@ -1,0 +1,41 @@
+﻿{
+  "Id": "c046eb87-2f2b-40ee-a43a-94d4456d5592",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swampert-mega",
+    "DisplayName": "Mega Swampert",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e1c092d2-95b5-4ec1-8f2a-e903b6c1c239\"]",
+      "Height": "19",
+      "Weight": "1020",
+      "YieldExperience": "286",
+      "PrimaryAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "150",
+      "YieldAttack": "3",
+      "BaseDefense": "110",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "110",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swampert-mega",
+      "DisplayName": "Mega Swampert",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

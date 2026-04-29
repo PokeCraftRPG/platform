@@ -1,0 +1,42 @@
+﻿{
+  "Id": "0ee8334d-b222-403a-b341-d2a611958b80",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hitmonchan",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3d63afad-e23a-43f5-9c8a-912e91cb12de\"]",
+      "Height": "14",
+      "Weight": "502",
+      "YieldExperience": "159",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "SecondaryAbility": "[\"e3b961ab-87de-40fc-9d8d-95dda45c14df\"]",
+      "HiddenAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "105",
+      "YieldAttack": "0",
+      "BaseDefense": "79",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "110",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "76",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hitmonchan",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

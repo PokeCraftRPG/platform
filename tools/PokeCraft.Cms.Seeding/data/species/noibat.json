@@ -1,0 +1,28 @@
+﻿{
+  "Id": "9292991f-499f-43cd-9f06-a20bc1e56013",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "noibat",
+    "DisplayName": "Noibat",
+    "Description": null,
+    "FieldValues": {
+      "Number": "714",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Flying\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "noibat",
+      "DisplayName": "Noibat",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

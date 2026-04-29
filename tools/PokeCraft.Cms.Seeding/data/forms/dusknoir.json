@@ -1,0 +1,41 @@
+﻿{
+  "Id": "c0c702af-d1bc-4b76-886c-89840b936071",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dusknoir",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1a27dc83-fe53-401b-b015-fe03a05b65d8\"]",
+      "Height": "22",
+      "Weight": "1066",
+      "YieldExperience": "236",
+      "PrimaryAbility": "[\"04822c52-0ef2-4b5e-a4bb-176772f6c3d8\"]",
+      "HiddenAbility": "[\"646cd171-4012-41af-b36f-69b1a3142f3e\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "135",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "135",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dusknoir",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

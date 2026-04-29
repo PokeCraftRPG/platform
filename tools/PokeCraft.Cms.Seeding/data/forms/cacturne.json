@@ -1,0 +1,42 @@
+﻿{
+  "Id": "0eeb47be-0f98-4c51-81b8-80ab21fe9f45",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cacturne",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"95849143-6e11-4bef-a3ba-303f1d21cfeb\"]",
+      "Height": "13",
+      "Weight": "774",
+      "YieldExperience": "166",
+      "PrimaryAbility": "[\"2298dae8-5c1f-423f-960d-8cf61b19c897\"]",
+      "HiddenAbility": "[\"ce06d228-a509-444d-ab16-f046f2519e89\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "115",
+      "YieldAttack": "1",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "115",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cacturne",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

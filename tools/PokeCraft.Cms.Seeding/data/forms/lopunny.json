@@ -1,0 +1,42 @@
+﻿{
+  "Id": "b4b476a9-6a38-47d0-a964-b99d537316eb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lopunny",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f49477df-9489-47a3-a787-87481880705f\"]",
+      "Height": "12",
+      "Weight": "333",
+      "YieldExperience": "168",
+      "PrimaryAbility": "[\"1547f00e-f05d-4d0c-98c7-9a77e75e1bf5\"]",
+      "SecondaryAbility": "[\"0d470a82-2040-4e95-8e52-999c26f4514d\"]",
+      "HiddenAbility": "[\"170e2598-7fd5-497f-9003-f9d753aadd0d\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "76",
+      "YieldAttack": "0",
+      "BaseDefense": "84",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "54",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "96",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "105",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lopunny",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

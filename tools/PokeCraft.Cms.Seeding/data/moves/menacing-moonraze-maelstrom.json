@@ -1,0 +1,24 @@
+﻿{
+  "Id": "dd7f3316-752f-4344-a912-97daaa66223f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "menacing-moonraze-maelstrom",
+    "DisplayName": "Menacing Moonraze Maelstrom",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Special\"]",
+      "Power": "200",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "menacing-moonraze-maelstrom",
+      "DisplayName": "Menacing Moonraze Maelstrom",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7956b3ce-a605-4c23-8a6f-254b3abfc762",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "elgyem",
+    "DisplayName": "Elgyem",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4639a250-80cf-4eca-b75a-c17a73e74710\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "elgyem",
+      "DisplayName": "Elgyem",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cerebral"
+      }
+    }
+  }
+}

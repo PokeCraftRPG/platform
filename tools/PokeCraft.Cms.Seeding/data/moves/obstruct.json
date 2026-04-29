@@ -1,0 +1,24 @@
+﻿{
+  "Id": "e7567561-3e59-477d-8e05-d4207ebbc8cc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "obstruct",
+    "DisplayName": "Obstruct",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "obstruct",
+      "DisplayName": "Obstruct",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

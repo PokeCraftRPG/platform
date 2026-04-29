@@ -1,0 +1,40 @@
+﻿{
+  "Id": "4ee5c2d2-c3c5-413f-b4dd-20fc12943a54",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wishiwashi-school",
+    "DisplayName": "School Wishiwashi",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"78d08ced-8663-4d31-9a21-80f43a71e22d\"]",
+      "Height": "82",
+      "Weight": "786",
+      "YieldExperience": "217",
+      "PrimaryAbility": "[\"b90785a0-8303-4bb7-9c65-60956b510467\"]",
+      "BaseHP": "45",
+      "YieldHP": "1",
+      "BaseAttack": "140",
+      "YieldAttack": "0",
+      "BaseDefense": "130",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "140",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "135",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wishiwashi-school",
+      "DisplayName": "School Wishiwashi",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

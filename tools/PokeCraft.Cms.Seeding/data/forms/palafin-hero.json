@@ -1,0 +1,40 @@
+﻿{
+  "Id": "372ffa8a-b0cb-415c-9c85-a49807865961",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "palafin-hero",
+    "DisplayName": "Hero Form Palafin",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4d702c1f-5928-4753-9b8c-ea281f466f0c\"]",
+      "Height": "18",
+      "Weight": "974",
+      "YieldExperience": "160",
+      "PrimaryAbility": "[\"16d4e841-a8a3-4259-b926-ab6b461698d6\"]",
+      "BaseHP": "100",
+      "YieldHP": "2",
+      "BaseAttack": "160",
+      "YieldAttack": "0",
+      "BaseDefense": "97",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "106",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "87",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "palafin-hero",
+      "DisplayName": "Hero Form Palafin",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "a6db31be-a6f5-412a-b7cf-7f54975547c3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cloyster",
+    "DisplayName": "Cloyster",
+    "Description": null,
+    "FieldValues": {
+      "Number": "91",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cloyster",
+      "DisplayName": "Cloyster",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

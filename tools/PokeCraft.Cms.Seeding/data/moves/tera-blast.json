@@ -1,0 +1,25 @@
+﻿{
+  "Id": "9c0a4f69-5535-408f-8611-86940fd058d5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tera-blast",
+    "DisplayName": "Tera Blast",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tera-blast",
+      "DisplayName": "Tera Blast",
+      "Description": "If the user has Terastallized, it unleashes energy of its Tera Type. This move inflicts damage using the Attack or Sp. Atk stat—whichever is higher for the user.",
+      "FieldValues": {}
+    }
+  }
+}

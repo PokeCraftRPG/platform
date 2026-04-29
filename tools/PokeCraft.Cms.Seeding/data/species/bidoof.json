@@ -1,0 +1,28 @@
+﻿{
+  "Id": "22fed39d-26ae-441a-9cb6-e686a6233140",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bidoof",
+    "DisplayName": "Bidoof",
+    "Description": null,
+    "FieldValues": {
+      "Number": "399",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bidoof",
+      "DisplayName": "Bidoof",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

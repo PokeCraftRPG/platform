@@ -1,0 +1,26 @@
+﻿{
+  "Id": "10923a4a-70a4-4e78-9c0a-3f3c0e988135",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toedscruel",
+    "DisplayName": "Toedscruel",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6fd1bb57-5703-49d4-a65d-da27db2bf2db\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toedscruel",
+      "DisplayName": "Toedscruel",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Woodear"
+      }
+    }
+  }
+}

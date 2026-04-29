@@ -1,0 +1,25 @@
+﻿{
+  "Id": "51b27413-ab40-4509-a030-31738fe7dfd7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cut",
+    "DisplayName": "Cut",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "95",
+      "Power": "50",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cut",
+      "DisplayName": "Cut",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

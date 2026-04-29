@@ -1,0 +1,23 @@
+﻿{
+  "Id": "3ea3bafd-fb45-45af-93e6-dd86c5e6618b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "curse",
+    "DisplayName": "Curse",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "curse",
+      "DisplayName": "Curse",
+      "Description": "A move that has different effects depending on whether the user is a Ghost type or not.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "dec94f41-f414-46b8-8c1f-6761f02a918a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "runerigus",
+    "DisplayName": "Runerigus",
+    "Description": null,
+    "FieldValues": {
+      "Number": "867",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Mineral\"]",
+      "SecondaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "runerigus",
+      "DisplayName": "Runerigus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

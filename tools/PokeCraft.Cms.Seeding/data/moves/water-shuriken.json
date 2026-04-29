@@ -1,0 +1,25 @@
+﻿{
+  "Id": "79258afd-aefe-443f-a15b-18e30ddd17d0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "water-shuriken",
+    "DisplayName": "Water Shuriken",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "15",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "water-shuriken",
+      "DisplayName": "Water Shuriken",
+      "Description": "The user hits the target with throwing stars two to five times in a row. This move always goes first.",
+      "FieldValues": {}
+    }
+  }
+}

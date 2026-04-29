@@ -1,0 +1,27 @@
+﻿{
+  "Id": "91665c9b-e6a1-4b65-829e-f21082f434a0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "weavile",
+    "DisplayName": "Weavile",
+    "Description": null,
+    "FieldValues": {
+      "Number": "461",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "weavile",
+      "DisplayName": "Weavile",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

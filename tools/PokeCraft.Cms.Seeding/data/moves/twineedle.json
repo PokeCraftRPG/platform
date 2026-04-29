@@ -1,0 +1,25 @@
+﻿{
+  "Id": "364e13c8-2901-43a9-9f98-a6813ecc581d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "twineedle",
+    "DisplayName": "Twineedle",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "25",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "twineedle",
+      "DisplayName": "Twineedle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

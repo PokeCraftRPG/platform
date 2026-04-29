@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9886aa6c-874a-4a3b-a002-c63b5ee68f1e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "octillery",
+    "DisplayName": "Octillery",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5eb13d4b-557b-4ed0-9b45-9e21e1c5bb71\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "octillery",
+      "DisplayName": "Octillery",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Jet"
+      }
+    }
+  }
+}

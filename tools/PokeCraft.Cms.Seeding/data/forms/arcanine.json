@@ -1,0 +1,42 @@
+﻿{
+  "Id": "5b374494-db1e-4ce9-86e4-9885147d298c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arcanine",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4992c8a4-cad8-46e5-bd26-5505b25c3a7c\"]",
+      "Height": "19",
+      "Weight": "1550",
+      "YieldExperience": "194",
+      "PrimaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "SecondaryAbility": "[\"956efecf-ecf7-4731-9df1-25171033ad13\"]",
+      "HiddenAbility": "[\"a1454a00-6731-4df8-b5b9-51b8ec1979e8\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "110",
+      "YieldAttack": "2",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arcanine",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "aef49a6f-4080-42f2-bc9d-619461d1808c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "foongus",
+    "DisplayName": "Foongus",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c93983fd-ad47-40ea-a2fc-1ca19512b8d5\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "foongus",
+      "DisplayName": "Foongus",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mushroom"
+      }
+    }
+  }
+}

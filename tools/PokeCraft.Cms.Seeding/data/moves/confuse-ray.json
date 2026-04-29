@@ -1,0 +1,24 @@
+﻿{
+  "Id": "0c4692c1-a40f-46fa-a1fa-d955fd492c49",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "confuse-ray",
+    "DisplayName": "Confuse Ray",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "confuse-ray",
+      "DisplayName": "Confuse Ray",
+      "Description": "The target is exposed to a sinister ray that causes confusion.",
+      "FieldValues": {}
+    }
+  }
+}

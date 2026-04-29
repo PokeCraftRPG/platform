@@ -1,0 +1,42 @@
+﻿{
+  "Id": "330a5c27-560d-4531-b367-45081e639093",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bergmite",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"aff56702-3c41-481a-a4a2-4884d35d2e52\"]",
+      "Height": "10",
+      "Weight": "995",
+      "YieldExperience": "61",
+      "PrimaryAbility": "[\"1d2b3915-c19d-4017-baac-19e24cc4b20a\"]",
+      "SecondaryAbility": "[\"c28be462-7265-4527-a8aa-85774f7eaf7b\"]",
+      "HiddenAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "69",
+      "YieldAttack": "0",
+      "BaseDefense": "85",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "32",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "35",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "28",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bergmite",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

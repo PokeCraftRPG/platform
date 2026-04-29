@@ -1,0 +1,26 @@
+﻿{
+  "Id": "704f248b-b3bd-47b5-b6ee-418363606369",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blitzle",
+    "DisplayName": "Blitzle",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"44b7f5b2-ee08-4891-b4cc-e60c29c0e462\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blitzle",
+      "DisplayName": "Blitzle",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Electrified"
+      }
+    }
+  }
+}

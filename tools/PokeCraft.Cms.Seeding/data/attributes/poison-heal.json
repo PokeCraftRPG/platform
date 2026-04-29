@@ -1,0 +1,19 @@
+﻿{
+  "Id": "679361b8-19ae-401b-9f8c-969aed015f88",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "poison-heal",
+    "DisplayName": "Poison Heal",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "poison-heal",
+      "DisplayName": "Poison Heal",
+      "Description": "If poisoned, the Pokémon has its HP restored instead of taking damage.",
+      "FieldValues": {}
+    }
+  }
+}

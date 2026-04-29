@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7766ca55-c896-401c-ad00-0834ad47d9f9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hatterene",
+    "DisplayName": "Hatterene",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"329fc0e9-8f21-45f5-ab58-db1613d220dd\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hatterene",
+      "DisplayName": "Hatterene",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Silent"
+      }
+    }
+  }
+}

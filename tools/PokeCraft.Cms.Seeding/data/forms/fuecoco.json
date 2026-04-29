@@ -1,0 +1,41 @@
+﻿{
+  "Id": "50df385e-fb81-48c8-a345-80664375aff7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fuecoco",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"57057737-c240-4566-b138-041d487568d6\"]",
+      "Height": "4",
+      "Weight": "98",
+      "YieldExperience": "62",
+      "PrimaryAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "HiddenAbility": "[\"f9f08a4a-14de-4ff0-8844-8f97068aa2a3\"]",
+      "BaseHP": "67",
+      "YieldHP": "1",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "59",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "63",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "36",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fuecoco",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

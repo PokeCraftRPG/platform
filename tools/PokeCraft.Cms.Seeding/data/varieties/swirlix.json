@@ -1,0 +1,26 @@
+﻿{
+  "Id": "dc83cb04-923a-4fef-9a41-bb649b677b95",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swirlix",
+    "DisplayName": "Swirlix",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"fa7a395e-c1ca-4140-a24c-cf5b6b73f59f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swirlix",
+      "DisplayName": "Swirlix",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cotton Candy"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c57660eb-e3e0-4ae4-bf9a-09fee10de283",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swinub",
+    "DisplayName": "Swinub",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9d43cbea-d2ca-4847-afdf-6f1078c6b30f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swinub",
+      "DisplayName": "Swinub",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Pig"
+      }
+    }
+  }
+}

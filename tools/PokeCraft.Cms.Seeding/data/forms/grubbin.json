@@ -1,0 +1,40 @@
+﻿{
+  "Id": "377c1f43-e5e8-4bef-8a3a-456335e4ad95",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grubbin",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e53cdf9a-9fde-4148-9f05-744658614a09\"]",
+      "Height": "4",
+      "Weight": "44",
+      "YieldExperience": "60",
+      "PrimaryAbility": "[\"ba1b3a50-acc0-4032-bf14-6572fa26daed\"]",
+      "BaseHP": "47",
+      "YieldHP": "0",
+      "BaseAttack": "62",
+      "YieldAttack": "1",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "46",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grubbin",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

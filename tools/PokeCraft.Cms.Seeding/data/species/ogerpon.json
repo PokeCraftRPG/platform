@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f1f69fb1-13d8-497e-a705-3716dd9c72c5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ogerpon",
+    "DisplayName": "Ogerpon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "1017",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "5",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "50",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ogerpon",
+      "DisplayName": "Ogerpon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

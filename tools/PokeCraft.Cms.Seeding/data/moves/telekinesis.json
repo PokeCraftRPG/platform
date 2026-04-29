@@ -1,0 +1,23 @@
+﻿{
+  "Id": "d44279a5-7c0f-49ea-b298-4b5782b6d91d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "telekinesis",
+    "DisplayName": "Telekinesis",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "telekinesis",
+      "DisplayName": "Telekinesis",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

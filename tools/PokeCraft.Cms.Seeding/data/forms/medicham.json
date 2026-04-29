@@ -1,0 +1,42 @@
+﻿{
+  "Id": "9675a208-672f-4508-90e1-2c9dbf0e756e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "medicham",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7ed9f4b0-dbaa-436f-a37b-f75a12409e17\"]",
+      "Height": "13",
+      "Weight": "315",
+      "YieldExperience": "144",
+      "PrimaryAbility": "[\"820eb316-147b-47dc-860c-3308eb41e6e0\"]",
+      "HiddenAbility": "[\"f5863110-b5b9-4629-b95c-3869ed34433d\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "medicham",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

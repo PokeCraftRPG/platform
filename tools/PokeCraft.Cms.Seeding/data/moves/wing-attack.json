@@ -1,0 +1,25 @@
+﻿{
+  "Id": "437a9f6d-f09f-41c5-9800-cf8ee4bcc0cf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wing-attack",
+    "DisplayName": "Wing Attack",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "35"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wing-attack",
+      "DisplayName": "Wing Attack",
+      "Description": "The target is struck with large, imposing wings spread wide to inflict damage.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "baa84f8b-4940-4492-8b17-46310a043059",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "yamask-galar",
+    "DisplayName": "Galarian Yamask",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"77d440a5-7d79-4f44-a212-3e74954615e4\"]",
+      "Height": "5",
+      "Weight": "15",
+      "YieldExperience": "61",
+      "PrimaryAbility": "[\"30dbf203-5314-4da2-88ee-b0475372d9d4\"]",
+      "BaseHP": "38",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "85",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "yamask-galar",
+      "DisplayName": "Galarian Yamask",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

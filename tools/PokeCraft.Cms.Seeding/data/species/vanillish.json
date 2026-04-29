@@ -1,0 +1,27 @@
+﻿{
+  "Id": "991a6cc9-c74a-4db3-a39a-7b4e251ba7e1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vanillish",
+    "DisplayName": "Vanillish",
+    "Description": null,
+    "FieldValues": {
+      "Number": "583",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vanillish",
+      "DisplayName": "Vanillish",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,40 @@
+﻿{
+  "Id": "090907ba-fa63-41f9-91b6-e7861f61eadd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "komala",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"58a3051d-16b9-4780-be74-f712b78ca623\"]",
+      "Height": "4",
+      "Weight": "199",
+      "YieldExperience": "168",
+      "PrimaryAbility": "[\"cdb67ead-1686-4ec1-9350-7df79bb7709e\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "115",
+      "YieldAttack": "2",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "komala",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

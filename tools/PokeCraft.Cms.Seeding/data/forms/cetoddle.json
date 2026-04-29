@@ -1,0 +1,42 @@
+﻿{
+  "Id": "8dcfbb29-6a7c-42da-bfbe-8bad05da176c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cetoddle",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"724f08f1-e274-4d6c-a554-4b4700dcef0a\"]",
+      "Height": "12",
+      "Weight": "450",
+      "YieldExperience": "67",
+      "PrimaryAbility": "[\"d6fa994e-7a48-48b5-9f1f-c1b84dd3225f\"]",
+      "SecondaryAbility": "[\"6397856d-ee55-409a-a0aa-3657039b20c4\"]",
+      "HiddenAbility": "[\"ef348627-bea1-4c87-9bf1-417ed3b66855\"]",
+      "BaseHP": "108",
+      "YieldHP": "1",
+      "BaseAttack": "68",
+      "YieldAttack": "0",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "43",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cetoddle",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

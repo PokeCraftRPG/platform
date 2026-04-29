@@ -1,0 +1,41 @@
+﻿{
+  "Id": "9dffef63-2124-4ec7-996b-4faf46e4101c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "venusaur-mega",
+    "DisplayName": "Mega Venusaur",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d82fdd8e-17c9-46e8-acfe-bd42d91bea19\"]",
+      "Height": "24",
+      "Weight": "1555",
+      "YieldExperience": "281",
+      "PrimaryAbility": "[\"d6fa994e-7a48-48b5-9f1f-c1b84dd3225f\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "123",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "122",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "120",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "venusaur-mega",
+      "DisplayName": "Mega Venusaur",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

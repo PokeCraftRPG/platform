@@ -1,0 +1,25 @@
+﻿{
+  "Id": "e7652c5e-dea4-4e30-b3fd-dcea0ff4cbfd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "triple-dive",
+    "DisplayName": "Triple Dive",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "95",
+      "Power": "30",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "triple-dive",
+      "DisplayName": "Triple Dive",
+      "Description": "The user performs a perfectly timed triple dive, hitting the target with splashes of water three times in a row.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ce24076e-4181-4297-8608-37f01919d093",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grumpig",
+    "DisplayName": "Grumpig",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9aaff0a1-6bc0-4d6d-ba6b-2caed2c4d870\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grumpig",
+      "DisplayName": "Grumpig",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Manipulate"
+      }
+    }
+  }
+}

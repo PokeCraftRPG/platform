@@ -1,0 +1,19 @@
+﻿{
+  "Id": "8ef9b5eb-2285-42f9-adc2-6eed78788223",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "purifying-salt",
+    "DisplayName": "Purifying Salt",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "purifying-salt",
+      "DisplayName": "Purifying Salt",
+      "Description": "The Pokémon's pure salt protects it from status conditions and halves the damage taken from Ghost-type moves.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "39ae3956-2dd7-4b49-b448-cd5507f3748e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "seismitoad",
+    "DisplayName": "Seismitoad",
+    "Description": null,
+    "FieldValues": {
+      "Number": "537",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "seismitoad",
+      "DisplayName": "Seismitoad",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

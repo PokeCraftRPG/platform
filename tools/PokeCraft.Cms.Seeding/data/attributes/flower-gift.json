@@ -1,0 +1,19 @@
+﻿{
+  "Id": "dfbd1ec3-1bb2-4750-af44-c876ddca99c5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flower-gift",
+    "DisplayName": "Flower Gift",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flower-gift",
+      "DisplayName": "Flower Gift",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

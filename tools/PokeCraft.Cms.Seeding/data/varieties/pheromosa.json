@@ -1,0 +1,25 @@
+﻿{
+  "Id": "636ac97e-2947-4aa7-b750-448d5a0a1052",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pheromosa",
+    "DisplayName": "Pheromosa",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ace81b5a-061b-4752-b298-87717d6c5d15\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pheromosa",
+      "DisplayName": "Pheromosa",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Lissome"
+      }
+    }
+  }
+}

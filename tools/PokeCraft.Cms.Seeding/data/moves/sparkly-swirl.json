@@ -1,0 +1,25 @@
+﻿{
+  "Id": "5f0beeae-cac4-4aeb-8f94-0ed3d4fdf6a5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sparkly-swirl",
+    "DisplayName": "Sparkly Swirl",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "85",
+      "Power": "120",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sparkly-swirl",
+      "DisplayName": "Sparkly Swirl",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

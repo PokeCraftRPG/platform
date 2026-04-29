@@ -1,0 +1,41 @@
+﻿{
+  "Id": "3d4ea18c-d244-436f-b98d-3713695f6181",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cyndaquil",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3bcbc262-73ab-4516-8231-8eec29d4ac31\"]",
+      "Height": "5",
+      "Weight": "79",
+      "YieldExperience": "62",
+      "PrimaryAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "HiddenAbility": "[\"956efecf-ecf7-4731-9df1-25171033ad13\"]",
+      "BaseHP": "39",
+      "YieldHP": "0",
+      "BaseAttack": "52",
+      "YieldAttack": "0",
+      "BaseDefense": "43",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cyndaquil",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

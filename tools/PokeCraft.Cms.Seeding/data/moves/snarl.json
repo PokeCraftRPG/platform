@@ -1,0 +1,25 @@
+﻿{
+  "Id": "1457502a-3e1d-420f-abca-6a7e45347e08",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snarl",
+    "DisplayName": "Snarl",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "95",
+      "Power": "55",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snarl",
+      "DisplayName": "Snarl",
+      "Description": "The user yells as if it's ranting about something, which lowers the Sp. Atk stats of opposing Pokémon.",
+      "FieldValues": {}
+    }
+  }
+}

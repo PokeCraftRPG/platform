@@ -1,0 +1,19 @@
+﻿{
+  "Id": "7cef81dc-7c42-4b31-b37d-79a7e926c4cd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "quark-drive",
+    "DisplayName": "Quark Drive",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "quark-drive",
+      "DisplayName": "Quark Drive",
+      "Description": "Boosts the Pokémon's most proficient stat on Electric Terrain or if the Pokémon is holding Booster Energy.",
+      "FieldValues": {}
+    }
+  }
+}

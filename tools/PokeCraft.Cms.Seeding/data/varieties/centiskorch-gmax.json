@@ -1,0 +1,26 @@
+﻿{
+  "Id": "28233562-8d80-46bf-a7c5-4999ac1bc9ed",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "centiskorch-gmax",
+    "DisplayName": "Centiskorch",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ef0befd1-2cc7-4c16-ac41-8b4f51047e6c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "centiskorch-gmax",
+      "DisplayName": "Centiskorch",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Radiator"
+      }
+    }
+  }
+}

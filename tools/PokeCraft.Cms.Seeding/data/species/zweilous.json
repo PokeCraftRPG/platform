@@ -1,0 +1,27 @@
+﻿{
+  "Id": "2f957c3c-6021-447d-a03f-237e352fcc89",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zweilous",
+    "DisplayName": "Zweilous",
+    "Description": null,
+    "FieldValues": {
+      "Number": "634",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zweilous",
+      "DisplayName": "Zweilous",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c1c0882b-3c4f-40b8-b887-26c5353b26b8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragon-ascent",
+    "DisplayName": "Dragon Ascent",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragon-ascent",
+      "DisplayName": "Dragon Ascent",
+      "Description": "The user attacks the target by dropping out of the sky at high speed. This also lowers the user's Defense and Sp. Def stats.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "8d71fe51-350f-4321-a6b8-0d3ffea446f0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wild-charge",
+    "DisplayName": "Wild Charge",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wild-charge",
+      "DisplayName": "Wild Charge",
+      "Description": "The user shrouds itself in electricity and smashes into its target. This also damages the user a little.",
+      "FieldValues": {}
+    }
+  }
+}

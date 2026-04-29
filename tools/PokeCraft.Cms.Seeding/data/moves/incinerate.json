@@ -1,0 +1,25 @@
+﻿{
+  "Id": "f40f63fb-52ca-4401-839c-1a3fc85b1935",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "incinerate",
+    "DisplayName": "Incinerate",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "incinerate",
+      "DisplayName": "Incinerate",
+      "Description": "The user attacks opposing Pokémon with fire. If a Pokémon is holding a certain item, such as a Berry, the item becomes burned up and unusable.",
+      "FieldValues": {}
+    }
+  }
+}

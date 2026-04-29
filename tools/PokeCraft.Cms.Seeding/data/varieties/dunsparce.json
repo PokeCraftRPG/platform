@@ -1,0 +1,26 @@
+﻿{
+  "Id": "de1dc79a-09ca-4209-a211-c925862e725e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dunsparce",
+    "DisplayName": "Dunsparce",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c5ed8c98-45c7-41de-a499-d383c69f8948\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dunsparce",
+      "DisplayName": "Dunsparce",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Land Snake"
+      }
+    }
+  }
+}

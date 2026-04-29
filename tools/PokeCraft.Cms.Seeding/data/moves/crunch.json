@@ -1,0 +1,25 @@
+﻿{
+  "Id": "4c9d2797-2730-48b2-a2ea-31a66a03fc71",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "crunch",
+    "DisplayName": "Crunch",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "crunch",
+      "DisplayName": "Crunch",
+      "Description": "The user crunches up the target with sharp fangs. This may also lower the target's Defense stat.",
+      "FieldValues": {}
+    }
+  }
+}

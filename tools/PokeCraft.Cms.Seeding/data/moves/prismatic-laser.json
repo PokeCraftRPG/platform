@@ -1,0 +1,25 @@
+﻿{
+  "Id": "922f5f9e-2d31-48bc-aad3-92066711357a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "prismatic-laser",
+    "DisplayName": "Prismatic Laser",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "160",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "prismatic-laser",
+      "DisplayName": "Prismatic Laser",
+      "Description": "The user shoots powerful lasers using the power of a prism. The user can't move on the next turn.",
+      "FieldValues": {}
+    }
+  }
+}

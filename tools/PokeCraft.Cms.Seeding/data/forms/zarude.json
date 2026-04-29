@@ -1,0 +1,41 @@
+﻿{
+  "Id": "defe1d2a-5c87-45f3-9d18-79faf889fc28",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zarude",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e6dfe7a0-4107-46d3-b9fd-9dbc7ae77384\"]",
+      "Height": "18",
+      "Weight": "700",
+      "YieldExperience": "300",
+      "PrimaryAbility": "[\"d724fdd9-3db1-4a76-8de7-aa696033fa20\"]",
+      "BaseHP": "105",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "3",
+      "BaseDefense": "105",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "105",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zarude",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

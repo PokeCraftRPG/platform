@@ -1,0 +1,42 @@
+﻿{
+  "Id": "e4dc82d9-b16a-4396-aaed-7d61775e601d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "linoone",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"adff382e-344e-4c4c-a3c9-aef08419be03\"]",
+      "Height": "5",
+      "Weight": "325",
+      "YieldExperience": "147",
+      "PrimaryAbility": "[\"071551b8-ee73-4742-85e8-264e82a49f57\"]",
+      "SecondaryAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "HiddenAbility": "[\"69ed006e-469a-417a-824a-dd844d36ba47\"]",
+      "BaseHP": "78",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "61",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "61",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "linoone",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

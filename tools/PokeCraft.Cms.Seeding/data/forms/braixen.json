@@ -1,0 +1,41 @@
+﻿{
+  "Id": "93907f33-046f-4543-8043-0f278a1f3b3c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "braixen",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"da71c3d3-42fc-413d-8df7-4a3c5dc4fb2c\"]",
+      "Height": "10",
+      "Weight": "145",
+      "YieldExperience": "143",
+      "PrimaryAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "HiddenAbility": "[\"9d1934a0-3c6e-44b9-b7a4-38ccef17391a\"]",
+      "BaseHP": "59",
+      "YieldHP": "0",
+      "BaseAttack": "59",
+      "YieldAttack": "0",
+      "BaseDefense": "58",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "90",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "73",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "braixen",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

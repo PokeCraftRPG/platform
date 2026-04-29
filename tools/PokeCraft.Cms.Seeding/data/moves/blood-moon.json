@@ -1,0 +1,25 @@
+﻿{
+  "Id": "5b0e5323-e0ba-45c5-81ae-9bf85acbecbb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blood-moon",
+    "DisplayName": "Blood Moon",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "140",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blood-moon",
+      "DisplayName": "Blood Moon",
+      "Description": "The user unleashes the full brunt of its spirit from a full moon that shines as red as blood. This move can't be used twice in a row.",
+      "FieldValues": {}
+    }
+  }
+}

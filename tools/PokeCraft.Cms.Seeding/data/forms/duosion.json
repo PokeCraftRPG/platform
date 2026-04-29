@@ -1,0 +1,42 @@
+﻿{
+  "Id": "dca7e6f7-31f6-42fe-bc81-cc76a14f4f46",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "duosion",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"17bb4ce7-cc9a-4454-9c55-9b4d7fd25800\"]",
+      "Height": "6",
+      "Weight": "80",
+      "YieldExperience": "130",
+      "PrimaryAbility": "[\"ecf92884-7c23-4d13-9d9a-1a687fe3f447\"]",
+      "SecondaryAbility": "[\"69c09e48-92e7-44ba-99ac-01ed04423dd6\"]",
+      "HiddenAbility": "[\"3f2976c2-09ac-4c69-8b32-5d930032faba\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "40",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "125",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "duosion",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

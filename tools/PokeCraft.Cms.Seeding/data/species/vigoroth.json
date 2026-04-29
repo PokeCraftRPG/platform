@@ -1,0 +1,27 @@
+﻿{
+  "Id": "2a53b8b7-096a-46fa-a130-bde4f74e1389",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vigoroth",
+    "DisplayName": "Vigoroth",
+    "Description": null,
+    "FieldValues": {
+      "Number": "288",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vigoroth",
+      "DisplayName": "Vigoroth",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

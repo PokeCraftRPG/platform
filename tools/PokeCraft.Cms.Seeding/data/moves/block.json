@@ -1,0 +1,23 @@
+﻿{
+  "Id": "31e69fa6-8997-4e9d-af18-5c43b4d54143",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "block",
+    "DisplayName": "Block",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "block",
+      "DisplayName": "Block",
+      "Description": "The user blocks the target's way with arms spread wide to prevent the target from fleeing.",
+      "FieldValues": {}
+    }
+  }
+}

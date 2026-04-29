@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0f02c5c7-6833-4648-943f-5857942b2760",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "goodra-hisui",
+    "DisplayName": "Goodra",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8da0bc01-60ee-434f-8b6e-3d44f5c28876\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "goodra-hisui",
+      "DisplayName": "Goodra",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Dragon"
+      }
+    }
+  }
+}

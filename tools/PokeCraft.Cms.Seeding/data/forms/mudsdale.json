@@ -1,0 +1,42 @@
+﻿{
+  "Id": "f6f5e640-f275-44e0-b7a0-d143be035903",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mudsdale",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0f1aa3b9-47b8-45e6-9029-51823e5e6322\"]",
+      "Height": "25",
+      "Weight": "9200",
+      "YieldExperience": "175",
+      "PrimaryAbility": "[\"1d2b3915-c19d-4017-baac-19e24cc4b20a\"]",
+      "SecondaryAbility": "[\"fb4044ec-73a6-4c5c-8f82-8876b94848b3\"]",
+      "HiddenAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "125",
+      "YieldAttack": "2",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mudsdale",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

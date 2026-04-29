@@ -1,0 +1,41 @@
+﻿{
+  "Id": "4e3fc7ff-9964-48b9-a0df-06599399869f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "doublade",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d60af702-6871-4514-9d8e-5f8b7f423069\"]",
+      "Height": "8",
+      "Weight": "45",
+      "YieldExperience": "157",
+      "PrimaryAbility": "[\"9abfc5f6-0767-4c13-a4c0-dd48c54a21d3\"]",
+      "BaseHP": "59",
+      "YieldHP": "0",
+      "BaseAttack": "110",
+      "YieldAttack": "0",
+      "BaseDefense": "150",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "49",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "doublade",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

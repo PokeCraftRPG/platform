@@ -1,0 +1,27 @@
+﻿{
+  "Id": "79be7ae9-0729-4759-b75d-b9b31acdac26",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tatsugiri",
+    "DisplayName": "Tatsugiri",
+    "Description": null,
+    "FieldValues": {
+      "Number": "978",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "100",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "35",
+      "PrimaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tatsugiri",
+      "DisplayName": "Tatsugiri",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

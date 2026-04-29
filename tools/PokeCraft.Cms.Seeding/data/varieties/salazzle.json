@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ee68d9aa-7c7c-4490-bfa2-db8bc25a311e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "salazzle",
+    "DisplayName": "Salazzle",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"342b4a0b-5ef7-4034-b3d8-08f5283bdf1b\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "salazzle",
+      "DisplayName": "Salazzle",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Toxic Lizard"
+      }
+    }
+  }
+}

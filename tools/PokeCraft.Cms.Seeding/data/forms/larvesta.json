@@ -1,0 +1,42 @@
+﻿{
+  "Id": "a900a860-6b98-4a9b-9b0f-985a873837dc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "larvesta",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f5b7e4d8-f5ff-4e68-b7e6-acbf011498ba\"]",
+      "Height": "11",
+      "Weight": "288",
+      "YieldExperience": "72",
+      "PrimaryAbility": "[\"61541bb6-568e-4dd0-b07a-56233b9fe96f\"]",
+      "HiddenAbility": "[\"ba1b3a50-acc0-4032-bf14-6572fa26daed\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "1",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "larvesta",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

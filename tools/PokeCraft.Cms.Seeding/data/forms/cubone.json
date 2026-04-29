@@ -1,0 +1,42 @@
+﻿{
+  "Id": "ff2c037a-5a7f-4e2f-9206-1cf6d8e5cb6c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cubone",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"05aa2cb4-9504-4519-ab25-67147947b92c\"]",
+      "Height": "4",
+      "Weight": "65",
+      "YieldExperience": "64",
+      "PrimaryAbility": "[\"98ae35ae-b156-4c2e-b4a7-8af42a8b0ef6\"]",
+      "SecondaryAbility": "[\"98bb9191-1993-4224-8922-4a4d13f534a5\"]",
+      "HiddenAbility": "[\"eb1618b5-7ebc-4d80-b57a-76484f0061da\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cubone",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

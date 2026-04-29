@@ -1,0 +1,24 @@
+﻿{
+  "Id": "8c9257a1-5856-4704-8503-07cd7abf98e7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magnet-bomb",
+    "DisplayName": "Magnet Bomb",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "60",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magnet-bomb",
+      "DisplayName": "Magnet Bomb",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "30fc3dc9-d6c0-4a51-855a-81f1f27a1b32",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fraxure",
+    "DisplayName": "Fraxure",
+    "Description": null,
+    "FieldValues": {
+      "Number": "611",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "60",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fraxure",
+      "DisplayName": "Fraxure",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

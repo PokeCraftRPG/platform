@@ -1,0 +1,24 @@
+﻿{
+  "Id": "18878693-a4a1-44f8-9cb1-9c33a2df84bb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clangorous-soul",
+    "DisplayName": "Clangorous Soul",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clangorous-soul",
+      "DisplayName": "Clangorous Soul",
+      "Description": "The user boosts all its stats by using some of its own HP.",
+      "FieldValues": {}
+    }
+  }
+}

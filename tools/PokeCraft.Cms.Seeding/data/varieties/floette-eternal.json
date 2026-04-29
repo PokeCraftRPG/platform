@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6c1466bc-3271-442f-b71e-a57e6f5b86ee",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "floette-eternal",
+    "DisplayName": "Floette",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"af1b545a-de34-4795-bc1d-56d5e67814fa\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "floette-eternal",
+      "DisplayName": "Floette",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Single Bloom"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "aac72fdf-a161-4c3f-bc57-7cb7a0eb8584",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "steelix-mega",
+    "DisplayName": "Steelix",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f285a678-2329-4674-86f5-2bcf3de197f1\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "steelix-mega",
+      "DisplayName": "Steelix",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Iron Snake"
+      }
+    }
+  }
+}

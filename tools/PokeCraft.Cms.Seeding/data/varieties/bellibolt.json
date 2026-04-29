@@ -1,0 +1,26 @@
+﻿{
+  "Id": "00b710bf-971b-4764-8e80-44122396218e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bellibolt",
+    "DisplayName": "Bellibolt",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"45d37aff-9c00-43f7-9044-7c727c9b2d88\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bellibolt",
+      "DisplayName": "Bellibolt",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "EleFrog"
+      }
+    }
+  }
+}

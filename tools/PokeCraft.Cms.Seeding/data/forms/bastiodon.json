@@ -1,0 +1,42 @@
+﻿{
+  "Id": "cc30a3ca-aced-4903-8859-315ac9804b50",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bastiodon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7ac1d0a1-473d-42d6-9c3c-4273b4cde5d9\"]",
+      "Height": "13",
+      "Weight": "1495",
+      "YieldExperience": "173",
+      "PrimaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "HiddenAbility": "[\"6df60939-ffd8-4ddb-ad1e-f4add0129eeb\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "52",
+      "YieldAttack": "0",
+      "BaseDefense": "168",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "47",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "138",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bastiodon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

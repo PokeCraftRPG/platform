@@ -1,0 +1,42 @@
+﻿{
+  "Id": "d9774728-840c-4e11-85cc-3f3a33bd9e10",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "furret",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"71b6ae10-743e-4525-ac13-cdcb254027c4\"]",
+      "Height": "18",
+      "Weight": "325",
+      "YieldExperience": "145",
+      "PrimaryAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "SecondaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "HiddenAbility": "[\"646cd171-4012-41af-b36f-69b1a3142f3e\"]",
+      "BaseHP": "85",
+      "YieldHP": "0",
+      "BaseAttack": "76",
+      "YieldAttack": "0",
+      "BaseDefense": "64",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "furret",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

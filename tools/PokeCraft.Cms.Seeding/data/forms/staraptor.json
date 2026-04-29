@@ -1,0 +1,42 @@
+﻿{
+  "Id": "1777365d-7b6a-4d65-969c-5df5c1e575ea",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "staraptor",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"07bb5440-a512-4963-a40b-35a0b6d82bde\"]",
+      "Height": "12",
+      "Weight": "249",
+      "YieldExperience": "218",
+      "PrimaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "HiddenAbility": "[\"3e4191ac-398f-48f3-a3ce-106d5ddd1742\"]",
+      "BaseHP": "85",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "3",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "staraptor",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "ef6a854e-7e06-462e-acd3-8d22b46b3cc8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "torterra",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a7119677-44c2-4532-a582-09284b5d1623\"]",
+      "Height": "22",
+      "Weight": "3100",
+      "YieldExperience": "236",
+      "PrimaryAbility": "[\"f635691a-6cf0-4a55-a848-a2183d487971\"]",
+      "HiddenAbility": "[\"238257b2-205c-4b83-b5f1-393b8c11b2e9\"]",
+      "BaseHP": "95",
+      "YieldHP": "0",
+      "BaseAttack": "109",
+      "YieldAttack": "2",
+      "BaseDefense": "105",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "56",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "torterra",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

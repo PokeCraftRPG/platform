@@ -1,0 +1,41 @@
+﻿{
+  "Id": "2ea0cb8c-566e-45ec-ae82-f30b35520d08",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "quilava",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7be0c572-0500-4869-a9c7-10d09d1326a7\"]",
+      "Height": "9",
+      "Weight": "190",
+      "YieldExperience": "142",
+      "PrimaryAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "HiddenAbility": "[\"956efecf-ecf7-4731-9df1-25171033ad13\"]",
+      "BaseHP": "58",
+      "YieldHP": "0",
+      "BaseAttack": "64",
+      "YieldAttack": "0",
+      "BaseDefense": "58",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "quilava",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

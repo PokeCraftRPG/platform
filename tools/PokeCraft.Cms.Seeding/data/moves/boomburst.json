@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ba8c021f-eafa-4e3d-be02-29a0ec0b1dd0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "boomburst",
+    "DisplayName": "Boomburst",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "140",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "boomburst",
+      "DisplayName": "Boomburst",
+      "Description": "The user attacks everything around it with the destructive power of a terrible explosive sound.",
+      "FieldValues": {}
+    }
+  }
+}

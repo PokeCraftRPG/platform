@@ -1,0 +1,42 @@
+﻿{
+  "Id": "6cc6d7cb-7b07-4202-9ff6-6db22ae71338",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tauros-paldea-combat-breed",
+    "DisplayName": "Paldean Tauros (Combat Breed)",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"fc25eb0e-2fc1-45e7-9cf3-4795b78dfee1\"]",
+      "Height": "14",
+      "Weight": "1150",
+      "YieldExperience": "172",
+      "PrimaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "SecondaryAbility": "[\"35627a6f-38f0-4832-b663-c5ba955aa328\"]",
+      "HiddenAbility": "[\"d8f7dbac-c524-4cfe-8995-02e290baa0e8\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "110",
+      "YieldAttack": "2",
+      "BaseDefense": "105",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tauros-paldea-combat-breed",
+      "DisplayName": "Paldean Tauros (Combat Breed)",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

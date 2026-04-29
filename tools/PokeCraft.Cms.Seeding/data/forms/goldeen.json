@@ -1,0 +1,42 @@
+﻿{
+  "Id": "d20323c8-9940-48fa-bc5e-a44b0a416151",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "goldeen",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"42977939-cb88-4d03-85d0-327821f9d308\"]",
+      "Height": "6",
+      "Weight": "150",
+      "YieldExperience": "64",
+      "PrimaryAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "SecondaryAbility": "[\"24615c56-6280-47e4-8568-73a412d83865\"]",
+      "HiddenAbility": "[\"98bb9191-1993-4224-8922-4a4d13f534a5\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "67",
+      "YieldAttack": "1",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "63",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "goldeen",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

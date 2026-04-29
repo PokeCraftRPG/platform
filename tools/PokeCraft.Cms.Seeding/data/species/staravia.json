@@ -1,0 +1,27 @@
+﻿{
+  "Id": "42b25703-fae3-4817-bd7c-f29f14a5ed83",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "staravia",
+    "DisplayName": "Staravia",
+    "Description": null,
+    "FieldValues": {
+      "Number": "397",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "staravia",
+      "DisplayName": "Staravia",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

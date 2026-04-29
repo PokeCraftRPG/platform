@@ -1,0 +1,26 @@
+﻿{
+  "Id": "2ef97a2a-6159-4d11-b4cd-9579a6ee522d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "carracosta",
+    "DisplayName": "Carracosta",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e615d1c3-d3ce-4a08-8c6f-b271ade463ad\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "carracosta",
+      "DisplayName": "Carracosta",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Prototurtle"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "79d39dee-7018-4c7d-a6ef-e925d6874424",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cotton-down",
+    "DisplayName": "Cotton Down",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cotton-down",
+      "DisplayName": "Cotton Down",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

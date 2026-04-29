@@ -1,0 +1,24 @@
+﻿{
+  "Id": "86cfd5dd-c0b3-41ba-b2ba-e5d9156abcac",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "forests-curse",
+    "DisplayName": "Forest’s Curse",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "forests-curse",
+      "DisplayName": "Forest’s Curse",
+      "Description": "The user puts a forest curse on the target. This adds Grass type to the target's type.",
+      "FieldValues": {}
+    }
+  }
+}

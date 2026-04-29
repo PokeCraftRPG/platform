@@ -1,0 +1,43 @@
+﻿{
+  "Id": "cea3e082-6005-4105-b45d-9da39fceb6b7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lanturn",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e88b9a20-2cab-4468-b571-baaa0c7afd86\"]",
+      "Height": "12",
+      "Weight": "225",
+      "YieldExperience": "161",
+      "PrimaryAbility": "[\"891096e9-f25f-4184-8941-fcc6d6dfd5e4\"]",
+      "SecondaryAbility": "[\"c5bb24d5-3152-481e-b7f6-c1637f7cc794\"]",
+      "HiddenAbility": "[\"ce06d228-a509-444d-ab16-f046f2519e89\"]",
+      "BaseHP": "125",
+      "YieldHP": "2",
+      "BaseAttack": "58",
+      "YieldAttack": "0",
+      "BaseDefense": "58",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "76",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "76",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "67",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lanturn",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

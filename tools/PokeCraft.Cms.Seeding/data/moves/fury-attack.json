@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ef62e09a-a1bc-4420-a52f-3f224dead5c0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fury-attack",
+    "DisplayName": "Fury Attack",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "85",
+      "Power": "15",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fury-attack",
+      "DisplayName": "Fury Attack",
+      "Description": "The user attacks by jabbing the target with a horn, a beak, or the like. This move hits two to five times in a row.",
+      "FieldValues": {}
+    }
+  }
+}

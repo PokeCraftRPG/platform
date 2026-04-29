@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6b3de9cf-a5ed-45fd-9d42-b795e94a3f48",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mareep",
+    "DisplayName": "Mareep",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"fce36603-c5c5-4a13-b87b-5bbb88cb6ec3\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mareep",
+      "DisplayName": "Mareep",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Wool"
+      }
+    }
+  }
+}

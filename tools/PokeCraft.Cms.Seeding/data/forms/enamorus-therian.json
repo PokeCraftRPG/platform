@@ -1,0 +1,41 @@
+﻿{
+  "Id": "6a80d3b3-8c21-4772-9530-8efcc6152f29",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "enamorus-therian",
+    "DisplayName": "Therian Enamorus",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9e175c28-4641-4e1c-8666-616f5e8c70a7\"]",
+      "Height": "16",
+      "Weight": "480",
+      "YieldExperience": "116",
+      "PrimaryAbility": "[\"ecf92884-7c23-4d13-9d9a-1a687fe3f447\"]",
+      "BaseHP": "74",
+      "YieldHP": "0",
+      "BaseAttack": "115",
+      "YieldAttack": "0",
+      "BaseDefense": "110",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "135",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "46",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fairy\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "enamorus-therian",
+      "DisplayName": "Therian Enamorus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

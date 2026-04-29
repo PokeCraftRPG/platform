@@ -1,0 +1,26 @@
+﻿{
+  "Id": "bceb9ce6-c0cf-404b-93d7-21457e80cb77",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "venonat",
+    "DisplayName": "Venonat",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"fbb215bf-8f11-4cda-bab4-1a00e4fc3785\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "venonat",
+      "DisplayName": "Venonat",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Insect"
+      }
+    }
+  }
+}

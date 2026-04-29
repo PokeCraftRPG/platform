@@ -1,0 +1,27 @@
+﻿{
+  "Id": "1d3c730a-0cd4-4ddd-a759-d1f1bb0ee279",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scatterbug",
+    "DisplayName": "Scatterbug",
+    "Description": null,
+    "FieldValues": {
+      "Number": "664",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scatterbug",
+      "DisplayName": "Scatterbug",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

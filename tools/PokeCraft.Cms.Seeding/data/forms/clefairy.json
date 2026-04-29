@@ -1,0 +1,42 @@
+﻿{
+  "Id": "6e085384-28ff-4585-9761-9bf5afbdfb6e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clefairy",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ffb57991-fd2a-4d82-a390-c1a412ef866d\"]",
+      "Height": "6",
+      "Weight": "75",
+      "YieldExperience": "113",
+      "PrimaryAbility": "[\"1547f00e-f05d-4d0c-98c7-9a77e75e1bf5\"]",
+      "SecondaryAbility": "[\"69c09e48-92e7-44ba-99ac-01ed04423dd6\"]",
+      "HiddenAbility": "[\"47068609-b1c5-409b-a6c0-abb9e56e4c44\"]",
+      "BaseHP": "70",
+      "YieldHP": "2",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "48",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clefairy",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

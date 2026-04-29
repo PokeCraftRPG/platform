@@ -1,0 +1,41 @@
+﻿{
+  "Id": "1fd9b146-dfa1-4b6f-8f07-a5b5151de37d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "serperior",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"783511f6-babd-4d33-8512-59f4842b4036\"]",
+      "Height": "33",
+      "Weight": "630",
+      "YieldExperience": "238",
+      "PrimaryAbility": "[\"f635691a-6cf0-4a55-a848-a2183d487971\"]",
+      "HiddenAbility": "[\"db725f43-cf10-4966-83cf-8f61405f506f\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "113",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "serperior",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

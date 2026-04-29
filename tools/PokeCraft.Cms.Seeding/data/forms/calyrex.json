@@ -1,0 +1,41 @@
+﻿{
+  "Id": "b42f6352-81d4-4964-aad3-1b581f0d2720",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "calyrex",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6ed4cb2f-8aa8-421a-a9bb-9d20eb9eb268\"]",
+      "Height": "11",
+      "Weight": "77",
+      "YieldExperience": "250",
+      "PrimaryAbility": "[\"5cdb3b5f-b72c-4361-b715-922fc4cb31f9\"]",
+      "BaseHP": "100",
+      "YieldHP": "3",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "calyrex",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

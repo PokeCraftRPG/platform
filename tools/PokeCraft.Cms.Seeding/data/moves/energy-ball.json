@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6fe479c6-4b2b-417b-980f-dcf4e05f40cd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "energy-ball",
+    "DisplayName": "Energy Ball",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "energy-ball",
+      "DisplayName": "Energy Ball",
+      "Description": "The user draws power from nature and fires it at the target. This may also lower the target's Sp. Def stat.",
+      "FieldValues": {}
+    }
+  }
+}

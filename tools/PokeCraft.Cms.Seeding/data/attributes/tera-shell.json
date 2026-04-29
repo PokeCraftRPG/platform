@@ -1,0 +1,19 @@
+﻿{
+  "Id": "daeed558-fb4a-411b-aa9e-aa9885e06ddd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tera-shell",
+    "DisplayName": "Tera Shell",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tera-shell",
+      "DisplayName": "Tera Shell",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

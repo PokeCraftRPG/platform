@@ -1,0 +1,25 @@
+﻿{
+  "Id": "77877a0f-9737-4b6c-8ba4-9c075675792a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mind-blown",
+    "DisplayName": "Mind Blown",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "150",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mind-blown",
+      "DisplayName": "Mind Blown",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

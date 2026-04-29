@@ -1,0 +1,42 @@
+﻿{
+  "Id": "2eaebf5f-c065-4812-957f-7912026fd4c7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blaziken",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0ec3db5f-0f7d-4395-9199-53d50ade8f8e\"]",
+      "Height": "19",
+      "Weight": "520",
+      "YieldExperience": "239",
+      "PrimaryAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "HiddenAbility": "[\"c34cae01-916e-44ec-8e58-1cc63029592f\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "3",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "110",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blaziken",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

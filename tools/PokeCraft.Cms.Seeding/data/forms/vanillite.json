@@ -1,0 +1,42 @@
+﻿{
+  "Id": "e26c42ba-8471-48b8-89f6-c00194927dba",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vanillite",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1be7dbc2-2905-44bb-ae2e-0028f8ebe3f9\"]",
+      "Height": "4",
+      "Weight": "57",
+      "YieldExperience": "61",
+      "PrimaryAbility": "[\"c28be462-7265-4527-a8aa-85774f7eaf7b\"]",
+      "SecondaryAbility": "[\"6397856d-ee55-409a-a0aa-3657039b20c4\"]",
+      "HiddenAbility": "[\"2b8b8cfa-e12e-43d2-b403-594ac9a1c1f7\"]",
+      "BaseHP": "36",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "44",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vanillite",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

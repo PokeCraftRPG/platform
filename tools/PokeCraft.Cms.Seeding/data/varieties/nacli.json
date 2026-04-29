@@ -1,0 +1,26 @@
+﻿{
+  "Id": "37f449f3-d96f-46e2-bb15-1d74dbcae8ff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nacli",
+    "DisplayName": "Nacli",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e79bf7f4-48f3-4330-9c20-072bee1325b9\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nacli",
+      "DisplayName": "Nacli",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rock Salt"
+      }
+    }
+  }
+}

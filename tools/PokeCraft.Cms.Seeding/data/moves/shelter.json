@@ -1,0 +1,24 @@
+﻿{
+  "Id": "9a7875e2-82b7-4f55-8435-6031dbfd143b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shelter",
+    "DisplayName": "Shelter",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Status\"]",
+      "Power": "0",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shelter",
+      "DisplayName": "Shelter",
+      "Description": "The user makes its skin as hard as an iron shield, sharply boosting its Defense stat.",
+      "FieldValues": {}
+    }
+  }
+}

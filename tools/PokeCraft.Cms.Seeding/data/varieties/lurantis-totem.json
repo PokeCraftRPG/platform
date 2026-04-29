@@ -1,0 +1,26 @@
+﻿{
+  "Id": "aae8f783-e42b-4d3d-ac6b-9f9be761e506",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lurantis-totem",
+    "DisplayName": "Lurantis",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"264b4f01-6a44-4829-9d20-185234729dfc\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lurantis-totem",
+      "DisplayName": "Lurantis",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bloom Sickle"
+      }
+    }
+  }
+}

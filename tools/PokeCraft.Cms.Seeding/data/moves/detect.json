@@ -1,0 +1,23 @@
+﻿{
+  "Id": "a81b3e28-bbfb-490d-bcac-46a52d684fbe",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "detect",
+    "DisplayName": "Detect",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "detect",
+      "DisplayName": "Detect",
+      "Description": "This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.",
+      "FieldValues": {}
+    }
+  }
+}

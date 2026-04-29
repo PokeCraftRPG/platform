@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ca8f3386-3d83-4509-8e7b-7bceec6e5ef9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sylveon",
+    "DisplayName": "Sylveon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "700",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "35",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sylveon",
+      "DisplayName": "Sylveon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

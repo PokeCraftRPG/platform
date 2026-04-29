@@ -1,0 +1,27 @@
+﻿{
+  "Id": "7f3ced90-0f93-4bce-96eb-417670c74936",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "type-null",
+    "DisplayName": "Type: Null",
+    "Description": null,
+    "FieldValues": {
+      "Number": "772",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "type-null",
+      "DisplayName": "Type: Null",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

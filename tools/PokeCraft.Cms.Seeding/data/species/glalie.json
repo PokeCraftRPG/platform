@@ -1,0 +1,28 @@
+﻿{
+  "Id": "442967cc-8c34-4424-b04e-aba3b33990bd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glalie",
+    "DisplayName": "Glalie",
+    "Description": null,
+    "FieldValues": {
+      "Number": "362",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Fairy\"]",
+      "SecondaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glalie",
+      "DisplayName": "Glalie",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

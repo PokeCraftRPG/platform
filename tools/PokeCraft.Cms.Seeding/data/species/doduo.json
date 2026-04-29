@@ -1,0 +1,27 @@
+﻿{
+  "Id": "744bba3e-3953-4b43-8e29-a0efb4fb4c40",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "doduo",
+    "DisplayName": "Doduo",
+    "Description": null,
+    "FieldValues": {
+      "Number": "84",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "doduo",
+      "DisplayName": "Doduo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

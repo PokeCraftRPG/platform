@@ -1,0 +1,39 @@
+﻿{
+  "Id": "652070c1-51dc-4bbe-825f-6c1d0c0c4a7c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tatsugiri-droopy-mega",
+    "DisplayName": "Mega Droopy Tatsugiri",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"8e645120-787d-4a78-853f-1cb407d77e79\"]",
+      "Height": "6",
+      "Weight": "240",
+      "BaseHP": "68",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "135",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "125",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "92",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tatsugiri-droopy-mega",
+      "DisplayName": "Mega Droopy Tatsugiri",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

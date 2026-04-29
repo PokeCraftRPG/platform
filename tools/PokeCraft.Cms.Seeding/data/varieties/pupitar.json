@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c89338f0-be0f-4895-aa67-5a5c772924b1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pupitar",
+    "DisplayName": "Pupitar",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1a6e1c85-f558-40d6-b298-ac6d4b082970\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pupitar",
+      "DisplayName": "Pupitar",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Hard Shell"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "29a50aa7-6c34-4239-8f15-0b01e61e7523",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gouging-fire",
+    "DisplayName": "Gouging Fire",
+    "Description": null,
+    "FieldValues": {
+      "Number": "1020",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "10",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "50",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gouging-fire",
+      "DisplayName": "Gouging Fire",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

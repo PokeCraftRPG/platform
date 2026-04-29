@@ -1,0 +1,42 @@
+﻿{
+  "Id": "5cae04a0-de14-4f02-ace5-4b400cef5bb4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meowth-galar",
+    "DisplayName": "Galarian Meowth",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"88fe59b5-e526-4af5-824b-b5141840ba05\"]",
+      "Height": "4",
+      "Weight": "75",
+      "YieldExperience": "58",
+      "PrimaryAbility": "[\"071551b8-ee73-4742-85e8-264e82a49f57\"]",
+      "SecondaryAbility": "[\"97aefd91-1b08-4ac4-b2c7-d9c6cb7f555a\"]",
+      "HiddenAbility": "[\"5cdb3b5f-b72c-4361-b715-922fc4cb31f9\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "1",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meowth-galar",
+      "DisplayName": "Galarian Meowth",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "8cca56bd-5c31-4e69-acb1-2899a68a84be",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bombirdier",
+    "DisplayName": "Bombirdier",
+    "Description": null,
+    "FieldValues": {
+      "Number": "962",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "25",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "35",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bombirdier",
+      "DisplayName": "Bombirdier",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

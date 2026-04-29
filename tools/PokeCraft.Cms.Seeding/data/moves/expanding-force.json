@@ -1,0 +1,25 @@
+﻿{
+  "Id": "87838cd8-2a7c-4e51-8848-673139a4c450",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "expanding-force",
+    "DisplayName": "Expanding Force",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "expanding-force",
+      "DisplayName": "Expanding Force",
+      "Description": "The user attacks the target with its psychic power. When the ground is Psychic Terrain, this move's power is boosted and it damages all opposing Pokémon.",
+      "FieldValues": {}
+    }
+  }
+}

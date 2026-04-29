@@ -1,0 +1,28 @@
+﻿{
+  "Id": "04c89bf8-1984-4504-81b5-774c9b11f706",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cherubi",
+    "DisplayName": "Cherubi",
+    "Description": null,
+    "FieldValues": {
+      "Number": "420",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Fairy\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cherubi",
+      "DisplayName": "Cherubi",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "e3201d12-7e62-4053-b504-1e8b009add9d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shedinja",
+    "DisplayName": "Shedinja",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"65bd7a0c-134d-4e81-bcaf-5e085ff198cb\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shedinja",
+      "DisplayName": "Shedinja",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Shed"
+      }
+    }
+  }
+}

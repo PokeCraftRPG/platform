@@ -1,0 +1,26 @@
+﻿{
+  "Id": "212f1e42-5bf5-418c-9287-38850205d6cc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "barraskewda",
+    "DisplayName": "Barraskewda",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"56c57351-23ff-4589-a510-6d5e30d790b5\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "barraskewda",
+      "DisplayName": "Barraskewda",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Skewer"
+      }
+    }
+  }
+}

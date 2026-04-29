@@ -1,0 +1,26 @@
+﻿{
+  "Id": "32cc18e2-6977-443e-abf8-8baafa9281ed",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "litten",
+    "DisplayName": "Litten",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"15155788-9c7c-401b-a567-0740c16cb37b\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "litten",
+      "DisplayName": "Litten",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fire Cat"
+      }
+    }
+  }
+}

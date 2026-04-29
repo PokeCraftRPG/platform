@@ -1,0 +1,19 @@
+﻿{
+  "Id": "891096e9-f25f-4184-8941-fcc6d6dfd5e4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "volt-absorb",
+    "DisplayName": "Volt Absorb",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "volt-absorb",
+      "DisplayName": "Volt Absorb",
+      "Description": "If hit by an Electric-type move, the Pokémon has its HP restored instead of taking damage.",
+      "FieldValues": {}
+    }
+  }
+}

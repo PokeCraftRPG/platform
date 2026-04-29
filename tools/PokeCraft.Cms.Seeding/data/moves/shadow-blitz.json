@@ -1,0 +1,23 @@
+﻿{
+  "Id": "4ffa08cc-99a9-4af2-9c8e-aabecd835bc2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shadow-blitz",
+    "DisplayName": "Shadow Blitz",
+    "Description": null,
+    "FieldValues": {
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "40"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shadow-blitz",
+      "DisplayName": "Shadow Blitz",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

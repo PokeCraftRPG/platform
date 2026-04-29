@@ -1,0 +1,27 @@
+﻿{
+  "Id": "246e9095-8a04-4d84-a936-517fde18cefc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shiinotic",
+    "DisplayName": "Shiinotic",
+    "Description": null,
+    "FieldValues": {
+      "Number": "756",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shiinotic",
+      "DisplayName": "Shiinotic",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

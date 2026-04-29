@@ -1,0 +1,28 @@
+﻿{
+  "Id": "5eb13d4b-557b-4ed0-9b45-9e21e1c5bb71",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "octillery",
+    "DisplayName": "Octillery",
+    "Description": null,
+    "FieldValues": {
+      "Number": "224",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "octillery",
+      "DisplayName": "Octillery",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

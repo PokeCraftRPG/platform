@@ -1,0 +1,41 @@
+﻿{
+  "Id": "77423b70-e62b-4170-ad2f-e78d3cc55223",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kakuna",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"efa2c247-ae28-4acf-bb28-3353a867bdcb\"]",
+      "Height": "6",
+      "Weight": "100",
+      "YieldExperience": "72",
+      "PrimaryAbility": "[\"ce764204-79c4-4e66-8017-2144a4e66f3c\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "25",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "25",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "25",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kakuna",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

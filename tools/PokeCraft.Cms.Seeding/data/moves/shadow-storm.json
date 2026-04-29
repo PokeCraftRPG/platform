@@ -1,0 +1,23 @@
+﻿{
+  "Id": "a3e661c5-3ae7-4e5c-8158-b92ede5e22ea",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shadow-storm",
+    "DisplayName": "Shadow Storm",
+    "Description": null,
+    "FieldValues": {
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "95"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shadow-storm",
+      "DisplayName": "Shadow Storm",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "74551570-259c-470c-a9ba-64ffd0e3afad",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "insomnia",
+    "DisplayName": "Insomnia",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "insomnia",
+      "DisplayName": "Insomnia",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

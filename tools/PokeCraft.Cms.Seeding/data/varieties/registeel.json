@@ -1,0 +1,25 @@
+﻿{
+  "Id": "a250431d-d1e6-486c-a7da-e63232a28bfd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "registeel",
+    "DisplayName": "Registeel",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"749155b2-a0dc-40f6-8444-0fa1c05bf7b1\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "registeel",
+      "DisplayName": "Registeel",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Iron"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "fa7a395e-c1ca-4140-a24c-cf5b6b73f59f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swirlix",
+    "DisplayName": "Swirlix",
+    "Description": null,
+    "FieldValues": {
+      "Number": "684",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "200",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swirlix",
+      "DisplayName": "Swirlix",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

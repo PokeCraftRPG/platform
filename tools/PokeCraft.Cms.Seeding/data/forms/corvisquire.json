@@ -1,0 +1,42 @@
+﻿{
+  "Id": "7f8d51a3-b4c4-497f-a14c-ba8993673a98",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "corvisquire",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b296cff9-56a3-451d-9f3c-31419644a8d5\"]",
+      "Height": "8",
+      "Weight": "160",
+      "YieldExperience": "128",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "SecondaryAbility": "[\"5cdb3b5f-b72c-4361-b715-922fc4cb31f9\"]",
+      "HiddenAbility": "[\"15e51a3f-bb28-4ca8-abdf-27130d9930b4\"]",
+      "BaseHP": "68",
+      "YieldHP": "0",
+      "BaseAttack": "67",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "43",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "77",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "corvisquire",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

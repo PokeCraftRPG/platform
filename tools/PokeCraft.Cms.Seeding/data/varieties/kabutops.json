@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7647234c-d4bf-4016-9d2d-d7d942127587",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kabutops",
+    "DisplayName": "Kabutops",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"476b2b84-c697-4566-87eb-5f3070a8dc61\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kabutops",
+      "DisplayName": "Kabutops",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Shellfish"
+      }
+    }
+  }
+}

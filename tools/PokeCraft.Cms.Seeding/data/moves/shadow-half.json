@@ -1,0 +1,22 @@
+﻿{
+  "Id": "b88007df-ec3e-44ce-85fc-519a7c077374",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shadow-half",
+    "DisplayName": "Shadow Half",
+    "Description": null,
+    "FieldValues": {
+      "Category": "[\"Special\"]",
+      "Accuracy": "100"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shadow-half",
+      "DisplayName": "Shadow Half",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

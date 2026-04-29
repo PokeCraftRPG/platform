@@ -1,0 +1,27 @@
+﻿{
+  "Id": "eecb2226-81e4-4a3e-a9dc-6f37877a690c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-jugulis",
+    "DisplayName": "Iron Jugulis",
+    "Description": null,
+    "FieldValues": {
+      "Number": "993",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "30",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "50",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-jugulis",
+      "DisplayName": "Iron Jugulis",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

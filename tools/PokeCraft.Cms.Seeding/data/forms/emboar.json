@@ -1,0 +1,42 @@
+﻿{
+  "Id": "1d665593-3c06-4aab-946c-b86acb0f9bfd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "emboar",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f6899deb-2ce8-478d-bf12-d79adf59290d\"]",
+      "Height": "16",
+      "Weight": "1500",
+      "YieldExperience": "238",
+      "PrimaryAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "HiddenAbility": "[\"3e4191ac-398f-48f3-a3ce-106d5ddd1742\"]",
+      "BaseHP": "110",
+      "YieldHP": "0",
+      "BaseAttack": "123",
+      "YieldAttack": "3",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "emboar",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

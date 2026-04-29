@@ -1,0 +1,42 @@
+﻿{
+  "Id": "cb0efd85-a148-4217-a55f-7432f52cb272",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "espurr",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0009d781-e941-4342-b3de-92b1219d1f79\"]",
+      "Height": "3",
+      "Weight": "35",
+      "YieldExperience": "71",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "SecondaryAbility": "[\"0a9fa785-a966-4ed6-8ab9-a33aecd0847c\"]",
+      "HiddenAbility": "[\"1d2b3915-c19d-4017-baac-19e24cc4b20a\"]",
+      "BaseHP": "62",
+      "YieldHP": "0",
+      "BaseAttack": "48",
+      "YieldAttack": "0",
+      "BaseDefense": "54",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "63",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "68",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "espurr",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

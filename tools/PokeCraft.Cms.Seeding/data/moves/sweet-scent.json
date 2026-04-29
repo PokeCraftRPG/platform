@@ -1,0 +1,24 @@
+﻿{
+  "Id": "b6027436-283e-457b-a8ab-cce6bbc97991",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sweet-scent",
+    "DisplayName": "Sweet Scent",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sweet-scent",
+      "DisplayName": "Sweet Scent",
+      "Description": "The user releases a scent that harshly lowers opposing Pokémon's evasiveness.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5dfabc28-63d0-49a3-85c3-4eaa3ba54456",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tropius",
+    "DisplayName": "Tropius",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5a1fffde-13c7-4524-84e6-6dd21d8fa148\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tropius",
+      "DisplayName": "Tropius",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fruit"
+      }
+    }
+  }
+}

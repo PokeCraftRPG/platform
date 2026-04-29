@@ -1,0 +1,25 @@
+﻿{
+  "Id": "86d4930c-0b19-41f9-8bfa-9a88d7f6a011",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "infernal-parade",
+    "DisplayName": "Infernal Parade",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "infernal-parade",
+      "DisplayName": "Infernal Parade",
+      "Description": "The user attacks with myriad fireballs. This may also leave the target with a burn. This move's power is doubled if the target has a status condition.",
+      "FieldValues": {}
+    }
+  }
+}

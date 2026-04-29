@@ -1,0 +1,27 @@
+﻿{
+  "Id": "af1e1c22-8677-4f24-80e8-93205ab3ea06",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sawsbuck",
+    "DisplayName": "Sawsbuck",
+    "Description": null,
+    "FieldValues": {
+      "Number": "586",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sawsbuck",
+      "DisplayName": "Sawsbuck",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

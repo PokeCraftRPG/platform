@@ -1,0 +1,25 @@
+﻿{
+  "Id": "d96f7586-af42-4876-b8d0-25c57ae6c946",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mystical-fire",
+    "DisplayName": "Mystical Fire",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "75",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mystical-fire",
+      "DisplayName": "Mystical Fire",
+      "Description": "The user attacks by breathing a special, hot fire. This also lowers the target's Sp. Atk stat.",
+      "FieldValues": {}
+    }
+  }
+}

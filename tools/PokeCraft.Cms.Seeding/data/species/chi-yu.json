@@ -1,0 +1,27 @@
+﻿{
+  "Id": "bc080f49-ef72-493d-8de0-694648ad70ec",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chi-yu",
+    "DisplayName": "Chi-Yu",
+    "Description": null,
+    "FieldValues": {
+      "Number": "1004",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "6",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "50",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chi-yu",
+      "DisplayName": "Chi-Yu",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

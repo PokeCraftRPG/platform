@@ -1,0 +1,43 @@
+﻿{
+  "Id": "a6e07c0b-31c1-41d0-a80d-ce54d79c3b0e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arctovish",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"52491ea9-03b9-457c-a763-dc2975943100\"]",
+      "Height": "20",
+      "Weight": "1750",
+      "YieldExperience": "177",
+      "PrimaryAbility": "[\"ce06d228-a509-444d-ab16-f046f2519e89\"]",
+      "SecondaryAbility": "[\"c28be462-7265-4527-a8aa-85774f7eaf7b\"]",
+      "HiddenAbility": "[\"1529f289-3c54-49ef-a5b7-924ae1f92aa8\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arctovish",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

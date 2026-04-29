@@ -1,0 +1,25 @@
+﻿{
+  "Id": "21066cc2-60fb-4fb4-9037-90a87a47d4c8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pursuit",
+    "DisplayName": "Pursuit",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pursuit",
+      "DisplayName": "Pursuit",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

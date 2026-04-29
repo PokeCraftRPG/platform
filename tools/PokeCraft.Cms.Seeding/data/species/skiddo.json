@@ -1,0 +1,27 @@
+﻿{
+  "Id": "951bed9d-9ad8-45b6-8bad-941c70aeea94",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skiddo",
+    "DisplayName": "Skiddo",
+    "Description": null,
+    "FieldValues": {
+      "Number": "672",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "200",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skiddo",
+      "DisplayName": "Skiddo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

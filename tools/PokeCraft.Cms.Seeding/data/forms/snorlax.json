@@ -1,0 +1,42 @@
+﻿{
+  "Id": "7a11fb25-9a9e-46f6-a1bd-4a38bd5a32b0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snorlax",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5c60d584-3fc2-4872-b947-16b7c474a01f\"]",
+      "Height": "21",
+      "Weight": "4600",
+      "YieldExperience": "189",
+      "PrimaryAbility": "[\"87d19fcd-9364-4f75-ba5c-cc9f55b081b8\"]",
+      "SecondaryAbility": "[\"d6fa994e-7a48-48b5-9f1f-c1b84dd3225f\"]",
+      "HiddenAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "BaseHP": "160",
+      "YieldHP": "2",
+      "BaseAttack": "110",
+      "YieldAttack": "0",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "110",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snorlax",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

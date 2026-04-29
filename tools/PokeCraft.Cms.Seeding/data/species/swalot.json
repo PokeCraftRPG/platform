@@ -1,0 +1,27 @@
+﻿{
+  "Id": "2632a58e-bc37-494f-b4e0-c970d70238b4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swalot",
+    "DisplayName": "Swalot",
+    "Description": null,
+    "FieldValues": {
+      "Number": "317",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"Fluctuating\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swalot",
+      "DisplayName": "Swalot",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

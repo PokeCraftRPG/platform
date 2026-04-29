@@ -1,0 +1,26 @@
+﻿{
+  "Id": "681ad866-006c-4460-ab92-3301ce88e2f9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slowpoke",
+    "DisplayName": "Slowpoke",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2a4d1228-2cff-4b15-9a02-ea21e871ce0a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slowpoke",
+      "DisplayName": "Slowpoke",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Dopey"
+      }
+    }
+  }
+}

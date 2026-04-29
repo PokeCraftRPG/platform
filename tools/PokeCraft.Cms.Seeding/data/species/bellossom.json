@@ -1,0 +1,27 @@
+﻿{
+  "Id": "80884b4e-ef6b-4990-a3db-7aee5856d448",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bellossom",
+    "DisplayName": "Bellossom",
+    "Description": null,
+    "FieldValues": {
+      "Number": "182",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bellossom",
+      "DisplayName": "Bellossom",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

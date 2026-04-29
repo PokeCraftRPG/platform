@@ -1,0 +1,26 @@
+﻿{
+  "Id": "bb1b229b-918e-4b1c-9ffd-45d6119fde33",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "prinplup",
+    "DisplayName": "Prinplup",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e55ce3fc-1422-4f8f-906a-d2514a6ced64\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "prinplup",
+      "DisplayName": "Prinplup",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Penguin"
+      }
+    }
+  }
+}

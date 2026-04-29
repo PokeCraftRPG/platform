@@ -1,0 +1,43 @@
+﻿{
+  "Id": "adcb8dce-a9fd-419c-946c-b61562185b95",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "noivern",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"293e263e-fff7-44f9-9a02-c6e7359095c9\"]",
+      "Height": "15",
+      "Weight": "850",
+      "YieldExperience": "187",
+      "PrimaryAbility": "[\"646cd171-4012-41af-b36f-69b1a3142f3e\"]",
+      "SecondaryAbility": "[\"0a9fa785-a966-4ed6-8ab9-a33aecd0847c\"]",
+      "HiddenAbility": "[\"f5863110-b5b9-4629-b95c-3869ed34433d\"]",
+      "BaseHP": "85",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "97",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "123",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Flying\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "noivern",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "450271ff-2025-4393-9787-d48756a475d3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tangela",
+    "DisplayName": "Tangela",
+    "Description": null,
+    "FieldValues": {
+      "Number": "114",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tangela",
+      "DisplayName": "Tangela",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

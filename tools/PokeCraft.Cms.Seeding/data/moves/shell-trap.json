@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c6474e34-d740-44c7-a9c6-5cb86ba56932",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shell-trap",
+    "DisplayName": "Shell Trap",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "150",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shell-trap",
+      "DisplayName": "Shell Trap",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

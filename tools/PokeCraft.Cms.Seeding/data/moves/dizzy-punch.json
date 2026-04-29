@@ -1,0 +1,25 @@
+﻿{
+  "Id": "fbb50405-203c-4555-aacd-d368f5382f0e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dizzy-punch",
+    "DisplayName": "Dizzy Punch",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "70",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dizzy-punch",
+      "DisplayName": "Dizzy Punch",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

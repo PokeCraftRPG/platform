@@ -1,0 +1,24 @@
+﻿{
+  "Id": "852a8b23-cf3c-463b-bd81-3fa309a31ef1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "struggle",
+    "DisplayName": "Struggle",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "50",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "struggle",
+      "DisplayName": "Struggle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

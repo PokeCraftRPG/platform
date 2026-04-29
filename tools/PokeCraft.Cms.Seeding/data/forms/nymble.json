@@ -1,0 +1,41 @@
+﻿{
+  "Id": "12546e80-ecda-4144-84a2-030ea070ea86",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nymble",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ee600c2a-f52a-4330-83ca-6313c6318196\"]",
+      "Height": "2",
+      "Weight": "10",
+      "YieldExperience": "42",
+      "PrimaryAbility": "[\"ba1b3a50-acc0-4032-bf14-6572fa26daed\"]",
+      "HiddenAbility": "[\"786cffd7-a22d-4bc0-87f2-6a9ffbbc07d2\"]",
+      "BaseHP": "33",
+      "YieldHP": "0",
+      "BaseAttack": "46",
+      "YieldAttack": "1",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "21",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "25",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nymble",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

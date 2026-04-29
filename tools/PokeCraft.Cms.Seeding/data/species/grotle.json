@@ -1,0 +1,28 @@
+﻿{
+  "Id": "8619eeec-efc0-4ebb-b0f2-cb3260706be6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grotle",
+    "DisplayName": "Grotle",
+    "Description": null,
+    "FieldValues": {
+      "Number": "388",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grotle",
+      "DisplayName": "Grotle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

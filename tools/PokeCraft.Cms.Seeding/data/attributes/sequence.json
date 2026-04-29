@@ -1,0 +1,19 @@
+﻿{
+  "Id": "91b5ff7c-e253-4152-b7d7-9858b7612382",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sequence",
+    "DisplayName": "Sequence",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sequence",
+      "DisplayName": "Sequence",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

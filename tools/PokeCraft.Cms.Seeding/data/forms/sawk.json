@@ -1,0 +1,42 @@
+﻿{
+  "Id": "a0a33c6a-16f3-4ad4-9b30-9d725ed04aba",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sawk",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3c663a99-43e6-4ab6-8101-eac9714b28ad\"]",
+      "Height": "14",
+      "Weight": "510",
+      "YieldExperience": "163",
+      "PrimaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "SecondaryAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "HiddenAbility": "[\"f35847b5-de3c-4706-a9d6-010903615537\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "125",
+      "YieldAttack": "2",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sawk",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

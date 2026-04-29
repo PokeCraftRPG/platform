@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6e89dfd4-d238-4592-8db2-951723896188",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tadbulb",
+    "DisplayName": "Tadbulb",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"71f0a22d-bb45-4090-9787-717c7f13986e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tadbulb",
+      "DisplayName": "Tadbulb",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "EleTadpole"
+      }
+    }
+  }
+}

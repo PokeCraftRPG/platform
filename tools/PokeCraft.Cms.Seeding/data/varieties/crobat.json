@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6e608496-74eb-4a2a-b323-b01dcf0c513e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "crobat",
+    "DisplayName": "Crobat",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"31478781-a813-4a8c-95c2-c69cc2e273ee\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "crobat",
+      "DisplayName": "Crobat",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bat"
+      }
+    }
+  }
+}

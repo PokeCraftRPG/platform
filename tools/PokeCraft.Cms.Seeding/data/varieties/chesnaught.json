@@ -1,0 +1,26 @@
+﻿{
+  "Id": "954a41cf-bb50-4a57-877f-60c5abf53946",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chesnaught",
+    "DisplayName": "Chesnaught",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"36fbfd29-4d81-4497-989f-e8d7cac40ef7\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chesnaught",
+      "DisplayName": "Chesnaught",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Spiny Armor"
+      }
+    }
+  }
+}

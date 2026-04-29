@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4a6006e8-36dc-496b-9f68-4d9958e72b36",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "golem-alola",
+    "DisplayName": "Golem",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2ee39d20-0083-4a14-bce5-18fec5354996\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "golem-alola",
+      "DisplayName": "Golem",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Megaton"
+      }
+    }
+  }
+}

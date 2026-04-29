@@ -1,0 +1,41 @@
+﻿{
+  "Id": "214f4005-ef4b-41c0-a223-7159f0e63c48",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scizor-mega",
+    "DisplayName": "Mega Scizor",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9b3e0e51-adca-4434-a469-99ae0bd98628\"]",
+      "Height": "20",
+      "Weight": "1250",
+      "YieldExperience": "210",
+      "PrimaryAbility": "[\"d20432c3-18d0-4160-a3f1-a363c9e6633d\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "150",
+      "YieldAttack": "2",
+      "BaseDefense": "140",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "75",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scizor-mega",
+      "DisplayName": "Mega Scizor",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

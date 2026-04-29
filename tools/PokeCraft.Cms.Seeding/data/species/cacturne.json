@@ -1,0 +1,28 @@
+﻿{
+  "Id": "c7528e40-6514-4de8-a9ac-f85d288f62e9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cacturne",
+    "DisplayName": "Cacturne",
+    "Description": null,
+    "FieldValues": {
+      "Number": "332",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]",
+      "SecondaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cacturne",
+      "DisplayName": "Cacturne",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

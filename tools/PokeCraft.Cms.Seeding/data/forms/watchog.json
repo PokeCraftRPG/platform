@@ -1,0 +1,42 @@
+﻿{
+  "Id": "52b5cb0b-2096-4bba-91d1-245219857afa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "watchog",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0b68fd9c-2b2e-424e-a8a0-1c779c653e77\"]",
+      "Height": "11",
+      "Weight": "270",
+      "YieldExperience": "147",
+      "PrimaryAbility": "[\"c5bb24d5-3152-481e-b7f6-c1637f7cc794\"]",
+      "SecondaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "HiddenAbility": "[\"46c2aea0-fa60-492b-8e7f-0d5de67c6321\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "2",
+      "BaseDefense": "69",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "69",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "77",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "watchog",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

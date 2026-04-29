@@ -1,0 +1,43 @@
+﻿{
+  "Id": "d5fb559d-d7d0-4e55-89f7-4060e19cfd0f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scraggy",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7c1adfe8-ec0a-4eba-b099-547d28a6c5f2\"]",
+      "Height": "6",
+      "Weight": "118",
+      "YieldExperience": "70",
+      "PrimaryAbility": "[\"ce764204-79c4-4e66-8017-2144a4e66f3c\"]",
+      "SecondaryAbility": "[\"5ca88ad1-2039-4935-9e88-99d81c4bf372\"]",
+      "HiddenAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "1",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "48",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scraggy",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

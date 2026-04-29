@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0b8258d7-5897-4d4f-841b-c393a793a70d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rockruff-own-tempo",
+    "DisplayName": "Rockruff",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"bb5c926a-5f5a-47c7-84df-540f4f1ec5bd\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rockruff-own-tempo",
+      "DisplayName": "Rockruff",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Puppy"
+      }
+    }
+  }
+}

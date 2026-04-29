@@ -1,0 +1,27 @@
+﻿{
+  "Id": "677b05ad-cc7e-423b-8364-e9531f87a6f7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "patrat",
+    "DisplayName": "Patrat",
+    "Description": null,
+    "FieldValues": {
+      "Number": "504",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "patrat",
+      "DisplayName": "Patrat",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

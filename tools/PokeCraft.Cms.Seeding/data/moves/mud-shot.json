@@ -1,0 +1,25 @@
+﻿{
+  "Id": "0b359fdb-d617-4720-a766-616e05265c36",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mud-shot",
+    "DisplayName": "Mud Shot",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "95",
+      "Power": "55",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mud-shot",
+      "DisplayName": "Mud Shot",
+      "Description": "The user attacks by hurling a blob of mud at the target. This also lowers the target's Speed stat.",
+      "FieldValues": {}
+    }
+  }
+}

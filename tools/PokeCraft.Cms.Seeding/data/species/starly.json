@@ -1,0 +1,27 @@
+﻿{
+  "Id": "9961e69d-ec39-4a10-874d-1792ec245387",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "starly",
+    "DisplayName": "Starly",
+    "Description": null,
+    "FieldValues": {
+      "Number": "396",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "starly",
+      "DisplayName": "Starly",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

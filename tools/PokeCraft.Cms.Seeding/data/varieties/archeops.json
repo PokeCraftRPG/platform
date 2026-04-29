@@ -1,0 +1,26 @@
+﻿{
+  "Id": "69db259e-8d45-463b-8a74-9e6c6672b988",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "archeops",
+    "DisplayName": "Archeops",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"620d8090-7bc4-44f3-8acb-c8e0fa83e0f8\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "archeops",
+      "DisplayName": "Archeops",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "First Bird"
+      }
+    }
+  }
+}

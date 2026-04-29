@@ -1,0 +1,41 @@
+﻿{
+  "Id": "725ae4e8-9b49-4b15-b21e-5c6294607c6c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rampardos",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"82b2c056-621e-4276-895f-470cd669c774\"]",
+      "Height": "16",
+      "Weight": "1025",
+      "YieldExperience": "173",
+      "PrimaryAbility": "[\"f35847b5-de3c-4706-a9d6-010903615537\"]",
+      "HiddenAbility": "[\"ef348627-bea1-4c87-9bf1-417ed3b66855\"]",
+      "BaseHP": "97",
+      "YieldHP": "0",
+      "BaseAttack": "165",
+      "YieldAttack": "2",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "58",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rampardos",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

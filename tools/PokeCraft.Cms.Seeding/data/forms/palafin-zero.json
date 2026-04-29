@@ -1,0 +1,40 @@
+﻿{
+  "Id": "2db74e05-3830-4c2a-bdc7-c3ac020ca6b0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "palafin-zero",
+    "DisplayName": "Zero Form Palafin",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2ec08809-7de2-49c3-abca-bc00cf479d17\"]",
+      "Height": "13",
+      "Weight": "602",
+      "YieldExperience": "160",
+      "PrimaryAbility": "[\"16d4e841-a8a3-4259-b926-ab6b461698d6\"]",
+      "BaseHP": "100",
+      "YieldHP": "2",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "72",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "53",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "62",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "palafin-zero",
+      "DisplayName": "Zero Form Palafin",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

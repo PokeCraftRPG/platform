@@ -1,0 +1,40 @@
+﻿{
+  "Id": "e0556c36-e61b-46de-a139-a49957267981",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "poipole",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a55f39fe-5ec3-4ae9-ab87-76196900f7a1\"]",
+      "Height": "6",
+      "Weight": "18",
+      "YieldExperience": "189",
+      "PrimaryAbility": "[\"e7ec0ce2-6979-45a9-80ab-215081d487e3\"]",
+      "BaseHP": "67",
+      "YieldHP": "0",
+      "BaseAttack": "73",
+      "YieldAttack": "0",
+      "BaseDefense": "67",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "73",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "67",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "73",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "poipole",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

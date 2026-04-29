@@ -1,0 +1,27 @@
+﻿{
+  "Id": "cf7907cc-61a2-4179-9b43-4bd03a0efbda",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magby",
+    "DisplayName": "Magby",
+    "Description": null,
+    "FieldValues": {
+      "Number": "240",
+      "Category": "[\"Baby\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magby",
+      "DisplayName": "Magby",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

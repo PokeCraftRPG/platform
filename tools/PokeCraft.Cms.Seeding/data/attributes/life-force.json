@@ -1,0 +1,19 @@
+﻿{
+  "Id": "bd18f35f-1a7f-47ed-99ee-a01c17fada99",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "life-force",
+    "DisplayName": "Life Force",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "life-force",
+      "DisplayName": "Life Force",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

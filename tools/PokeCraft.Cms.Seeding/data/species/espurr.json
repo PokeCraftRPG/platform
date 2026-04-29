@@ -1,0 +1,27 @@
+﻿{
+  "Id": "fdf0858d-2d6d-46af-b4a0-dec860f5e6db",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "espurr",
+    "DisplayName": "Espurr",
+    "Description": null,
+    "FieldValues": {
+      "Number": "677",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "espurr",
+      "DisplayName": "Espurr",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

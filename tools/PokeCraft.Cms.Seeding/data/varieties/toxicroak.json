@@ -1,0 +1,26 @@
+﻿{
+  "Id": "beb228f4-fa7f-4abc-822e-26689889c845",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toxicroak",
+    "DisplayName": "Toxicroak",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c3811d51-ef00-4d98-b262-ca4774f39ad0\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toxicroak",
+      "DisplayName": "Toxicroak",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Toxic Mouth"
+      }
+    }
+  }
+}

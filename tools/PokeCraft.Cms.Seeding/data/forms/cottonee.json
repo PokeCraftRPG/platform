@@ -1,0 +1,43 @@
+﻿{
+  "Id": "18c78062-0fbf-4499-a98b-8e6c42a1b687",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cottonee",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"817a5e8d-bab4-4f54-83fc-f102d2212727\"]",
+      "Height": "3",
+      "Weight": "6",
+      "YieldExperience": "56",
+      "PrimaryAbility": "[\"84a30672-4ea5-4904-84fc-d04259c936a3\"]",
+      "SecondaryAbility": "[\"0a9fa785-a966-4ed6-8ab9-a33aecd0847c\"]",
+      "HiddenAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "27",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "37",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "66",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cottonee",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

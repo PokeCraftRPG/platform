@@ -1,0 +1,28 @@
+﻿{
+  "Id": "2499240e-3d40-496f-9f4d-7920a847087e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "morpeko",
+    "DisplayName": "Morpeko",
+    "Description": null,
+    "FieldValues": {
+      "Number": "877",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "180",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "morpeko",
+      "DisplayName": "Morpeko",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

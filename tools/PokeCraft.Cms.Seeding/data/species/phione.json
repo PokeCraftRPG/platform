@@ -1,0 +1,28 @@
+﻿{
+  "Id": "ab1a5863-64bc-4a59-ae7d-b8a9b43432f9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "phione",
+    "DisplayName": "Phione",
+    "Description": null,
+    "FieldValues": {
+      "Number": "489",
+      "Category": "[\"Mythical\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "30",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "phione",
+      "DisplayName": "Phione",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

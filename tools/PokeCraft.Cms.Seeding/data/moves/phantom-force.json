@@ -1,0 +1,25 @@
+﻿{
+  "Id": "93b8cdd4-eb58-4bd3-a4a4-547d1387bbbb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "phantom-force",
+    "DisplayName": "Phantom Force",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "phantom-force",
+      "DisplayName": "Phantom Force",
+      "Description": "The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.",
+      "FieldValues": {}
+    }
+  }
+}

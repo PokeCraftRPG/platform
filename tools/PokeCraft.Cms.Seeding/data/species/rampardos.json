@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d38bfc85-df3b-4ceb-ac42-a011432d2ba9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rampardos",
+    "DisplayName": "Rampardos",
+    "Description": null,
+    "FieldValues": {
+      "Number": "409",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Monster\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rampardos",
+      "DisplayName": "Rampardos",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

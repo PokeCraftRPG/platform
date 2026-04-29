@@ -1,0 +1,25 @@
+﻿{
+  "Id": "eaa0cc3b-edaa-45c6-bc90-67778f7c0408",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "round",
+    "DisplayName": "Round",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "round",
+      "DisplayName": "Round",
+      "Description": "The user attacks the target with a song. If others use this move, they will act immediately after the initial user, and the power of their Rounds will be boosted.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5ec368e8-6330-4679-9798-efd43329d91f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mimikyu-disguised",
+    "DisplayName": "Mimikyu",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"06043777-a4fe-4878-85c8-59eadcccdd98\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mimikyu-disguised",
+      "DisplayName": "Mimikyu",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Disguise"
+      }
+    }
+  }
+}

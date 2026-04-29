@@ -1,0 +1,25 @@
+﻿{
+  "Id": "447d67fe-b7bf-4190-bd82-f5029080e618",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragon-hammer",
+    "DisplayName": "Dragon Hammer",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragon-hammer",
+      "DisplayName": "Dragon Hammer",
+      "Description": "The user wields its body like a hammer to attack the target and inflict damage.",
+      "FieldValues": {}
+    }
+  }
+}

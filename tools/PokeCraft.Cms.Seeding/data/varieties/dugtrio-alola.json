@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c036efc8-50c7-419e-9f0b-d2d9c59aa8c5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dugtrio-alola",
+    "DisplayName": "Dugtrio",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"54682795-9928-40b6-9288-f24d3d9f0fa2\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dugtrio-alola",
+      "DisplayName": "Dugtrio",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mole"
+      }
+    }
+  }
+}

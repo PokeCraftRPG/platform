@@ -1,0 +1,25 @@
+﻿{
+  "Id": "921949cb-520c-4d21-85a9-aad4dbbd6465",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zing-zap",
+    "DisplayName": "Zing Zap",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zing-zap",
+      "DisplayName": "Zing Zap",
+      "Description": "The user crashes into the target, delivering a powerful electric shock. This may also make the target flinch.",
+      "FieldValues": {}
+    }
+  }
+}

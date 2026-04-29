@@ -1,0 +1,19 @@
+﻿{
+  "Id": "f863cc47-85a0-4a65-bb10-a51733957719",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "storm-drain",
+    "DisplayName": "Storm Drain",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "storm-drain",
+      "DisplayName": "Storm Drain",
+      "Description": "The Pokémon draws in all Water-type moves. Instead of taking damage from them, its Sp. Atk stat is boosted.",
+      "FieldValues": {}
+    }
+  }
+}

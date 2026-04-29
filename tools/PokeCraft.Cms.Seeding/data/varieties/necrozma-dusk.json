@@ -1,0 +1,25 @@
+﻿{
+  "Id": "85a6fe39-9d53-4d6e-be29-477c748a087a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "necrozma-dusk",
+    "DisplayName": "Necrozma",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"50da8fe4-af2b-4a79-9ec3-8c27a85981bc\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "necrozma-dusk",
+      "DisplayName": "Necrozma",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Prism"
+      }
+    }
+  }
+}

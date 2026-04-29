@@ -1,0 +1,41 @@
+﻿{
+  "Id": "e57b19f5-328f-4364-907e-4ba4ff6a4a44",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aegislash-blade",
+    "DisplayName": "Blade Aegislash",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ee088629-9613-4607-95d8-1a9c6e26288d\"]",
+      "Height": "17",
+      "Weight": "530",
+      "YieldExperience": "250",
+      "PrimaryAbility": "[\"a85f9380-d6a7-493b-87a0-e2395eea7608\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "140",
+      "YieldAttack": "2",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "140",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aegislash-blade",
+      "DisplayName": "Blade Aegislash",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

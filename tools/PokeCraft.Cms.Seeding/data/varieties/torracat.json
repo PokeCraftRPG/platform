@@ -1,0 +1,26 @@
+﻿{
+  "Id": "45602405-3490-4ff9-bcd2-359d91e8ca2f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "torracat",
+    "DisplayName": "Torracat",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5b44d960-42ce-4619-a01a-3aa37630ca15\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "torracat",
+      "DisplayName": "Torracat",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fire Cat"
+      }
+    }
+  }
+}

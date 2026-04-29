@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b1a4ee1a-6801-409c-9f5f-5e050a45a3be",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bouffalant",
+    "DisplayName": "Bouffalant",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"211ffdde-6d39-4cd9-9475-d8ef42daecb0\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bouffalant",
+      "DisplayName": "Bouffalant",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bash Buffalo"
+      }
+    }
+  }
+}

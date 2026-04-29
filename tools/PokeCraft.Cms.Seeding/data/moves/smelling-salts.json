@@ -1,0 +1,25 @@
+﻿{
+  "Id": "de65c5f9-5fb2-4ff9-9532-a2491de2661d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "smelling-salts",
+    "DisplayName": "Smelling Salts",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "70",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "smelling-salts",
+      "DisplayName": "Smelling Salts",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

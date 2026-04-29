@@ -1,0 +1,19 @@
+﻿{
+  "Id": "82ed83d7-5ec8-4a36-b053-9acc8f2315cc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bad-dreams",
+    "DisplayName": "Bad Dreams",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bad-dreams",
+      "DisplayName": "Bad Dreams",
+      "Description": "Damages opposing Pokémon that are asleep.",
+      "FieldValues": {}
+    }
+  }
+}

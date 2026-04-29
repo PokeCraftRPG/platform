@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3bd9c680-6809-478d-96bb-438b8e7d202b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "araquanid",
+    "DisplayName": "Araquanid",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0304b5fe-fa3d-432a-b14b-b867d4acb58d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "araquanid",
+      "DisplayName": "Araquanid",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Water Bubble"
+      }
+    }
+  }
+}

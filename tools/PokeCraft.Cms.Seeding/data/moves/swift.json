@@ -1,0 +1,24 @@
+﻿{
+  "Id": "645738e8-430d-425e-86fc-7fd8b64f8835",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swift",
+    "DisplayName": "Swift",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Special\"]",
+      "Power": "60",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swift",
+      "DisplayName": "Swift",
+      "Description": "Star-shaped rays are shot at opposing Pokémon. This attack never misses.",
+      "FieldValues": {}
+    }
+  }
+}

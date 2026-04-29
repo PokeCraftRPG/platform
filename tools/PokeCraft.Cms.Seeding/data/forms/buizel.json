@@ -1,0 +1,41 @@
+﻿{
+  "Id": "8bd8d080-6756-4684-80f8-a849801ede7f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "buizel",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d906033f-2378-4b89-938f-83a23de4d3b9\"]",
+      "Height": "7",
+      "Weight": "295",
+      "YieldExperience": "66",
+      "PrimaryAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "HiddenAbility": "[\"24615c56-6280-47e4-8568-73a412d83865\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "35",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "30",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "85",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "buizel",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

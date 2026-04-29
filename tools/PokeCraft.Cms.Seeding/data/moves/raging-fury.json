@@ -1,0 +1,25 @@
+﻿{
+  "Id": "e983c784-d280-4374-97ab-6f32bc5517c5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "raging-fury",
+    "DisplayName": "Raging Fury",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "raging-fury",
+      "DisplayName": "Raging Fury",
+      "Description": "The user rampages around spewing flames for two to three turns. The user then becomes confused.",
+      "FieldValues": {}
+    }
+  }
+}

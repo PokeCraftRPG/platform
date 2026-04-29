@@ -1,0 +1,26 @@
+﻿{
+  "Id": "34d5a483-c3da-4271-95ce-49d4cb46c622",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arrokuda",
+    "DisplayName": "Arrokuda",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6bbd7a77-bd52-43a0-8c93-75e51948d5b4\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arrokuda",
+      "DisplayName": "Arrokuda",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rush"
+      }
+    }
+  }
+}

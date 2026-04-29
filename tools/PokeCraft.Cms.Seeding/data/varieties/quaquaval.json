@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b38a08be-667b-49d0-a105-46b90a647e60",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "quaquaval",
+    "DisplayName": "Quaquaval",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"dd3c0c06-983b-412d-b71a-66ac130083f9\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "quaquaval",
+      "DisplayName": "Quaquaval",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Dancer"
+      }
+    }
+  }
+}

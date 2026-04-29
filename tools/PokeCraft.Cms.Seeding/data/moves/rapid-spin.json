@@ -1,0 +1,25 @@
+﻿{
+  "Id": "98218c43-2d39-4bdb-82cd-0e8a3c839197",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rapid-spin",
+    "DisplayName": "Rapid Spin",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "50",
+      "PowerPoints": "40"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rapid-spin",
+      "DisplayName": "Rapid Spin",
+      "Description": "The user performs a spin attack that can also eliminate the effects of such moves as Bind, Wrap, and Leech Seed. This also boosts the user's Speed stat.",
+      "FieldValues": {}
+    }
+  }
+}

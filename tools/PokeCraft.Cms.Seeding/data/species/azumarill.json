@@ -1,0 +1,28 @@
+﻿{
+  "Id": "1dc3c77d-0c9e-471f-9d9d-42b2b8e1cc2d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "azumarill",
+    "DisplayName": "Azumarill",
+    "Description": null,
+    "FieldValues": {
+      "Number": "184",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "azumarill",
+      "DisplayName": "Azumarill",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "b9a3d315-9894-4186-8a9f-37586a0ffee1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dracovish",
+    "DisplayName": "Dracovish",
+    "Description": null,
+    "FieldValues": {
+      "Number": "882",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "35",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dracovish",
+      "DisplayName": "Dracovish",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

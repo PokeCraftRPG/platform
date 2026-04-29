@@ -1,0 +1,25 @@
+﻿{
+  "Id": "d6102f4f-8337-44b4-927c-735983820b3e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "koraidon-gliding-build",
+    "DisplayName": "Koraidon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"12f419f1-928e-450d-9bc9-5fd1a0aa6db9\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "koraidon-gliding-build",
+      "DisplayName": "Koraidon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

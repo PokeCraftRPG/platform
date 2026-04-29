@@ -1,0 +1,26 @@
+﻿{
+  "Id": "43387506-1aae-456b-8c6c-5ce8292fc12f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cramorant",
+    "DisplayName": "Cramorant",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0b9f456b-2654-43da-bf71-4f98541f2561\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cramorant",
+      "DisplayName": "Cramorant",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Gulp"
+      }
+    }
+  }
+}

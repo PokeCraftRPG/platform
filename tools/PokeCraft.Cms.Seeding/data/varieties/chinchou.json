@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e74fa84c-a608-48bd-adf1-8eb7de7c5164",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chinchou",
+    "DisplayName": "Chinchou",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2985966c-7fc4-4a6b-8a2e-f62f03637adb\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chinchou",
+      "DisplayName": "Chinchou",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Angler"
+      }
+    }
+  }
+}

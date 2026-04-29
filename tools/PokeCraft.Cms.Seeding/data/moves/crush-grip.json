@@ -1,0 +1,24 @@
+﻿{
+  "Id": "0d67c4ba-967f-43b7-9cc5-56c4b3d63090",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "crush-grip",
+    "DisplayName": "Crush Grip",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "crush-grip",
+      "DisplayName": "Crush Grip",
+      "Description": "The target is crushed with great force. The more HP the target has left, the greater the move's power.",
+      "FieldValues": {}
+    }
+  }
+}

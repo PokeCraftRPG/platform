@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0d236b1a-3aac-4268-a5ae-9f9233dd3863",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scrafty-mega",
+    "DisplayName": "Scrafty",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"875b7510-0303-41fa-9e3b-91adc977b2eb\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scrafty-mega",
+      "DisplayName": "Scrafty",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Hoodlum"
+      }
+    }
+  }
+}

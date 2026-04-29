@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1d68b787-ff76-4cf4-a043-0da565d05adc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cubchoo",
+    "DisplayName": "Cubchoo",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7066a478-cc8d-4c57-a40c-2a469c50a2ff\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cubchoo",
+      "DisplayName": "Cubchoo",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Chill"
+      }
+    }
+  }
+}

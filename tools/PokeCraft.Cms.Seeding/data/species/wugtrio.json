@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e4e34b04-39f2-4d07-9326-cfeeac09e826",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wugtrio",
+    "DisplayName": "Wugtrio",
+    "Description": null,
+    "FieldValues": {
+      "Number": "961",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "50",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wugtrio",
+      "DisplayName": "Wugtrio",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

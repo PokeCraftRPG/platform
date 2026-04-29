@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c88e54ac-02f2-46b0-9540-3840382aaa1c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snipe-shot",
+    "DisplayName": "Snipe Shot",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snipe-shot",
+      "DisplayName": "Snipe Shot",
+      "Description": "The user ignores the effects of opposing Pokémon's moves and Abilities that draw in moves, allowing this move to hit the chosen target.",
+      "FieldValues": {}
+    }
+  }
+}

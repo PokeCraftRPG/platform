@@ -1,0 +1,43 @@
+﻿{
+  "Id": "06a43507-3d34-4ebc-99e9-5653de9d561e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "doduo",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4c6afdfb-1675-4841-ad21-0c2cde035b35\"]",
+      "Height": "14",
+      "Weight": "392",
+      "YieldExperience": "62",
+      "PrimaryAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "SecondaryAbility": "[\"922cb4e0-72ea-40f7-b6c5-6fbefa939214\"]",
+      "HiddenAbility": "[\"15d2abba-2012-411a-9b8f-92ed5b04e17d\"]",
+      "BaseHP": "35",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "1",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "35",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "75",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "doduo",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

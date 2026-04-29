@@ -1,0 +1,40 @@
+﻿{
+  "Id": "3978788c-c062-4aa0-9209-cc4f6e403379",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meganium-mega",
+    "DisplayName": "Mega Meganium",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2246b923-865a-4748-b72c-0bc9a9bcf23d\"]",
+      "Height": "24",
+      "Weight": "2010",
+      "PrimaryAbility": "[\"59eafc09-3108-4914-b22e-44c70185e892\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "92",
+      "YieldAttack": "0",
+      "BaseDefense": "115",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "143",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "115",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meganium-mega",
+      "DisplayName": "Mega Meganium",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "0e4e9ba8-d7b5-49a9-a2c5-283c98ee415e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "squirtle",
+    "DisplayName": "Squirtle",
+    "Description": null,
+    "FieldValues": {
+      "Number": "7",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "squirtle",
+      "DisplayName": "Squirtle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

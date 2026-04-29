@@ -1,0 +1,23 @@
+﻿{
+  "Id": "28a141ec-66ff-4c65-89e8-0c804dd2fcdb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "power-split",
+    "DisplayName": "Power Split",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "power-split",
+      "DisplayName": "Power Split",
+      "Description": "The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target.",
+      "FieldValues": {}
+    }
+  }
+}

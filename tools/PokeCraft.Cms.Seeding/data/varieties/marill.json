@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f6297d3e-af05-4f54-a0f9-cb330f9b9704",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "marill",
+    "DisplayName": "Marill",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2f124ae5-f81a-4f45-8952-cdbeb4acf4ad\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "marill",
+      "DisplayName": "Marill",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Aqua Mouse"
+      }
+    }
+  }
+}

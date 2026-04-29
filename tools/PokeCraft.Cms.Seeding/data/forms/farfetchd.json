@@ -1,0 +1,43 @@
+﻿{
+  "Id": "20786184-6c49-400f-866a-df0f6a91f1dd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "farfetchd",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c74b5f51-5c68-4aec-8d81-61b66a22fcf4\"]",
+      "Height": "8",
+      "Weight": "150",
+      "YieldExperience": "132",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "SecondaryAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "HiddenAbility": "[\"493ac234-5dd4-4767-9e41-8ec4cd322437\"]",
+      "BaseHP": "52",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "1",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "58",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "62",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "farfetchd",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "bc4cbb1a-5cd9-48a1-967b-53295cf8f066",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "inkay",
+    "DisplayName": "Inkay",
+    "Description": null,
+    "FieldValues": {
+      "Number": "686",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "inkay",
+      "DisplayName": "Inkay",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

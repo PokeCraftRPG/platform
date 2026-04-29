@@ -1,0 +1,19 @@
+﻿{
+  "Id": "c1d5c879-ddfc-4121-a943-0a637effd5ea",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "multiscale",
+    "DisplayName": "Multiscale",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "multiscale",
+      "DisplayName": "Multiscale",
+      "Description": "Reduces the amount of damage the Pokémon takes while its HP is full.",
+      "FieldValues": {}
+    }
+  }
+}

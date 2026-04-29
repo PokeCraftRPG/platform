@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a7119677-44c2-4532-a582-09284b5d1623",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "torterra",
+    "DisplayName": "Torterra",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"40cce308-e632-4075-b3f1-50db67ed5e0f\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "torterra",
+      "DisplayName": "Torterra",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Continent"
+      }
+    }
+  }
+}

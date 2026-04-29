@@ -1,0 +1,43 @@
+﻿{
+  "Id": "1b5cf4ad-759e-441d-a1a2-c4199324276f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toxtricity-low-key",
+    "DisplayName": "Low Key Toxtricity",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"418b4d10-c7a1-4c33-85b2-5056a81c02c5\"]",
+      "Height": "16",
+      "Weight": "400",
+      "YieldExperience": "176",
+      "PrimaryAbility": "[\"cbe8b94d-6229-4e0b-b029-1c7535d1e413\"]",
+      "SecondaryAbility": "[\"1fdf39c7-0d56-4eaf-9c4c-b9fe5a938d0b\"]",
+      "HiddenAbility": "[\"d20432c3-18d0-4160-a3f1-a363c9e6633d\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "98",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "114",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "75",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toxtricity-low-key",
+      "DisplayName": "Low Key Toxtricity",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

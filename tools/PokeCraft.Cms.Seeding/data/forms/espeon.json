@@ -1,0 +1,41 @@
+﻿{
+  "Id": "53c984d5-78fe-4df5-8626-95f815a1c5e3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "espeon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c9fdf14c-4311-4c4a-8850-0e72932efb29\"]",
+      "Height": "9",
+      "Weight": "265",
+      "YieldExperience": "184",
+      "PrimaryAbility": "[\"f5fd746b-4285-427b-ab75-928d416a5c85\"]",
+      "HiddenAbility": "[\"67f51e12-608d-4075-9293-523b122271f5\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "130",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "110",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "espeon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

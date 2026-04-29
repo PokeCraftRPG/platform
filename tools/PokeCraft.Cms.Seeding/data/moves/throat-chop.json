@@ -1,0 +1,25 @@
+﻿{
+  "Id": "d9ef2d09-222a-406b-ae3d-0e64942e2706",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "throat-chop",
+    "DisplayName": "Throat Chop",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "throat-chop",
+      "DisplayName": "Throat Chop",
+      "Description": "The user attacks the target's throat, and the resultant suffering prevents the target from using sound-based moves for two turns.",
+      "FieldValues": {}
+    }
+  }
+}

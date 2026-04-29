@@ -1,0 +1,19 @@
+﻿{
+  "Id": "3b62b1b9-5a1e-4ed8-b03d-989c30b641aa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "daze",
+    "DisplayName": "Daze",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "daze",
+      "DisplayName": "Daze",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

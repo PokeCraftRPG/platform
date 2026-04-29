@@ -1,0 +1,42 @@
+﻿{
+  "Id": "4b805bd1-aa6b-4d89-a25a-350b16ea088d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sandslash-alola",
+    "DisplayName": "Alolan Sandslash",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"396c014f-7d36-416b-8eba-019a14e0a945\"]",
+      "Height": "12",
+      "Weight": "550",
+      "YieldExperience": "158",
+      "PrimaryAbility": "[\"6397856d-ee55-409a-a0aa-3657039b20c4\"]",
+      "HiddenAbility": "[\"1529f289-3c54-49ef-a5b7-924ae1f92aa8\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "120",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "25",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sandslash-alola",
+      "DisplayName": "Alolan Sandslash",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

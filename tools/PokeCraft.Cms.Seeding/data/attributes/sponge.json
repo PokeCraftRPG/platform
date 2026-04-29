@@ -1,0 +1,19 @@
+﻿{
+  "Id": "8b81c0e9-bc15-4afe-a678-3c94f4e38327",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sponge",
+    "DisplayName": "Sponge",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sponge",
+      "DisplayName": "Sponge",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

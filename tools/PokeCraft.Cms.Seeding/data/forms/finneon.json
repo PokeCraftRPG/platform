@@ -1,0 +1,42 @@
+﻿{
+  "Id": "1ce6d2a2-916c-4e43-9453-fea34e4524a9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "finneon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a458ebb6-137e-4f0e-aeca-74e58ad4f5d5\"]",
+      "Height": "4",
+      "Weight": "70",
+      "YieldExperience": "66",
+      "PrimaryAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "SecondaryAbility": "[\"f863cc47-85a0-4a65-bb10-a51733957719\"]",
+      "HiddenAbility": "[\"24615c56-6280-47e4-8568-73a412d83865\"]",
+      "BaseHP": "49",
+      "YieldHP": "0",
+      "BaseAttack": "49",
+      "YieldAttack": "0",
+      "BaseDefense": "56",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "49",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "61",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "66",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "finneon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

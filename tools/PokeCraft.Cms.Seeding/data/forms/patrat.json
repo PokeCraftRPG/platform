@@ -1,0 +1,42 @@
+﻿{
+  "Id": "f300d073-345b-4d85-9908-8b0a424e358c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "patrat",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2afcb083-7a38-4aed-9520-77243805cde3\"]",
+      "Height": "5",
+      "Weight": "116",
+      "YieldExperience": "51",
+      "PrimaryAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "SecondaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "HiddenAbility": "[\"46c2aea0-fa60-492b-8e7f-0d5de67c6321\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "1",
+      "BaseDefense": "39",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "39",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "42",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "patrat",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

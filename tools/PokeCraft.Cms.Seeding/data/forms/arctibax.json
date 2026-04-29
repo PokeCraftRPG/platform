@@ -1,0 +1,42 @@
+﻿{
+  "Id": "4384f548-a584-4d4c-891c-ebb20fbdcb62",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arctibax",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"cfbe8034-d38e-4f09-bdc2-1523f334a547\"]",
+      "Height": "8",
+      "Weight": "300",
+      "YieldExperience": "148",
+      "PrimaryAbility": "[\"1117bcee-57ac-4af9-8555-e292ee340c3e\"]",
+      "HiddenAbility": "[\"c28be462-7265-4527-a8aa-85774f7eaf7b\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "2",
+      "BaseDefense": "66",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "62",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arctibax",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

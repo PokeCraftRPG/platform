@@ -1,0 +1,28 @@
+﻿{
+  "Id": "d69a7042-97f0-49ee-8f48-cc672777713f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swablu",
+    "DisplayName": "Swablu",
+    "Description": null,
+    "FieldValues": {
+      "Number": "333",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Flying\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swablu",
+      "DisplayName": "Swablu",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

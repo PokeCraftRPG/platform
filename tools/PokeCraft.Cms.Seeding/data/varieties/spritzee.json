@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b9d5b922-36f7-4068-bf72-2aca04a76069",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spritzee",
+    "DisplayName": "Spritzee",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8053a9fb-7f61-4025-9e84-984ccd5819a0\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spritzee",
+      "DisplayName": "Spritzee",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Perfume"
+      }
+    }
+  }
+}

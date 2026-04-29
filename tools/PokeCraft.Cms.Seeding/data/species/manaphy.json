@@ -1,0 +1,28 @@
+﻿{
+  "Id": "60e971a5-953f-41be-956a-8ae0e1cc54aa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "manaphy",
+    "DisplayName": "Manaphy",
+    "Description": null,
+    "FieldValues": {
+      "Number": "490",
+      "Category": "[\"Mythical\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "manaphy",
+      "DisplayName": "Manaphy",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

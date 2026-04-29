@@ -1,0 +1,26 @@
+﻿{
+  "Id": "8a7a2f8d-0a71-442f-8670-1b341c6bc7ce",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "geodude-alola",
+    "DisplayName": "Geodude",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ab4f4595-30d3-490c-9bf2-dc61d3e82702\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "geodude-alola",
+      "DisplayName": "Geodude",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rock"
+      }
+    }
+  }
+}

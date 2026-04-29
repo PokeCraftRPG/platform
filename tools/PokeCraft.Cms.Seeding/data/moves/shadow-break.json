@@ -1,0 +1,23 @@
+﻿{
+  "Id": "55ebda29-05fd-4937-b578-bec2657c3bf9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shadow-break",
+    "DisplayName": "Shadow Break",
+    "Description": null,
+    "FieldValues": {
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "75"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shadow-break",
+      "DisplayName": "Shadow Break",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

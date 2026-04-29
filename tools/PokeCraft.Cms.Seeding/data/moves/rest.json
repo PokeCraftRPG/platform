@@ -1,0 +1,23 @@
+﻿{
+  "Id": "eba7c1e5-e03a-4af6-ba72-8138cbcb3fee",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rest",
+    "DisplayName": "Rest",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rest",
+      "DisplayName": "Rest",
+      "Description": "The user goes to sleep for two turns. This fully restores the user's HP and cures any status conditions.",
+      "FieldValues": {}
+    }
+  }
+}

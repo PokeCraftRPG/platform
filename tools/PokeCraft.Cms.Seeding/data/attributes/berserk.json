@@ -1,0 +1,19 @@
+﻿{
+  "Id": "06ecb525-1130-4301-ad97-f353a1b42da7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "berserk",
+    "DisplayName": "Berserk",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "berserk",
+      "DisplayName": "Berserk",
+      "Description": "Boosts the Pokémon's Sp. Atk stat when it takes a hit that causes its HP to drop to half or less.",
+      "FieldValues": {}
+    }
+  }
+}

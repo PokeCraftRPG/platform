@@ -1,0 +1,28 @@
+﻿{
+  "Id": "d4d957d2-1cde-41a0-ad0b-5a8ab03fdff9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kilowattrel",
+    "DisplayName": "Kilowattrel",
+    "Description": null,
+    "FieldValues": {
+      "Number": "941",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kilowattrel",
+      "DisplayName": "Kilowattrel",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

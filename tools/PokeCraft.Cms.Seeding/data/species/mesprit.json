@@ -1,0 +1,27 @@
+﻿{
+  "Id": "94b5e407-f33c-4282-98fc-1f7aa695e352",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mesprit",
+    "DisplayName": "Mesprit",
+    "Description": null,
+    "FieldValues": {
+      "Number": "481",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "140",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "80",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mesprit",
+      "DisplayName": "Mesprit",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "a03db5ef-7e5c-482a-873f-1331b7ddf4ba",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fly",
+    "DisplayName": "Fly",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "95",
+      "Power": "90",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fly",
+      "DisplayName": "Fly",
+      "Description": "The user flies up into the sky on the first turn, then attacks on the next turn.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e40f1665-b848-4087-9768-1c563d009665",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "brambleghast",
+    "DisplayName": "Brambleghast",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8b1a65fb-86dc-4fde-8859-5a292a3089c3\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "brambleghast",
+      "DisplayName": "Brambleghast",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tumbleweed"
+      }
+    }
+  }
+}

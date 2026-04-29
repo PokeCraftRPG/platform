@@ -1,0 +1,19 @@
+﻿{
+  "Id": "5ca88ad1-2039-4935-9e88-99d81c4bf372",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "moxie",
+    "DisplayName": "Moxie",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "moxie",
+      "DisplayName": "Moxie",
+      "Description": "When the Pokémon knocks out a target, it shows moxie, which boosts its Attack stat.",
+      "FieldValues": {}
+    }
+  }
+}

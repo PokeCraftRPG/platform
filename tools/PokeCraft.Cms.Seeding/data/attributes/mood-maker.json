@@ -1,0 +1,19 @@
+﻿{
+  "Id": "71c96325-4217-4117-8dff-82c7f2189e33",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mood-maker",
+    "DisplayName": "Mood Maker",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mood-maker",
+      "DisplayName": "Mood Maker",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

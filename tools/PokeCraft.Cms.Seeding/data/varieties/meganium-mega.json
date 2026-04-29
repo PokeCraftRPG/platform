@@ -1,0 +1,26 @@
+﻿{
+  "Id": "2246b923-865a-4748-b72c-0bc9a9bcf23d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meganium-mega",
+    "DisplayName": "Meganium",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a4ee5497-152c-4409-afa2-5a2171b2d986\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meganium-mega",
+      "DisplayName": "Meganium",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Herb"
+      }
+    }
+  }
+}

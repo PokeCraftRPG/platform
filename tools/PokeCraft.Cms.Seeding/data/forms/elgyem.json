@@ -1,0 +1,42 @@
+﻿{
+  "Id": "9ff9de1b-5252-44ab-b0ef-184a724d7ec9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "elgyem",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7956b3ce-a605-4c23-8a6f-254b3abfc762\"]",
+      "Height": "5",
+      "Weight": "90",
+      "YieldExperience": "67",
+      "PrimaryAbility": "[\"f5863110-b5b9-4629-b95c-3869ed34433d\"]",
+      "SecondaryAbility": "[\"f5fd746b-4285-427b-ab75-928d416a5c85\"]",
+      "HiddenAbility": "[\"46c2aea0-fa60-492b-8e7f-0d5de67c6321\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "elgyem",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

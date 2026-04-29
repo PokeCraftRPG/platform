@@ -1,0 +1,27 @@
+﻿{
+  "Id": "a129bf6a-f903-471d-9368-615bc9e14f3d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magnezone",
+    "DisplayName": "Magnezone",
+    "Description": null,
+    "FieldValues": {
+      "Number": "462",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "30",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magnezone",
+      "DisplayName": "Magnezone",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

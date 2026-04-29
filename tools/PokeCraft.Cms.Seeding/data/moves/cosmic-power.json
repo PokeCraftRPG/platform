@@ -1,0 +1,23 @@
+﻿{
+  "Id": "23cd0b0a-e5ff-49b3-82a3-1124f3abf36d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cosmic-power",
+    "DisplayName": "Cosmic Power",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cosmic-power",
+      "DisplayName": "Cosmic Power",
+      "Description": "The user absorbs a mystical power from space to boost its Defense and Sp. Def stats.",
+      "FieldValues": {}
+    }
+  }
+}

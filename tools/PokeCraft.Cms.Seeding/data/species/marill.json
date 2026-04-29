@@ -1,0 +1,28 @@
+﻿{
+  "Id": "2f124ae5-f81a-4f45-8952-cdbeb4acf4ad",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "marill",
+    "DisplayName": "Marill",
+    "Description": null,
+    "FieldValues": {
+      "Number": "183",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "marill",
+      "DisplayName": "Marill",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

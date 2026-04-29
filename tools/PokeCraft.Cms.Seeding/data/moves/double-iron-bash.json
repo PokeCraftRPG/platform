@@ -1,0 +1,25 @@
+﻿{
+  "Id": "76b16365-9ebf-4e44-927e-2e22379b49fb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "double-iron-bash",
+    "DisplayName": "Double Iron Bash",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "double-iron-bash",
+      "DisplayName": "Double Iron Bash",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

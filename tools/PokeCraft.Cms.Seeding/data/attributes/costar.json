@@ -1,0 +1,19 @@
+﻿{
+  "Id": "9e254b5e-7b55-4450-9660-a83bd2431c8c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "costar",
+    "DisplayName": "Costar",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "costar",
+      "DisplayName": "Costar",
+      "Description": "When the Pokémon enters a battle, it copies an ally's stat changes.",
+      "FieldValues": {}
+    }
+  }
+}

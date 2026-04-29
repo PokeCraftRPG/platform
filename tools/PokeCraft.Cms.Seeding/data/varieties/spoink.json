@@ -1,0 +1,26 @@
+﻿{
+  "Id": "736b4a9e-a127-4b94-9233-c60340c058f7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spoink",
+    "DisplayName": "Spoink",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d5e46f79-5f21-45e5-bc81-25b0a8847925\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spoink",
+      "DisplayName": "Spoink",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bounce"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "b4d7933c-f6e8-4d96-9c6a-d47553ced38c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "white-smoke",
+    "DisplayName": "White Smoke",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "white-smoke",
+      "DisplayName": "White Smoke",
+      "Description": "The Pokémon is protected by its white smoke, which prevents other Pokémon from lowering its stats.",
+      "FieldValues": {}
+    }
+  }
+}

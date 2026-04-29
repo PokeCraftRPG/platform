@@ -1,0 +1,27 @@
+﻿{
+  "Id": "2a66ed4c-ea62-4513-a48c-d97dc23e4929",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "leafeon",
+    "DisplayName": "Leafeon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "470",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "35",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "leafeon",
+      "DisplayName": "Leafeon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

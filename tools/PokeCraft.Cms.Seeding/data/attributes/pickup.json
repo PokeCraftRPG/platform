@@ -1,0 +1,19 @@
+﻿{
+  "Id": "071551b8-ee73-4742-85e8-264e82a49f57",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pickup",
+    "DisplayName": "Pickup",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pickup",
+      "DisplayName": "Pickup",
+      "Description": "The Pokémon may pick up an item another Pokémon used during a battle. It may pick up items outside of battle, too.",
+      "FieldValues": {}
+    }
+  }
+}

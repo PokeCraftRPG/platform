@@ -1,0 +1,19 @@
+﻿{
+  "Id": "90fb5cfa-fedf-49c6-ad26-4ca4e61dc46d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "medic",
+    "DisplayName": "Medic",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "medic",
+      "DisplayName": "Medic",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

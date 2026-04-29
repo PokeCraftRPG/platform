@@ -1,0 +1,23 @@
+﻿{
+  "Id": "8e6f974c-2abc-4ba0-86f2-a903f0503864",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "baton-pass",
+    "DisplayName": "Baton Pass",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "40"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "baton-pass",
+      "DisplayName": "Baton Pass",
+      "Description": "The user switches places with a party Pokémon in waiting and passes along any stat changes.",
+      "FieldValues": {}
+    }
+  }
+}

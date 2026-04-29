@@ -1,0 +1,25 @@
+﻿{
+  "Id": "a3480b1c-d677-4f08-ba14-1b05c32a13a1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fury-cutter",
+    "DisplayName": "Fury Cutter",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "95",
+      "Power": "40",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fury-cutter",
+      "DisplayName": "Fury Cutter",
+      "Description": "The user attacks by slashing the target with scythes, claws, or the like. This attack becomes more powerful if it hits in succession.",
+      "FieldValues": {}
+    }
+  }
+}

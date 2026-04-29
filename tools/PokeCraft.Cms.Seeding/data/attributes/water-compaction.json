@@ -1,0 +1,19 @@
+﻿{
+  "Id": "e314c045-070d-4856-afd9-0bece2bd1b8a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "water-compaction",
+    "DisplayName": "Water Compaction",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "water-compaction",
+      "DisplayName": "Water Compaction",
+      "Description": "Boosts the Defense stat sharply when the Pokémon is hit by a Water-type move.",
+      "FieldValues": {}
+    }
+  }
+}

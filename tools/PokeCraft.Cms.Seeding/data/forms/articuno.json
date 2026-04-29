@@ -1,0 +1,42 @@
+﻿{
+  "Id": "97b86ead-5d68-4f8d-8379-52f55751c3e7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "articuno",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"080ebfd0-4975-4725-a63b-7697abec9966\"]",
+      "Height": "17",
+      "Weight": "554",
+      "YieldExperience": "261",
+      "PrimaryAbility": "[\"04822c52-0ef2-4b5e-a4bb-176772f6c3d8\"]",
+      "HiddenAbility": "[\"6397856d-ee55-409a-a0aa-3657039b20c4\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "125",
+      "YieldSpecialDefense": "3",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "articuno",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

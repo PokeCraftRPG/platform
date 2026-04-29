@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c4d17b01-42b3-4490-9b0d-ba6e3108e573",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "facade",
+    "DisplayName": "Facade",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "70",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "facade",
+      "DisplayName": "Facade",
+      "Description": "This move's power is doubled if the user is poisoned, burned, or paralyzed.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3834df5e-bc01-43b0-b380-be0ea46f22b1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kirlia",
+    "DisplayName": "Kirlia",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f1d5a4ba-f279-45b7-8c7a-f60117ec72c2\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kirlia",
+      "DisplayName": "Kirlia",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Emotion"
+      }
+    }
+  }
+}

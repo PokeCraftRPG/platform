@@ -1,0 +1,43 @@
+﻿{
+  "Id": "1a657a14-8aee-4a91-bb69-d90f6bb8f461",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "qwilfish-hisui",
+    "DisplayName": "Hisuian Qwilfish",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1fe8d0f4-5d04-4489-abe2-c08d41ba8f22\"]",
+      "Height": "5",
+      "Weight": "39",
+      "YieldExperience": "88",
+      "PrimaryAbility": "[\"2f1ed275-bfaf-494d-8d85-c48aee736e43\"]",
+      "SecondaryAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "HiddenAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "1",
+      "BaseDefense": "85",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "qwilfish-hisui",
+      "DisplayName": "Hisuian Qwilfish",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

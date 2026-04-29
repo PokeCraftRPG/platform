@@ -1,0 +1,19 @@
+﻿{
+  "Id": "1529f289-3c54-49ef-a5b7-924ae1f92aa8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slush-rush",
+    "DisplayName": "Slush Rush",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slush-rush",
+      "DisplayName": "Slush Rush",
+      "Description": "Boosts the Pokémon's Speed stat in snow.",
+      "FieldValues": {}
+    }
+  }
+}

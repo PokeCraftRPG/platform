@@ -1,0 +1,42 @@
+﻿{
+  "Id": "45c1bc27-e60f-4a9e-b679-35e2a68393ca",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "charizard",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"109eb9fe-13e0-4b66-b1e1-a08a4116c4d5\"]",
+      "Height": "17",
+      "Weight": "905",
+      "YieldExperience": "240",
+      "PrimaryAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "HiddenAbility": "[\"6c7fc1a9-9c49-4e4f-ae09-81bb228713b0\"]",
+      "BaseHP": "78",
+      "YieldHP": "0",
+      "BaseAttack": "84",
+      "YieldAttack": "0",
+      "BaseDefense": "78",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "109",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "charizard",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

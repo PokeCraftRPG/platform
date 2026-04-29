@@ -1,0 +1,23 @@
+﻿{
+  "Id": "f479f72c-845b-470d-8113-27d1276d0b13",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "roost",
+    "DisplayName": "Roost",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "roost",
+      "DisplayName": "Roost",
+      "Description": "The user lands and rests its body. This move restores the user's HP by up to half its max HP.",
+      "FieldValues": {}
+    }
+  }
+}

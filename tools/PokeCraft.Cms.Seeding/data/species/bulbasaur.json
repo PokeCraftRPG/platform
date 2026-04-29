@@ -1,0 +1,28 @@
+﻿{
+  "Id": "f46ca225-5351-45db-a699-7e324307c53b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bulbasaur",
+    "DisplayName": "Bulbasaur",
+    "Description": null,
+    "FieldValues": {
+      "Number": "1",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bulbasaur",
+      "DisplayName": "Bulbasaur",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

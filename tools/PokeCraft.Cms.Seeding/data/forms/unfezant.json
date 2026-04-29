@@ -1,0 +1,43 @@
+﻿{
+  "Id": "87a274e3-1041-4f64-83a1-9cfcb4e3f0b4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "unfezant",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e6db9d01-fca1-46fa-8271-80ed2b714adf\"]",
+      "Height": "12",
+      "Weight": "290",
+      "YieldExperience": "220",
+      "PrimaryAbility": "[\"15e51a3f-bb28-4ca8-abdf-27130d9930b4\"]",
+      "SecondaryAbility": "[\"c1dc8f0f-7de1-4657-b135-5bd8efc74e80\"]",
+      "HiddenAbility": "[\"3bb432b8-b38c-4243-888c-20085e000f57\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "115",
+      "YieldAttack": "3",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "93",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "unfezant",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

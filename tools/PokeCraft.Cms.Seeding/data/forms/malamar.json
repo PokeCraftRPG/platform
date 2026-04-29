@@ -1,0 +1,43 @@
+﻿{
+  "Id": "d36deeae-28cb-4bbc-92fa-52f455328a35",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "malamar",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"acbbf015-a86e-4f1f-b94d-5f59bfbc4819\"]",
+      "Height": "15",
+      "Weight": "470",
+      "YieldExperience": "169",
+      "PrimaryAbility": "[\"db725f43-cf10-4966-83cf-8f61405f506f\"]",
+      "SecondaryAbility": "[\"7f395dac-6fba-4c1f-8a37-b6772676e8c8\"]",
+      "HiddenAbility": "[\"0a9fa785-a966-4ed6-8ab9-a33aecd0847c\"]",
+      "BaseHP": "86",
+      "YieldHP": "0",
+      "BaseAttack": "92",
+      "YieldAttack": "2",
+      "BaseDefense": "88",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "68",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "73",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "malamar",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

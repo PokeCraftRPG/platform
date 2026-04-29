@@ -1,0 +1,26 @@
+﻿{
+  "Id": "2a687bb4-6b2b-4c0b-9450-a3162b647646",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "psyduck",
+    "DisplayName": "Psyduck",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7b7a33fd-4696-4590-a7e0-7bdecd01d7f0\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "psyduck",
+      "DisplayName": "Psyduck",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Duck"
+      }
+    }
+  }
+}

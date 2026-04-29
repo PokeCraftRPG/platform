@@ -1,0 +1,39 @@
+﻿{
+  "Id": "6f8c9557-2c3c-47f0-9cd7-522fc4f46be0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tatsugiri-curly-mega",
+    "DisplayName": "Mega Curly Tatsugiri",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"46657bb3-a205-4c16-917f-138e617345c9\"]",
+      "Height": "6",
+      "Weight": "240",
+      "BaseHP": "68",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "135",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "125",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "92",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tatsugiri-curly-mega",
+      "DisplayName": "Mega Curly Tatsugiri",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

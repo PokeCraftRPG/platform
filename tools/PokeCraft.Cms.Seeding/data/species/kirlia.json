@@ -1,0 +1,28 @@
+﻿{
+  "Id": "f1d5a4ba-f279-45b7-8c7a-f60117ec72c2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kirlia",
+    "DisplayName": "Kirlia",
+    "Description": null,
+    "FieldValues": {
+      "Number": "281",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "120",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]",
+      "SecondaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kirlia",
+      "DisplayName": "Kirlia",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

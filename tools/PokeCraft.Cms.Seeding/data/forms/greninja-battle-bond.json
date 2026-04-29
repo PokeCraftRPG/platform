@@ -1,0 +1,41 @@
+﻿{
+  "Id": "57e599ca-375d-4780-9a7a-9e06fd7c4b26",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "greninja-battle-bond",
+    "DisplayName": "Battle Bond Greninja",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c1921bdb-a8d1-4f6e-a6b3-19335823a177\"]",
+      "Height": "15",
+      "Weight": "400",
+      "YieldExperience": "239",
+      "PrimaryAbility": "[\"66b93af5-b909-4040-a7b6-88a8f467a29e\"]",
+      "BaseHP": "72",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "0",
+      "BaseDefense": "67",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "103",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "71",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "122",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "greninja-battle-bond",
+      "DisplayName": "Battle Bond Greninja",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

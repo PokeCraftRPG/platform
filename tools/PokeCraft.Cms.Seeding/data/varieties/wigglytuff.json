@@ -1,0 +1,26 @@
+﻿{
+  "Id": "56390ab7-d066-4391-85d3-2a0f9ff45907",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wigglytuff",
+    "DisplayName": "Wigglytuff",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"bbdd0401-395a-4d3c-86ab-07c45ebb751a\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wigglytuff",
+      "DisplayName": "Wigglytuff",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Balloon"
+      }
+    }
+  }
+}

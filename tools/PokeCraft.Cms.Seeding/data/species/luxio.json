@@ -1,0 +1,27 @@
+﻿{
+  "Id": "3cf6d1d3-209a-4deb-968e-16ece1fcd4d6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "luxio",
+    "DisplayName": "Luxio",
+    "Description": null,
+    "FieldValues": {
+      "Number": "404",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "100",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "luxio",
+      "DisplayName": "Luxio",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "2f1ed275-bfaf-494d-8d85-c48aee736e43",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "poison-point",
+    "DisplayName": "Poison Point",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "poison-point",
+      "DisplayName": "Poison Point",
+      "Description": "Contact with the Pokémon may poison the attacker.",
+      "FieldValues": {}
+    }
+  }
+}

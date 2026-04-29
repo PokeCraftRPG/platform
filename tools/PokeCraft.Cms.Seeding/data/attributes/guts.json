@@ -1,0 +1,19 @@
+﻿{
+  "Id": "1c326e45-7c1a-4f8a-a55c-751b60f62f10",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "guts",
+    "DisplayName": "Guts",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "guts",
+      "DisplayName": "Guts",
+      "Description": "It's so gutsy that having a status condition boosts the Pokémon's Attack stat.",
+      "FieldValues": {}
+    }
+  }
+}

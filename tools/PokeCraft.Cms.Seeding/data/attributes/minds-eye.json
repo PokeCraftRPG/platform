@@ -1,0 +1,19 @@
+﻿{
+  "Id": "53204dd0-af72-41cd-86fa-bfd8003aca9b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "minds-eye",
+    "DisplayName": "Mind’s Eye",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "minds-eye",
+      "DisplayName": "Mind’s Eye",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

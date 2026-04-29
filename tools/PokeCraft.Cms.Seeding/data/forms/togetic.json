@@ -1,0 +1,43 @@
+﻿{
+  "Id": "585cc513-8958-4330-b46a-9bbcb7f1eef8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "togetic",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d2eeddb4-037d-455e-8d6a-3532dfa4a625\"]",
+      "Height": "6",
+      "Weight": "32",
+      "YieldExperience": "142",
+      "PrimaryAbility": "[\"12b608f7-a7b7-412e-803f-28d4eaba64c8\"]",
+      "SecondaryAbility": "[\"f1619484-cf62-4314-a26f-a79e00b5720f\"]",
+      "HiddenAbility": "[\"c1dc8f0f-7de1-4657-b135-5bd8efc74e80\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "40",
+      "YieldAttack": "0",
+      "BaseDefense": "85",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "105",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fairy\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "togetic",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

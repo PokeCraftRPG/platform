@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b75c47b9-336c-4c36-93e2-df9be3aa2792",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ariados",
+    "DisplayName": "Ariados",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8a62c0e5-b3df-4a21-975b-e5d9c7e6fcd6\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ariados",
+      "DisplayName": "Ariados",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Long Leg"
+      }
+    }
+  }
+}

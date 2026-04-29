@@ -1,0 +1,27 @@
+﻿{
+  "Id": "a2a68441-b813-47f7-a505-487c55792b0d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shellder",
+    "DisplayName": "Shellder",
+    "Description": null,
+    "FieldValues": {
+      "Number": "90",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shellder",
+      "DisplayName": "Shellder",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

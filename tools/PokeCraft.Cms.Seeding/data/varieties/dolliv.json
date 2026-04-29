@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c322da1c-cda9-4ba1-a222-8eb04669b7bf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dolliv",
+    "DisplayName": "Dolliv",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"86261c9e-4979-44e8-a221-ed7fabb906d9\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dolliv",
+      "DisplayName": "Dolliv",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Olive"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "090c3242-3c1b-4177-a028-8d20c37121c1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "persian-alola",
+    "DisplayName": "Persian",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"29fb55b0-4d93-4b4c-a106-1d024e15080e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "persian-alola",
+      "DisplayName": "Persian",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Classy Cat"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "39c515dc-8566-4374-87c9-65adcc29b198",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-hands",
+    "DisplayName": "Iron Hands",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"83c4c333-d073-48a8-92b8-29f8ba2b2b5f\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-hands",
+      "DisplayName": "Iron Hands",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "46c94519-e526-4c73-9466-7a1a6e8d3a4e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "revelation-dance",
+    "DisplayName": "Revelation Dance",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "revelation-dance",
+      "DisplayName": "Revelation Dance",
+      "Description": "The user attacks the target by dancing with all its might. This move becomes the same type as the user's type.",
+      "FieldValues": {}
+    }
+  }
+}

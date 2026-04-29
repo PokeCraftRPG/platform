@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5d344952-d913-4fa8-a65c-fe26ecd68c50",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "teddiursa",
+    "DisplayName": "Teddiursa",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6abb2d22-841d-46aa-87e3-c9df9de46e3d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "teddiursa",
+      "DisplayName": "Teddiursa",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Little Bear"
+      }
+    }
+  }
+}

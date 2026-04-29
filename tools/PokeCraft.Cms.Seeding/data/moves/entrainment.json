@@ -1,0 +1,24 @@
+﻿{
+  "Id": "3828aa21-9ca9-4961-ab91-5132fbd9c101",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "entrainment",
+    "DisplayName": "Entrainment",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "entrainment",
+      "DisplayName": "Entrainment",
+      "Description": "The user dances with an odd rhythm that compels the target to mimic it, making the target's Ability the same as the user's.",
+      "FieldValues": {}
+    }
+  }
+}

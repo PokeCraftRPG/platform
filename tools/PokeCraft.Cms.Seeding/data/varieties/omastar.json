@@ -1,0 +1,26 @@
+﻿{
+  "Id": "381ab5e2-5878-4589-ba20-994d731b24dc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "omastar",
+    "DisplayName": "Omastar",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f9283247-ff57-4391-a147-c7e98b0ee4d5\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "omastar",
+      "DisplayName": "Omastar",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Spiral"
+      }
+    }
+  }
+}

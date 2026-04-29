@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d4495757-0ede-45ab-b39d-9eab13f30b3e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "espathra",
+    "DisplayName": "Espathra",
+    "Description": null,
+    "FieldValues": {
+      "Number": "956",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "espathra",
+      "DisplayName": "Espathra",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

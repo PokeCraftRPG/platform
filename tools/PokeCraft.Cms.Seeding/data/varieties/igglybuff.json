@@ -1,0 +1,26 @@
+﻿{
+  "Id": "20943ee2-4367-406c-a309-40d321d240fa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "igglybuff",
+    "DisplayName": "Igglybuff",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"463e5351-c2eb-4c37-965f-7cf5e75a72e6\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "igglybuff",
+      "DisplayName": "Igglybuff",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Balloon"
+      }
+    }
+  }
+}

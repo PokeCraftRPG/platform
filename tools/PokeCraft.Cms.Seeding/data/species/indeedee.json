@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ba28c789-aaf0-4f5c-9c0b-000998193363",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "indeedee",
+    "DisplayName": "Indeedee",
+    "Description": null,
+    "FieldValues": {
+      "Number": "876",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "140",
+      "CatchRate": "30",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "indeedee",
+      "DisplayName": "Indeedee",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "9276d671-a6b1-4ecc-919a-1935c5475876",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glaive-rush",
+    "DisplayName": "Glaive Rush",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glaive-rush",
+      "DisplayName": "Glaive Rush",
+      "Description": "The user throws its entire body into a reckless charge. After this move is used, attacks on the user cannot miss and will inflict double damage until the user’s next turn.",
+      "FieldValues": {}
+    }
+  }
+}

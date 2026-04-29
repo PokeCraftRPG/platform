@@ -1,0 +1,25 @@
+﻿{
+  "Id": "3bbd0e9c-a7e1-4faa-a550-133a511ffdf5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "leech-life",
+    "DisplayName": "Leech Life",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "leech-life",
+      "DisplayName": "Leech Life",
+      "Description": "The user drains the target's blood. The user's HP is restored by up to half the damage taken by the target.",
+      "FieldValues": {}
+    }
+  }
+}

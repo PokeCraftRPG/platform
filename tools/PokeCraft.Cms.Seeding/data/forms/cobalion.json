@@ -1,0 +1,41 @@
+﻿{
+  "Id": "6f4a01c9-d728-493f-b9b9-084941407bf3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cobalion",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5edb1a94-181e-40a0-9242-93dd9f4e9fdd\"]",
+      "Height": "21",
+      "Weight": "2500",
+      "YieldExperience": "261",
+      "PrimaryAbility": "[\"a1454a00-6731-4df8-b5b9-51b8ec1979e8\"]",
+      "BaseHP": "91",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "129",
+      "YieldDefense": "3",
+      "BaseSpecialAttack": "90",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "72",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "108",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cobalion",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

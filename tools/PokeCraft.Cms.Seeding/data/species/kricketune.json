@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c0db7fed-812b-4367-8799-2a4d4091c8e8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kricketune",
+    "DisplayName": "Kricketune",
+    "Description": null,
+    "FieldValues": {
+      "Number": "402",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kricketune",
+      "DisplayName": "Kricketune",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

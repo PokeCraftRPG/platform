@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6b8d1aff-8e7f-46c5-8383-e82cc35fd3d3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pay-day",
+    "DisplayName": "Pay Day",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pay-day",
+      "DisplayName": "Pay Day",
+      "Description": "Coins are hurled at the target to inflict damage. Money is earned after the battle.",
+      "FieldValues": {}
+    }
+  }
+}

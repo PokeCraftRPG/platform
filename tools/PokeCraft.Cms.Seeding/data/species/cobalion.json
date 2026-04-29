@@ -1,0 +1,27 @@
+﻿{
+  "Id": "81029cc4-845b-4ac2-b671-a68dc1eeba9c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cobalion",
+    "DisplayName": "Cobalion",
+    "Description": null,
+    "FieldValues": {
+      "Number": "638",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "80",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cobalion",
+      "DisplayName": "Cobalion",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

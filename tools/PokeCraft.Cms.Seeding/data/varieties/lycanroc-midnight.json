@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a4a35f34-a7d9-47d7-a981-1d78a65940f7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lycanroc-midnight",
+    "DisplayName": "Lycanroc",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"72e57b85-3905-4119-8c0c-1e967310e9a2\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lycanroc-midnight",
+      "DisplayName": "Lycanroc",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Wolf"
+      }
+    }
+  }
+}

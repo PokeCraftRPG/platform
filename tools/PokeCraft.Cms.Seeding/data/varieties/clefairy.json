@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ffb57991-fd2a-4d82-a390-c1a412ef866d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clefairy",
+    "DisplayName": "Clefairy",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f7eaacef-27ae-4fb0-beb2-6677cd25ba6a\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clefairy",
+      "DisplayName": "Clefairy",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fairy"
+      }
+    }
+  }
+}

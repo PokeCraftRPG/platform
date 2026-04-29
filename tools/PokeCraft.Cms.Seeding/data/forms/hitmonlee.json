@@ -1,0 +1,42 @@
+﻿{
+  "Id": "ef6a902d-61c4-40ff-8f7f-53c867b51151",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hitmonlee",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"330003da-f269-451b-8d88-443666cc7083\"]",
+      "Height": "15",
+      "Weight": "498",
+      "YieldExperience": "159",
+      "PrimaryAbility": "[\"170e2598-7fd5-497f-9003-f9d753aadd0d\"]",
+      "SecondaryAbility": "[\"3e4191ac-398f-48f3-a3ce-106d5ddd1742\"]",
+      "HiddenAbility": "[\"d74f9f1b-dd57-4258-875f-46ec6bc83d99\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "2",
+      "BaseDefense": "53",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "110",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "87",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hitmonlee",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

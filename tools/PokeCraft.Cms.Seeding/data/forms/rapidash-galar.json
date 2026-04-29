@@ -1,0 +1,43 @@
+﻿{
+  "Id": "f7b099f9-3f2a-4c6f-bbb3-409603531d8a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rapidash-galar",
+    "DisplayName": "Galarian Rapidash",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"72e6b055-88d9-4454-9a41-e25d3fc60f54\"]",
+      "Height": "17",
+      "Weight": "800",
+      "YieldExperience": "175",
+      "PrimaryAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "SecondaryAbility": "[\"18c111db-23d2-4f3f-9097-e1d435c7611d\"]",
+      "HiddenAbility": "[\"6eea2506-c8b3-44c8-9082-76bec64e5880\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "105",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rapidash-galar",
+      "DisplayName": "Galarian Rapidash",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

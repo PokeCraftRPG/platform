@@ -1,0 +1,27 @@
+﻿{
+  "Id": "6feeb012-3e8a-4ac4-a9ab-a8404654cda9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sliggoo",
+    "DisplayName": "Sliggoo",
+    "Description": null,
+    "FieldValues": {
+      "Number": "705",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sliggoo",
+      "DisplayName": "Sliggoo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

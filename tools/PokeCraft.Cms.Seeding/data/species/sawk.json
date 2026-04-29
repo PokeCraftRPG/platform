@@ -1,0 +1,27 @@
+﻿{
+  "Id": "59b4b209-2f6b-48a8-bb0a-9fc726422b5a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sawk",
+    "DisplayName": "Sawk",
+    "Description": null,
+    "FieldValues": {
+      "Number": "539",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sawk",
+      "DisplayName": "Sawk",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "3b750d10-ec16-437e-b6ef-a28fe5863231",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "collision-course",
+    "DisplayName": "Collision Course",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "collision-course",
+      "DisplayName": "Collision Course",
+      "Description": "The user transforms and crashes to the ground, causing a massive prehistoric explosion. This move's power is boosted more than usual if it’s a supereffective hit.",
+      "FieldValues": {}
+    }
+  }
+}

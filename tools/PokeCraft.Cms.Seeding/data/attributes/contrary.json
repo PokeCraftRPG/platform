@@ -1,0 +1,19 @@
+﻿{
+  "Id": "db725f43-cf10-4966-83cf-8f61405f506f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "contrary",
+    "DisplayName": "Contrary",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "contrary",
+      "DisplayName": "Contrary",
+      "Description": "Reverses any stat changes affecting the Pokémon so that attempts to boost its stats instead lower them—and attempts to lower its stats will boost them.",
+      "FieldValues": {}
+    }
+  }
+}

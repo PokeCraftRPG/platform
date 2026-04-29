@@ -1,0 +1,43 @@
+﻿{
+  "Id": "bd6bdfe5-c95a-4d99-be21-dbcd48c980e3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mawile",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f7d9b6d8-2133-4119-a60a-edf199249419\"]",
+      "Height": "6",
+      "Weight": "115",
+      "YieldExperience": "133",
+      "PrimaryAbility": "[\"57e539ec-9a7b-4925-ad82-81080aa7ceb2\"]",
+      "SecondaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "HiddenAbility": "[\"ef348627-bea1-4c87-9bf1-417ed3b66855\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "1",
+      "BaseDefense": "85",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mawile",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿{
+  "Id": "26f4f4fe-6332-4591-8a0c-a31ebdea81e8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "octolock",
+    "DisplayName": "Octolock",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "octolock",
+      "DisplayName": "Octolock",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

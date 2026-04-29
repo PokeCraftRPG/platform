@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1b525537-642c-486b-b08f-7c08d673c476",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragalge",
+    "DisplayName": "Dragalge",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"283b379e-dc4a-4435-8935-59714e8fb314\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragalge",
+      "DisplayName": "Dragalge",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mock Kelp"
+      }
+    }
+  }
+}

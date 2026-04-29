@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ddc9a053-ea01-49fc-9f8f-9d04be949642",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "oblivion-wing",
+    "DisplayName": "Oblivion Wing",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "oblivion-wing",
+      "DisplayName": "Oblivion Wing",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

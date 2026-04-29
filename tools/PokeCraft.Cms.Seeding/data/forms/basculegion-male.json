@@ -1,0 +1,43 @@
+﻿{
+  "Id": "47abc406-be5e-4f77-8ad2-3f96d6eb9b8c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "basculegion-male",
+    "DisplayName": "Male Basculegion",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2a070580-ef18-4ccc-9dee-ab1e0e191d5a\"]",
+      "Height": "30",
+      "Weight": "1100",
+      "YieldExperience": "265",
+      "PrimaryAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "SecondaryAbility": "[\"463a60e6-bf15-4972-9934-481d443a8534\"]",
+      "HiddenAbility": "[\"f35847b5-de3c-4706-a9d6-010903615537\"]",
+      "BaseHP": "120",
+      "YieldHP": "3",
+      "BaseAttack": "112",
+      "YieldAttack": "0",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "78",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "basculegion-male",
+      "DisplayName": "Male Basculegion",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

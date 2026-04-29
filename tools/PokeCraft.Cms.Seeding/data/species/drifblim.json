@@ -1,0 +1,27 @@
+﻿{
+  "Id": "a758629d-0bf0-4369-a35e-fc8932108690",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drifblim",
+    "DisplayName": "Drifblim",
+    "Description": null,
+    "FieldValues": {
+      "Number": "426",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"Fluctuating\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drifblim",
+      "DisplayName": "Drifblim",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

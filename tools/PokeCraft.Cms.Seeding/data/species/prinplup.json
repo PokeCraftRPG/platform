@@ -1,0 +1,28 @@
+﻿{
+  "Id": "e55ce3fc-1422-4f8f-906a-d2514a6ced64",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "prinplup",
+    "DisplayName": "Prinplup",
+    "Description": null,
+    "FieldValues": {
+      "Number": "394",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "prinplup",
+      "DisplayName": "Prinplup",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

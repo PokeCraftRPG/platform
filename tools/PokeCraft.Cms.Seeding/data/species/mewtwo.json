@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c030f6b6-120d-4b8b-88f4-64a3658ed563",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mewtwo",
+    "DisplayName": "Mewtwo",
+    "Description": null,
+    "FieldValues": {
+      "Number": "150",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mewtwo",
+      "DisplayName": "Mewtwo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

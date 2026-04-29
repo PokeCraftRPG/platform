@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c38d7b04-e919-4167-91c8-03cb9a11cec8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thunder",
+    "DisplayName": "Thunder",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "70",
+      "Power": "110",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thunder",
+      "DisplayName": "Thunder",
+      "Description": "A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.",
+      "FieldValues": {}
+    }
+  }
+}

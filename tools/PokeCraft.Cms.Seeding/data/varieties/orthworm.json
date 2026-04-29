@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3c4926ba-7287-4939-a6d5-432fa3b5ec38",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "orthworm",
+    "DisplayName": "Orthworm",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d5dc3398-0e95-4220-be2b-3f923425c26e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "orthworm",
+      "DisplayName": "Orthworm",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Earthworm"
+      }
+    }
+  }
+}

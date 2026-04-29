@@ -1,0 +1,42 @@
+﻿{
+  "Id": "bf101971-571f-4fd1-a33a-ab2fa742fc2d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "weedle",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b28042bf-ed95-4c24-ae62-75b013895c20\"]",
+      "Height": "3",
+      "Weight": "32",
+      "YieldExperience": "39",
+      "PrimaryAbility": "[\"29bd00fc-e0bf-4f2e-8cf9-f87e1aa11c4a\"]",
+      "HiddenAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "35",
+      "YieldAttack": "0",
+      "BaseDefense": "30",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "20",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "20",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "weedle",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

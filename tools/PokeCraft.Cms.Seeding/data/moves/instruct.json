@@ -1,0 +1,23 @@
+﻿{
+  "Id": "a23e09f9-fce8-439c-8bc6-96c926f4f690",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "instruct",
+    "DisplayName": "Instruct",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "instruct",
+      "DisplayName": "Instruct",
+      "Description": "The user instructs the target to reuse the move last used by the target.",
+      "FieldValues": {}
+    }
+  }
+}

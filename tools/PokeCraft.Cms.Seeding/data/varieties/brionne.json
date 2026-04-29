@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9fa311cc-272e-46d4-93cd-e4293b1424da",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "brionne",
+    "DisplayName": "Brionne",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6a78167f-d1e4-4d92-be12-cfc27e00554d\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "brionne",
+      "DisplayName": "Brionne",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Pop Star"
+      }
+    }
+  }
+}

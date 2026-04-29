@@ -1,0 +1,19 @@
+﻿{
+  "Id": "ecf92884-7c23-4d13-9d9a-1a687fe3f447",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "overcoat",
+    "DisplayName": "Overcoat",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "overcoat",
+      "DisplayName": "Overcoat",
+      "Description": "The Pokémon takes no damage from sandstorms. It is also protected from the effects of powders and spores.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d9a3a3c3-ab4f-42c4-963d-dcf177c04550",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cinderace",
+    "DisplayName": "Cinderace",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b1d02332-96a1-4f6d-b66b-889a39506fb0\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cinderace",
+      "DisplayName": "Cinderace",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Striker"
+      }
+    }
+  }
+}

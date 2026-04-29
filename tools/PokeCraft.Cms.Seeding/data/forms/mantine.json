@@ -1,0 +1,43 @@
+﻿{
+  "Id": "5b7c062a-3c72-4696-93f1-b58e16515a71",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mantine",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9c822ca0-15dc-487b-b4bb-73470bc9abb7\"]",
+      "Height": "21",
+      "Weight": "2200",
+      "YieldExperience": "170",
+      "PrimaryAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "SecondaryAbility": "[\"ce06d228-a509-444d-ab16-f046f2519e89\"]",
+      "HiddenAbility": "[\"24615c56-6280-47e4-8568-73a412d83865\"]",
+      "BaseHP": "85",
+      "YieldHP": "0",
+      "BaseAttack": "40",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "140",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mantine",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

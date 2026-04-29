@@ -1,0 +1,27 @@
+﻿{
+  "Id": "752db4db-daa2-48bd-a71d-76100f6d68bd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "metapod",
+    "DisplayName": "Metapod",
+    "Description": null,
+    "FieldValues": {
+      "Number": "11",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "metapod",
+      "DisplayName": "Metapod",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

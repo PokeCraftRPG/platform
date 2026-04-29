@@ -1,0 +1,19 @@
+﻿{
+  "Id": "cdb67ead-1686-4ec1-9350-7df79bb7709e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "comatose",
+    "DisplayName": "Comatose",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "comatose",
+      "DisplayName": "Comatose",
+      "Description": "The Pokémon is always drowsing and will never wake up. It can attack while in its sleeping state.",
+      "FieldValues": {}
+    }
+  }
+}

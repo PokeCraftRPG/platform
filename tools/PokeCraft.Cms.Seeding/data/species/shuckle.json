@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c672bfb6-7e18-420a-bb1a-65c2eed0e222",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shuckle",
+    "DisplayName": "Shuckle",
+    "Description": null,
+    "FieldValues": {
+      "Number": "213",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shuckle",
+      "DisplayName": "Shuckle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "5dde9d47-c5ae-476e-b490-9d8b44619393",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dusknoir",
+    "DisplayName": "Dusknoir",
+    "Description": null,
+    "FieldValues": {
+      "Number": "477",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dusknoir",
+      "DisplayName": "Dusknoir",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

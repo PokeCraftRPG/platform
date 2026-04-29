@@ -1,0 +1,19 @@
+﻿{
+  "Id": "922cb4e0-72ea-40f7-b6c5-6fbefa939214",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "early-bird",
+    "DisplayName": "Early Bird",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "early-bird",
+      "DisplayName": "Early Bird",
+      "Description": "The Pokémon awakens from sleep twice as fast as other Pokémon.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "b17933e8-1c55-4617-a58e-07378f7a34f3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pawmi",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"df7eb35d-2802-4d6a-bb8d-8ade3a511e3b\"]",
+      "Height": "3",
+      "Weight": "25",
+      "YieldExperience": "48",
+      "PrimaryAbility": "[\"4d8cefa4-dbcc-4c78-b5f5-0a1c30bdb019\"]",
+      "SecondaryAbility": "[\"aaaf5fa0-672a-4904-8e65-dc6c8ffe01b7\"]",
+      "HiddenAbility": "[\"e3b961ab-87de-40fc-9d8d-95dda45c14df\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "20",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "25",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pawmi",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

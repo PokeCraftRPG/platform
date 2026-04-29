@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f80900cd-638c-4bb9-9445-21bc9665e947",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aggron",
+    "DisplayName": "Aggron",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2e66f791-88b6-4f1d-89c1-342dc5ceec4e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aggron",
+      "DisplayName": "Aggron",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Iron Armor"
+      }
+    }
+  }
+}

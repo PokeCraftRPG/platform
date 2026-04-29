@@ -1,0 +1,42 @@
+﻿{
+  "Id": "c5f35507-b610-42cf-8215-a58d446b785c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tympole",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7405c8b1-72db-4b5b-a6c3-9b9d87a34723\"]",
+      "Height": "5",
+      "Weight": "45",
+      "YieldExperience": "59",
+      "PrimaryAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "SecondaryAbility": "[\"14243d95-6028-489e-acf7-18592c5695c2\"]",
+      "HiddenAbility": "[\"ce06d228-a509-444d-ab16-f046f2519e89\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "64",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tympole",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

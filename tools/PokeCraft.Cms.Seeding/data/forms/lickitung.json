@@ -1,0 +1,42 @@
+﻿{
+  "Id": "516f0e5c-bd04-4033-a27b-b897b9a58940",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lickitung",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c82b79e6-31ac-469a-8e6c-f38318fddebf\"]",
+      "Height": "12",
+      "Weight": "655",
+      "YieldExperience": "77",
+      "PrimaryAbility": "[\"1d2b3915-c19d-4017-baac-19e24cc4b20a\"]",
+      "SecondaryAbility": "[\"a720be5d-1a4e-4e14-8426-1ba0fc59a8ed\"]",
+      "HiddenAbility": "[\"dd70f7cd-9d7f-407f-9222-682c011480db\"]",
+      "BaseHP": "90",
+      "YieldHP": "2",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lickitung",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

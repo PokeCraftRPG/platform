@@ -1,0 +1,25 @@
+﻿{
+  "Id": "9dcaa70d-db08-4df1-9db2-b99e2049e2bd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "eternabeam",
+    "DisplayName": "Eternabeam",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "90",
+      "Power": "160",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "eternabeam",
+      "DisplayName": "Eternabeam",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

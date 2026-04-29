@@ -1,0 +1,26 @@
+﻿{
+  "Id": "60557f92-3995-42f4-a862-cf85c9e95d60",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bombirdier",
+    "DisplayName": "Bombirdier",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8cca56bd-5c31-4e69-acb1-2899a68a84be\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bombirdier",
+      "DisplayName": "Bombirdier",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Item Drop"
+      }
+    }
+  }
+}

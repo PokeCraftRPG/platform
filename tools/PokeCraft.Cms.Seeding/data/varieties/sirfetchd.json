@@ -1,0 +1,26 @@
+﻿{
+  "Id": "fdadf1f3-811c-46e5-9dc4-b1289ebad82c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sirfetchd",
+    "DisplayName": "Sirfetch’d",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a7465445-7e0e-460a-840f-5f700cd3eec9\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sirfetchd",
+      "DisplayName": "Sirfetch’d",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Wild Duck"
+      }
+    }
+  }
+}

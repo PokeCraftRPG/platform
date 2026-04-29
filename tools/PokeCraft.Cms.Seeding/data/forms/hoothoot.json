@@ -1,0 +1,43 @@
+﻿{
+  "Id": "2e4f1727-f9ef-4cfa-9722-567745424a90",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hoothoot",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b1e7a302-f1c6-47d2-b0f6-a5de43223ec6\"]",
+      "Height": "7",
+      "Weight": "212",
+      "YieldExperience": "52",
+      "PrimaryAbility": "[\"74551570-259c-470c-a9ba-64ffd0e3afad\"]",
+      "SecondaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "HiddenAbility": "[\"786cffd7-a22d-4bc0-87f2-6a9ffbbc07d2\"]",
+      "BaseHP": "60",
+      "YieldHP": "1",
+      "BaseAttack": "30",
+      "YieldAttack": "0",
+      "BaseDefense": "30",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "36",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "56",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hoothoot",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

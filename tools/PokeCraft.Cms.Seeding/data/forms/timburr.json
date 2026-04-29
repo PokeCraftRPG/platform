@@ -1,0 +1,42 @@
+﻿{
+  "Id": "0e8a0e3f-7843-46d2-96a6-344860b97ee5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "timburr",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a668f4f9-7415-440a-85df-e4c336039289\"]",
+      "Height": "6",
+      "Weight": "125",
+      "YieldExperience": "61",
+      "PrimaryAbility": "[\"1c326e45-7c1a-4f8a-a55c-751b60f62f10\"]",
+      "SecondaryAbility": "[\"ef348627-bea1-4c87-9bf1-417ed3b66855\"]",
+      "HiddenAbility": "[\"e3b961ab-87de-40fc-9d8d-95dda45c14df\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "1",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "25",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "35",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "timburr",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

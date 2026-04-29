@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3d72e634-250e-4857-83fe-bee25fd24e12",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "whimsicott",
+    "DisplayName": "Whimsicott",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a6d3aa79-1230-40ba-a41b-b7250573100e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "whimsicott",
+      "DisplayName": "Whimsicott",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Windveiled"
+      }
+    }
+  }
+}

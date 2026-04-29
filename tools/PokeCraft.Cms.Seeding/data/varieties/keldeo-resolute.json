@@ -1,0 +1,25 @@
+﻿{
+  "Id": "8c689856-b3d7-4409-b5c7-942716cfaef8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "keldeo-resolute",
+    "DisplayName": "Keldeo",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1efb10f2-de0c-4108-883d-90da3e9fc5f4\"]",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "keldeo-resolute",
+      "DisplayName": "Keldeo",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Colt"
+      }
+    }
+  }
+}

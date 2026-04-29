@@ -1,0 +1,28 @@
+﻿{
+  "Id": "17ad7193-0d4f-4e83-a773-7a611ad654a2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "seadra",
+    "DisplayName": "Seadra",
+    "Description": null,
+    "FieldValues": {
+      "Number": "117",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "seadra",
+      "DisplayName": "Seadra",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

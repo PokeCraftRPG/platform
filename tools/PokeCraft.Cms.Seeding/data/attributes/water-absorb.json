@@ -1,0 +1,19 @@
+﻿{
+  "Id": "ce06d228-a509-444d-ab16-f046f2519e89",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "water-absorb",
+    "DisplayName": "Water Absorb",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "water-absorb",
+      "DisplayName": "Water Absorb",
+      "Description": "If hit by a Water-type move, the Pokémon has its HP restored instead of taking damage.",
+      "FieldValues": {}
+    }
+  }
+}

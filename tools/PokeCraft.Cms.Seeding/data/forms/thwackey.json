@@ -1,0 +1,41 @@
+﻿{
+  "Id": "602d101e-b851-4988-a73a-3b421c9a1817",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thwackey",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"05869a5f-535b-408e-a554-985e91d9a062\"]",
+      "Height": "7",
+      "Weight": "140",
+      "YieldExperience": "147",
+      "PrimaryAbility": "[\"f635691a-6cf0-4a55-a848-a2183d487971\"]",
+      "HiddenAbility": "[\"190efac3-8c0f-43d2-b1f6-815d28a8f299\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "2",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thwackey",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

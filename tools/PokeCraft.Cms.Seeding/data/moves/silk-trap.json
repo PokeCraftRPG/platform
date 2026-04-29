@@ -1,0 +1,24 @@
+﻿{
+  "Id": "24149210-9659-43ac-90fc-b9f3b793259a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "silk-trap",
+    "DisplayName": "Silk Trap",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Status\"]",
+      "Power": "0",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "silk-trap",
+      "DisplayName": "Silk Trap",
+      "Description": "The user spins a silken trap, protecting itself from damage while lowering the Speed stat of any attacker that makes direct contact.",
+      "FieldValues": {}
+    }
+  }
+}

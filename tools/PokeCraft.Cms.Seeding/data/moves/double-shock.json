@@ -1,0 +1,25 @@
+﻿{
+  "Id": "dfd34283-3a30-473e-af41-ff814991fbaa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "double-shock",
+    "DisplayName": "Double Shock",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "double-shock",
+      "DisplayName": "Double Shock",
+      "Description": "The user discharges all the electricity from its body to perform a high-damage attack. After using this move, the user will no longer be Electric type.",
+      "FieldValues": {}
+    }
+  }
+}

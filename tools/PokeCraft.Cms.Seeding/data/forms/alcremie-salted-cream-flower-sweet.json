@@ -1,0 +1,41 @@
+﻿{
+  "Id": "652e8697-986a-419a-8550-193aabfaed8a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "alcremie-salted-cream-flower-sweet",
+    "DisplayName": "Salted Cream Flower Sweet Alcremie",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"dd34a38b-351b-493d-adf0-ebb7cdab9501\"]",
+      "Height": "3",
+      "Weight": "5",
+      "YieldExperience": "173",
+      "PrimaryAbility": "[\"cd664007-8bcb-4772-9253-08beb8edb12e\"]",
+      "HiddenAbility": "[\"56b529e6-13d3-4830-992f-f1807b22cd23\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "110",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "121",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "64",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Alternative\"]",
+      "PrimaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "alcremie-salted-cream-flower-sweet",
+      "DisplayName": "Salted Cream Flower Sweet Alcremie",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

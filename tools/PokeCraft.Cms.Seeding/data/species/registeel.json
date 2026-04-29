@@ -1,0 +1,27 @@
+﻿{
+  "Id": "749155b2-a0dc-40f6-8444-0fa1c05bf7b1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "registeel",
+    "DisplayName": "Registeel",
+    "Description": null,
+    "FieldValues": {
+      "Number": "379",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "80",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "registeel",
+      "DisplayName": "Registeel",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

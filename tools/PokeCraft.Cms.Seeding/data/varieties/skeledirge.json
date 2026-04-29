@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3c9b4c85-8696-4523-9238-3d5db99e6843",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skeledirge",
+    "DisplayName": "Skeledirge",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"58c6a41b-e23b-4652-9f3e-864eab137d30\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skeledirge",
+      "DisplayName": "Skeledirge",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Singer"
+      }
+    }
+  }
+}

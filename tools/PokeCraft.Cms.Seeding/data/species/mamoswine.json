@@ -1,0 +1,27 @@
+﻿{
+  "Id": "61316e72-2c06-48c2-a1e7-08b0a8a1c48b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mamoswine",
+    "DisplayName": "Mamoswine",
+    "Description": null,
+    "FieldValues": {
+      "Number": "473",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "50",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mamoswine",
+      "DisplayName": "Mamoswine",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

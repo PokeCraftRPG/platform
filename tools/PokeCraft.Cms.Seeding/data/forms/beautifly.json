@@ -1,0 +1,42 @@
+﻿{
+  "Id": "45e05594-4381-452d-bc38-0e2d400a395c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "beautifly",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3f359646-77f1-4409-b9ae-672912e482de\"]",
+      "Height": "10",
+      "Weight": "284",
+      "YieldExperience": "178",
+      "PrimaryAbility": "[\"ba1b3a50-acc0-4032-bf14-6572fa26daed\"]",
+      "HiddenAbility": "[\"3bb432b8-b38c-4243-888c-20085e000f57\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "beautifly",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

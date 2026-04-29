@@ -1,0 +1,42 @@
+﻿{
+  "Id": "2b22ea7b-167c-4d6d-b0ff-f80502f8e6a7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "foongus",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"aef49a6f-4080-42f2-bc9d-619461d1808c\"]",
+      "Height": "2",
+      "Weight": "10",
+      "YieldExperience": "59",
+      "PrimaryAbility": "[\"685f8565-bdee-4058-bd90-d7f3711f5d7d\"]",
+      "HiddenAbility": "[\"3f2976c2-09ac-4c69-8b32-5d930032faba\"]",
+      "BaseHP": "69",
+      "YieldHP": "1",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "15",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "foongus",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

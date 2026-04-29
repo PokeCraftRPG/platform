@@ -1,0 +1,42 @@
+﻿{
+  "Id": "442118e5-fa00-4009-9c05-82c550580a10",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stantler",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d9968a05-a56d-44ad-920d-6025064e6eef\"]",
+      "Height": "14",
+      "Weight": "712",
+      "YieldExperience": "163",
+      "PrimaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "SecondaryAbility": "[\"646cd171-4012-41af-b36f-69b1a3142f3e\"]",
+      "HiddenAbility": "[\"a471c5f9-291c-4763-b84a-9c5c666f409b\"]",
+      "BaseHP": "73",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "1",
+      "BaseDefense": "62",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stantler",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

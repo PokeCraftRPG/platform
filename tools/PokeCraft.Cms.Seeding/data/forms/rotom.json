@@ -1,0 +1,41 @@
+﻿{
+  "Id": "09a1b4c0-c966-496f-b585-d19813e2c84c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rotom",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c20bd7ac-48b4-4955-9554-7b7a700b2dc8\"]",
+      "Height": "3",
+      "Weight": "3",
+      "YieldExperience": "154",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "77",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "77",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "91",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rotom",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "2f21522f-612a-4cf3-8b7b-a052610c15b9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "apple-acid",
+    "DisplayName": "Apple Acid",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "apple-acid",
+      "DisplayName": "Apple Acid",
+      "Description": "The user attacks the target with an acidic liquid created from tart apples. This also lowers the target's Sp. Def stat.",
+      "FieldValues": {}
+    }
+  }
+}

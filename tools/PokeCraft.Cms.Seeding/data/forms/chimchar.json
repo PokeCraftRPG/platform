@@ -1,0 +1,41 @@
+﻿{
+  "Id": "be17bfb8-e95b-49b9-9ae0-26d622d573ac",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chimchar",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"62aaf0c2-92ef-4bf0-b7c7-8e633b80a25f\"]",
+      "Height": "5",
+      "Weight": "62",
+      "YieldExperience": "62",
+      "PrimaryAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "HiddenAbility": "[\"e3b961ab-87de-40fc-9d8d-95dda45c14df\"]",
+      "BaseHP": "44",
+      "YieldHP": "0",
+      "BaseAttack": "58",
+      "YieldAttack": "0",
+      "BaseDefense": "44",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "58",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "44",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "61",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chimchar",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

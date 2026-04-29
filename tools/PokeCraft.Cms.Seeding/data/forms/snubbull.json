@@ -1,0 +1,42 @@
+﻿{
+  "Id": "240e7a4d-35f1-4607-b596-3b875675559c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snubbull",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3803c6eb-b0bc-4b83-8da8-5a06903fef62\"]",
+      "Height": "6",
+      "Weight": "78",
+      "YieldExperience": "60",
+      "PrimaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "SecondaryAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "HiddenAbility": "[\"9c030956-19a0-4e37-8835-0484c2fa3d91\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "1",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snubbull",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

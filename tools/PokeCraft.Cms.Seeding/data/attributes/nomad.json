@@ -1,0 +1,19 @@
+﻿{
+  "Id": "59d339eb-9b74-4363-9d7b-49495df7fdfd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nomad",
+    "DisplayName": "Nomad",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nomad",
+      "DisplayName": "Nomad",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "68cee2d4-dd4a-412b-970d-24318e6082ea",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "naganadel",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e5b27004-b399-4a93-9243-30f5ff05dca1\"]",
+      "Height": "36",
+      "Weight": "1500",
+      "YieldExperience": "243",
+      "PrimaryAbility": "[\"e7ec0ce2-6979-45a9-80ab-215081d487e3\"]",
+      "BaseHP": "73",
+      "YieldHP": "0",
+      "BaseAttack": "73",
+      "YieldAttack": "0",
+      "BaseDefense": "73",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "127",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "73",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "121",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "naganadel",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

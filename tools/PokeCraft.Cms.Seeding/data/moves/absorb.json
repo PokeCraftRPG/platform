@@ -1,0 +1,25 @@
+﻿{
+  "Id": "b4079c90-b6ee-4dd2-b1b8-e799857b9535",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "absorb",
+    "DisplayName": "Absorb",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "20",
+      "PowerPoints": "25"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "absorb",
+      "DisplayName": "Absorb",
+      "Description": "A nutrient-draining attack. The user's HP is restored by up to half the damage taken by the target.",
+      "FieldValues": {}
+    }
+  }
+}

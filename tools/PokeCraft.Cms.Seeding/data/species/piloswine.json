@@ -1,0 +1,27 @@
+﻿{
+  "Id": "9cebbb11-704a-4c59-9212-008bbd4ef431",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "piloswine",
+    "DisplayName": "Piloswine",
+    "Description": null,
+    "FieldValues": {
+      "Number": "221",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "piloswine",
+      "DisplayName": "Piloswine",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

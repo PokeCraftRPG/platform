@@ -1,0 +1,27 @@
+﻿{
+  "Id": "8bdde3fa-863c-48d3-a1e0-48a0ae36b71d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "golbat",
+    "DisplayName": "Golbat",
+    "Description": null,
+    "FieldValues": {
+      "Number": "42",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "golbat",
+      "DisplayName": "Golbat",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

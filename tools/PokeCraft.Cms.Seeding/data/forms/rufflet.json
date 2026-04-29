@@ -1,0 +1,43 @@
+﻿{
+  "Id": "753b52bf-f600-46f1-8266-85454921f907",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rufflet",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ee30041c-2eaa-433e-8131-0a0160ebac4a\"]",
+      "Height": "5",
+      "Weight": "105",
+      "YieldExperience": "70",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "SecondaryAbility": "[\"ef348627-bea1-4c87-9bf1-417ed3b66855\"]",
+      "HiddenAbility": "[\"12b608f7-a7b7-412e-803f-28d4eaba64c8\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "83",
+      "YieldAttack": "1",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "37",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rufflet",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

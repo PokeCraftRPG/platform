@@ -1,0 +1,23 @@
+﻿{
+  "Id": "2e353013-e10c-4f57-afb4-31765dd2646b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "defend-order",
+    "DisplayName": "Defend Order",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "defend-order",
+      "DisplayName": "Defend Order",
+      "Description": "The user calls out its underlings to shield its body, boosting its Defense and Sp. Def stats.",
+      "FieldValues": {}
+    }
+  }
+}

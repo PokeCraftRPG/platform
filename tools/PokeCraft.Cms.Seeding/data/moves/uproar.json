@@ -1,0 +1,25 @@
+﻿{
+  "Id": "51465b67-854a-47bc-aaf4-d5ff33478fd3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "uproar",
+    "DisplayName": "Uproar",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "uproar",
+      "DisplayName": "Uproar",
+      "Description": "The user attacks in an uproar for three turns. During that time, no Pokémon can fall asleep.",
+      "FieldValues": {}
+    }
+  }
+}

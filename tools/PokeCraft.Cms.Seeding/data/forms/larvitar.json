@@ -1,0 +1,42 @@
+﻿{
+  "Id": "4157450f-36c9-4e78-a85f-debbd6f424db",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "larvitar",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e2c87fce-ca52-4cd8-9771-7b00d016fabc\"]",
+      "Height": "6",
+      "Weight": "720",
+      "YieldExperience": "60",
+      "PrimaryAbility": "[\"1c326e45-7c1a-4f8a-a55c-751b60f62f10\"]",
+      "HiddenAbility": "[\"2298dae8-5c1f-423f-960d-8cf61b19c897\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "64",
+      "YieldAttack": "1",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "41",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "larvitar",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "8ce72175-5896-478c-9582-3b5df54b844e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "raikou",
+    "DisplayName": "Raikou",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3abfea69-218f-4ce5-8c36-c6b161cf5653\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "raikou",
+      "DisplayName": "Raikou",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Thunder"
+      }
+    }
+  }
+}

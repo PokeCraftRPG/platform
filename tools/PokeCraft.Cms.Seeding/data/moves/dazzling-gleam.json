@@ -1,0 +1,25 @@
+﻿{
+  "Id": "a02eb9db-3115-441a-9477-a9ea0c800452",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dazzling-gleam",
+    "DisplayName": "Dazzling Gleam",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dazzling-gleam",
+      "DisplayName": "Dazzling Gleam",
+      "Description": "The user damages opposing Pokémon by emitting a powerful flash.",
+      "FieldValues": {}
+    }
+  }
+}

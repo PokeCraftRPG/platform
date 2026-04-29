@@ -1,0 +1,27 @@
+﻿{
+  "Id": "504d9ffa-b457-41df-86f7-2aca6b2dd6ff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "banette",
+    "DisplayName": "Banette",
+    "Description": null,
+    "FieldValues": {
+      "Number": "354",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "banette",
+      "DisplayName": "Banette",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

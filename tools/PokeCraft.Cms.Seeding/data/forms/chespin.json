@@ -1,0 +1,41 @@
+﻿{
+  "Id": "a6eadab7-6d3d-4403-b7b5-1e1a05282502",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chespin",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0f40e860-7680-4d0a-bf87-92d3c8258402\"]",
+      "Height": "4",
+      "Weight": "90",
+      "YieldExperience": "63",
+      "PrimaryAbility": "[\"f635691a-6cf0-4a55-a848-a2183d487971\"]",
+      "HiddenAbility": "[\"95f8b622-ee64-42b7-be19-313365f588d5\"]",
+      "BaseHP": "56",
+      "YieldHP": "0",
+      "BaseAttack": "61",
+      "YieldAttack": "0",
+      "BaseDefense": "65",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "48",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "38",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chespin",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

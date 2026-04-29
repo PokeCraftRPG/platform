@@ -1,0 +1,41 @@
+﻿{
+  "Id": "a7d02b9f-5b94-453f-85f2-cc09efae077e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "croconaw",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1a356e65-a6c0-44c6-b91d-9e96123af44d\"]",
+      "Height": "11",
+      "Weight": "250",
+      "YieldExperience": "142",
+      "PrimaryAbility": "[\"973e0e1a-dcca-4ab1-bd25-90df209dfc63\"]",
+      "HiddenAbility": "[\"ef348627-bea1-4c87-9bf1-417ed3b66855\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "1",
+      "BaseDefense": "80",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "59",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "63",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "58",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "croconaw",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

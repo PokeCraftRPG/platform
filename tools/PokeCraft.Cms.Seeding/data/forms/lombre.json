@@ -1,0 +1,43 @@
+﻿{
+  "Id": "107bcc3c-fef8-4b43-8cb3-426973d14591",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lombre",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a853b9b1-186b-4a71-8ec4-a185f072cfea\"]",
+      "Height": "12",
+      "Weight": "325",
+      "YieldExperience": "119",
+      "PrimaryAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "SecondaryAbility": "[\"0c002ec7-830d-47a9-aae3-7ba687eddf3b\"]",
+      "HiddenAbility": "[\"1d2b3915-c19d-4017-baac-19e24cc4b20a\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lombre",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

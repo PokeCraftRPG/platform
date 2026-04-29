@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d46132f3-7927-4406-a1a9-4db661071641",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "krokorok",
+    "DisplayName": "Krokorok",
+    "Description": null,
+    "FieldValues": {
+      "Number": "552",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "krokorok",
+      "DisplayName": "Krokorok",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

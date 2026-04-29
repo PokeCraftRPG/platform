@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d1b981bb-dd5a-4095-8994-4b514346854a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "capsakid",
+    "DisplayName": "Capsakid",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3f42dc08-c556-4dbd-b085-060046aab6d5\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "capsakid",
+      "DisplayName": "Capsakid",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Spicy Pepper"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "bac2fa12-1344-4ba0-91c3-d000941af074",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skull-bash",
+    "DisplayName": "Skull Bash",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "130",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skull-bash",
+      "DisplayName": "Skull Bash",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

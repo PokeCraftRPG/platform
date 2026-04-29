@@ -1,0 +1,42 @@
+﻿{
+  "Id": "a5f57afa-d1ed-40b7-b360-1c71cfbd484d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "carbink",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f69d5981-be52-43e0-9d7e-fa19fde92aea\"]",
+      "Height": "3",
+      "Weight": "57",
+      "YieldExperience": "100",
+      "PrimaryAbility": "[\"eac52537-4006-4999-9072-1b3e1a92910c\"]",
+      "HiddenAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "150",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "150",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "carbink",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

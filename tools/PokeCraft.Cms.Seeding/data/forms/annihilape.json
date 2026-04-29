@@ -1,0 +1,43 @@
+﻿{
+  "Id": "0da5bbbd-65da-4284-a0fd-73097b8e106f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "annihilape",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7b7fd683-01ae-4563-bc2e-575704a42d81\"]",
+      "Height": "12",
+      "Weight": "560",
+      "YieldExperience": "268",
+      "PrimaryAbility": "[\"45a56091-34c8-4407-8d66-a4a64e2eb101\"]",
+      "SecondaryAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "HiddenAbility": "[\"493ac234-5dd4-4767-9e41-8ec4cd322437\"]",
+      "BaseHP": "110",
+      "YieldHP": "0",
+      "BaseAttack": "115",
+      "YieldAttack": "3",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "annihilape",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

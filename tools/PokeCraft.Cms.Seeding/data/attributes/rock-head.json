@@ -1,0 +1,19 @@
+﻿{
+  "Id": "98ae35ae-b156-4c2e-b4a7-8af42a8b0ef6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rock-head",
+    "DisplayName": "Rock Head",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rock-head",
+      "DisplayName": "Rock Head",
+      "Description": "Protects the Pokémon from recoil damage.",
+      "FieldValues": {}
+    }
+  }
+}

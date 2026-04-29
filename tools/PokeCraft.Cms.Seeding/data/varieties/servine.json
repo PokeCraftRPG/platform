@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b66c5f39-ba16-43b1-bd73-bfe551fbe3dd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "servine",
+    "DisplayName": "Servine",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"04650e14-8414-472c-9aee-2cdc0168a71f\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "servine",
+      "DisplayName": "Servine",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Grass Snake"
+      }
+    }
+  }
+}

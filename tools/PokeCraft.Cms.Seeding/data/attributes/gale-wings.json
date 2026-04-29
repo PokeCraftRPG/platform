@@ -1,0 +1,19 @@
+﻿{
+  "Id": "91394e9f-f713-485c-99df-ac2c53f6a954",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gale-wings",
+    "DisplayName": "Gale Wings",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gale-wings",
+      "DisplayName": "Gale Wings",
+      "Description": "Gives priority to the Pokémon's Flying-type moves while its HP is full.",
+      "FieldValues": {}
+    }
+  }
+}

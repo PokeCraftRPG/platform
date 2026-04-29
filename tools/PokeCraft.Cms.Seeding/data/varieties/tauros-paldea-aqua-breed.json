@@ -1,0 +1,26 @@
+﻿{
+  "Id": "79633cd7-5682-48ee-a4fc-13415a81d0ca",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tauros-paldea-aqua-breed",
+    "DisplayName": "Tauros",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7c9df02d-cfff-4a23-a7d1-c1e546b9f2b3\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tauros-paldea-aqua-breed",
+      "DisplayName": "Tauros",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Wild Bull"
+      }
+    }
+  }
+}

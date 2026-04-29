@@ -1,0 +1,40 @@
+﻿{
+  "Id": "d129d31f-0e26-4365-b92e-a9e12a481aee",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "eiscue-noice",
+    "DisplayName": "Noice Eiscue",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"62ce02bd-f85f-4a54-9ba9-268725c2790b\"]",
+      "Height": "14",
+      "Weight": "890",
+      "YieldExperience": "165",
+      "PrimaryAbility": "[\"51739fb0-6121-4a56-ad9d-c2b85228c951\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "130",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "eiscue-noice",
+      "DisplayName": "Noice Eiscue",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

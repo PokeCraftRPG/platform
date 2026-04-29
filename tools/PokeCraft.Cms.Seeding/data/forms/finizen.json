@@ -1,0 +1,40 @@
+﻿{
+  "Id": "e770d940-e4a4-45dc-9a02-d70fb73392a7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "finizen",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6afafb19-b972-429f-92c7-b10f3fa239f0\"]",
+      "Height": "13",
+      "Weight": "602",
+      "YieldExperience": "63",
+      "PrimaryAbility": "[\"24615c56-6280-47e4-8568-73a412d83865\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "75",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "finizen",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

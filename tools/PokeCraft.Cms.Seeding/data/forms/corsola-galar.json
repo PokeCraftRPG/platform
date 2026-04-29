@@ -1,0 +1,41 @@
+﻿{
+  "Id": "33dba259-94e4-4949-b1be-d28366ebeb61",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "corsola-galar",
+    "DisplayName": "Galarian Corsola",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f77466f0-af59-4c4f-af5c-cb3d435eacbb\"]",
+      "Height": "6",
+      "Weight": "5",
+      "YieldExperience": "144",
+      "PrimaryAbility": "[\"2b8b8cfa-e12e-43d2-b403-594ac9a1c1f7\"]",
+      "HiddenAbility": "[\"de5aabec-d7d6-43c0-9d1a-575c11318439\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "corsola-galar",
+      "DisplayName": "Galarian Corsola",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

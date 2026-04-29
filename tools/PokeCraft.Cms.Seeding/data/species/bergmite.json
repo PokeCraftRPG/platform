@@ -1,0 +1,28 @@
+﻿{
+  "Id": "748d0fe4-291d-46e1-a98c-0ca2689ddd54",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bergmite",
+    "DisplayName": "Bergmite",
+    "Description": null,
+    "FieldValues": {
+      "Number": "712",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bergmite",
+      "DisplayName": "Bergmite",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

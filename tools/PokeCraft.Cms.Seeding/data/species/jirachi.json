@@ -1,0 +1,27 @@
+﻿{
+  "Id": "828d9190-dee6-4927-ba45-ce7fef71397a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "jirachi",
+    "DisplayName": "Jirachi",
+    "Description": null,
+    "FieldValues": {
+      "Number": "385",
+      "Category": "[\"Mythical\"]",
+      "BaseFriendship": "100",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "jirachi",
+      "DisplayName": "Jirachi",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

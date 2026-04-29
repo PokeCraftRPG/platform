@@ -1,0 +1,25 @@
+﻿{
+  "Id": "1d7a9a8f-bfda-4a22-8077-a1c74ff67deb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mesprit",
+    "DisplayName": "Mesprit",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"94b5e407-f33c-4282-98fc-1f7aa695e352\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mesprit",
+      "DisplayName": "Mesprit",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Emotion"
+      }
+    }
+  }
+}

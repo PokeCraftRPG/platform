@@ -1,0 +1,23 @@
+﻿{
+  "Id": "22da7fe4-d986-45fb-b447-3558df941b5b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "teatime",
+    "DisplayName": "Teatime",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "teatime",
+      "DisplayName": "Teatime",
+      "Description": "The user has teatime with all the Pokémon currently in the battle. Each Pokémon eats its held Berry.",
+      "FieldValues": {}
+    }
+  }
+}

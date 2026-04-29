@@ -1,0 +1,40 @@
+﻿{
+  "Id": "f5ca462c-540d-44b0-bc42-eee38b12e329",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "carnivine",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ac9a2677-7279-4d82-9dce-aa7169cfa9ce\"]",
+      "Height": "14",
+      "Weight": "270",
+      "YieldExperience": "159",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "BaseHP": "74",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "2",
+      "BaseDefense": "72",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "90",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "72",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "46",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "carnivine",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "3abfea69-218f-4ce5-8c36-c6b161cf5653",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "raikou",
+    "DisplayName": "Raikou",
+    "Description": null,
+    "FieldValues": {
+      "Number": "243",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "80",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "raikou",
+      "DisplayName": "Raikou",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

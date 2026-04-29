@@ -1,0 +1,42 @@
+﻿{
+  "Id": "54b8a871-bae6-4b5e-9672-c62cc35a90e6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "trapinch",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a87f92dd-d6da-4896-85ce-1aa362151631\"]",
+      "Height": "7",
+      "Weight": "150",
+      "YieldExperience": "58",
+      "PrimaryAbility": "[\"57e539ec-9a7b-4925-ad82-81080aa7ceb2\"]",
+      "SecondaryAbility": "[\"880af40d-a918-43ab-913c-5280716d5f40\"]",
+      "HiddenAbility": "[\"ef348627-bea1-4c87-9bf1-417ed3b66855\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "1",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "10",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "trapinch",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

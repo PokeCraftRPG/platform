@@ -1,0 +1,27 @@
+﻿{
+  "Id": "86a77bf8-234d-412b-8e85-5fbc8eca7304",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "oinkologne",
+    "DisplayName": "Oinkologne",
+    "Description": null,
+    "FieldValues": {
+      "Number": "916",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "100",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "oinkologne",
+      "DisplayName": "Oinkologne",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

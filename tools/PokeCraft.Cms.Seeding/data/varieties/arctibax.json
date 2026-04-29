@@ -1,0 +1,26 @@
+﻿{
+  "Id": "cfbe8034-d38e-4f09-bdc2-1523f334a547",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arctibax",
+    "DisplayName": "Arctibax",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e61ff48d-05e7-4397-9d39-5f01ab43ad3a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arctibax",
+      "DisplayName": "Arctibax",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ice Fin"
+      }
+    }
+  }
+}

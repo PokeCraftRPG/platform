@@ -1,0 +1,28 @@
+﻿{
+  "Id": "d59f82d0-3101-4f12-b735-1d2a3fd964f0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blastoise",
+    "DisplayName": "Blastoise",
+    "Description": null,
+    "FieldValues": {
+      "Number": "9",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blastoise",
+      "DisplayName": "Blastoise",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

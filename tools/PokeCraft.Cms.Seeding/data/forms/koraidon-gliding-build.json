@@ -1,0 +1,41 @@
+﻿{
+  "Id": "dd0d5f3e-f157-4433-8f26-3427647c652d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "koraidon-gliding-build",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d6102f4f-8337-44b4-927c-735983820b3e\"]",
+      "Height": "35",
+      "Weight": "3030",
+      "YieldExperience": "335",
+      "PrimaryAbility": "[\"e790019c-c127-4ffc-9263-8913243abfe6\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "135",
+      "YieldAttack": "3",
+      "BaseDefense": "115",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "135",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Alternative\"]",
+      "PrimaryType": "[\"Fighting\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "koraidon-gliding-build",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "9cfab8d9-4616-4760-ba95-89248a219a15",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "barbaracle",
+    "DisplayName": "Barbaracle",
+    "Description": null,
+    "FieldValues": {
+      "Number": "689",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "barbaracle",
+      "DisplayName": "Barbaracle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

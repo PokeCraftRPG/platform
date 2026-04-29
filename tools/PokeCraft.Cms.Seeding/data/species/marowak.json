@@ -1,0 +1,27 @@
+﻿{
+  "Id": "8dfd43c8-3a92-4c84-8304-d86e9eaa38fe",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "marowak",
+    "DisplayName": "Marowak",
+    "Description": null,
+    "FieldValues": {
+      "Number": "105",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "marowak",
+      "DisplayName": "Marowak",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

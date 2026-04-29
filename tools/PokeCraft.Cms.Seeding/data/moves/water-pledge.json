@@ -1,0 +1,25 @@
+﻿{
+  "Id": "079fc6fe-715f-4abe-9f2b-c273c25321ca",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "water-pledge",
+    "DisplayName": "Water Pledge",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "water-pledge",
+      "DisplayName": "Water Pledge",
+      "Description": "A column of water hits the target. When used with its fire counterpart, this move's power is boosted and a rainbow appears.",
+      "FieldValues": {}
+    }
+  }
+}

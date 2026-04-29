@@ -1,0 +1,26 @@
+﻿{
+  "Id": "64d88143-a494-4cf0-adda-d2c7abcf2d23",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meowscarada",
+    "DisplayName": "Meowscarada",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f9653744-bf7f-458d-b8b3-80bfb5d16240\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meowscarada",
+      "DisplayName": "Meowscarada",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Magician"
+      }
+    }
+  }
+}

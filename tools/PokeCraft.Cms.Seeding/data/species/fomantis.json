@@ -1,0 +1,27 @@
+﻿{
+  "Id": "a1b60c30-d828-47b7-8762-a788421e2fda",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fomantis",
+    "DisplayName": "Fomantis",
+    "Description": null,
+    "FieldValues": {
+      "Number": "753",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fomantis",
+      "DisplayName": "Fomantis",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

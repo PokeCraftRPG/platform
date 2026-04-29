@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b9e8d6fd-2e8a-4a70-a6b3-74712e6a67da",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "marshtomp",
+    "DisplayName": "Marshtomp",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5d5cedcc-a0f7-4a24-8d44-be97c3f59e9b\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "marshtomp",
+      "DisplayName": "Marshtomp",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mud Fish"
+      }
+    }
+  }
+}

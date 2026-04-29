@@ -1,0 +1,19 @@
+﻿{
+  "Id": "226a6934-1e2e-4f98-989f-38ca3013296d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "well-baked-body",
+    "DisplayName": "Well-Baked Body",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "well-baked-body",
+      "DisplayName": "Well-Baked Body",
+      "Description": "The Pokémon takes no damage when hit by Fire-type moves. Instead, its Defense stat is sharply boosted.",
+      "FieldValues": {}
+    }
+  }
+}

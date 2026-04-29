@@ -1,0 +1,42 @@
+﻿{
+  "Id": "206a0cda-e857-45f5-b6f9-9059c18b2b95",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "veluza",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ea84e57c-ac57-46fc-8dd7-378a8231d228\"]",
+      "Height": "25",
+      "Weight": "900",
+      "YieldExperience": "167",
+      "PrimaryAbility": "[\"f35847b5-de3c-4706-a9d6-010903615537\"]",
+      "HiddenAbility": "[\"770e0022-42e3-45fc-adbb-4e936051c8fb\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "102",
+      "YieldAttack": "2",
+      "BaseDefense": "73",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "78",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "veluza",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

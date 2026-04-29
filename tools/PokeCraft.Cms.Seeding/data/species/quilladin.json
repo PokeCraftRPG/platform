@@ -1,0 +1,27 @@
+﻿{
+  "Id": "283d621b-7633-4790-ae65-55f4a78b5560",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "quilladin",
+    "DisplayName": "Quilladin",
+    "Description": null,
+    "FieldValues": {
+      "Number": "651",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "quilladin",
+      "DisplayName": "Quilladin",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

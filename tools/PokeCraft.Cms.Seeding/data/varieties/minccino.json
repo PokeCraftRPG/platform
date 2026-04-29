@@ -1,0 +1,26 @@
+﻿{
+  "Id": "284a6772-d8f2-4e1e-afdf-e3fc9fc5d505",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "minccino",
+    "DisplayName": "Minccino",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1a61af55-226a-4114-bf6d-b7cb87c13f5d\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "minccino",
+      "DisplayName": "Minccino",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Chinchilla"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿{
+  "Id": "4223c8bb-2998-491c-8606-aae69a5468a1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "screech",
+    "DisplayName": "Screech",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "85",
+      "PowerPoints": "40"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "screech",
+      "DisplayName": "Screech",
+      "Description": "An earsplitting screech harshly lowers the target's Defense stat.",
+      "FieldValues": {}
+    }
+  }
+}

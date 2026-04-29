@@ -1,0 +1,42 @@
+﻿{
+  "Id": "e660e26e-9aec-4e77-b29f-fb96a109301b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "exeggcute",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"308a0a58-2777-478e-9ea8-a74b96adcf36\"]",
+      "Height": "4",
+      "Weight": "25",
+      "YieldExperience": "65",
+      "PrimaryAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "HiddenAbility": "[\"173ca115-de73-4599-a301-8ac567198f12\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "40",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "exeggcute",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

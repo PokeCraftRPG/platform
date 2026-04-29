@@ -1,0 +1,26 @@
+﻿{
+  "Id": "bd97f138-ace6-4342-8110-774b28682e22",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kommo-o",
+    "DisplayName": "Kommo-o",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c70705f8-e942-4a67-b256-68829af9c867\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kommo-o",
+      "DisplayName": "Kommo-o",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Scaly"
+      }
+    }
+  }
+}

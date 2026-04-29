@@ -1,0 +1,21 @@
+﻿{
+  "Id": "6c591533-e064-4a21-a701-e43ddb0ee78c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shadow-sky",
+    "DisplayName": "Shadow Sky",
+    "Description": null,
+    "FieldValues": {
+      "Category": "[\"Status\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shadow-sky",
+      "DisplayName": "Shadow Sky",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

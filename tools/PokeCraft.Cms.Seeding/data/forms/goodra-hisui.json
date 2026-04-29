@@ -1,0 +1,43 @@
+﻿{
+  "Id": "f25268ff-96a1-4879-90e3-10d6b2410d44",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "goodra-hisui",
+    "DisplayName": "Hisuian Goodra",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0f02c5c7-6833-4648-943f-5857942b2760\"]",
+      "Height": "17",
+      "Weight": "3341",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"a471c5f9-291c-4763-b84a-9c5c666f409b\"]",
+      "SecondaryAbility": "[\"238257b2-205c-4b83-b5f1-393b8c11b2e9\"]",
+      "HiddenAbility": "[\"b26695ec-9331-4ca1-b94c-d371e8bbbb15\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "110",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "150",
+      "YieldSpecialDefense": "3",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "goodra-hisui",
+      "DisplayName": "Hisuian Goodra",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

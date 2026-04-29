@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e3d06da3-f51b-46ec-baaf-aac0014e63dc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gurdurr",
+    "DisplayName": "Gurdurr",
+    "Description": null,
+    "FieldValues": {
+      "Number": "533",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gurdurr",
+      "DisplayName": "Gurdurr",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "e77f95af-3fbe-4efd-859a-d24c64e3fb46",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "registeel",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a250431d-d1e6-486c-a7da-e63232a28bfd\"]",
+      "Height": "19",
+      "Weight": "2050",
+      "YieldExperience": "261",
+      "PrimaryAbility": "[\"eac52537-4006-4999-9072-1b3e1a92910c\"]",
+      "HiddenAbility": "[\"a9839af2-6266-4453-a3f7-39226d90dc2e\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "150",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "150",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "registeel",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

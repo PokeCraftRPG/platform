@@ -1,0 +1,23 @@
+﻿{
+  "Id": "6dd7be31-1356-416c-a83d-9c73912e0577",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "savage-spin-out--physical",
+    "DisplayName": "Savage Spin-Out",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Physical\"]",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "savage-spin-out--physical",
+      "DisplayName": "Savage Spin-Out",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

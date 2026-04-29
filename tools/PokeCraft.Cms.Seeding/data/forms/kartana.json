@@ -1,0 +1,41 @@
+﻿{
+  "Id": "9be3dae3-1158-4c6b-8216-d4cf3dee7729",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kartana",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b80b3c96-862e-4202-aa0a-27d8dd62a863\"]",
+      "Height": "3",
+      "Weight": "1",
+      "YieldExperience": "257",
+      "PrimaryAbility": "[\"e7ec0ce2-6979-45a9-80ab-215081d487e3\"]",
+      "BaseHP": "59",
+      "YieldHP": "0",
+      "BaseAttack": "181",
+      "YieldAttack": "3",
+      "BaseDefense": "131",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "59",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "31",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "109",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kartana",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

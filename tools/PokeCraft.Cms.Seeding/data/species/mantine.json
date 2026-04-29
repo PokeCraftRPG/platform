@@ -1,0 +1,27 @@
+﻿{
+  "Id": "8c1ec409-d257-43fd-a3e0-24fb56793072",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mantine",
+    "DisplayName": "Mantine",
+    "Description": null,
+    "FieldValues": {
+      "Number": "226",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "25",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mantine",
+      "DisplayName": "Mantine",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

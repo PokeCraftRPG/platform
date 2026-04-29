@@ -1,0 +1,22 @@
+﻿{
+  "Id": "1cd99495-1670-474e-8e7c-1f65b14311e9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shadow-panic",
+    "DisplayName": "Shadow Panic",
+    "Description": null,
+    "FieldValues": {
+      "Category": "[\"Status\"]",
+      "Accuracy": "90"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shadow-panic",
+      "DisplayName": "Shadow Panic",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

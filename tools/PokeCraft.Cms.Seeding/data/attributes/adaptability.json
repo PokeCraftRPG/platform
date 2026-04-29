@@ -1,0 +1,19 @@
+﻿{
+  "Id": "463a60e6-bf15-4972-9934-481d443a8534",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "adaptability",
+    "DisplayName": "Adaptability",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "adaptability",
+      "DisplayName": "Adaptability",
+      "Description": "Powers up moves of the same type as the Pokémon.",
+      "FieldValues": {}
+    }
+  }
+}

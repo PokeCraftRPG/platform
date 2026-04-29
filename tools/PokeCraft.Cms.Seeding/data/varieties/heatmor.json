@@ -1,0 +1,26 @@
+﻿{
+  "Id": "768c4490-1ca0-451c-892a-6650a6657f23",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "heatmor",
+    "DisplayName": "Heatmor",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d75da839-88a7-4e87-a1c6-1206ab380d7f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "heatmor",
+      "DisplayName": "Heatmor",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Anteater"
+      }
+    }
+  }
+}

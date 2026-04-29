@@ -1,0 +1,23 @@
+﻿{
+  "Id": "636a56e4-5229-4546-9f75-1337acd51881",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tail-glow",
+    "DisplayName": "Tail Glow",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tail-glow",
+      "DisplayName": "Tail Glow",
+      "Description": "This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "0dead26f-2b76-4b86-a99a-f450c2fcfc0d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lilligant-hisui",
+    "DisplayName": "Hisuian Lilligant",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2bc650bf-dc73-484a-81cd-bb3e28d240ae\"]",
+      "Height": "12",
+      "Weight": "192",
+      "YieldExperience": "168",
+      "PrimaryAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "SecondaryAbility": "[\"12b608f7-a7b7-412e-803f-28d4eaba64c8\"]",
+      "HiddenAbility": "[\"d724fdd9-3db1-4a76-8de7-aa696033fa20\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "105",
+      "YieldAttack": "0",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "105",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lilligant-hisui",
+      "DisplayName": "Hisuian Lilligant",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

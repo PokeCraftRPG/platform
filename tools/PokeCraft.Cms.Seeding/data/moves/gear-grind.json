@@ -1,0 +1,25 @@
+﻿{
+  "Id": "4a2806db-6f03-481a-9e66-53e4b027b939",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gear-grind",
+    "DisplayName": "Gear Grind",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "85",
+      "Power": "50",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gear-grind",
+      "DisplayName": "Gear Grind",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

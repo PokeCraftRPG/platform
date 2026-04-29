@@ -1,0 +1,43 @@
+﻿{
+  "Id": "0ee93009-e092-4823-b8fe-4147d87bed65",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "joltik",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"01ffa890-5f6a-412a-aa5f-c67a1b7d2c7d\"]",
+      "Height": "1",
+      "Weight": "6",
+      "YieldExperience": "64",
+      "PrimaryAbility": "[\"65e44b8e-43f4-4e6f-9e4e-db99591d1061\"]",
+      "SecondaryAbility": "[\"5cdb3b5f-b72c-4361-b715-922fc4cb31f9\"]",
+      "HiddenAbility": "[\"ba1b3a50-acc0-4032-bf14-6572fa26daed\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "47",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "57",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "joltik",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

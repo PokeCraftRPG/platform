@@ -1,0 +1,23 @@
+﻿{
+  "Id": "256fad15-31e1-42a3-afc0-c86756a9f234",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "healing-wish",
+    "DisplayName": "Healing Wish",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "healing-wish",
+      "DisplayName": "Healing Wish",
+      "Description": "The user faints. In return, the Pokémon taking its place will have its HP restored and status conditions cured.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "9d10472f-98b7-4dd6-8be4-36864442b86c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ivysaur",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"75b13634-ddef-41b3-afd8-fcd570495326\"]",
+      "Height": "10",
+      "Weight": "130",
+      "YieldExperience": "142",
+      "PrimaryAbility": "[\"f635691a-6cf0-4a55-a848-a2183d487971\"]",
+      "HiddenAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "62",
+      "YieldAttack": "0",
+      "BaseDefense": "63",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ivysaur",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

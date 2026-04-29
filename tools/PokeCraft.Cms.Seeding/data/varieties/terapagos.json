@@ -1,0 +1,26 @@
+﻿{
+  "Id": "578e715c-b3b4-4492-aef8-5a3206c7fb8d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "terapagos",
+    "DisplayName": "Terapagos",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7d8bb225-8bef-491b-9fd5-d5181194ad8b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "terapagos",
+      "DisplayName": "Terapagos",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tera"
+      }
+    }
+  }
+}

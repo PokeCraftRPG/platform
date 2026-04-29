@@ -1,0 +1,28 @@
+﻿{
+  "Id": "fc327e39-8d9a-4bf4-9943-8cf96b243084",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lopunny",
+    "DisplayName": "Lopunny",
+    "Description": null,
+    "FieldValues": {
+      "Number": "428",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "140",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lopunny",
+      "DisplayName": "Lopunny",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

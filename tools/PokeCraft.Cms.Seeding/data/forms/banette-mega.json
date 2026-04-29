@@ -1,0 +1,40 @@
+﻿{
+  "Id": "cfb04318-dc7c-421f-a0a5-65477dbf8e0e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "banette-mega",
+    "DisplayName": "Mega Banette",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b1ce0145-48ed-42d4-8d0e-0e6ab6a0b958\"]",
+      "Height": "12",
+      "Weight": "130",
+      "YieldExperience": "194",
+      "PrimaryAbility": "[\"84a30672-4ea5-4904-84fc-d04259c936a3\"]",
+      "BaseHP": "64",
+      "YieldHP": "0",
+      "BaseAttack": "165",
+      "YieldAttack": "2",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "93",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "83",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "75",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "banette-mega",
+      "DisplayName": "Mega Banette",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

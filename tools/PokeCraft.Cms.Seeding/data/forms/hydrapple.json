@@ -1,0 +1,43 @@
+﻿{
+  "Id": "139a4bfc-b259-444a-9f03-b07d25ae0236",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hydrapple",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"658bb1ca-7f63-4b86-80bb-b182c1363928\"]",
+      "Height": "18",
+      "Weight": "930",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"4fd91d5d-e10d-4fa0-a68d-71ecaf53fddb\"]",
+      "SecondaryAbility": "[\"3f2976c2-09ac-4c69-8b32-5d930032faba\"]",
+      "HiddenAbility": "[\"c6f1b814-650e-4b1f-a482-7ed07ca1c7af\"]",
+      "BaseHP": "106",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "110",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "120",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "44",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hydrapple",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

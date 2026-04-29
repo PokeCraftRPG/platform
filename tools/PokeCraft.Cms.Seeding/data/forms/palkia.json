@@ -1,0 +1,42 @@
+﻿{
+  "Id": "27865dd3-9edd-4a0d-94e9-a7c17f908738",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "palkia",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6960b51d-31e6-4b65-88eb-9dfea490eea2\"]",
+      "Height": "42",
+      "Weight": "3360",
+      "YieldExperience": "306",
+      "PrimaryAbility": "[\"04822c52-0ef2-4b5e-a4bb-176772f6c3d8\"]",
+      "HiddenAbility": "[\"f5863110-b5b9-4629-b95c-3869ed34433d\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "150",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "120",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "palkia",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

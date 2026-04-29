@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6358d56e-ff61-4d29-b469-984af194fdae",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blue-flare",
+    "DisplayName": "Blue Flare",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "85",
+      "Power": "130",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blue-flare",
+      "DisplayName": "Blue Flare",
+      "Description": "The user attacks by engulfing the target in an intense, yet beautiful, blue flame. This may also leave the target with a burn.",
+      "FieldValues": {}
+    }
+  }
+}

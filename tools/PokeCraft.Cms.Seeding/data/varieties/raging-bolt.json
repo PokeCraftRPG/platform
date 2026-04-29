@@ -1,0 +1,25 @@
+﻿{
+  "Id": "8796ff29-1c41-4fff-92de-040ebc5529ef",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "raging-bolt",
+    "DisplayName": "Raging Bolt",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"338def9e-bd1c-4950-8d0e-e0a99ddf4288\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "raging-bolt",
+      "DisplayName": "Raging Bolt",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

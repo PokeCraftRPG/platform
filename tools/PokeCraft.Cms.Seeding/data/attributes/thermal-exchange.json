@@ -1,0 +1,19 @@
+﻿{
+  "Id": "1117bcee-57ac-4af9-8555-e292ee340c3e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thermal-exchange",
+    "DisplayName": "Thermal Exchange",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thermal-exchange",
+      "DisplayName": "Thermal Exchange",
+      "Description": "Boosts the Attack stat when the Pokémon is hit by a Fire-type move. The Pokémon also cannot be burned.",
+      "FieldValues": {}
+    }
+  }
+}

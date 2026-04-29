@@ -1,0 +1,42 @@
+﻿{
+  "Id": "9c37467d-1354-4de7-ad23-052bb653db94",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "oddish",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c4b6a030-fa45-4324-a375-5fc207b13dd9\"]",
+      "Height": "5",
+      "Weight": "54",
+      "YieldExperience": "64",
+      "PrimaryAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "HiddenAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "oddish",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

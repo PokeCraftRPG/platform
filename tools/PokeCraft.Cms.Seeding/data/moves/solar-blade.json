@@ -1,0 +1,25 @@
+﻿{
+  "Id": "9e92e4d6-65be-42f5-9c5a-b2df03467c4e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "solar-blade",
+    "DisplayName": "Solar Blade",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "125",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "solar-blade",
+      "DisplayName": "Solar Blade",
+      "Description": "The user gathers light on the first turn, then fills a blade with the light's energy and attacks on the next turn.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "4fb90a5f-f90b-49db-a2fe-ffdf65140f44",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hariyama",
+    "DisplayName": "Hariyama",
+    "Description": null,
+    "FieldValues": {
+      "Number": "297",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "200",
+      "GrowthRate": "[\"Fluctuating\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hariyama",
+      "DisplayName": "Hariyama",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

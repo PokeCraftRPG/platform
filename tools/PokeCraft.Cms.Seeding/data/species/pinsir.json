@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f08a9df6-6781-4160-bf41-3290e8c02f04",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pinsir",
+    "DisplayName": "Pinsir",
+    "Description": null,
+    "FieldValues": {
+      "Number": "127",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pinsir",
+      "DisplayName": "Pinsir",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "4601a828-1dbf-4091-b462-6bcf76282e26",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "golett",
+    "DisplayName": "Golett",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6cee4e75-536a-4b56-b497-78d7fa399af2\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "golett",
+      "DisplayName": "Golett",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Automaton"
+      }
+    }
+  }
+}

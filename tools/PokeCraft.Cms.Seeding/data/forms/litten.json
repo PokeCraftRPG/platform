@@ -1,0 +1,41 @@
+﻿{
+  "Id": "96ea39ae-07cd-4322-85b5-f7391a36cbd3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "litten",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"32cc18e2-6977-443e-abf8-8baafa9281ed\"]",
+      "Height": "4",
+      "Weight": "43",
+      "YieldExperience": "64",
+      "PrimaryAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "HiddenAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "litten",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

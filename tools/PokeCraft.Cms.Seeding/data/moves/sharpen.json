@@ -1,0 +1,23 @@
+﻿{
+  "Id": "61f83382-85de-4996-b436-6a3d07612402",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sharpen",
+    "DisplayName": "Sharpen",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sharpen",
+      "DisplayName": "Sharpen",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

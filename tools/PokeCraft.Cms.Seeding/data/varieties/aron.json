@@ -1,0 +1,26 @@
+﻿{
+  "Id": "74cb15d3-5bd1-40b6-b40e-81d0f4d08cde",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aron",
+    "DisplayName": "Aron",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"62876b3b-ac3f-4f93-bf70-173005fd0295\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aron",
+      "DisplayName": "Aron",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Iron Armor"
+      }
+    }
+  }
+}

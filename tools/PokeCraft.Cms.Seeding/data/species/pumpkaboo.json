@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e838fc57-04e3-42e2-9940-ca5a548965ac",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pumpkaboo",
+    "DisplayName": "Pumpkaboo",
+    "Description": null,
+    "FieldValues": {
+      "Number": "710",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pumpkaboo",
+      "DisplayName": "Pumpkaboo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

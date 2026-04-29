@@ -1,0 +1,43 @@
+﻿{
+  "Id": "0f8901e2-80bb-4f2c-8955-85c95c1b3ff5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tinkatink",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4489fa30-e1c5-4ebe-8094-1e6321a7be1d\"]",
+      "Height": "4",
+      "Weight": "89",
+      "YieldExperience": "59",
+      "PrimaryAbility": "[\"f35847b5-de3c-4706-a9d6-010903615537\"]",
+      "SecondaryAbility": "[\"1d2b3915-c19d-4017-baac-19e24cc4b20a\"]",
+      "HiddenAbility": "[\"03108b44-e57b-442a-ba0e-b6de95a975c1\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "64",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "58",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fairy\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tinkatink",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

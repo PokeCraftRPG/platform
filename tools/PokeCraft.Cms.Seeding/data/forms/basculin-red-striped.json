@@ -1,0 +1,42 @@
+﻿{
+  "Id": "9c2540a0-6bc1-4d1b-816c-080e016100d2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "basculin-red-striped",
+    "DisplayName": "Red-Striped Basculin",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3e2ba584-82d1-4df2-894d-a1bb07b2429c\"]",
+      "Height": "10",
+      "Weight": "180",
+      "YieldExperience": "161",
+      "PrimaryAbility": "[\"3e4191ac-398f-48f3-a3ce-106d5ddd1742\"]",
+      "SecondaryAbility": "[\"463a60e6-bf15-4972-9934-481d443a8534\"]",
+      "HiddenAbility": "[\"f35847b5-de3c-4706-a9d6-010903615537\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "92",
+      "YieldAttack": "0",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "98",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "basculin-red-striped",
+      "DisplayName": "Red-Striped Basculin",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

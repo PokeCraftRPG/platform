@@ -1,0 +1,26 @@
+﻿{
+  "Id": "476f3c23-0ea7-4884-a747-79dc800dfd42",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "indeedee-female",
+    "DisplayName": "Indeedee",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ba28c789-aaf0-4f5c-9c0b-000998193363\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "indeedee-female",
+      "DisplayName": "Indeedee",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Emotion"
+      }
+    }
+  }
+}

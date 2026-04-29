@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c6a12df5-75f2-4765-9a1a-f401c0095ac1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "temper-flare",
+    "DisplayName": "Temper Flare",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "75",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "temper-flare",
+      "DisplayName": "Temper Flare",
+      "Description": "Spurred by desperation, the user attacks the target. This move's power is doubled if the user's previous move failed.",
+      "FieldValues": {}
+    }
+  }
+}

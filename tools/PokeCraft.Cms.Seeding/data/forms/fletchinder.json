@@ -1,0 +1,42 @@
+﻿{
+  "Id": "ae610d86-fd22-4f05-b9a4-d396a4c79fb1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fletchinder",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"68607cfe-586d-42c0-8a55-eb15394a0a34\"]",
+      "Height": "7",
+      "Weight": "160",
+      "YieldExperience": "134",
+      "PrimaryAbility": "[\"61541bb6-568e-4dd0-b07a-56233b9fe96f\"]",
+      "HiddenAbility": "[\"91394e9f-f713-485c-99df-ac2c53f6a954\"]",
+      "BaseHP": "62",
+      "YieldHP": "0",
+      "BaseAttack": "73",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "56",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "52",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "84",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fletchinder",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

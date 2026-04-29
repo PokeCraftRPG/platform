@@ -1,0 +1,41 @@
+﻿{
+  "Id": "b0b3a104-311a-48db-8367-dac4aa837717",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pupitar",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c89338f0-be0f-4895-aa67-5a5c772924b1\"]",
+      "Height": "12",
+      "Weight": "1520",
+      "YieldExperience": "144",
+      "PrimaryAbility": "[\"ce764204-79c4-4e66-8017-2144a4e66f3c\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "84",
+      "YieldAttack": "2",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "51",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pupitar",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

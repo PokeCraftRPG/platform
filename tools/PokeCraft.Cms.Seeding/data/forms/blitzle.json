@@ -1,0 +1,42 @@
+﻿{
+  "Id": "677a5957-b11d-4ea4-b6b2-f191b877f30b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blitzle",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"704f248b-b3bd-47b5-b6ee-418363606369\"]",
+      "Height": "8",
+      "Weight": "298",
+      "YieldExperience": "59",
+      "PrimaryAbility": "[\"98bb9191-1993-4224-8922-4a4d13f534a5\"]",
+      "SecondaryAbility": "[\"1c41e2f3-b9f2-4ba5-a444-5bf018b5657e\"]",
+      "HiddenAbility": "[\"a471c5f9-291c-4763-b84a-9c5c666f409b\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "32",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "32",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "76",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blitzle",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

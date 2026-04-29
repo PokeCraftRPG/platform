@@ -1,0 +1,24 @@
+﻿{
+  "Id": "7005c99f-23fc-41c7-914e-4b5b1cc2fcf5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magical-leaf",
+    "DisplayName": "Magical Leaf",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Special\"]",
+      "Power": "60",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magical-leaf",
+      "DisplayName": "Magical Leaf",
+      "Description": "The user scatters curious leaves that chase the target. This attack never misses.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "0304b5fe-fa3d-432a-b14b-b867d4acb58d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "araquanid",
+    "DisplayName": "Araquanid",
+    "Description": null,
+    "FieldValues": {
+      "Number": "752",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "100",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "araquanid",
+      "DisplayName": "Araquanid",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

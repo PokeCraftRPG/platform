@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f285a678-2329-4674-86f5-2bcf3de197f1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "steelix",
+    "DisplayName": "Steelix",
+    "Description": null,
+    "FieldValues": {
+      "Number": "208",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "25",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "steelix",
+      "DisplayName": "Steelix",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

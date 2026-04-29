@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4af84275-74e7-42d4-9dc3-7814f4d4a7cd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aromatisse",
+    "DisplayName": "Aromatisse",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ca198c8a-9996-4072-9375-e1ddfa6ddeca\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aromatisse",
+      "DisplayName": "Aromatisse",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fragrance"
+      }
+    }
+  }
+}

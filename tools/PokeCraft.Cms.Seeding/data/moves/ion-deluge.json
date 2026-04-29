@@ -1,0 +1,23 @@
+﻿{
+  "Id": "69e0950e-37e7-40a1-a82f-093a658ca1cc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ion-deluge",
+    "DisplayName": "Ion Deluge",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "25"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ion-deluge",
+      "DisplayName": "Ion Deluge",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

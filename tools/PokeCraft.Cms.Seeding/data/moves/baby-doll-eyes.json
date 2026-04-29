@@ -1,0 +1,24 @@
+﻿{
+  "Id": "25e83c3c-fbb2-4da6-9b8d-ccf83e3119ca",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "baby-doll-eyes",
+    "DisplayName": "Baby-Doll Eyes",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "baby-doll-eyes",
+      "DisplayName": "Baby-Doll Eyes",
+      "Description": "The user stares at the target with its baby-doll eyes, which lowers the target's Attack stat. This move always goes first.",
+      "FieldValues": {}
+    }
+  }
+}

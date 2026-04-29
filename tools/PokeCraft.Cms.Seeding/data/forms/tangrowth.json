@@ -1,0 +1,42 @@
+﻿{
+  "Id": "0fa1222e-2481-4871-8637-a4c81310a383",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tangrowth",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4f63f93c-ec04-4e94-a27d-ff9c684da556\"]",
+      "Height": "20",
+      "Weight": "1286",
+      "YieldExperience": "187",
+      "PrimaryAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "SecondaryAbility": "[\"d724fdd9-3db1-4a76-8de7-aa696033fa20\"]",
+      "HiddenAbility": "[\"3f2976c2-09ac-4c69-8b32-5d930032faba\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "125",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "110",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tangrowth",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

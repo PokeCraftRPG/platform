@@ -1,0 +1,41 @@
+﻿{
+  "Id": "9f7d5b7a-dd57-4b30-8e2c-e52ab4956962",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "solrock",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f3d74aaa-6fb5-4d40-8a17-c84ff96c1bff\"]",
+      "Height": "12",
+      "Weight": "1540",
+      "YieldExperience": "161",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "2",
+      "BaseDefense": "85",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "solrock",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

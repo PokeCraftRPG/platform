@@ -1,0 +1,25 @@
+﻿{
+  "Id": "506107c2-517f-4cc6-aaa9-b7d6c4c47e48",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fury-swipes",
+    "DisplayName": "Fury Swipes",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "80",
+      "Power": "18",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fury-swipes",
+      "DisplayName": "Fury Swipes",
+      "Description": "The user attacks by raking the target with claws, scythes, or the like. This move hits two to five times in a row.",
+      "FieldValues": {}
+    }
+  }
+}

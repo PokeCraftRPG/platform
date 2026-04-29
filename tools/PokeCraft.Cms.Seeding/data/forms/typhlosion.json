@@ -1,0 +1,41 @@
+﻿{
+  "Id": "65b44b91-0fb5-450e-956a-6e3fe2f64b2c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "typhlosion",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3ad61ef5-697e-4403-b52d-0979061249a6\"]",
+      "Height": "17",
+      "Weight": "795",
+      "YieldExperience": "240",
+      "PrimaryAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "HiddenAbility": "[\"956efecf-ecf7-4731-9df1-25171033ad13\"]",
+      "BaseHP": "78",
+      "YieldHP": "0",
+      "BaseAttack": "84",
+      "YieldAttack": "0",
+      "BaseDefense": "78",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "109",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "typhlosion",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

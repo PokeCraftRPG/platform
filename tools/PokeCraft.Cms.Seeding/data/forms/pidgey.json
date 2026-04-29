@@ -1,0 +1,43 @@
+﻿{
+  "Id": "514c7b99-85c2-4cd8-bb0f-b3265156673b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pidgey",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"cde2e18f-9223-4c5e-a54c-201de8f8dece\"]",
+      "Height": "3",
+      "Weight": "18",
+      "YieldExperience": "50",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "SecondaryAbility": "[\"15d2abba-2012-411a-9b8f-92ed5b04e17d\"]",
+      "HiddenAbility": "[\"15e51a3f-bb28-4ca8-abdf-27130d9930b4\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "35",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "56",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pidgey",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

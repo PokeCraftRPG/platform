@@ -1,0 +1,19 @@
+﻿{
+  "Id": "e7bdb27c-8e1e-4c84-82e9-926d8e6989ae",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "disgust",
+    "DisplayName": "Disgust",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "disgust",
+      "DisplayName": "Disgust",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "2a7439f3-bce4-4614-9969-78ec2ce46f31",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "competitive",
+    "DisplayName": "Competitive",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "competitive",
+      "DisplayName": "Competitive",
+      "Description": "Boosts the Pokémon's Sp. Atk stat sharply when its stats are lowered by an opposing Pokémon.",
+      "FieldValues": {}
+    }
+  }
+}

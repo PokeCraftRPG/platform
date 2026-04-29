@@ -1,0 +1,27 @@
+﻿{
+  "Id": "9b3dfbd8-13da-4b00-926a-1d75195e8c51",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "roggenrola",
+    "DisplayName": "Roggenrola",
+    "Description": null,
+    "FieldValues": {
+      "Number": "524",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "roggenrola",
+      "DisplayName": "Roggenrola",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

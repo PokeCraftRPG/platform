@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c153233e-c65a-4d24-95a0-ae63e09aa2fd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rhyhorn",
+    "DisplayName": "Rhyhorn",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"47f3bf55-9eb6-47bb-a219-cf636a5e6f55\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rhyhorn",
+      "DisplayName": "Rhyhorn",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Spikes"
+      }
+    }
+  }
+}

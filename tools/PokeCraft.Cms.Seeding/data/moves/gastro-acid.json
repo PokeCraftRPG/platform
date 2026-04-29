@@ -1,0 +1,24 @@
+﻿{
+  "Id": "fe705d50-da7f-4190-9384-2dfc7e94cbea",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gastro-acid",
+    "DisplayName": "Gastro Acid",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gastro-acid",
+      "DisplayName": "Gastro Acid",
+      "Description": "The user hurls up its stomach acids on the target. The fluid eliminates the effect of the target's Ability.",
+      "FieldValues": {}
+    }
+  }
+}

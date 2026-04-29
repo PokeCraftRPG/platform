@@ -1,0 +1,19 @@
+﻿{
+  "Id": "f440465e-0c15-46e4-9b0b-85aa434439e3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wind-rider",
+    "DisplayName": "Wind Rider",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wind-rider",
+      "DisplayName": "Wind Rider",
+      "Description": "Boosts the Pokémon's Attack stat if Tailwind takes effect or if the Pokémon is hit by a wind move. The Pokémon also takes no damage from wind moves.",
+      "FieldValues": {}
+    }
+  }
+}

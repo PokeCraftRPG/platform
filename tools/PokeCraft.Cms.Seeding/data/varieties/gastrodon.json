@@ -1,0 +1,26 @@
+﻿{
+  "Id": "108bec3c-afcc-4b37-8e3f-d5ec43d78036",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gastrodon",
+    "DisplayName": "Gastrodon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8e3fc6dc-9b97-4f86-84d9-302a7af5bc7f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gastrodon",
+      "DisplayName": "Gastrodon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sea Slug"
+      }
+    }
+  }
+}

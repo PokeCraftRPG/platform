@@ -1,0 +1,25 @@
+﻿{
+  "Id": "4b89d922-76fc-491d-a257-0fb2082775ca",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dhelmise",
+    "DisplayName": "Dhelmise",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"25da5de3-92b8-4426-a214-236fc0a5e282\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dhelmise",
+      "DisplayName": "Dhelmise",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sea Creeper"
+      }
+    }
+  }
+}

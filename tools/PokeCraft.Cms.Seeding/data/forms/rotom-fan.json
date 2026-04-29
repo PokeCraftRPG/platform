@@ -1,0 +1,41 @@
+﻿{
+  "Id": "9726b0f1-12aa-4793-9535-68baf90549e0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rotom-fan",
+    "DisplayName": "Fan Rotom",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3e334d09-30f8-40ee-b6cf-504350753b32\"]",
+      "Height": "3",
+      "Weight": "3",
+      "YieldExperience": "182",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "107",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "105",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "107",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "86",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rotom-fan",
+      "DisplayName": "Fan Rotom",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

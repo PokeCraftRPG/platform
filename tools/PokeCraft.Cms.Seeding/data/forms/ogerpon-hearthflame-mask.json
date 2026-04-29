@@ -1,0 +1,41 @@
+﻿{
+  "Id": "72c9160c-7aac-4be7-9546-c3b984a40ba5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ogerpon-hearthflame-mask",
+    "DisplayName": "Hearthflame Mask Ogerpon",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"fc7dd3aa-65a9-45e2-afa3-beb308c13f90\"]",
+      "Height": "12",
+      "Weight": "398",
+      "YieldExperience": "275",
+      "PrimaryAbility": "[\"f35847b5-de3c-4706-a9d6-010903615537\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "3",
+      "BaseDefense": "84",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "96",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "110",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ogerpon-hearthflame-mask",
+      "DisplayName": "Hearthflame Mask Ogerpon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

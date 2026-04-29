@@ -1,0 +1,26 @@
+﻿{
+  "Id": "99224d91-a526-48a4-aedd-f8a28c2b5901",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "oricorio-pom-pom",
+    "DisplayName": "Oricorio",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"dd13811e-759c-40d2-998b-d022f5284529\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "oricorio-pom-pom",
+      "DisplayName": "Oricorio",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Dancing"
+      }
+    }
+  }
+}

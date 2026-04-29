@@ -1,0 +1,27 @@
+﻿{
+  "Id": "34b5113a-fa6d-4095-a06c-abcf8edeb92c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lairon",
+    "DisplayName": "Lairon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "305",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "90",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "35",
+      "PrimaryEggGroup": "[\"Monster\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lairon",
+      "DisplayName": "Lairon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

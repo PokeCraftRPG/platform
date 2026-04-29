@@ -1,0 +1,26 @@
+﻿{
+  "Id": "50aebaf6-9082-409d-ba0f-eef177f51b80",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magmortar",
+    "DisplayName": "Magmortar",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"48577726-26a6-48e6-99a7-ee2c01d6c67b\"]",
+      "GenderRatio": "6",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magmortar",
+      "DisplayName": "Magmortar",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Blast"
+      }
+    }
+  }
+}

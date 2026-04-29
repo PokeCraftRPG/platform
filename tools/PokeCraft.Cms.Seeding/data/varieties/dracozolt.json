@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ab302430-6d6d-4858-af5f-ef3f97b5307d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dracozolt",
+    "DisplayName": "Dracozolt",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1f71f0ec-029f-4ae7-8870-1165478277b1\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dracozolt",
+      "DisplayName": "Dracozolt",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fossil"
+      }
+    }
+  }
+}

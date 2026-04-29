@@ -1,0 +1,25 @@
+﻿{
+  "Id": "31bdaeb3-b74f-4e6f-9478-dfb44fc02051",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mist-ball",
+    "DisplayName": "Mist Ball",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "95",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mist-ball",
+      "DisplayName": "Mist Ball",
+      "Description": "A mist-like flurry of down envelops and damages the target. This may also lower the target's Sp. Atk stat.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e575c590-1361-4540-82a0-4b601817b8fd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ambipom",
+    "DisplayName": "Ambipom",
+    "Description": null,
+    "FieldValues": {
+      "Number": "424",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "100",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ambipom",
+      "DisplayName": "Ambipom",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

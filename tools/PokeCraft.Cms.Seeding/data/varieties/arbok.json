@@ -1,0 +1,26 @@
+﻿{
+  "Id": "cce63785-2ac5-4b36-ba73-95dcd7cdd82a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arbok",
+    "DisplayName": "Arbok",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"02830821-f359-4a0e-9001-cedb309a56c7\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arbok",
+      "DisplayName": "Arbok",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cobra"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "62aaf0c2-92ef-4bf0-b7c7-8e633b80a25f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chimchar",
+    "DisplayName": "Chimchar",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8d01ec03-6c37-4296-9e75-9755a69632da\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chimchar",
+      "DisplayName": "Chimchar",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Chimp"
+      }
+    }
+  }
+}

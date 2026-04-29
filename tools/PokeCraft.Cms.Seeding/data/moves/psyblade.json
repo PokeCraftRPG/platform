@@ -1,0 +1,25 @@
+﻿{
+  "Id": "f3f4149e-8b62-41a6-bb2c-50e6b506faf6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "psyblade",
+    "DisplayName": "Psyblade",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "psyblade",
+      "DisplayName": "Psyblade",
+      "Description": "The user rends the target with an ethereal blade. This move's power is boosted by 50 percent if the user is on Electric Terrain.",
+      "FieldValues": {}
+    }
+  }
+}

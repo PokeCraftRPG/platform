@@ -1,0 +1,41 @@
+﻿{
+  "Id": "63a95764-efe6-4b92-9887-24cc8e3c7ad3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "exploud",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d9a74191-d190-4f7e-82d5-00566851c85a\"]",
+      "Height": "15",
+      "Weight": "840",
+      "YieldExperience": "221",
+      "PrimaryAbility": "[\"6df60939-ffd8-4ddb-ad1e-f4add0129eeb\"]",
+      "HiddenAbility": "[\"fa0ae125-7b24-45a0-bf28-4b447dfa5e21\"]",
+      "BaseHP": "104",
+      "YieldHP": "3",
+      "BaseAttack": "91",
+      "YieldAttack": "0",
+      "BaseDefense": "63",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "91",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "73",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "68",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "exploud",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

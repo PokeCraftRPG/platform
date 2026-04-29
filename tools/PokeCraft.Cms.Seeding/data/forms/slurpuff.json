@@ -1,0 +1,41 @@
+﻿{
+  "Id": "ba70484b-d739-430c-8966-0e337ea2785e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slurpuff",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c98e5aaf-31dd-439e-9cf4-0ff24a677d35\"]",
+      "Height": "8",
+      "Weight": "50",
+      "YieldExperience": "168",
+      "PrimaryAbility": "[\"cd664007-8bcb-4772-9253-08beb8edb12e\"]",
+      "HiddenAbility": "[\"d74f9f1b-dd57-4258-875f-46ec6bc83d99\"]",
+      "BaseHP": "82",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "86",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "72",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slurpuff",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

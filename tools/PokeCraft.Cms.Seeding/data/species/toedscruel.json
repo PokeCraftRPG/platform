@@ -1,0 +1,27 @@
+﻿{
+  "Id": "6fd1bb57-5703-49d4-a65d-da27db2bf2db",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toedscruel",
+    "DisplayName": "Toedscruel",
+    "Description": null,
+    "FieldValues": {
+      "Number": "949",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toedscruel",
+      "DisplayName": "Toedscruel",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

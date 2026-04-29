@@ -1,0 +1,28 @@
+﻿{
+  "Id": "59ffd9f6-cd77-42df-98d0-a3190c157f1b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "infernape",
+    "DisplayName": "Infernape",
+    "Description": null,
+    "FieldValues": {
+      "Number": "392",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "infernape",
+      "DisplayName": "Infernape",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

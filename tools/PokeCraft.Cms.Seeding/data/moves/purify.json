@@ -1,0 +1,23 @@
+﻿{
+  "Id": "4369133b-9d53-4cdb-98cc-da09c1dbfc98",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "purify",
+    "DisplayName": "Purify",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "purify",
+      "DisplayName": "Purify",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

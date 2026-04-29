@@ -1,0 +1,25 @@
+﻿{
+  "Id": "9a71b9b7-e9e9-420b-ad02-5a646c2579fd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rayquaza",
+    "DisplayName": "Rayquaza",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"79cf5306-c582-4e8a-a980-3673f45a0967\"]",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rayquaza",
+      "DisplayName": "Rayquaza",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sky High"
+      }
+    }
+  }
+}

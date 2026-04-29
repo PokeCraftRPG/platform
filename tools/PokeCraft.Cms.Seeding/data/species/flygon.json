@@ -1,0 +1,28 @@
+﻿{
+  "Id": "31451de8-36fe-44ee-b0c3-0e054ee0a373",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flygon",
+    "DisplayName": "Flygon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "330",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flygon",
+      "DisplayName": "Flygon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

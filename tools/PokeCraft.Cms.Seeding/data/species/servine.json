@@ -1,0 +1,28 @@
+﻿{
+  "Id": "04650e14-8414-472c-9aee-2cdc0168a71f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "servine",
+    "DisplayName": "Servine",
+    "Description": null,
+    "FieldValues": {
+      "Number": "496",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "servine",
+      "DisplayName": "Servine",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

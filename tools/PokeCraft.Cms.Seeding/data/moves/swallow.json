@@ -1,0 +1,23 @@
+﻿{
+  "Id": "e728746e-5f19-41ef-b549-3174925b096e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swallow",
+    "DisplayName": "Swallow",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swallow",
+      "DisplayName": "Swallow",
+      "Description": "The power stored using the move Stockpile is absorbed by the user to restore its own HP. The more power is stored, the more HP is restored.",
+      "FieldValues": {}
+    }
+  }
+}

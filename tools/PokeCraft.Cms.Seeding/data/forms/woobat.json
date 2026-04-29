@@ -1,0 +1,43 @@
+﻿{
+  "Id": "c2abc6ea-e1d0-4b73-ba3f-75777238134e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "woobat",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"840385d2-8a62-4578-a822-2b6f3c5a5251\"]",
+      "Height": "4",
+      "Weight": "21",
+      "YieldExperience": "65",
+      "PrimaryAbility": "[\"f9f08a4a-14de-4ff0-8844-8f97068aa2a3\"]",
+      "SecondaryAbility": "[\"0d470a82-2040-4e95-8e52-999c26f4514d\"]",
+      "HiddenAbility": "[\"d970f26f-f621-46d2-812e-c20eba98a492\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "43",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "43",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "72",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "woobat",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

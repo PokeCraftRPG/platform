@@ -1,0 +1,19 @@
+﻿{
+  "Id": "d3bfffc8-c256-4389-a5d1-2a64c02d504c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dazzling",
+    "DisplayName": "Dazzling",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dazzling",
+      "DisplayName": "Dazzling",
+      "Description": "The Pokémon dazzles its opponents, making them unable to use priority moves against the Pokémon or its allies.",
+      "FieldValues": {}
+    }
+  }
+}

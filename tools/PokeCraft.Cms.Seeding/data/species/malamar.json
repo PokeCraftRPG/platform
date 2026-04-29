@@ -1,0 +1,28 @@
+﻿{
+  "Id": "090082ff-df8c-45b2-9209-800d5a452a7a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "malamar",
+    "DisplayName": "Malamar",
+    "Description": null,
+    "FieldValues": {
+      "Number": "687",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "80",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "malamar",
+      "DisplayName": "Malamar",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

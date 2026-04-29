@@ -1,0 +1,25 @@
+﻿{
+  "Id": "d772ed26-0a94-47c7-b6ac-7260bfa37444",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "metang",
+    "DisplayName": "Metang",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0e43cf31-0837-446c-915e-9d740b48d02c\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "metang",
+      "DisplayName": "Metang",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Iron Claw"
+      }
+    }
+  }
+}

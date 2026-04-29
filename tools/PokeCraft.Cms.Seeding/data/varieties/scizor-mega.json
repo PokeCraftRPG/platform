@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9b3e0e51-adca-4434-a469-99ae0bd98628",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scizor-mega",
+    "DisplayName": "Scizor",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"db12e09e-634e-4156-85db-0f02ef4a2ae1\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scizor-mega",
+      "DisplayName": "Scizor",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Pincer"
+      }
+    }
+  }
+}

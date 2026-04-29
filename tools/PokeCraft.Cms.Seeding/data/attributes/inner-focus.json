@@ -1,0 +1,19 @@
+﻿{
+  "Id": "c84742ae-85a5-42c1-bee6-6c085faedc9b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "inner-focus",
+    "DisplayName": "Inner Focus",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "inner-focus",
+      "DisplayName": "Inner Focus",
+      "Description": "The Pokémon's intense focus prevents it from flinching or being affected by Intimidate.",
+      "FieldValues": {}
+    }
+  }
+}

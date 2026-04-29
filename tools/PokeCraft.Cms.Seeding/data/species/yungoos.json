@@ -1,0 +1,27 @@
+﻿{
+  "Id": "3af52881-3d62-4784-b8b4-ef62ffd77d30",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "yungoos",
+    "DisplayName": "Yungoos",
+    "Description": null,
+    "FieldValues": {
+      "Number": "734",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "yungoos",
+      "DisplayName": "Yungoos",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

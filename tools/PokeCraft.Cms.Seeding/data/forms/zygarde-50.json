@@ -1,0 +1,41 @@
+﻿{
+  "Id": "0c9d7147-f5b3-4451-bd58-97e46a6c3c7b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zygarde-50",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"40d9e8ec-8e3a-470a-a009-323d75781ae8\"]",
+      "Height": "50",
+      "Weight": "3050",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"180c32f3-fd5e-4bc7-bece-49338e11b670\"]",
+      "BaseHP": "108",
+      "YieldHP": "3",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "121",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "81",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zygarde-50",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

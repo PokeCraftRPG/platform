@@ -1,0 +1,23 @@
+﻿{
+  "Id": "f16d526c-6086-4242-806a-043a6610ddaa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "all-out-pummeling--special",
+    "DisplayName": "All-Out Pummeling",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Special\"]",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "all-out-pummeling--special",
+      "DisplayName": "All-Out Pummeling",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

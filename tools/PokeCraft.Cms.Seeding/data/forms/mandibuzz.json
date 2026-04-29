@@ -1,0 +1,43 @@
+﻿{
+  "Id": "597dd1f5-be2f-4979-9cf0-1108537cff36",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mandibuzz",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"882aa721-5466-41f0-b9ae-d685ae15cfe3\"]",
+      "Height": "12",
+      "Weight": "395",
+      "YieldExperience": "179",
+      "PrimaryAbility": "[\"15e51a3f-bb28-4ca8-abdf-27130d9930b4\"]",
+      "SecondaryAbility": "[\"ecf92884-7c23-4d13-9d9a-1a687fe3f447\"]",
+      "HiddenAbility": "[\"2b8b8cfa-e12e-43d2-b403-594ac9a1c1f7\"]",
+      "BaseHP": "110",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "105",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mandibuzz",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

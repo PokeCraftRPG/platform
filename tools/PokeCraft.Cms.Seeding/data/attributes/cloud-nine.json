@@ -1,0 +1,19 @@
+﻿{
+  "Id": "dd70f7cd-9d7f-407f-9222-682c011480db",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cloud-nine",
+    "DisplayName": "Cloud Nine",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cloud-nine",
+      "DisplayName": "Cloud Nine",
+      "Description": "Eliminates the effects of weather.",
+      "FieldValues": {}
+    }
+  }
+}

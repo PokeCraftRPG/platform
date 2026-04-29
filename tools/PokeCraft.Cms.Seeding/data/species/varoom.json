@@ -1,0 +1,27 @@
+﻿{
+  "Id": "b2d5189e-71a2-444c-857d-3260eab64cf9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "varoom",
+    "DisplayName": "Varoom",
+    "Description": null,
+    "FieldValues": {
+      "Number": "965",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "varoom",
+      "DisplayName": "Varoom",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

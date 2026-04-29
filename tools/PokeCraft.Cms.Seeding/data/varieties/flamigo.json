@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b8f3acf1-f0ef-4972-859a-e672a85cd2de",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flamigo",
+    "DisplayName": "Flamigo",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2ed72153-8054-4e74-828f-bc4468f10cbb\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flamigo",
+      "DisplayName": "Flamigo",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Synchronize"
+      }
+    }
+  }
+}

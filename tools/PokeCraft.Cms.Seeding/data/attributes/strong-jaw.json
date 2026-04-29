@@ -1,0 +1,19 @@
+﻿{
+  "Id": "fe62f3be-1b3d-461f-bb4c-963e988d426f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "strong-jaw",
+    "DisplayName": "Strong Jaw",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "strong-jaw",
+      "DisplayName": "Strong Jaw",
+      "Description": "The Pokémon's strong jaw boosts the power of its biting moves.",
+      "FieldValues": {}
+    }
+  }
+}

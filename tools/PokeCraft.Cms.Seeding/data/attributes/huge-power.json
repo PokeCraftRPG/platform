@@ -1,0 +1,19 @@
+﻿{
+  "Id": "fc4446e9-654f-46c3-8257-6cb0986da05f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "huge-power",
+    "DisplayName": "Huge Power",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "huge-power",
+      "DisplayName": "Huge Power",
+      "Description": "Doubles the Pokémon's Attack stat.",
+      "FieldValues": {}
+    }
+  }
+}

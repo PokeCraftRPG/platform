@@ -1,0 +1,27 @@
+﻿{
+  "Id": "4d8a5702-5651-4115-bfdb-c3036cfb7360",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tentacool",
+    "DisplayName": "Tentacool",
+    "Description": null,
+    "FieldValues": {
+      "Number": "72",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tentacool",
+      "DisplayName": "Tentacool",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

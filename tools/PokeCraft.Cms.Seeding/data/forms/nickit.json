@@ -1,0 +1,42 @@
+﻿{
+  "Id": "84b75d7f-ade7-4682-91e7-55d9490d1033",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nickit",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"abbd64bc-5b4f-4d07-aa84-88d356426b04\"]",
+      "Height": "6",
+      "Weight": "89",
+      "YieldExperience": "49",
+      "PrimaryAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "SecondaryAbility": "[\"d74f9f1b-dd57-4258-875f-46ec6bc83d99\"]",
+      "HiddenAbility": "[\"df0d1b67-be4a-45c3-9aee-f183bc1e0edd\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "28",
+      "YieldAttack": "0",
+      "BaseDefense": "28",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "47",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "52",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nickit",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

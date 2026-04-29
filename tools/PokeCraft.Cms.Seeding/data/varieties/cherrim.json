@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9b430b4e-4a42-48a4-aa23-27af0ee39d36",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cherrim",
+    "DisplayName": "Cherrim",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d0b33e53-6027-45f2-8cdb-40c8a6b79eb7\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cherrim",
+      "DisplayName": "Cherrim",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Blossom"
+      }
+    }
+  }
+}

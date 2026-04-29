@@ -1,0 +1,26 @@
+﻿{
+  "Id": "05726fe3-7717-4f08-b514-539ebe545e99",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "turtonator",
+    "DisplayName": "Turtonator",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c83ef813-2f28-42db-ba3b-20647dd1bdce\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "turtonator",
+      "DisplayName": "Turtonator",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Blast Turtle"
+      }
+    }
+  }
+}

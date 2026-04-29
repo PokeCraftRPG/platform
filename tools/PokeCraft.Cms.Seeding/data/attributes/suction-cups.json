@@ -1,0 +1,19 @@
+﻿{
+  "Id": "7f395dac-6fba-4c1f-8a37-b6772676e8c8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "suction-cups",
+    "DisplayName": "Suction Cups",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "suction-cups",
+      "DisplayName": "Suction Cups",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

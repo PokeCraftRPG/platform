@@ -1,0 +1,42 @@
+﻿{
+  "Id": "5cc546b6-8aa1-423b-9a19-9a27efa91d7f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "goomy",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5e595f6c-fcc4-4b64-86d7-dd59b12ea445\"]",
+      "Height": "3",
+      "Weight": "28",
+      "YieldExperience": "60",
+      "PrimaryAbility": "[\"a471c5f9-291c-4763-b84a-9c5c666f409b\"]",
+      "SecondaryAbility": "[\"14243d95-6028-489e-acf7-18592c5695c2\"]",
+      "HiddenAbility": "[\"b26695ec-9331-4ca1-b94c-d371e8bbbb15\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "35",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "goomy",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

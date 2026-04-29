@@ -1,0 +1,19 @@
+﻿{
+  "Id": "f4690202-f5b4-4c3d-9356-ad8c7290a12a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "instinct",
+    "DisplayName": "Instinct",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "instinct",
+      "DisplayName": "Instinct",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

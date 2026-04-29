@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1bf949b0-3722-4ec5-81a4-abf689f1fef2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zweilous",
+    "DisplayName": "Zweilous",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2f957c3c-6021-447d-a03f-237e352fcc89\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zweilous",
+      "DisplayName": "Zweilous",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Hostile"
+      }
+    }
+  }
+}

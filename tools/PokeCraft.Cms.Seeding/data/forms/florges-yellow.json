@@ -1,0 +1,41 @@
+﻿{
+  "Id": "a8942eae-8dc3-4335-ac15-cf1bdcb2c394",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "florges-yellow",
+    "DisplayName": "Yellow Florges",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4506ad75-f25a-4694-aff5-8ba6d256e085\"]",
+      "Height": "11",
+      "Weight": "100",
+      "YieldExperience": "248",
+      "PrimaryAbility": "[\"d1629cad-fb04-4b50-b39b-929078b3316a\"]",
+      "HiddenAbility": "[\"ded6e29e-ee40-4b93-b29f-6c4f592c79e8\"]",
+      "BaseHP": "78",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "68",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "112",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "154",
+      "YieldSpecialDefense": "3",
+      "BaseSpeed": "75",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Alternative\"]",
+      "PrimaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "florges-yellow",
+      "DisplayName": "Yellow Florges",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

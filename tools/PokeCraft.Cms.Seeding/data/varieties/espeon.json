@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c9fdf14c-4311-4c4a-8850-0e72932efb29",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "espeon",
+    "DisplayName": "Espeon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4ac715b0-def5-4d15-896f-42173e6f1373\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "espeon",
+      "DisplayName": "Espeon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sun"
+      }
+    }
+  }
+}

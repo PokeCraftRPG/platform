@@ -1,0 +1,25 @@
+﻿{
+  "Id": "7e35482b-0795-4ac8-9be1-86d2c4cca921",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chien-pao",
+    "DisplayName": "Chien-Pao",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"474e68ba-f7ac-41f1-b1ee-0fcd78dacb4c\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chien-pao",
+      "DisplayName": "Chien-Pao",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ruinous"
+      }
+    }
+  }
+}

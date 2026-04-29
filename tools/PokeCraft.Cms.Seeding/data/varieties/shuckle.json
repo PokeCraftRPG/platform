@@ -1,0 +1,26 @@
+﻿{
+  "Id": "bf0530b9-de3f-453e-92be-70422b49e087",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shuckle",
+    "DisplayName": "Shuckle",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c672bfb6-7e18-420a-bb1a-65c2eed0e222\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shuckle",
+      "DisplayName": "Shuckle",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mold"
+      }
+    }
+  }
+}

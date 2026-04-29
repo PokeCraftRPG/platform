@@ -1,0 +1,42 @@
+﻿{
+  "Id": "05ac640c-1994-41dc-9203-3bb060f58dfc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snom",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"90e5c3eb-b3a7-49dc-9c97-942a21f569ac\"]",
+      "Height": "3",
+      "Weight": "38",
+      "YieldExperience": "37",
+      "PrimaryAbility": "[\"29bd00fc-e0bf-4f2e-8cf9-f87e1aa11c4a\"]",
+      "HiddenAbility": "[\"ad295228-a241-455e-a1bc-d6fd7bac469f\"]",
+      "BaseHP": "30",
+      "YieldHP": "0",
+      "BaseAttack": "25",
+      "YieldAttack": "0",
+      "BaseDefense": "35",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "30",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "20",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]",
+      "SecondaryType": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snom",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

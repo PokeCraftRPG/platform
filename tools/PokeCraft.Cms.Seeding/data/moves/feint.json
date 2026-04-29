@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c8a7295b-d7e6-4083-8118-04b041b6f822",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "feint",
+    "DisplayName": "Feint",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "30",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "feint",
+      "DisplayName": "Feint",
+      "Description": "This attack can hit a target using a move such as Protect or Detect. This also lifts the effects of those moves.",
+      "FieldValues": {}
+    }
+  }
+}

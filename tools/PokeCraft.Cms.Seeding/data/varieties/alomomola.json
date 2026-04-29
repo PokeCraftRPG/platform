@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1df824a5-b0f0-4a47-860b-dffdc9d7395f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "alomomola",
+    "DisplayName": "Alomomola",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"00929797-4ddf-4726-b826-df30d5b933ef\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "alomomola",
+      "DisplayName": "Alomomola",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Caring"
+      }
+    }
+  }
+}

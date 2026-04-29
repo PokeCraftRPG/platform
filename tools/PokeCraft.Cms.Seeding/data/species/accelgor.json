@@ -1,0 +1,27 @@
+﻿{
+  "Id": "7fc2f9e4-5e29-41da-888c-69dffd320b4b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "accelgor",
+    "DisplayName": "Accelgor",
+    "Description": null,
+    "FieldValues": {
+      "Number": "617",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "accelgor",
+      "DisplayName": "Accelgor",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

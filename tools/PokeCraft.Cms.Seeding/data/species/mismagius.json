@@ -1,0 +1,27 @@
+﻿{
+  "Id": "2d0fe5a7-7783-4c0e-a76a-4c77138ddea4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mismagius",
+    "DisplayName": "Mismagius",
+    "Description": null,
+    "FieldValues": {
+      "Number": "429",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mismagius",
+      "DisplayName": "Mismagius",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

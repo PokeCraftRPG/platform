@@ -1,0 +1,41 @@
+﻿{
+  "Id": "abbc5e9c-d472-42fa-b274-6d2379ff19a9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "jolteon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c0bb2250-d907-4e1f-9120-002eadd41df7\"]",
+      "Height": "8",
+      "Weight": "245",
+      "YieldExperience": "184",
+      "PrimaryAbility": "[\"891096e9-f25f-4184-8941-fcc6d6dfd5e4\"]",
+      "HiddenAbility": "[\"69ed006e-469a-417a-824a-dd844d36ba47\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "110",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "130",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "jolteon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

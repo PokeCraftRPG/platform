@@ -1,0 +1,42 @@
+﻿{
+  "Id": "ae359e4c-ddad-4e0d-8a8a-2f3dcae91d71",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "maschiff",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c8b06360-5088-43e2-9115-e3bf61aa8005\"]",
+      "Height": "5",
+      "Weight": "160",
+      "YieldExperience": "68",
+      "PrimaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "SecondaryAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "HiddenAbility": "[\"df0d1b67-be4a-45c3-9aee-f183bc1e0edd\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "78",
+      "YieldAttack": "1",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "51",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "51",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "maschiff",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "7b4d72bb-4da7-4fac-8924-9882b4196192",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bibarel",
+    "DisplayName": "Bibarel",
+    "Description": null,
+    "FieldValues": {
+      "Number": "400",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "127",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bibarel",
+      "DisplayName": "Bibarel",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

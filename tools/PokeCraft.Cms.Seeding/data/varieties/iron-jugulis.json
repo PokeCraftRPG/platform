@@ -1,0 +1,25 @@
+﻿{
+  "Id": "3a043944-ea9b-4c3d-926b-e81d41c6a6bc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-jugulis",
+    "DisplayName": "Iron Jugulis",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"eecb2226-81e4-4a3e-a9dc-6f37877a690c\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-jugulis",
+      "DisplayName": "Iron Jugulis",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

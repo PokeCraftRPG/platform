@@ -1,0 +1,23 @@
+﻿{
+  "Id": "9943ca86-269b-4b84-b33f-98bcae38974b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "heart-swap",
+    "DisplayName": "Heart Swap",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "heart-swap",
+      "DisplayName": "Heart Swap",
+      "Description": "This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.",
+      "FieldValues": {}
+    }
+  }
+}

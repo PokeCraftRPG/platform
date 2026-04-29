@@ -1,0 +1,27 @@
+﻿{
+  "Id": "838c8d68-b46e-467b-a7bb-0906f27fac91",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zekrom",
+    "DisplayName": "Zekrom",
+    "Description": null,
+    "FieldValues": {
+      "Number": "644",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zekrom",
+      "DisplayName": "Zekrom",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

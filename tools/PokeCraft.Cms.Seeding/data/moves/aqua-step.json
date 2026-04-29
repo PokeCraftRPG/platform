@@ -1,0 +1,25 @@
+﻿{
+  "Id": "a58fcfd4-d374-42aa-ac1d-5adf225bcddc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aqua-step",
+    "DisplayName": "Aqua Step",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aqua-step",
+      "DisplayName": "Aqua Step",
+      "Description": "The user toys with the target and attacks it using light and fluid dance steps. This also boosts the user's Speed stat.",
+      "FieldValues": {}
+    }
+  }
+}

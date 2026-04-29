@@ -1,0 +1,26 @@
+﻿{
+  "Id": "22aaa09a-1427-48e0-a275-f9f3a4a943ce",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "frosmoth",
+    "DisplayName": "Frosmoth",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"bd993a67-e676-4602-a313-3c8bc7794bb6\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "frosmoth",
+      "DisplayName": "Frosmoth",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Frost Moth"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ab781487-f93d-4294-9119-3a381595cf21",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "marshadow",
+    "DisplayName": "Marshadow",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7f4a0815-749d-4c1e-8b82-a82505b78059\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "marshadow",
+      "DisplayName": "Marshadow",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Gloomdweller"
+      }
+    }
+  }
+}

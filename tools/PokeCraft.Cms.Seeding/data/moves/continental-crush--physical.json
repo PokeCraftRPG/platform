@@ -1,0 +1,23 @@
+﻿{
+  "Id": "e138be9f-0654-4c99-b6cd-cdcbe3797ada",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "continental-crush--physical",
+    "DisplayName": "Continental Crush",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Rock\"]",
+      "Category": "[\"Physical\"]",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "continental-crush--physical",
+      "DisplayName": "Continental Crush",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

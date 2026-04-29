@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6ca75441-4b38-4773-b73f-b3a8944f0451",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "roar-of-time",
+    "DisplayName": "Roar of Time",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "90",
+      "Power": "150",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "roar-of-time",
+      "DisplayName": "Roar of Time",
+      "Description": "The user blasts the target with power that distorts even time. The user can't move on the next turn.",
+      "FieldValues": {}
+    }
+  }
+}

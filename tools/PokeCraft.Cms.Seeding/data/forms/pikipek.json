@@ -1,0 +1,43 @@
+﻿{
+  "Id": "4ed2bdc4-791b-494a-b361-70089f658b8f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pikipek",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"917fe192-0991-4726-97ff-ed6c41ea9ced\"]",
+      "Height": "3",
+      "Weight": "12",
+      "YieldExperience": "53",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "SecondaryAbility": "[\"7b7f445f-0584-452d-ae34-0b472382a706\"]",
+      "HiddenAbility": "[\"071551b8-ee73-4742-85e8-264e82a49f57\"]",
+      "BaseHP": "35",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "1",
+      "BaseDefense": "30",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "30",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pikipek",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

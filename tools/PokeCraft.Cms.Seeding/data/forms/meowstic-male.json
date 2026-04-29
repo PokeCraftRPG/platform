@@ -1,0 +1,42 @@
+﻿{
+  "Id": "d5fe3fa2-cf90-47a0-a1c5-89620489803b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meowstic-male",
+    "DisplayName": "Male Meowstic",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5725cd7e-0ff7-4166-bec8-3886783aebb2\"]",
+      "Height": "6",
+      "Weight": "85",
+      "YieldExperience": "163",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "SecondaryAbility": "[\"0a9fa785-a966-4ed6-8ab9-a33aecd0847c\"]",
+      "HiddenAbility": "[\"84a30672-4ea5-4904-84fc-d04259c936a3\"]",
+      "BaseHP": "74",
+      "YieldHP": "0",
+      "BaseAttack": "48",
+      "YieldAttack": "0",
+      "BaseDefense": "76",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "83",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "81",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "104",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meowstic-male",
+      "DisplayName": "Male Meowstic",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

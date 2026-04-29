@@ -1,0 +1,25 @@
+﻿{
+  "Id": "28825c5d-6eb9-45d3-b13b-ffdd46f092b6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "frenzy-plant",
+    "DisplayName": "Frenzy Plant",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "90",
+      "Power": "150",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "frenzy-plant",
+      "DisplayName": "Frenzy Plant",
+      "Description": "The user slams the target with the roots of an enormous tree. The user can't move on the next turn.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "af08ec52-145a-478f-8cb5-ddf19285bcd9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dratini",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"16320a23-fcf4-45b7-9bbf-ea91da504fc7\"]",
+      "Height": "18",
+      "Weight": "33",
+      "YieldExperience": "60",
+      "PrimaryAbility": "[\"ce764204-79c4-4e66-8017-2144a4e66f3c\"]",
+      "HiddenAbility": "[\"5c5d8885-b852-4598-a3a0-80f5d03d71b8\"]",
+      "BaseHP": "41",
+      "YieldHP": "0",
+      "BaseAttack": "64",
+      "YieldAttack": "1",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dratini",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

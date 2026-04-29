@@ -1,0 +1,42 @@
+﻿{
+  "Id": "f2b7d864-0e81-4fc4-a49f-be01910a5286",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meowscarada",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"64d88143-a494-4cf0-adda-d2c7abcf2d23\"]",
+      "Height": "15",
+      "Weight": "312",
+      "YieldExperience": "265",
+      "PrimaryAbility": "[\"f635691a-6cf0-4a55-a848-a2183d487971\"]",
+      "HiddenAbility": "[\"65291225-4bca-4334-a235-9f7d9e09f7a2\"]",
+      "BaseHP": "76",
+      "YieldHP": "0",
+      "BaseAttack": "110",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "81",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "123",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meowscarada",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

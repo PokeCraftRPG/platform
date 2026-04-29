@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d906033f-2378-4b89-938f-83a23de4d3b9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "buizel",
+    "DisplayName": "Buizel",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f2d8e1cd-3dea-444c-bdab-b17ddda3f44b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "buizel",
+      "DisplayName": "Buizel",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sea Weasel"
+      }
+    }
+  }
+}

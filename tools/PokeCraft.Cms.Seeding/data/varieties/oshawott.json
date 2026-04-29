@@ -1,0 +1,26 @@
+﻿{
+  "Id": "dfa02ad9-3610-4907-898e-ed57d6782bfc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "oshawott",
+    "DisplayName": "Oshawott",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c5151c7e-a98d-4714-88e3-c1806127a72c\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "oshawott",
+      "DisplayName": "Oshawott",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sea Otter"
+      }
+    }
+  }
+}

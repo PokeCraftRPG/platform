@@ -1,0 +1,28 @@
+﻿{
+  "Id": "aa1df647-c2b3-4dfd-a4f7-58e87d1afc75",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drakloak",
+    "DisplayName": "Drakloak",
+    "Description": null,
+    "FieldValues": {
+      "Number": "886",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Amorphous\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drakloak",
+      "DisplayName": "Drakloak",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

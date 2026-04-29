@@ -1,0 +1,19 @@
+﻿{
+  "Id": "ded6e29e-ee40-4b93-b29f-6c4f592c79e8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "symbiosis",
+    "DisplayName": "Symbiosis",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "symbiosis",
+      "DisplayName": "Symbiosis",
+      "Description": "The Pokémon passes its held item to an ally that has used up an item.",
+      "FieldValues": {}
+    }
+  }
+}

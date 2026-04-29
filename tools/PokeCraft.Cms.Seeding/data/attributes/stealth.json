@@ -1,0 +1,19 @@
+﻿{
+  "Id": "fb30533a-34f8-4e14-9de6-9a8ad3112179",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stealth",
+    "DisplayName": "Stealth",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stealth",
+      "DisplayName": "Stealth",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

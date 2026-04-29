@@ -1,0 +1,25 @@
+﻿{
+  "Id": "fd755170-b14a-49c1-a79c-13e445ec84a4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lava-plume",
+    "DisplayName": "Lava Plume",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lava-plume",
+      "DisplayName": "Lava Plume",
+      "Description": "The user torches everything around it in an inferno of scarlet flames. This may also leave those it hits with a burn.",
+      "FieldValues": {}
+    }
+  }
+}

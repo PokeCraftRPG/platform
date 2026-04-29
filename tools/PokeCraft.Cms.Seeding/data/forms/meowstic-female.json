@@ -1,0 +1,42 @@
+﻿{
+  "Id": "e02114c4-f1b2-4b55-a154-933fd240c714",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meowstic-female",
+    "DisplayName": "Female Meowstic",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"869e838a-5c3b-45e3-95ee-667e357a2212\"]",
+      "Height": "6",
+      "Weight": "85",
+      "YieldExperience": "163",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "SecondaryAbility": "[\"0a9fa785-a966-4ed6-8ab9-a33aecd0847c\"]",
+      "HiddenAbility": "[\"2a7439f3-bce4-4614-9969-78ec2ce46f31\"]",
+      "BaseHP": "74",
+      "YieldHP": "0",
+      "BaseAttack": "48",
+      "YieldAttack": "0",
+      "BaseDefense": "76",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "83",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "81",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "104",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meowstic-female",
+      "DisplayName": "Female Meowstic",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

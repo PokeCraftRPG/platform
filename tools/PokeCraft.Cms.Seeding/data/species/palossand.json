@@ -1,0 +1,27 @@
+﻿{
+  "Id": "37fba65c-9a3c-44d8-ad95-9e043fd6b675",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "palossand",
+    "DisplayName": "Palossand",
+    "Description": null,
+    "FieldValues": {
+      "Number": "770",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "palossand",
+      "DisplayName": "Palossand",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

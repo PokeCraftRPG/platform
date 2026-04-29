@@ -1,0 +1,25 @@
+﻿{
+  "Id": "0e89073a-5d90-4d9f-91df-f8bf7735bc43",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lunatone",
+    "DisplayName": "Lunatone",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"37783ad8-9e72-4197-971b-30dbdacf07ae\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lunatone",
+      "DisplayName": "Lunatone",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Meteorite"
+      }
+    }
+  }
+}

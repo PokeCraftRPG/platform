@@ -1,0 +1,26 @@
+﻿{
+  "Id": "62a47160-3fce-4b18-b432-762a788c36b8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "golduck",
+    "DisplayName": "Golduck",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d4764f4a-3f5c-482e-b563-43379914bd82\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "golduck",
+      "DisplayName": "Golduck",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Duck"
+      }
+    }
+  }
+}

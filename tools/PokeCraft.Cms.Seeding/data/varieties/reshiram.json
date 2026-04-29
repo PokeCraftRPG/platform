@@ -1,0 +1,25 @@
+﻿{
+  "Id": "15982e5a-72a6-4b19-a794-bb3b538a24a2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "reshiram",
+    "DisplayName": "Reshiram",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"93c59fed-564e-4875-abf3-517f0a1457db\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "reshiram",
+      "DisplayName": "Reshiram",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Vast White"
+      }
+    }
+  }
+}

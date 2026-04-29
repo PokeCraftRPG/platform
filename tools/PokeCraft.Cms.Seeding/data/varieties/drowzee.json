@@ -1,0 +1,26 @@
+﻿{
+  "Id": "543c0a65-06a0-49ab-a59a-31125f777915",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drowzee",
+    "DisplayName": "Drowzee",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4e88d72c-5f2b-440f-a2ee-e7a93bc1d649\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drowzee",
+      "DisplayName": "Drowzee",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Hypnosis"
+      }
+    }
+  }
+}

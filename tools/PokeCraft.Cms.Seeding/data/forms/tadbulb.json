@@ -1,0 +1,42 @@
+﻿{
+  "Id": "e70152a2-ad11-4bab-8fd1-b6285da1fc34",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tadbulb",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6e89dfd4-d238-4592-8db2-951723896188\"]",
+      "Height": "3",
+      "Weight": "4",
+      "YieldExperience": "54",
+      "PrimaryAbility": "[\"1d2b3915-c19d-4017-baac-19e24cc4b20a\"]",
+      "SecondaryAbility": "[\"4d8cefa4-dbcc-4c78-b5f5-0a1c30bdb019\"]",
+      "HiddenAbility": "[\"ebbf0ce1-0fb1-42cd-81bf-091e737bbfd4\"]",
+      "BaseHP": "61",
+      "YieldHP": "1",
+      "BaseAttack": "31",
+      "YieldAttack": "0",
+      "BaseDefense": "41",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "59",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "35",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tadbulb",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

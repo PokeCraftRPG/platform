@@ -1,0 +1,25 @@
+﻿{
+  "Id": "2e5a87ee-9f28-4159-9561-aa2cfd931a63",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hex",
+    "DisplayName": "Hex",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "65",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hex",
+      "DisplayName": "Hex",
+      "Description": "This relentless attack does massive damage to a target affected by status conditions.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "64ca12a1-88b0-44e3-8066-673e9d20422d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drednaw",
+    "DisplayName": "Drednaw",
+    "Description": null,
+    "FieldValues": {
+      "Number": "834",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drednaw",
+      "DisplayName": "Drednaw",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

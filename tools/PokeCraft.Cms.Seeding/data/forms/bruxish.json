@@ -1,0 +1,43 @@
+﻿{
+  "Id": "5e9eea40-06d2-44eb-af5d-429d0cc2dc4e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bruxish",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"47cf8e8b-2f2f-42fd-aa45-dbec37f594c3\"]",
+      "Height": "9",
+      "Weight": "190",
+      "YieldExperience": "166",
+      "PrimaryAbility": "[\"d3bfffc8-c256-4389-a5d1-2a64c02d504c\"]",
+      "SecondaryAbility": "[\"fe62f3be-1b3d-461f-bb4c-963e988d426f\"]",
+      "HiddenAbility": "[\"f0c9ab67-3a27-4710-9c6c-d1ebe1d18d98\"]",
+      "BaseHP": "68",
+      "YieldHP": "0",
+      "BaseAttack": "105",
+      "YieldAttack": "2",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "92",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bruxish",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

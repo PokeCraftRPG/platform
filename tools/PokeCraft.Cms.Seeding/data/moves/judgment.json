@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c6f3ec66-b883-4278-a494-4559179e878a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "judgment",
+    "DisplayName": "Judgment",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "judgment",
+      "DisplayName": "Judgment",
+      "Description": "The user releases countless shots of light at the target. This move's type changes depending on the kind of plate held by the user.",
+      "FieldValues": {}
+    }
+  }
+}

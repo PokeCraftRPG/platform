@@ -1,0 +1,24 @@
+﻿{
+  "Id": "fcfb50f7-f98c-449f-8811-eded6c50c2c3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "feint-attack",
+    "DisplayName": "Feint Attack",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "60",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "feint-attack",
+      "DisplayName": "Feint Attack",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

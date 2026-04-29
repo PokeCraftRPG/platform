@@ -1,0 +1,42 @@
+﻿{
+  "Id": "f2be0784-ae8d-47b0-ad59-4c930fbfaf75",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dialga-origin",
+    "DisplayName": "Origin Dialga",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3eccfd69-fe87-4b4a-b20a-2c8e581c4435\"]",
+      "Height": "70",
+      "Weight": "8487",
+      "YieldExperience": "306",
+      "PrimaryAbility": "[\"04822c52-0ef2-4b5e-a4bb-176772f6c3d8\"]",
+      "HiddenAbility": "[\"f5863110-b5b9-4629-b95c-3869ed34433d\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "120",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "150",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "120",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dialga-origin",
+      "DisplayName": "Origin Dialga",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

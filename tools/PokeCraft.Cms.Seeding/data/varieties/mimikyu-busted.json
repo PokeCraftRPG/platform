@@ -1,0 +1,26 @@
+﻿{
+  "Id": "061e7944-2046-4ede-9b42-0db6351bcc5f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mimikyu-busted",
+    "DisplayName": "Mimikyu",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"06043777-a4fe-4878-85c8-59eadcccdd98\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mimikyu-busted",
+      "DisplayName": "Mimikyu",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Disguise"
+      }
+    }
+  }
+}

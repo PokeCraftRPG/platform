@@ -1,0 +1,43 @@
+﻿{
+  "Id": "0a291d52-5aea-4571-9d5d-634caf033da8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "litleo",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a7873759-d1ff-4a39-b52b-c2099213f679\"]",
+      "Height": "6",
+      "Weight": "135",
+      "YieldExperience": "74",
+      "PrimaryAbility": "[\"3bb432b8-b38c-4243-888c-20085e000f57\"]",
+      "SecondaryAbility": "[\"5cdb3b5f-b72c-4361-b715-922fc4cb31f9\"]",
+      "HiddenAbility": "[\"5ca88ad1-2039-4935-9e88-99d81c4bf372\"]",
+      "BaseHP": "62",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "58",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "73",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "54",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "72",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "litleo",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

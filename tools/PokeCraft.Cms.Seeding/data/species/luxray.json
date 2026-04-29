@@ -1,0 +1,27 @@
+﻿{
+  "Id": "7383c900-aec9-435b-a310-6ccca329e83c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "luxray",
+    "DisplayName": "Luxray",
+    "Description": null,
+    "FieldValues": {
+      "Number": "405",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "luxray",
+      "DisplayName": "Luxray",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

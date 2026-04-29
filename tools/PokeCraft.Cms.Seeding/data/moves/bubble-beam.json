@@ -1,0 +1,25 @@
+﻿{
+  "Id": "dc36075d-7d52-4e90-880f-e79235364800",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bubble-beam",
+    "DisplayName": "Bubble Beam",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "65",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bubble-beam",
+      "DisplayName": "Bubble Beam",
+      "Description": "A spray of bubbles is forcefully ejected at the target. This may also lower the target's Speed stat.",
+      "FieldValues": {}
+    }
+  }
+}

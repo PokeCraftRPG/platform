@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7ed9f4b0-dbaa-436f-a37b-f75a12409e17",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "medicham",
+    "DisplayName": "Medicham",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e3234798-c051-4abe-9af8-1a36fde4c458\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "medicham",
+      "DisplayName": "Medicham",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Meditate"
+      }
+    }
+  }
+}

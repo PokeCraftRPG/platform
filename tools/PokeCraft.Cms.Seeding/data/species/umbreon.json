@@ -1,0 +1,27 @@
+﻿{
+  "Id": "6bb0b100-614c-4346-ad82-86562e342f5c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "umbreon",
+    "DisplayName": "Umbreon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "197",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "35",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "umbreon",
+      "DisplayName": "Umbreon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

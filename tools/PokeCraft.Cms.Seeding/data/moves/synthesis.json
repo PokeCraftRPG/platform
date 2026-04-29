@@ -1,0 +1,23 @@
+﻿{
+  "Id": "2d2fc103-7e67-4801-b110-09ed561f15bf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "synthesis",
+    "DisplayName": "Synthesis",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "synthesis",
+      "DisplayName": "Synthesis",
+      "Description": "The user restores its own HP. The amount of HP regained varies with the weather.",
+      "FieldValues": {}
+    }
+  }
+}

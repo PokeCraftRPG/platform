@@ -1,0 +1,25 @@
+﻿{
+  "Id": "dc108e86-3408-4cb3-b8c4-ab5ef07cb1d8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "breaking-swipe",
+    "DisplayName": "Breaking Swipe",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "breaking-swipe",
+      "DisplayName": "Breaking Swipe",
+      "Description": "The user swings its tough tail wildly and attacks opposing Pokémon. This also lowers their Attack stats.",
+      "FieldValues": {}
+    }
+  }
+}

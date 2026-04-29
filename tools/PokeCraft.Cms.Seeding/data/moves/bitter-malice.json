@@ -1,0 +1,25 @@
+﻿{
+  "Id": "021f62b4-f5da-4290-926b-1e9d94fe3e71",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bitter-malice",
+    "DisplayName": "Bitter Malice",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "75",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bitter-malice",
+      "DisplayName": "Bitter Malice",
+      "Description": "The user attacks the target with spine-chilling resentment. This also lowers the target’s Attack stat.",
+      "FieldValues": {}
+    }
+  }
+}

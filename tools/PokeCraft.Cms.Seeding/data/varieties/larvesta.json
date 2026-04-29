@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f5b7e4d8-f5ff-4e68-b7e6-acbf011498ba",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "larvesta",
+    "DisplayName": "Larvesta",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"177cb180-8a7c-4a28-9adf-06a5b92e7b7a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "larvesta",
+      "DisplayName": "Larvesta",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Torch"
+      }
+    }
+  }
+}

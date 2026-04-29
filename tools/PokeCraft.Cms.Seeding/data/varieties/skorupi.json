@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7436923b-9552-4d9a-bb03-d416f9b314f0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skorupi",
+    "DisplayName": "Skorupi",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5dcdf00d-96e4-4b6b-8dbb-2ef27ed9e311\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skorupi",
+      "DisplayName": "Skorupi",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Scorpion"
+      }
+    }
+  }
+}

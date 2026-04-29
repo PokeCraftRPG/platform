@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ee040233-3c8d-4c15-b23a-97e519e8f9b1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "brute-bonnet",
+    "DisplayName": "Brute Bonnet",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b66854ab-144c-4bb2-a06b-7004e0b1c4f6\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "brute-bonnet",
+      "DisplayName": "Brute Bonnet",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

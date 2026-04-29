@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ddac6439-4d02-402e-af1e-55a05d7b1904",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "exeggutor",
+    "DisplayName": "Exeggutor",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d7873694-d8c8-4968-945d-177e7a34d528\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "exeggutor",
+      "DisplayName": "Exeggutor",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Coconut"
+      }
+    }
+  }
+}

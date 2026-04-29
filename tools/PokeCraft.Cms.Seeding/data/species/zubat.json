@@ -1,0 +1,27 @@
+﻿{
+  "Id": "4c0c13e5-bde8-4af9-83d3-f9a6d13a62a8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zubat",
+    "DisplayName": "Zubat",
+    "Description": null,
+    "FieldValues": {
+      "Number": "41",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zubat",
+      "DisplayName": "Zubat",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

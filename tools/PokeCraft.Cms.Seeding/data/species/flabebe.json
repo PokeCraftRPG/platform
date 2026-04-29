@@ -1,0 +1,27 @@
+﻿{
+  "Id": "bc0bb618-f04e-4ab2-8cfc-9b0afd286da6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flabebe",
+    "DisplayName": "Flabébé",
+    "Description": null,
+    "FieldValues": {
+      "Number": "669",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "225",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flabebe",
+      "DisplayName": "Flabébé",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "20aac082-e400-4d63-b9aa-27f47bfb00bb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "xatu",
+    "DisplayName": "Xatu",
+    "Description": null,
+    "FieldValues": {
+      "Number": "178",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "xatu",
+      "DisplayName": "Xatu",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

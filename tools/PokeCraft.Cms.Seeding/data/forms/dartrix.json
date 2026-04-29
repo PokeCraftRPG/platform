@@ -1,0 +1,42 @@
+﻿{
+  "Id": "7c20eb74-853e-477e-aa2b-071cf7000764",
+  "Invariant": {
+    "IsPublished": true,
+    "UniqueName": "dartrix",
+    "DisplayName": "Dartrix",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3a9879b6-94bb-4239-bd14-fabe8e754095\"]",
+      "Height": "7",
+      "Weight": "160",
+      "YieldExperience": "147",
+      "PrimaryAbility": "[\"f635691a-6cf0-4a55-a848-a2183d487971\"]",
+      "HiddenAbility": "[\"643fdf0d-d55d-4626-9ea6-29a486413853\"]",
+      "BaseHP": "78",
+      "YieldHP": "2",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "52",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": true,
+      "UniqueName": "dartrix",
+      "DisplayName": "Dartrix",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

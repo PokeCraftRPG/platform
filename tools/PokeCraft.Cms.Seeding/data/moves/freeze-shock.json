@@ -1,0 +1,25 @@
+﻿{
+  "Id": "2b643094-270e-49df-8980-7a0ac5f502af",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "freeze-shock",
+    "DisplayName": "Freeze Shock",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "140",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "freeze-shock",
+      "DisplayName": "Freeze Shock",
+      "Description": "The turn after using this move, the user hits the target with electrically charged ice to inflict damage. This may also leave the target with paralysis.",
+      "FieldValues": {}
+    }
+  }
+}

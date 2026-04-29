@@ -1,0 +1,42 @@
+﻿{
+  "Id": "adb5ded5-7c7f-426d-9bc3-947bae45ad6b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cetitan",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f50e4f9e-f5c0-4599-9a9f-0e63e8d6db64\"]",
+      "Height": "45",
+      "Weight": "7000",
+      "YieldExperience": "182",
+      "PrimaryAbility": "[\"d6fa994e-7a48-48b5-9f1f-c1b84dd3225f\"]",
+      "SecondaryAbility": "[\"1529f289-3c54-49ef-a5b7-924ae1f92aa8\"]",
+      "HiddenAbility": "[\"ef348627-bea1-4c87-9bf1-417ed3b66855\"]",
+      "BaseHP": "170",
+      "YieldHP": "2",
+      "BaseAttack": "113",
+      "YieldAttack": "0",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "73",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cetitan",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

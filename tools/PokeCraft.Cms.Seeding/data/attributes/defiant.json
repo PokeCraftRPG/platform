@@ -1,0 +1,19 @@
+﻿{
+  "Id": "493ac234-5dd4-4767-9e41-8ec4cd322437",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "defiant",
+    "DisplayName": "Defiant",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "defiant",
+      "DisplayName": "Defiant",
+      "Description": "If the Pokémon has any stat lowered by an opposing Pokémon, its Attack stat will be boosted sharply.",
+      "FieldValues": {}
+    }
+  }
+}

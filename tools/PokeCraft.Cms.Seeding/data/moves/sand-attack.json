@@ -1,0 +1,24 @@
+﻿{
+  "Id": "7b713d6a-5770-4dca-9439-a9387a5f8199",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sand-attack",
+    "DisplayName": "Sand Attack",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sand-attack",
+      "DisplayName": "Sand Attack",
+      "Description": "Sand is hurled in the target's face, lowering the target's accuracy.",
+      "FieldValues": {}
+    }
+  }
+}

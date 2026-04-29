@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3c25079f-6791-4bb0-862b-8132227598e3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spinda",
+    "DisplayName": "Spinda",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3b36bf52-48cd-474f-930d-0975b0254df8\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spinda",
+      "DisplayName": "Spinda",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Spot Panda"
+      }
+    }
+  }
+}

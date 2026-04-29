@@ -1,0 +1,19 @@
+﻿{
+  "Id": "f1619484-cf62-4314-a26f-a79e00b5720f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "serene-grace",
+    "DisplayName": "Serene Grace",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "serene-grace",
+      "DisplayName": "Serene Grace",
+      "Description": "Raises the likelihood of additional effects occurring when the Pokémon uses its moves.",
+      "FieldValues": {}
+    }
+  }
+}

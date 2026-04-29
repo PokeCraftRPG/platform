@@ -1,0 +1,28 @@
+﻿{
+  "Id": "999c79ea-2403-42cc-8288-93daf627beb9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "treecko",
+    "DisplayName": "Treecko",
+    "Description": null,
+    "FieldValues": {
+      "Number": "252",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "treecko",
+      "DisplayName": "Treecko",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

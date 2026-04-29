@@ -1,0 +1,19 @@
+﻿{
+  "Id": "1aa971bf-bdc5-4fdb-99c9-ac99aa8a572e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rks-system",
+    "DisplayName": "RKS System",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rks-system",
+      "DisplayName": "RKS System",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

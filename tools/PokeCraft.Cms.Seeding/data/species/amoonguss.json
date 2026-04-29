@@ -1,0 +1,27 @@
+﻿{
+  "Id": "33594a4f-9a23-4496-a5a8-e1ef52521370",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "amoonguss",
+    "DisplayName": "Amoonguss",
+    "Description": null,
+    "FieldValues": {
+      "Number": "591",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "amoonguss",
+      "DisplayName": "Amoonguss",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

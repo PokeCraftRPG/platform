@@ -1,0 +1,26 @@
+﻿{
+  "Id": "859436b1-25fa-4784-8725-e8168e6671a8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "purugly",
+    "DisplayName": "Purugly",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a8ed4233-baa0-4ba5-8e57-1f4a00c7f7ac\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "purugly",
+      "DisplayName": "Purugly",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tiger Cat"
+      }
+    }
+  }
+}

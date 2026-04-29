@@ -1,0 +1,27 @@
+﻿{
+  "Id": "25da5de3-92b8-4426-a214-236fc0a5e282",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dhelmise",
+    "DisplayName": "Dhelmise",
+    "Description": null,
+    "FieldValues": {
+      "Number": "781",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "25",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dhelmise",
+      "DisplayName": "Dhelmise",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

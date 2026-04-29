@@ -1,0 +1,28 @@
+﻿{
+  "Id": "37ca7051-d8a8-42fa-ba26-53237375115e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "venusaur",
+    "DisplayName": "Venusaur",
+    "Description": null,
+    "FieldValues": {
+      "Number": "3",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "venusaur",
+      "DisplayName": "Venusaur",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

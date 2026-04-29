@@ -1,0 +1,40 @@
+﻿{
+  "Id": "bde1bf4c-213b-4049-90d6-ddff697a0782",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "castform-snowy",
+    "DisplayName": "Snowy Castform",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f66ed6f1-336a-4b52-ba85-4b016cc76c41\"]",
+      "Height": "3",
+      "Weight": "8",
+      "YieldExperience": "147",
+      "PrimaryAbility": "[\"7fe7cc68-1824-4102-8424-454921c8de9b\"]",
+      "BaseHP": "70",
+      "YieldHP": "1",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "castform-snowy",
+      "DisplayName": "Snowy Castform",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

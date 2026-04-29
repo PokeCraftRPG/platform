@@ -1,0 +1,27 @@
+﻿{
+  "Id": "fc8f3c1c-2244-41cb-9cae-eb5ed056f185",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hattrem",
+    "DisplayName": "Hattrem",
+    "Description": null,
+    "FieldValues": {
+      "Number": "857",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "120",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hattrem",
+      "DisplayName": "Hattrem",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "5164fd43-bbf0-4b8e-9d0f-0cf4de841711",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "freeze-dry",
+    "DisplayName": "Freeze-Dry",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "70",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "freeze-dry",
+      "DisplayName": "Freeze-Dry",
+      "Description": "The user rapidly cools the target. This may also leave the target frozen. This move is super effective on Water types.",
+      "FieldValues": {}
+    }
+  }
+}

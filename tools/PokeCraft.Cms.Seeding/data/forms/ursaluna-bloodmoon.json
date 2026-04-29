@@ -1,0 +1,41 @@
+﻿{
+  "Id": "83742cb3-05c7-456e-9e2c-093a9f6ba67f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ursaluna-bloodmoon",
+    "DisplayName": "Bloodmoon Ursaluna",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"004a6fc8-4232-4e54-880d-162590311dda\"]",
+      "Height": "24",
+      "Weight": "2900",
+      "YieldExperience": "275",
+      "PrimaryAbility": "[\"53204dd0-af72-41cd-86fa-bfd8003aca9b\"]",
+      "BaseHP": "113",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "3",
+      "BaseDefense": "120",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "135",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "52",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ursaluna-bloodmoon",
+      "DisplayName": "Bloodmoon Ursaluna",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

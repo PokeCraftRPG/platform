@@ -1,0 +1,27 @@
+﻿{
+  "Id": "31d1115f-2d38-49d3-baa3-c089815d22f9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "beautifly",
+    "DisplayName": "Beautifly",
+    "Description": null,
+    "FieldValues": {
+      "Number": "267",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "beautifly",
+      "DisplayName": "Beautifly",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

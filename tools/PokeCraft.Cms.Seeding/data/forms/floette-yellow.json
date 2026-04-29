@@ -1,0 +1,41 @@
+﻿{
+  "Id": "f9898b2a-798d-432f-9f90-7a6273b47ac2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "floette-yellow",
+    "DisplayName": "Yellow Floette",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b640b9b1-439b-4633-8892-40e2837ea79a\"]",
+      "Height": "2",
+      "Weight": "9",
+      "YieldExperience": "130",
+      "PrimaryAbility": "[\"d1629cad-fb04-4b50-b39b-929078b3316a\"]",
+      "HiddenAbility": "[\"ded6e29e-ee40-4b93-b29f-6c4f592c79e8\"]",
+      "BaseHP": "54",
+      "YieldHP": "0",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "47",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "98",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "52",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Alternative\"]",
+      "PrimaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "floette-yellow",
+      "DisplayName": "Yellow Floette",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

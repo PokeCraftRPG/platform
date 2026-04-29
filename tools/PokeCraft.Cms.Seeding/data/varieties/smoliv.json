@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d54f962b-9903-49f8-9128-0b4d17188a4a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "smoliv",
+    "DisplayName": "Smoliv",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e7f01c40-2265-411c-9704-d8a1a1616d08\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "smoliv",
+      "DisplayName": "Smoliv",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Olive"
+      }
+    }
+  }
+}

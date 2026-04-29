@@ -1,0 +1,43 @@
+﻿{
+  "Id": "08d1f1db-8e5f-4b4f-b84c-5d9a889f6498",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bombirdier",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"60557f92-3995-42f4-a862-cf85c9e95d60\"]",
+      "Height": "15",
+      "Weight": "429",
+      "YieldExperience": "243",
+      "PrimaryAbility": "[\"15e51a3f-bb28-4ca8-abdf-27130d9930b4\"]",
+      "SecondaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "HiddenAbility": "[\"e71f7001-43a5-4f6f-9a3c-8c6c614952ce\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "103",
+      "YieldAttack": "2",
+      "BaseDefense": "85",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "82",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Flying\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bombirdier",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

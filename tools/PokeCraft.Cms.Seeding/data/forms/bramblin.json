@@ -1,0 +1,42 @@
+﻿{
+  "Id": "e20d08a8-e3e4-4d3d-8691-d9cee819443a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bramblin",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"91a1320a-dafb-4e2a-82e0-87b6760e8d2b\"]",
+      "Height": "6",
+      "Weight": "6",
+      "YieldExperience": "55",
+      "PrimaryAbility": "[\"f440465e-0c15-46e4-9b0b-85aa434439e3\"]",
+      "HiddenAbility": "[\"0a9fa785-a966-4ed6-8ab9-a33aecd0847c\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "1",
+      "BaseDefense": "30",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "35",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bramblin",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

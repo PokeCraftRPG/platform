@@ -1,0 +1,19 @@
+﻿{
+  "Id": "a85f9380-d6a7-493b-87a0-e2395eea7608",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stance-change",
+    "DisplayName": "Stance Change",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stance-change",
+      "DisplayName": "Stance Change",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "6661652b-9650-4d14-8513-7d22a3eb3f48",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cacnea",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"807e3708-b20b-4cce-94ce-f88f931a67a5\"]",
+      "Height": "4",
+      "Weight": "513",
+      "YieldExperience": "67",
+      "PrimaryAbility": "[\"2298dae8-5c1f-423f-960d-8cf61b19c897\"]",
+      "HiddenAbility": "[\"ce06d228-a509-444d-ab16-f046f2519e89\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cacnea",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

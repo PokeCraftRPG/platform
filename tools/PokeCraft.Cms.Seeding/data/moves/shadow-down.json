@@ -1,0 +1,22 @@
+﻿{
+  "Id": "9bbc6353-19ae-4ba8-9856-12bb4d0cb254",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shadow-down",
+    "DisplayName": "Shadow Down",
+    "Description": null,
+    "FieldValues": {
+      "Category": "[\"Status\"]",
+      "Accuracy": "100"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shadow-down",
+      "DisplayName": "Shadow Down",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "f5fd746b-4285-427b-ab75-928d416a5c85",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "synchronize",
+    "DisplayName": "Synchronize",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "synchronize",
+      "DisplayName": "Synchronize",
+      "Description": "If the Pokémon is burned, paralyzed, or poisoned by another Pokémon, that Pokémon will be inflicted with the same status condition.",
+      "FieldValues": {}
+    }
+  }
+}

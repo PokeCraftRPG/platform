@@ -1,0 +1,25 @@
+﻿{
+  "Id": "de1c12f4-65df-4cb1-9f16-5b87b2de3d2b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lands-wrath",
+    "DisplayName": "Land’s Wrath",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lands-wrath",
+      "DisplayName": "Land’s Wrath",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

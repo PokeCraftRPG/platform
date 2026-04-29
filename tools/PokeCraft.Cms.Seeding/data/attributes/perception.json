@@ -1,0 +1,19 @@
+﻿{
+  "Id": "87af5228-0778-4106-bd95-22d505a7198b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "perception",
+    "DisplayName": "Perception",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "perception",
+      "DisplayName": "Perception",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

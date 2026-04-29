@@ -1,0 +1,27 @@
+﻿{
+  "Id": "bb5c926a-5f5a-47c7-84df-540f4f1ec5bd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rockruff",
+    "DisplayName": "Rockruff",
+    "Description": null,
+    "FieldValues": {
+      "Number": "744",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rockruff",
+      "DisplayName": "Rockruff",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "342b4a0b-5ef7-4034-b3d8-08f5283bdf1b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "salazzle",
+    "DisplayName": "Salazzle",
+    "Description": null,
+    "FieldValues": {
+      "Number": "758",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "salazzle",
+      "DisplayName": "Salazzle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

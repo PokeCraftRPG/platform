@@ -1,0 +1,40 @@
+﻿{
+  "Id": "d85d5c6d-7061-4b07-82c8-35a27a708bc5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clefable-mega",
+    "DisplayName": "Mega Clefable",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0accdfbe-a018-47d9-8c0f-59ffb40777df\"]",
+      "Height": "17",
+      "Weight": "423",
+      "PrimaryAbility": "[\"67f51e12-608d-4075-9293-523b122271f5\"]",
+      "BaseHP": "95",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "93",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "135",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "110",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Fairy\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clefable-mega",
+      "DisplayName": "Mega Clefable",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "d724fdd9-3db1-4a76-8de7-aa696033fa20",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "leaf-guard",
+    "DisplayName": "Leaf Guard",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "leaf-guard",
+      "DisplayName": "Leaf Guard",
+      "Description": "Prevents status conditions in harsh sunlight.",
+      "FieldValues": {}
+    }
+  }
+}

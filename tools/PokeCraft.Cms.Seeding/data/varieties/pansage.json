@@ -1,0 +1,26 @@
+﻿{
+  "Id": "2c339bd6-3f3d-465d-890f-1fcbd2f0d0f6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pansage",
+    "DisplayName": "Pansage",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c7fc0f66-d4b3-439f-adc3-45ea9eada606\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pansage",
+      "DisplayName": "Pansage",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Grass Monkey"
+      }
+    }
+  }
+}

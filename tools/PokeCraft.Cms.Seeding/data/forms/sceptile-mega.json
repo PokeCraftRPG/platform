@@ -1,0 +1,41 @@
+﻿{
+  "Id": "c060cf02-d55c-413a-a5f3-e015d96e1fcf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sceptile-mega",
+    "DisplayName": "Mega Sceptile",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e6f957c0-2641-49cd-bf25-0a31c0bf4094\"]",
+      "Height": "19",
+      "Weight": "552",
+      "YieldExperience": "284",
+      "PrimaryAbility": "[\"98bb9191-1993-4224-8922-4a4d13f534a5\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "110",
+      "YieldAttack": "0",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "145",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "145",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sceptile-mega",
+      "DisplayName": "Mega Sceptile",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

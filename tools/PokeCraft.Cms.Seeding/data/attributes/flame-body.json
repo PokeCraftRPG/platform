@@ -1,0 +1,19 @@
+﻿{
+  "Id": "61541bb6-568e-4dd0-b07a-56233b9fe96f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flame-body",
+    "DisplayName": "Flame Body",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flame-body",
+      "DisplayName": "Flame Body",
+      "Description": "Contact with the Pokémon may burn the attacker.",
+      "FieldValues": {}
+    }
+  }
+}

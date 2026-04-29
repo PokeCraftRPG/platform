@@ -1,0 +1,23 @@
+﻿{
+  "Id": "69c8ed75-b409-4d55-8dc0-ce818aaf479c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "twinkle-tackle--physical",
+    "DisplayName": "Twinkle Tackle",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Physical\"]",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "twinkle-tackle--physical",
+      "DisplayName": "Twinkle Tackle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

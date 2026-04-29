@@ -1,0 +1,41 @@
+﻿{
+  "Id": "4651113f-8601-4d39-bfcf-b4efec8407fd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "minior-violet-meteor",
+    "DisplayName": "Violet Meteor Minior",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9d0dc8a3-51dc-40c9-b085-a6c7c114e1e6\"]",
+      "Height": "3",
+      "Weight": "400",
+      "YieldExperience": "154",
+      "PrimaryAbility": "[\"a521c824-65bf-45af-b621-33901339def9\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "minior-violet-meteor",
+      "DisplayName": "Violet Meteor Minior",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

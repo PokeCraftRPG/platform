@@ -1,0 +1,40 @@
+﻿{
+  "Id": "0ee9da98-e7e1-4c1f-b548-724def4fb5e8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "greninja-mega",
+    "DisplayName": "Mega Greninja",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ecb2e893-8a9a-4ae5-8684-d707cc6c05ad\"]",
+      "Height": "15",
+      "Weight": "400",
+      "PrimaryAbility": "[\"65291225-4bca-4334-a235-9f7d9e09f7a2\"]",
+      "BaseHP": "72",
+      "YieldHP": "0",
+      "BaseAttack": "125",
+      "YieldAttack": "0",
+      "BaseDefense": "77",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "133",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "81",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "142",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "greninja-mega",
+      "DisplayName": "Mega Greninja",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

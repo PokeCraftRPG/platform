@@ -1,0 +1,43 @@
+﻿{
+  "Id": "c7254f1f-5e43-466e-ac95-0ee045fb0c86",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "venipede",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"998490d1-57bc-4ba5-a139-5b71c250079e\"]",
+      "Height": "4",
+      "Weight": "53",
+      "YieldExperience": "52",
+      "PrimaryAbility": "[\"2f1ed275-bfaf-494d-8d85-c48aee736e43\"]",
+      "SecondaryAbility": "[\"ba1b3a50-acc0-4032-bf14-6572fa26daed\"]",
+      "HiddenAbility": "[\"c34cae01-916e-44ec-8e58-1cc63029592f\"]",
+      "BaseHP": "30",
+      "YieldHP": "0",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "59",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "39",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "57",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "venipede",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

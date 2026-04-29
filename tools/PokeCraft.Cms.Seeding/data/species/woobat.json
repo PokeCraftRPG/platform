@@ -1,0 +1,28 @@
+﻿{
+  "Id": "e14f9372-0acc-4be4-843d-b04081032979",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "woobat",
+    "DisplayName": "Woobat",
+    "Description": null,
+    "FieldValues": {
+      "Number": "527",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "woobat",
+      "DisplayName": "Woobat",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

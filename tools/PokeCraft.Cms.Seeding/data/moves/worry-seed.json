@@ -1,0 +1,24 @@
+﻿{
+  "Id": "a1a3a2c4-d5c4-4398-b4a5-6a52a7ae7939",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "worry-seed",
+    "DisplayName": "Worry Seed",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "worry-seed",
+      "DisplayName": "Worry Seed",
+      "Description": "A seed that causes worry is planted on the target. It prevents sleep by making the target's Ability Insomnia.",
+      "FieldValues": {}
+    }
+  }
+}

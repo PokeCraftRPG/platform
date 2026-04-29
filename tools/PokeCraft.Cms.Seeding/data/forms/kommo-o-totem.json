@@ -1,0 +1,43 @@
+﻿{
+  "Id": "479ebc55-fe4c-473c-9bab-0e578329c46e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kommo-o-totem",
+    "DisplayName": "Totem Kommo-o",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6ce6ee56-a034-4da6-9572-21cecd54b2f8\"]",
+      "Height": "24",
+      "Weight": "2075",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"95f8b622-ee64-42b7-be19-313365f588d5\"]",
+      "SecondaryAbility": "[\"6df60939-ffd8-4ddb-ad1e-f4add0129eeb\"]",
+      "HiddenAbility": "[\"ecf92884-7c23-4d13-9d9a-1a687fe3f447\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "110",
+      "YieldAttack": "0",
+      "BaseDefense": "125",
+      "YieldDefense": "3",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "105",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kommo-o-totem",
+      "DisplayName": "Totem Kommo-o",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

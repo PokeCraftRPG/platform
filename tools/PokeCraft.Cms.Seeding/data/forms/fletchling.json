@@ -1,0 +1,42 @@
+﻿{
+  "Id": "5363815b-7823-44ff-8b24-96d6a8805466",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fletchling",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c927de6e-c2ca-4675-8633-d361582373e5\"]",
+      "Height": "3",
+      "Weight": "17",
+      "YieldExperience": "56",
+      "PrimaryAbility": "[\"15e51a3f-bb28-4ca8-abdf-27130d9930b4\"]",
+      "HiddenAbility": "[\"91394e9f-f713-485c-99df-ac2c53f6a954\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "43",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "38",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "62",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fletchling",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

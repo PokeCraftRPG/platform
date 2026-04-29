@@ -1,0 +1,26 @@
+﻿{
+  "Id": "be9247db-5e52-4591-b3c6-27452075ac42",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ludicolo",
+    "DisplayName": "Ludicolo",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c8c0f415-70fa-4491-9189-5a5aa3efbf7b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ludicolo",
+      "DisplayName": "Ludicolo",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Carefree"
+      }
+    }
+  }
+}

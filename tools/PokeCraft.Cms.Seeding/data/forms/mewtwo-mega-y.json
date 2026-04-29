@@ -1,0 +1,40 @@
+﻿{
+  "Id": "05d6c59e-d71c-4bbc-9e6c-fbfb947b014c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mewtwo-mega-y",
+    "DisplayName": "Mega Mewtwo Y",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"66c5d1e6-f29f-4ac2-9475-ab7b167dcd21\"]",
+      "Height": "15",
+      "Weight": "330",
+      "YieldExperience": "351",
+      "PrimaryAbility": "[\"74551570-259c-470c-a9ba-64ffd0e3afad\"]",
+      "BaseHP": "106",
+      "YieldHP": "0",
+      "BaseAttack": "150",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "194",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "120",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "140",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mewtwo-mega-y",
+      "DisplayName": "Mega Mewtwo Y",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

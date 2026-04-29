@@ -1,0 +1,23 @@
+﻿{
+  "Id": "3cb17bc6-b3d3-4215-b306-9b8dc6328a72",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sandstorm",
+    "DisplayName": "Sandstorm",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Rock\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sandstorm",
+      "DisplayName": "Sandstorm",
+      "Description": "A five-turn sandstorm is summoned to damage all Pokémon except Rock, Ground, and Steel types. The sandstorm also boosts the Sp. Def stats of Rock types.",
+      "FieldValues": {}
+    }
+  }
+}

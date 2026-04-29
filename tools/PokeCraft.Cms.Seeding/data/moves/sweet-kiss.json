@@ -1,0 +1,24 @@
+﻿{
+  "Id": "d6827268-51cb-4997-a513-261ea757c21e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sweet-kiss",
+    "DisplayName": "Sweet Kiss",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "75",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sweet-kiss",
+      "DisplayName": "Sweet Kiss",
+      "Description": "The user kisses the target with a sweet, angelic cuteness that causes confusion.",
+      "FieldValues": {}
+    }
+  }
+}

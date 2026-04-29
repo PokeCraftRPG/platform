@@ -1,0 +1,27 @@
+﻿{
+  "Id": "dca0c1d7-3377-4d5d-a1d4-121a67f1b73a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tynamo",
+    "DisplayName": "Tynamo",
+    "Description": null,
+    "FieldValues": {
+      "Number": "602",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tynamo",
+      "DisplayName": "Tynamo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

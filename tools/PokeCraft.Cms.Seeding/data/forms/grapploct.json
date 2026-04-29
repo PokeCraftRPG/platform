@@ -1,0 +1,41 @@
+﻿{
+  "Id": "3af5c7b4-6369-4530-9564-2776c6b63d47",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grapploct",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a33fff97-dba2-492d-a671-0e0b2659d2b7\"]",
+      "Height": "16",
+      "Weight": "390",
+      "YieldExperience": "168",
+      "PrimaryAbility": "[\"170e2598-7fd5-497f-9003-f9d753aadd0d\"]",
+      "HiddenAbility": "[\"d20432c3-18d0-4160-a3f1-a363c9e6633d\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "118",
+      "YieldAttack": "2",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "42",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grapploct",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

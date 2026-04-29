@@ -1,0 +1,42 @@
+﻿{
+  "Id": "36f11db2-aace-4277-9739-eda4896c6eb1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "palossand",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"145d458d-3707-4215-bde5-30fd552a996c\"]",
+      "Height": "13",
+      "Weight": "2500",
+      "YieldExperience": "168",
+      "PrimaryAbility": "[\"e314c045-070d-4856-afd9-0bece2bd1b8a\"]",
+      "HiddenAbility": "[\"2298dae8-5c1f-423f-960d-8cf61b19c897\"]",
+      "BaseHP": "85",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "110",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "palossand",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

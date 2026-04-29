@@ -1,0 +1,39 @@
+﻿{
+  "Id": "953214a0-20bb-4053-9058-d1cce60f6679",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "heatran-mega",
+    "DisplayName": "Mega Heatran",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d6397044-0c11-459e-8b40-486fb6f5c0ef\"]",
+      "Height": "28",
+      "Weight": "5700",
+      "BaseHP": "91",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "0",
+      "BaseDefense": "106",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "175",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "141",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "67",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "heatran-mega",
+      "DisplayName": "Mega Heatran",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

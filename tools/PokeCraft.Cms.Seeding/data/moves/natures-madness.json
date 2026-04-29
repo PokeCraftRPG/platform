@@ -1,0 +1,24 @@
+﻿{
+  "Id": "8dd66cb5-818b-46f5-b261-20fa16d1ac4e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "natures-madness",
+    "DisplayName": "Nature’s Madness",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "natures-madness",
+      "DisplayName": "Nature’s Madness",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

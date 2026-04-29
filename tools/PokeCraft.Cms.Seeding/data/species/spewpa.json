@@ -1,0 +1,27 @@
+﻿{
+  "Id": "11ba9554-4cfa-45e3-a16b-b567d45d24ff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spewpa",
+    "DisplayName": "Spewpa",
+    "Description": null,
+    "FieldValues": {
+      "Number": "665",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spewpa",
+      "DisplayName": "Spewpa",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

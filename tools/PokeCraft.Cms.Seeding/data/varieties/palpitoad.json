@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b989d10c-ec60-484e-9bf2-f04f008003e6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "palpitoad",
+    "DisplayName": "Palpitoad",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b5a32f1d-021e-4c88-a827-c87026c25818\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "palpitoad",
+      "DisplayName": "Palpitoad",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Vibration"
+      }
+    }
+  }
+}

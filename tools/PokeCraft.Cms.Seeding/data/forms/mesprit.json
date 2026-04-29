@@ -1,0 +1,40 @@
+﻿{
+  "Id": "bb237475-8b38-436a-bb7c-2a76e2de450a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mesprit",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1d7a9a8f-bfda-4a22-8077-a1c74ff67deb\"]",
+      "Height": "3",
+      "Weight": "3",
+      "YieldExperience": "261",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "105",
+      "YieldAttack": "1",
+      "BaseDefense": "105",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "105",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "105",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mesprit",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

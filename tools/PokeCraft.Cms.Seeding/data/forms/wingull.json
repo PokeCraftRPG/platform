@@ -1,0 +1,43 @@
+﻿{
+  "Id": "dcb52591-5229-464b-86df-be886b103d6d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wingull",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f5679773-f0a3-42c5-8d2f-979c3b691f5f\"]",
+      "Height": "6",
+      "Weight": "95",
+      "YieldExperience": "54",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "SecondaryAbility": "[\"14243d95-6028-489e-acf7-18592c5695c2\"]",
+      "HiddenAbility": "[\"0c002ec7-830d-47a9-aae3-7ba687eddf3b\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "30",
+      "YieldAttack": "0",
+      "BaseDefense": "30",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "30",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "85",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wingull",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "b2b755b3-0adf-42d8-83fe-27c72682b565",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "electrode-hisui",
+    "DisplayName": "Hisuian Electrode",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"30bc26b0-d16a-4934-aaf8-34fd1d62c346\"]",
+      "Height": "12",
+      "Weight": "710",
+      "YieldExperience": "172",
+      "PrimaryAbility": "[\"6df60939-ffd8-4ddb-ad1e-f4add0129eeb\"]",
+      "SecondaryAbility": "[\"4d8cefa4-dbcc-4c78-b5f5-0a1c30bdb019\"]",
+      "HiddenAbility": "[\"553c341c-debe-46e1-809e-34544a36ee63\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "150",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "electrode-hisui",
+      "DisplayName": "Hisuian Electrode",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c00056d3-4e2c-4291-aa4c-fdd4ade0a61c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tarountula",
+    "DisplayName": "Tarountula",
+    "Description": null,
+    "FieldValues": {
+      "Number": "917",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "255",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tarountula",
+      "DisplayName": "Tarountula",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

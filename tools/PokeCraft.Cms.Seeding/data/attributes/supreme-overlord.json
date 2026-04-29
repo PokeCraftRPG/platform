@@ -1,0 +1,19 @@
+﻿{
+  "Id": "ec094fee-73dd-4e02-8d74-370bd5aba10b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "supreme-overlord",
+    "DisplayName": "Supreme Overlord",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "supreme-overlord",
+      "DisplayName": "Supreme Overlord",
+      "Description": "When the Pokémon enters a battle, its Attack and Sp. Atk stats are slightly boosted for each of the allies in its party that have already been defeated.",
+      "FieldValues": {}
+    }
+  }
+}

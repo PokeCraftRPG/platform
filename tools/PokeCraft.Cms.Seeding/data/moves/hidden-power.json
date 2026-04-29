@@ -1,0 +1,25 @@
+﻿{
+  "Id": "b04da1b9-df2d-4cd3-afad-0d4c8dffc9c7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hidden-power",
+    "DisplayName": "Hidden Power",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hidden-power",
+      "DisplayName": "Hidden Power",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

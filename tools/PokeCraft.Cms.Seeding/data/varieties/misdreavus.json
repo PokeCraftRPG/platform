@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b287c5a8-e030-4b20-9fce-d9011f139538",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "misdreavus",
+    "DisplayName": "Misdreavus",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"912b5149-ed95-43d0-9b0c-3ce7ac2cabf2\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "misdreavus",
+      "DisplayName": "Misdreavus",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Screech"
+      }
+    }
+  }
+}

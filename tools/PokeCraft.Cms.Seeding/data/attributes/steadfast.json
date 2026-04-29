@@ -1,0 +1,19 @@
+﻿{
+  "Id": "d4177038-a9c6-44e6-adb5-615b7111a2b4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "steadfast",
+    "DisplayName": "Steadfast",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "steadfast",
+      "DisplayName": "Steadfast",
+      "Description": "The Pokémon's determination boosts its Speed stat every time it flinches.",
+      "FieldValues": {}
+    }
+  }
+}

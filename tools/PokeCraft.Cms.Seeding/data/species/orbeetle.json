@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f2eee868-4f1b-4312-85fc-3d48f81c3f6e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "orbeetle",
+    "DisplayName": "Orbeetle",
+    "Description": null,
+    "FieldValues": {
+      "Number": "826",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "orbeetle",
+      "DisplayName": "Orbeetle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

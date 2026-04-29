@@ -1,0 +1,43 @@
+﻿{
+  "Id": "df2d204f-7dd9-48ee-8aea-8a27ea213123",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wigglytuff",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"56390ab7-d066-4391-85d3-2a0f9ff45907\"]",
+      "Height": "10",
+      "Weight": "120",
+      "YieldExperience": "196",
+      "PrimaryAbility": "[\"1547f00e-f05d-4d0c-98c7-9a77e75e1bf5\"]",
+      "SecondaryAbility": "[\"2a7439f3-bce4-4614-9969-78ec2ce46f31\"]",
+      "HiddenAbility": "[\"646cd171-4012-41af-b36f-69b1a3142f3e\"]",
+      "BaseHP": "140",
+      "YieldHP": "3",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wigglytuff",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

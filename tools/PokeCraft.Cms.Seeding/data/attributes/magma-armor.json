@@ -1,0 +1,19 @@
+﻿{
+  "Id": "e3688f9d-2100-4913-89ea-a1e8e38eb841",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magma-armor",
+    "DisplayName": "Magma Armor",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magma-armor",
+      "DisplayName": "Magma Armor",
+      "Description": "The Pokémon’s hot magma coating prevents it from being frozen.",
+      "FieldValues": {}
+    }
+  }
+}

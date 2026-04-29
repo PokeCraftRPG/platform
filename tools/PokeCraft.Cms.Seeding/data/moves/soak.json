@@ -1,0 +1,24 @@
+﻿{
+  "Id": "1940dc84-74d6-474d-8eb0-25eaaf0b24bd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "soak",
+    "DisplayName": "Soak",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "soak",
+      "DisplayName": "Soak",
+      "Description": "The user shoots a torrent of water that changes the target's type to Water.",
+      "FieldValues": {}
+    }
+  }
+}

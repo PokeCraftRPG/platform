@@ -1,0 +1,42 @@
+﻿{
+  "Id": "fa34961f-1fb8-4eb3-9079-78bb8863d446",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "araquanid-totem",
+    "DisplayName": "Totem Araquanid",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"bcecfa67-1bba-45bb-9a2b-342e966187ef\"]",
+      "Height": "31",
+      "Weight": "2175",
+      "YieldExperience": "159",
+      "PrimaryAbility": "[\"c0e2cc4d-23b0-4da5-80b6-04fdd110eb85\"]",
+      "HiddenAbility": "[\"ce06d228-a509-444d-ab16-f046f2519e89\"]",
+      "BaseHP": "68",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "92",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "132",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "42",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "araquanid-totem",
+      "DisplayName": "Totem Araquanid",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "be454cec-7a63-4fd9-8a2d-00e15cdd378e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gallade",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"37bb49c9-a440-4a67-976d-ba3838c1620d\"]",
+      "Height": "16",
+      "Weight": "520",
+      "YieldExperience": "233",
+      "PrimaryAbility": "[\"d4177038-a9c6-44e6-adb5-615b7111a2b4\"]",
+      "SecondaryAbility": "[\"770e0022-42e3-45fc-adbb-4e936051c8fb\"]",
+      "HiddenAbility": "[\"a1454a00-6731-4df8-b5b9-51b8ec1979e8\"]",
+      "BaseHP": "68",
+      "YieldHP": "0",
+      "BaseAttack": "125",
+      "YieldAttack": "3",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "115",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gallade",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

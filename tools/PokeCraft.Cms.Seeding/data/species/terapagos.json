@@ -1,0 +1,27 @@
+﻿{
+  "Id": "7d8bb225-8bef-491b-9fd5-d5181194ad8b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "terapagos",
+    "DisplayName": "Terapagos",
+    "Description": null,
+    "FieldValues": {
+      "Number": "1024",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "255",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "5",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "terapagos",
+      "DisplayName": "Terapagos",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "1d2b3915-c19d-4017-baac-19e24cc4b20a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "own-tempo",
+    "DisplayName": "Own Tempo",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "own-tempo",
+      "DisplayName": "Own Tempo",
+      "Description": "The Pokémon sticks to its own tempo, preventing it from becoming confused or being affected by Intimidate.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c11be1ab-5442-4347-987e-355d05466a89",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "koraidon-limited-build",
+    "DisplayName": "Koraidon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"12f419f1-928e-450d-9bc9-5fd1a0aa6db9\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "koraidon-limited-build",
+      "DisplayName": "Koraidon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

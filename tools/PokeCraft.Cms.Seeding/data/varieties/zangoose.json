@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d5b1d4bd-9fbd-49ca-afe7-6b3a8ef5bc00",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zangoose",
+    "DisplayName": "Zangoose",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f767c686-e378-429c-8b47-ae8930e53b12\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zangoose",
+      "DisplayName": "Zangoose",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cat Ferret"
+      }
+    }
+  }
+}

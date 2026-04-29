@@ -1,0 +1,27 @@
+﻿{
+  "Id": "146a4ebd-1ccf-4212-bc12-0bb64d17a124",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magmar",
+    "DisplayName": "Magmar",
+    "Description": null,
+    "FieldValues": {
+      "Number": "126",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magmar",
+      "DisplayName": "Magmar",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

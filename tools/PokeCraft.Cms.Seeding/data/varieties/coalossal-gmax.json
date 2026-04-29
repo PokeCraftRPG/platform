@@ -1,0 +1,26 @@
+﻿{
+  "Id": "17c15871-75b4-4f92-9085-1d4dc31c93fe",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "coalossal-gmax",
+    "DisplayName": "Coalossal",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a10144bd-1519-46e4-a026-fb4ba8277524\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "coalossal-gmax",
+      "DisplayName": "Coalossal",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Coal"
+      }
+    }
+  }
+}

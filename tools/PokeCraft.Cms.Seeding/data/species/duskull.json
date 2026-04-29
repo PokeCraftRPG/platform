@@ -1,0 +1,27 @@
+﻿{
+  "Id": "90f4875b-61d8-497f-9b76-91c7c142c40c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "duskull",
+    "DisplayName": "Duskull",
+    "Description": null,
+    "FieldValues": {
+      "Number": "355",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "190",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "duskull",
+      "DisplayName": "Duskull",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

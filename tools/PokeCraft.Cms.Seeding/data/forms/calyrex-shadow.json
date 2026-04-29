@@ -1,0 +1,41 @@
+﻿{
+  "Id": "14398372-784c-467b-bf6e-c54bbcf0649f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "calyrex-shadow",
+    "DisplayName": "Shadow Calyrex",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"45736876-efa6-47b2-aadb-18f3ebccdb33\"]",
+      "Height": "24",
+      "Weight": "536",
+      "YieldExperience": "340",
+      "PrimaryAbility": "[\"5414cf43-a9db-4e85-94be-152da9858df0\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "165",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "150",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "calyrex-shadow",
+      "DisplayName": "Shadow Calyrex",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

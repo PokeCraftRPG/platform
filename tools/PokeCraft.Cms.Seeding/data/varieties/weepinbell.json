@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0888790b-b240-49dd-9b5d-81c58396cc90",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "weepinbell",
+    "DisplayName": "Weepinbell",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4c4f4dd7-4180-4bb9-b565-133cadae16d7\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "weepinbell",
+      "DisplayName": "Weepinbell",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Flycatcher"
+      }
+    }
+  }
+}

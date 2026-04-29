@@ -1,0 +1,28 @@
+﻿{
+  "Id": "ba0994c2-950d-4e3f-a60b-3a15378058d2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wooper",
+    "DisplayName": "Wooper",
+    "Description": null,
+    "FieldValues": {
+      "Number": "194",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wooper",
+      "DisplayName": "Wooper",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

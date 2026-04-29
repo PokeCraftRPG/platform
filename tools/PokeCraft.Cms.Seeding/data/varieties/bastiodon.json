@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7ac1d0a1-473d-42d6-9c3c-4273b4cde5d9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bastiodon",
+    "DisplayName": "Bastiodon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9cead973-1ba1-4377-b973-ec05ae306e7f\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bastiodon",
+      "DisplayName": "Bastiodon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Shield"
+      }
+    }
+  }
+}

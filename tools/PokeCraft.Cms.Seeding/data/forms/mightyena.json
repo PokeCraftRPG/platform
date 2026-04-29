@@ -1,0 +1,42 @@
+﻿{
+  "Id": "efb1d9b8-71e3-4ed8-abcc-a72094bb382c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mightyena",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"99849d23-931c-42cc-b730-539d07a81a0c\"]",
+      "Height": "10",
+      "Weight": "370",
+      "YieldExperience": "147",
+      "PrimaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "SecondaryAbility": "[\"69ed006e-469a-417a-824a-dd844d36ba47\"]",
+      "HiddenAbility": "[\"5ca88ad1-2039-4935-9e88-99d81c4bf372\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "2",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mightyena",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

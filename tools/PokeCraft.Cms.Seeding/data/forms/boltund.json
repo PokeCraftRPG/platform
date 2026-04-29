@@ -1,0 +1,41 @@
+﻿{
+  "Id": "93d1f940-35bb-40a2-a502-fb2842b69ca3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "boltund",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2ffa6131-5d9c-4652-9b9c-adb9e8b0ea2a\"]",
+      "Height": "10",
+      "Weight": "340",
+      "YieldExperience": "172",
+      "PrimaryAbility": "[\"fe62f3be-1b3d-461f-bb4c-963e988d426f\"]",
+      "HiddenAbility": "[\"2a7439f3-bce4-4614-9969-78ec2ce46f31\"]",
+      "BaseHP": "69",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "90",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "121",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "boltund",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

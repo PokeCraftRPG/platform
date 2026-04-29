@@ -1,0 +1,25 @@
+﻿{
+  "Id": "5f872c8c-75be-41ec-9fb9-275b50602f87",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-thorns",
+    "DisplayName": "Iron Thorns",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1d938645-2378-4716-8fc3-7122fb95abd7\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-thorns",
+      "DisplayName": "Iron Thorns",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

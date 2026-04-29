@@ -1,0 +1,28 @@
+﻿{
+  "Id": "dc8e5cbf-4b93-418d-9e02-c7dd03a19b6e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sceptile",
+    "DisplayName": "Sceptile",
+    "Description": null,
+    "FieldValues": {
+      "Number": "254",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sceptile",
+      "DisplayName": "Sceptile",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

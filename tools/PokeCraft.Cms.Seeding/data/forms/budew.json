@@ -1,0 +1,43 @@
+﻿{
+  "Id": "c4cadfec-77bb-4748-a0da-946a0f10aadb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "budew",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"fbdec672-d60d-4600-b09f-eb94e83e9f6a\"]",
+      "Height": "2",
+      "Weight": "12",
+      "YieldExperience": "56",
+      "PrimaryAbility": "[\"aaaf5fa0-672a-4904-8e65-dc6c8ffe01b7\"]",
+      "SecondaryAbility": "[\"2f1ed275-bfaf-494d-8d85-c48aee736e43\"]",
+      "HiddenAbility": "[\"d724fdd9-3db1-4a76-8de7-aa696033fa20\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "30",
+      "YieldAttack": "0",
+      "BaseDefense": "35",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "budew",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

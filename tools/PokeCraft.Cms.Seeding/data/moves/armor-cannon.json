@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6e93d7dd-b4cc-4491-809b-88caed753e97",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "armor-cannon",
+    "DisplayName": "Armor Cannon",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "armor-cannon",
+      "DisplayName": "Armor Cannon",
+      "Description": "The user shoots its own armor out as blazing projectiles. This also lowers the user’s Defense and Sp. Def stats.",
+      "FieldValues": {}
+    }
+  }
+}

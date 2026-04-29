@@ -1,0 +1,25 @@
+﻿{
+  "Id": "59819a54-4b5b-4ac0-a6a3-80e1fb20c5db",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stomp",
+    "DisplayName": "Stomp",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "65",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stomp",
+      "DisplayName": "Stomp",
+      "Description": "The user attacks by stomping on the target with a big foot. This may also make the target flinch.",
+      "FieldValues": {}
+    }
+  }
+}

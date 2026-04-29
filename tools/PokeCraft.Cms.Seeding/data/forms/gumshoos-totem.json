@@ -1,0 +1,42 @@
+﻿{
+  "Id": "7c1c6187-dc39-412c-a630-7319fb6230f4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gumshoos-totem",
+    "DisplayName": "Totem Gumshoos",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7c1a9039-261f-42b9-9cdf-9dac04400215\"]",
+      "Height": "14",
+      "Weight": "600",
+      "YieldExperience": "146",
+      "PrimaryAbility": "[\"df0d1b67-be4a-45c3-9aee-f183bc1e0edd\"]",
+      "SecondaryAbility": "[\"fe62f3be-1b3d-461f-bb4c-963e988d426f\"]",
+      "HiddenAbility": "[\"463a60e6-bf15-4972-9934-481d443a8534\"]",
+      "BaseHP": "88",
+      "YieldHP": "0",
+      "BaseAttack": "110",
+      "YieldAttack": "2",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gumshoos-totem",
+      "DisplayName": "Totem Gumshoos",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

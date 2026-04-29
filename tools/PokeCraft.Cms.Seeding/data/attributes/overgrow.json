@@ -1,0 +1,19 @@
+﻿{
+  "Id": "f635691a-6cf0-4a55-a848-a2183d487971",
+  "Invariant": {
+    "IsPublished": true,
+    "UniqueName": "overgrow",
+    "DisplayName": "Overgrow",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": true,
+      "UniqueName": "overgrow",
+      "DisplayName": "Overgrow",
+      "Description": "Powers up Grass-type moves when the Pokémon's HP is low.",
+      "FieldValues": {}
+    }
+  }
+}

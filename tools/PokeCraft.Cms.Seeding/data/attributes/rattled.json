@@ -1,0 +1,19 @@
+﻿{
+  "Id": "9c030956-19a0-4e37-8835-0484c2fa3d91",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rattled",
+    "DisplayName": "Rattled",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rattled",
+      "DisplayName": "Rattled",
+      "Description": "The Pokémon gets scared when hit by a Dark-, Ghost-, or Bug-type attack or if intimidated, which boosts its Speed stat.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿{
+  "Id": "18c94834-7c88-4270-87b0-de54480d8ff0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "max-phantasm",
+    "DisplayName": "Max Phantasm",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "10",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "max-phantasm",
+      "DisplayName": "Max Phantasm",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

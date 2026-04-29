@@ -1,0 +1,23 @@
+﻿{
+  "Id": "842783fe-6929-4c9c-b24b-6ba0dc49c68a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "electrify",
+    "DisplayName": "Electrify",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "electrify",
+      "DisplayName": "Electrify",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

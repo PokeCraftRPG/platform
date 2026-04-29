@@ -1,0 +1,27 @@
+﻿{
+  "Id": "8a62c0e5-b3df-4a21-975b-e5d9c7e6fcd6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ariados",
+    "DisplayName": "Ariados",
+    "Description": null,
+    "FieldValues": {
+      "Number": "168",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ariados",
+      "DisplayName": "Ariados",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "e506e1e2-e448-48d9-98f0-11a81e70f99a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "devastating-drake--physical",
+    "DisplayName": "Devastating Drake",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Physical\"]",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "devastating-drake--physical",
+      "DisplayName": "Devastating Drake",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

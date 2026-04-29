@@ -1,0 +1,43 @@
+﻿{
+  "Id": "a00be127-ab8e-46dc-a8ea-aa1e01287a47",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pangoro",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3010ddda-9099-458b-9f9b-ae80876c0e0e\"]",
+      "Height": "21",
+      "Weight": "1360",
+      "YieldExperience": "173",
+      "PrimaryAbility": "[\"e3b961ab-87de-40fc-9d8d-95dda45c14df\"]",
+      "SecondaryAbility": "[\"f35847b5-de3c-4706-a9d6-010903615537\"]",
+      "HiddenAbility": "[\"fa0ae125-7b24-45a0-bf28-4b447dfa5e21\"]",
+      "BaseHP": "95",
+      "YieldHP": "0",
+      "BaseAttack": "124",
+      "YieldAttack": "2",
+      "BaseDefense": "78",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "69",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "71",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "58",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pangoro",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

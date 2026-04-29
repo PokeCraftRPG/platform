@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ef36b6a4-8808-48ad-a5f4-099c74a21ecc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "munchlax",
+    "DisplayName": "Munchlax",
+    "Description": null,
+    "FieldValues": {
+      "Number": "446",
+      "Category": "[\"Baby\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "50",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "munchlax",
+      "DisplayName": "Munchlax",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

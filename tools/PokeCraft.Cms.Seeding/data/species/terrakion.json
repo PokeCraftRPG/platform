@@ -1,0 +1,27 @@
+﻿{
+  "Id": "8f811e62-99aa-49e9-900c-91d3245fb2ed",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "terrakion",
+    "DisplayName": "Terrakion",
+    "Description": null,
+    "FieldValues": {
+      "Number": "639",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "80",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "terrakion",
+      "DisplayName": "Terrakion",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "e81bc157-79b2-4e04-8514-d50998c1cd9a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "buneary",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3885c545-dc5e-442e-9a11-0ba282e2f46b\"]",
+      "Height": "4",
+      "Weight": "55",
+      "YieldExperience": "70",
+      "PrimaryAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "SecondaryAbility": "[\"0d470a82-2040-4e95-8e52-999c26f4514d\"]",
+      "HiddenAbility": "[\"170e2598-7fd5-497f-9003-f9d753aadd0d\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "66",
+      "YieldAttack": "0",
+      "BaseDefense": "44",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "44",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "56",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "85",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "buneary",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

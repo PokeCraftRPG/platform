@@ -1,0 +1,28 @@
+﻿{
+  "Id": "c83ef813-2f28-42db-ba3b-20647dd1bdce",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "turtonator",
+    "DisplayName": "Turtonator",
+    "Description": null,
+    "FieldValues": {
+      "Number": "776",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "70",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "turtonator",
+      "DisplayName": "Turtonator",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

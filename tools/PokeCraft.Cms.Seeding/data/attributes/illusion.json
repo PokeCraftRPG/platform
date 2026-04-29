@@ -1,0 +1,19 @@
+﻿{
+  "Id": "cceea85b-ae3f-41c2-9547-cb15703bb8a8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "illusion",
+    "DisplayName": "Illusion",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "illusion",
+      "DisplayName": "Illusion",
+      "Description": "The Pokémon fools opponents by entering battle disguised as the last Pokémon in its Trainer's party.",
+      "FieldValues": {}
+    }
+  }
+}

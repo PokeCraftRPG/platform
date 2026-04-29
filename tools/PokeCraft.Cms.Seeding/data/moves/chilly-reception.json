@@ -1,0 +1,24 @@
+﻿{
+  "Id": "7c591812-b204-4020-b34f-ddd629cca876",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chilly-reception",
+    "DisplayName": "Chilly Reception",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Status\"]",
+      "Power": "0",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chilly-reception",
+      "DisplayName": "Chilly Reception",
+      "Description": "The user tells a chillingly bad joke before switching places with a party Pokémon in waiting. This summons a snowstorm lasting five turns.",
+      "FieldValues": {}
+    }
+  }
+}

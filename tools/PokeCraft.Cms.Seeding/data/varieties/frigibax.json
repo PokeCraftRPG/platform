@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3f5e0ab4-bb4a-49d9-9f7e-56eaf4596512",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "frigibax",
+    "DisplayName": "Frigibax",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7a171eb5-ff81-4b37-9df5-38823d83a240\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "frigibax",
+      "DisplayName": "Frigibax",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ice Fin"
+      }
+    }
+  }
+}

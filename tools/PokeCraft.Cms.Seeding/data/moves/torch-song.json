@@ -1,0 +1,25 @@
+﻿{
+  "Id": "d69bc253-e246-4786-b9b4-5001af5d0d37",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "torch-song",
+    "DisplayName": "Torch Song",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "torch-song",
+      "DisplayName": "Torch Song",
+      "Description": "The user blows out raging flames as if singing a song, scorching the target. This also boosts the user's Sp. Atk stat.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿{
+  "Id": "62af1128-6ee3-4923-aa99-8ad53573d596",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "low-kick",
+    "DisplayName": "Low Kick",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "low-kick",
+      "DisplayName": "Low Kick",
+      "Description": "A powerful low kick that makes the target fall over. The heavier the target, the greater the move's power.",
+      "FieldValues": {}
+    }
+  }
+}

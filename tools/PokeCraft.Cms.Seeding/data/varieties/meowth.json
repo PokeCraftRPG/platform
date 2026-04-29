@@ -1,0 +1,26 @@
+﻿{
+  "Id": "2511a6d6-6932-4d7b-97c0-e26b5dc7fc72",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meowth",
+    "DisplayName": "Meowth",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e6e3ae3e-7d4e-4d62-b7c6-92875274dd54\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meowth",
+      "DisplayName": "Meowth",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Scratch Cat"
+      }
+    }
+  }
+}

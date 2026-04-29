@@ -1,0 +1,25 @@
+﻿{
+  "Id": "9eb3923b-5310-4598-91ec-0b7bb47f7d31",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blast-burn",
+    "DisplayName": "Blast Burn",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "90",
+      "Power": "150",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blast-burn",
+      "DisplayName": "Blast Burn",
+      "Description": "The target is razed by a fiery explosion. The user can't move on the next turn.",
+      "FieldValues": {}
+    }
+  }
+}

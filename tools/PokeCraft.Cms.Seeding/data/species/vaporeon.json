@@ -1,0 +1,27 @@
+﻿{
+  "Id": "684caa11-319f-473c-855b-973c30d63264",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vaporeon",
+    "DisplayName": "Vaporeon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "134",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "35",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vaporeon",
+      "DisplayName": "Vaporeon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

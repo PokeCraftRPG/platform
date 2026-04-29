@@ -1,0 +1,41 @@
+﻿{
+  "Id": "fd15031c-1d5f-44c2-9395-c44fcc3bbad2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "oshawott",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"dfa02ad9-3610-4907-898e-ed57d6782bfc\"]",
+      "Height": "5",
+      "Weight": "59",
+      "YieldExperience": "62",
+      "PrimaryAbility": "[\"973e0e1a-dcca-4ab1-bd25-90df209dfc63\"]",
+      "HiddenAbility": "[\"238257b2-205c-4b83-b5f1-393b8c11b2e9\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "63",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "oshawott",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

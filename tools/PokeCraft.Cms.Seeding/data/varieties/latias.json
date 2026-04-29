@@ -1,0 +1,26 @@
+﻿{
+  "Id": "59e6b40c-bb15-4e9b-a400-1e33b1707a68",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "latias",
+    "DisplayName": "Latias",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"85d489a3-40a8-4fce-924c-cb178cdf1191\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "latias",
+      "DisplayName": "Latias",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Eon"
+      }
+    }
+  }
+}

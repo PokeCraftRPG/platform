@@ -1,0 +1,43 @@
+﻿{
+  "Id": "c288ba5e-53f0-4553-8ffe-d25dc445f1c5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pidgeot",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7b92ad87-f6bd-49a7-80ee-0fdeebe03268\"]",
+      "Height": "15",
+      "Weight": "395",
+      "YieldExperience": "216",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "SecondaryAbility": "[\"15d2abba-2012-411a-9b8f-92ed5b04e17d\"]",
+      "HiddenAbility": "[\"15e51a3f-bb28-4ca8-abdf-27130d9930b4\"]",
+      "BaseHP": "83",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "101",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pidgeot",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

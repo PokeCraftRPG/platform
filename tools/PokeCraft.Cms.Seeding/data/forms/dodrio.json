@@ -1,0 +1,43 @@
+﻿{
+  "Id": "f75dd2f6-b767-4d06-a7c6-4f959e0c4a14",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dodrio",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"cc251668-35dc-4213-9f8b-53f7613482d2\"]",
+      "Height": "18",
+      "Weight": "852",
+      "YieldExperience": "165",
+      "PrimaryAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "SecondaryAbility": "[\"922cb4e0-72ea-40f7-b6c5-6fbefa939214\"]",
+      "HiddenAbility": "[\"15d2abba-2012-411a-9b8f-92ed5b04e17d\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "110",
+      "YieldAttack": "2",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "110",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dodrio",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

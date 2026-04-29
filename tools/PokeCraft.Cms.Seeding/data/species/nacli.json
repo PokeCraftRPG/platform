@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e79bf7f4-48f3-4330-9c20-072bee1325b9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nacli",
+    "DisplayName": "Nacli",
+    "Description": null,
+    "FieldValues": {
+      "Number": "932",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nacli",
+      "DisplayName": "Nacli",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "231a63ef-499d-4384-8763-7579fa2a2773",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "braviary-hisui",
+    "DisplayName": "Braviary",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"40326144-b761-44c6-8ecd-8bed0e1bfb5f\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "braviary-hisui",
+      "DisplayName": "Braviary",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Valiant"
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "14062fec-7c49-4197-a83d-1c19e6a4d707",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "surskit",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"71dbb7f5-fa23-46c1-9302-093d9de6af6b\"]",
+      "Height": "5",
+      "Weight": "17",
+      "YieldExperience": "54",
+      "PrimaryAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "HiddenAbility": "[\"0c002ec7-830d-47a9-aae3-7ba687eddf3b\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "30",
+      "YieldAttack": "0",
+      "BaseDefense": "32",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "52",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "surskit",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

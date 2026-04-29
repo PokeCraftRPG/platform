@@ -1,0 +1,19 @@
+﻿{
+  "Id": "e7ec0ce2-6979-45a9-80ab-215081d487e3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "beast-boost",
+    "DisplayName": "Beast Boost",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "beast-boost",
+      "DisplayName": "Beast Boost",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

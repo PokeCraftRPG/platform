@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5c60d584-3fc2-4872-b947-16b7c474a01f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snorlax",
+    "DisplayName": "Snorlax",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"97774bb3-3615-468d-b035-524e1405f2e4\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snorlax",
+      "DisplayName": "Snorlax",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sleeping"
+      }
+    }
+  }
+}

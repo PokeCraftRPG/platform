@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ead4425a-93ff-4834-9dd2-c63da8cfe67a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lumineon",
+    "DisplayName": "Lumineon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a18a3c3f-6a15-4d06-94c5-9f9df3b4e1f1\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lumineon",
+      "DisplayName": "Lumineon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Neon"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "cdee3d5f-194b-454e-8218-2ec5a11b84e9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stunfisk",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7cb6f032-3b82-4aea-9fe1-c3e494fdeefa\"]",
+      "Height": "7",
+      "Weight": "110",
+      "YieldExperience": "165",
+      "PrimaryAbility": "[\"4d8cefa4-dbcc-4c78-b5f5-0a1c30bdb019\"]",
+      "SecondaryAbility": "[\"170e2598-7fd5-497f-9003-f9d753aadd0d\"]",
+      "HiddenAbility": "[\"2298dae8-5c1f-423f-960d-8cf61b19c897\"]",
+      "BaseHP": "109",
+      "YieldHP": "2",
+      "BaseAttack": "66",
+      "YieldAttack": "0",
+      "BaseDefense": "84",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "81",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "99",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "32",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stunfisk",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

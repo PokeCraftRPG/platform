@@ -1,0 +1,19 @@
+﻿{
+  "Id": "4ff1984e-e319-4645-a10d-f63ec55997fe",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drought",
+    "DisplayName": "Drought",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drought",
+      "DisplayName": "Drought",
+      "Description": "Turns the sunlight harsh when the Pokémon enters a battle.",
+      "FieldValues": {}
+    }
+  }
+}

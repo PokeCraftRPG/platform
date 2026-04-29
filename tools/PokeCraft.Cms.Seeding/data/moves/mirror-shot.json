@@ -1,0 +1,25 @@
+﻿{
+  "Id": "f669c689-a1cf-4c39-9ffe-3b73fecbfb89",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mirror-shot",
+    "DisplayName": "Mirror Shot",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "85",
+      "Power": "65",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mirror-shot",
+      "DisplayName": "Mirror Shot",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

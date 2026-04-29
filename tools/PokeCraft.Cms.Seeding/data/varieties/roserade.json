@@ -1,0 +1,26 @@
+﻿{
+  "Id": "01921e13-f33f-4e93-a784-dcd2dde70ced",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "roserade",
+    "DisplayName": "Roserade",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"072d9fff-1210-443f-9bad-2b5910afe996\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "roserade",
+      "DisplayName": "Roserade",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bouquet"
+      }
+    }
+  }
+}

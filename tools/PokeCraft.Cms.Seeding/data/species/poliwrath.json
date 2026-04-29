@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e31ea832-34ef-4317-8a55-220fddf747bb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "poliwrath",
+    "DisplayName": "Poliwrath",
+    "Description": null,
+    "FieldValues": {
+      "Number": "62",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "poliwrath",
+      "DisplayName": "Poliwrath",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

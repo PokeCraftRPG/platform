@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6b6e20c1-aaf9-44e5-96b2-e7a39a2cf69a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fire-punch",
+    "DisplayName": "Fire Punch",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "75",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fire-punch",
+      "DisplayName": "Fire Punch",
+      "Description": "The target is attacked with a fiery punch. This may also leave the target with a burn.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e6ed9bd5-0050-406b-85b1-72c8b217d5c1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slurpuff",
+    "DisplayName": "Slurpuff",
+    "Description": null,
+    "FieldValues": {
+      "Number": "685",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "140",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slurpuff",
+      "DisplayName": "Slurpuff",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

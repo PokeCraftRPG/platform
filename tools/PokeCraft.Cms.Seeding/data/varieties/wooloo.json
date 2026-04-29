@@ -1,0 +1,26 @@
+﻿{
+  "Id": "423d1c09-a3d1-47c3-a1c3-3159af3ff70e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wooloo",
+    "DisplayName": "Wooloo",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"fba47486-db47-420c-8591-966e6f4b60e3\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wooloo",
+      "DisplayName": "Wooloo",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sheep"
+      }
+    }
+  }
+}

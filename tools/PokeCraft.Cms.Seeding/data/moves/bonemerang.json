@@ -1,0 +1,25 @@
+﻿{
+  "Id": "9103ec8a-0403-4a2f-a5cc-2822e613c4d1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bonemerang",
+    "DisplayName": "Bonemerang",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "50",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bonemerang",
+      "DisplayName": "Bonemerang",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

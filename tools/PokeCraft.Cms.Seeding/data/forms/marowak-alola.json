@@ -1,0 +1,43 @@
+﻿{
+  "Id": "807d23e0-4b11-4e9b-ad2a-4c2f3f2c410a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "marowak-alola",
+    "DisplayName": "Alolan Marowak",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"977c5964-0793-4f97-8ca7-b9f493526a41\"]",
+      "Height": "10",
+      "Weight": "340",
+      "YieldExperience": "149",
+      "PrimaryAbility": "[\"de5aabec-d7d6-43c0-9d1a-575c11318439\"]",
+      "SecondaryAbility": "[\"98bb9191-1993-4224-8922-4a4d13f534a5\"]",
+      "HiddenAbility": "[\"98ae35ae-b156-4c2e-b4a7-8af42a8b0ef6\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "110",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "marowak-alola",
+      "DisplayName": "Alolan Marowak",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

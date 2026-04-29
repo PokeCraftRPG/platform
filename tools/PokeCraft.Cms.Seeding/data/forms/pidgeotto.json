@@ -1,0 +1,43 @@
+﻿{
+  "Id": "fa4383f8-9b7f-4aaf-8426-50a5f7fca0ed",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pidgeotto",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"11f9b0e9-a5d7-4387-b6ab-5eb6de12c8a1\"]",
+      "Height": "11",
+      "Weight": "300",
+      "YieldExperience": "122",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "SecondaryAbility": "[\"15d2abba-2012-411a-9b8f-92ed5b04e17d\"]",
+      "HiddenAbility": "[\"15e51a3f-bb28-4ca8-abdf-27130d9930b4\"]",
+      "BaseHP": "63",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "71",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pidgeotto",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

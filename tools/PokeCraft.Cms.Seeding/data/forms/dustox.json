@@ -1,0 +1,42 @@
+﻿{
+  "Id": "478a1962-2a44-48eb-a7e8-a3bec6e0197c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dustox",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f68a1a85-90c5-4c7f-a257-319dafb270d4\"]",
+      "Height": "12",
+      "Weight": "316",
+      "YieldExperience": "173",
+      "PrimaryAbility": "[\"29bd00fc-e0bf-4f2e-8cf9-f87e1aa11c4a\"]",
+      "HiddenAbility": "[\"65e44b8e-43f4-4e6f-9e4e-db99591d1061\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "3",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dustox",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

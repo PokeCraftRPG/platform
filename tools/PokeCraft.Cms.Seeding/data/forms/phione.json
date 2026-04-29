@@ -1,0 +1,40 @@
+﻿{
+  "Id": "1c5bee1a-e2bb-4abc-b680-1861b2b1bfe3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "phione",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"089e3732-bdf3-4b28-bc6b-2f8d940ac206\"]",
+      "Height": "4",
+      "Weight": "31",
+      "YieldExperience": "216",
+      "PrimaryAbility": "[\"14243d95-6028-489e-acf7-18592c5695c2\"]",
+      "BaseHP": "80",
+      "YieldHP": "1",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "phione",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

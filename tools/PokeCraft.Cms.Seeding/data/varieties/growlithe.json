@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5cffd3a2-d650-45d1-9392-60bd1407234b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "growlithe",
+    "DisplayName": "Growlithe",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"dafaae3c-941b-4a64-9e5d-7b538e7514c6\"]",
+      "GenderRatio": "6",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "growlithe",
+      "DisplayName": "Growlithe",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Puppy"
+      }
+    }
+  }
+}

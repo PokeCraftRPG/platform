@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a59246a1-cb3d-404b-a4fe-1d24f83c0bb7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "raichu-alola",
+    "DisplayName": "Raichu",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4cfb807e-f8a9-4cca-af67-2cf0abf1378b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "raichu-alola",
+      "DisplayName": "Raichu",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mouse"
+      }
+    }
+  }
+}

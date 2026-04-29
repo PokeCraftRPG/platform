@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6b3530e3-789a-40e7-8d8e-7a61281dbe2b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tynamo",
+    "DisplayName": "Tynamo",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"dca0c1d7-3377-4d5d-a1d4-121a67f1b73a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tynamo",
+      "DisplayName": "Tynamo",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "EleFish"
+      }
+    }
+  }
+}

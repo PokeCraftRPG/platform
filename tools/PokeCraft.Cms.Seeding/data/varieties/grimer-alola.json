@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a13cae4d-d828-4b55-a5ec-e7f52d79aaf5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grimer-alola",
+    "DisplayName": "Grimer",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ee57f9e9-7726-4275-89e8-108b2e845310\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grimer-alola",
+      "DisplayName": "Grimer",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sludge"
+      }
+    }
+  }
+}

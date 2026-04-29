@@ -1,0 +1,27 @@
+﻿{
+  "Id": "89be3fa3-8839-4641-8797-a33969487dac",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "delphox",
+    "DisplayName": "Delphox",
+    "Description": null,
+    "FieldValues": {
+      "Number": "655",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "delphox",
+      "DisplayName": "Delphox",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ad493a70-db39-4cc0-9405-18b067c84a8c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chandelure",
+    "DisplayName": "Chandelure",
+    "Description": null,
+    "FieldValues": {
+      "Number": "609",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chandelure",
+      "DisplayName": "Chandelure",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

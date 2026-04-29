@@ -1,0 +1,25 @@
+﻿{
+  "Id": "70e77c21-1ee1-4c1e-b8ac-edc6f3decee5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "voltorb",
+    "DisplayName": "Voltorb",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f8c7c6ff-2cb1-4ed0-b93d-5b4cf101bf8b\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "voltorb",
+      "DisplayName": "Voltorb",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ball"
+      }
+    }
+  }
+}

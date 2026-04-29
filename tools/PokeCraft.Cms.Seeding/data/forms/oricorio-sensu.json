@@ -1,0 +1,41 @@
+﻿{
+  "Id": "81a64eda-14d8-49c7-9cfa-6a1f3e948f64",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "oricorio-sensu",
+    "DisplayName": "Sensu Oricorio",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1e6e15c1-d811-47f0-891b-a4176057a071\"]",
+      "Height": "6",
+      "Weight": "34",
+      "YieldExperience": "167",
+      "PrimaryAbility": "[\"5368f678-61be-4999-a306-26a2d698772e\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "98",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "93",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "oricorio-sensu",
+      "DisplayName": "Sensu Oricorio",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

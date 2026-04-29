@@ -1,0 +1,40 @@
+﻿{
+  "Id": "108faaca-ec2c-49c4-a414-800602123059",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chandelure-mega",
+    "DisplayName": "Mega Chandelure",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b77b3ddd-a10a-4851-be70-0cd84f0e52ae\"]",
+      "Height": "25",
+      "Weight": "696",
+      "PrimaryAbility": "[\"0a9fa785-a966-4ed6-8ab9-a33aecd0847c\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "110",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "175",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "110",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Ghost\"]",
+      "SecondaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chandelure-mega",
+      "DisplayName": "Mega Chandelure",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

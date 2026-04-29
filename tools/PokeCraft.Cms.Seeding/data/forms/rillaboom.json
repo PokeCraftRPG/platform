@@ -1,0 +1,41 @@
+﻿{
+  "Id": "8c93939c-fc9b-499d-a3f1-156e48335934",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rillaboom",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5f8cd69e-aea5-456e-961f-aa799a00fac5\"]",
+      "Height": "21",
+      "Weight": "900",
+      "YieldExperience": "265",
+      "PrimaryAbility": "[\"f635691a-6cf0-4a55-a848-a2183d487971\"]",
+      "HiddenAbility": "[\"190efac3-8c0f-43d2-b1f6-815d28a8f299\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "125",
+      "YieldAttack": "3",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rillaboom",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

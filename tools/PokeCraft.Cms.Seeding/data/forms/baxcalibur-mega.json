@@ -1,0 +1,39 @@
+﻿{
+  "Id": "4c04a895-2559-4ce1-b7cd-530d2fc350f1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "baxcalibur-mega",
+    "DisplayName": "Mega Baxcalibur",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7de0332e-bcf2-40dc-b439-32bd276faf76\"]",
+      "Height": "21",
+      "Weight": "3150",
+      "BaseHP": "115",
+      "YieldHP": "0",
+      "BaseAttack": "175",
+      "YieldAttack": "0",
+      "BaseDefense": "117",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "105",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "101",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "87",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "baxcalibur-mega",
+      "DisplayName": "Mega Baxcalibur",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

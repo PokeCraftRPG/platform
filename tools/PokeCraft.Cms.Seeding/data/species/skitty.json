@@ -1,0 +1,28 @@
+﻿{
+  "Id": "dabb6f24-e78c-42c0-b4a8-5af7e070677f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skitty",
+    "DisplayName": "Skitty",
+    "Description": null,
+    "FieldValues": {
+      "Number": "300",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skitty",
+      "DisplayName": "Skitty",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

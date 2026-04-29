@@ -1,0 +1,24 @@
+﻿{
+  "Id": "7c946e1a-34a5-4797-a478-c2c24a21f90d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magic-powder",
+    "DisplayName": "Magic Powder",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magic-powder",
+      "DisplayName": "Magic Powder",
+      "Description": "The user scatters a cloud of magic powder that changes the target's type to Psychic.",
+      "FieldValues": {}
+    }
+  }
+}

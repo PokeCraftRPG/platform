@@ -1,0 +1,26 @@
+﻿{
+  "Id": "81325c2a-1202-4f8a-a030-2cddda99c811",
+  "Invariant": {
+    "IsPublished": true,
+    "UniqueName": "decidueye",
+    "DisplayName": "Decidueye",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"77a77bc9-e085-449e-8fb9-45c0dc4a41c8\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": true,
+      "UniqueName": "decidueye",
+      "DisplayName": "Decidueye",
+      "Description": "Calm and cautious, it conceals arrow quills in its wings and fires them in an instant, striking distant targets with flawless precision.",
+      "FieldValues": {
+        "Genus": "Arrow Quill"
+      }
+    }
+  }
+}

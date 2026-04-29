@@ -1,0 +1,19 @@
+﻿{
+  "Id": "d4036f76-71c7-4ac6-a598-b32df0886e29",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "psychic-surge",
+    "DisplayName": "Psychic Surge",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "psychic-surge",
+      "DisplayName": "Psychic Surge",
+      "Description": "Turns the ground into Psychic Terrain when the Pokémon enters a battle.",
+      "FieldValues": {}
+    }
+  }
+}

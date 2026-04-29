@@ -1,0 +1,41 @@
+﻿{
+  "Id": "5168c739-57d4-4db5-9e81-e76cf4758218",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "latias-mega",
+    "DisplayName": "Mega Latias",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b718c2bd-bdfd-4f04-a7ce-9ba87aa46ac9\"]",
+      "Height": "18",
+      "Weight": "520",
+      "YieldExperience": "315",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "120",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "140",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "150",
+      "YieldSpecialDefense": "3",
+      "BaseSpeed": "110",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "latias-mega",
+      "DisplayName": "Mega Latias",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

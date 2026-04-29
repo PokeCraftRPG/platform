@@ -1,0 +1,26 @@
+﻿{
+  "Id": "68607cfe-586d-42c0-8a55-eb15394a0a34",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fletchinder",
+    "DisplayName": "Fletchinder",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7276793e-6fbc-4d3c-a874-0778466d303a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fletchinder",
+      "DisplayName": "Fletchinder",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ember"
+      }
+    }
+  }
+}

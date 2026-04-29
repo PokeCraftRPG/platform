@@ -1,0 +1,27 @@
+﻿{
+  "Id": "a18a3c3f-6a15-4d06-94c5-9f9df3b4e1f1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lumineon",
+    "DisplayName": "Lumineon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "457",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lumineon",
+      "DisplayName": "Lumineon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

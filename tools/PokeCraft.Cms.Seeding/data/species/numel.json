@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e27f6c71-634e-4639-a667-c0c207ac08a7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "numel",
+    "DisplayName": "Numel",
+    "Description": null,
+    "FieldValues": {
+      "Number": "322",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "numel",
+      "DisplayName": "Numel",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

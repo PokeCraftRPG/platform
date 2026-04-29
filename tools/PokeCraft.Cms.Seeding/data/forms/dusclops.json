@@ -1,0 +1,41 @@
+﻿{
+  "Id": "5345ddf0-18fa-4cb7-a76f-a715e41ecca5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dusclops",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4ad44760-5739-4b2c-b702-201599670976\"]",
+      "Height": "16",
+      "Weight": "306",
+      "YieldExperience": "159",
+      "PrimaryAbility": "[\"04822c52-0ef2-4b5e-a4bb-176772f6c3d8\"]",
+      "HiddenAbility": "[\"646cd171-4012-41af-b36f-69b1a3142f3e\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "130",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "130",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "25",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dusclops",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "fbdec672-d60d-4600-b09f-eb94e83e9f6a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "budew",
+    "DisplayName": "Budew",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b2d88cf3-b36a-4d3d-8b69-d934bd673b9e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "budew",
+      "DisplayName": "Budew",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bud"
+      }
+    }
+  }
+}

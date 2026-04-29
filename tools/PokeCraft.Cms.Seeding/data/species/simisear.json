@@ -1,0 +1,27 @@
+﻿{
+  "Id": "1c1b9974-37d2-47d3-8eed-481da4134560",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "simisear",
+    "DisplayName": "Simisear",
+    "Description": null,
+    "FieldValues": {
+      "Number": "514",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "simisear",
+      "DisplayName": "Simisear",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

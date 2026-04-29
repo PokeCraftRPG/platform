@@ -1,0 +1,24 @@
+﻿{
+  "Id": "43ad162a-7f3e-40ca-b495-6fcd2a269858",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "electro-ball",
+    "DisplayName": "Electro Ball",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "electro-ball",
+      "DisplayName": "Electro Ball",
+      "Description": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the move's power.",
+      "FieldValues": {}
+    }
+  }
+}

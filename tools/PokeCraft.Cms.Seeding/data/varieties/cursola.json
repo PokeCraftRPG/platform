@@ -1,0 +1,26 @@
+﻿{
+  "Id": "675da68e-5ca8-4c34-a8c7-d1210aaf9426",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cursola",
+    "DisplayName": "Cursola",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2a9520e6-be07-4caf-acf9-d96a9ed9d08f\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cursola",
+      "DisplayName": "Cursola",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Coral"
+      }
+    }
+  }
+}

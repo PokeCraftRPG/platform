@@ -1,0 +1,28 @@
+﻿{
+  "Id": "8b1d7533-3368-4b6a-a4a1-838808393790",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flaaffy",
+    "DisplayName": "Flaaffy",
+    "Description": null,
+    "FieldValues": {
+      "Number": "180",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flaaffy",
+      "DisplayName": "Flaaffy",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

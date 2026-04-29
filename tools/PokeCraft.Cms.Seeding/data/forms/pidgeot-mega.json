@@ -1,0 +1,41 @@
+﻿{
+  "Id": "4193f2ea-847a-4864-b70c-2183940b2236",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pidgeot-mega",
+    "DisplayName": "Mega Pidgeot",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c73b20b0-ed1e-446e-a660-c0f7f8c4f655\"]",
+      "Height": "22",
+      "Weight": "505",
+      "YieldExperience": "261",
+      "PrimaryAbility": "[\"9abfc5f6-0767-4c13-a4c0-dd48c54a21d3\"]",
+      "BaseHP": "83",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "135",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "121",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pidgeot-mega",
+      "DisplayName": "Mega Pidgeot",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

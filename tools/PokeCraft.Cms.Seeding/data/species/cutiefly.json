@@ -1,0 +1,28 @@
+﻿{
+  "Id": "b53a8d9f-c5f6-445a-a004-6b3aeb7cceda",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cutiefly",
+    "DisplayName": "Cutiefly",
+    "Description": null,
+    "FieldValues": {
+      "Number": "742",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]",
+      "SecondaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cutiefly",
+      "DisplayName": "Cutiefly",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

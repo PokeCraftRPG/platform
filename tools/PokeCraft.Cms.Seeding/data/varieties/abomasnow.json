@@ -1,0 +1,26 @@
+﻿{
+  "Id": "67d7144b-36a1-4d2b-9f5d-cd290d9b21f6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "abomasnow",
+    "DisplayName": "Abomasnow",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"fa4be553-65da-4491-8eb5-cbad4042916e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "abomasnow",
+      "DisplayName": "Abomasnow",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Frost Tree"
+      }
+    }
+  }
+}

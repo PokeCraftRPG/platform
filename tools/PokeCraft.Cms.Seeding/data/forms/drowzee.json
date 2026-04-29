@@ -1,0 +1,42 @@
+﻿{
+  "Id": "139a324a-d0ef-4583-83c5-967eaf41ec86",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drowzee",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"543c0a65-06a0-49ab-a59a-31125f777915\"]",
+      "Height": "10",
+      "Weight": "324",
+      "YieldExperience": "66",
+      "PrimaryAbility": "[\"74551570-259c-470c-a9ba-64ffd0e3afad\"]",
+      "SecondaryAbility": "[\"9f4b7030-9dea-4566-93c8-f82b81ca2f53\"]",
+      "HiddenAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "48",
+      "YieldAttack": "0",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "43",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "42",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drowzee",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

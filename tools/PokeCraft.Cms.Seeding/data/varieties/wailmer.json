@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9b1774c8-b547-4998-8107-42c4c7d4fdd4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wailmer",
+    "DisplayName": "Wailmer",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8faf2d11-9b5c-433c-81f5-5f7150b6eb90\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wailmer",
+      "DisplayName": "Wailmer",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ball Whale"
+      }
+    }
+  }
+}

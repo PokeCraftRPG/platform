@@ -1,0 +1,25 @@
+﻿{
+  "Id": "2c32c7ce-6ba8-4b00-bc47-27aa2428f64f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bolt-beak",
+    "DisplayName": "Bolt Beak",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "85",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bolt-beak",
+      "DisplayName": "Bolt Beak",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

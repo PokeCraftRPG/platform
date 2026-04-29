@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9547d27d-0fea-47be-8d98-83dc3cf12222",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "binacle",
+    "DisplayName": "Binacle",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"54428165-bea3-4772-97c2-9fa60d00972f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "binacle",
+      "DisplayName": "Binacle",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Two-Handed"
+      }
+    }
+  }
+}

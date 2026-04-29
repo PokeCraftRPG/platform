@@ -1,0 +1,41 @@
+﻿{
+  "Id": "b135eb62-a4d9-45dd-b1a8-3ed0e4daca35",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zamazenta-crowned",
+    "DisplayName": "Crowned Zamazenta",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"390a6e15-4050-424a-844f-91eb8761dd9b\"]",
+      "Height": "29",
+      "Weight": "7850",
+      "YieldExperience": "360",
+      "PrimaryAbility": "[\"4517cefd-8aab-459d-a22b-e6ca633b4e5e\"]",
+      "BaseHP": "92",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "0",
+      "BaseDefense": "140",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "140",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "128",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Fighting\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zamazenta-crowned",
+      "DisplayName": "Crowned Zamazenta",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

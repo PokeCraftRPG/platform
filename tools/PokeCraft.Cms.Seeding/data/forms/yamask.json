@@ -1,0 +1,40 @@
+﻿{
+  "Id": "712fd0cc-54f7-453e-9cbb-be3f2b8ed844",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "yamask",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f76d0a5d-c707-4400-b244-df1c9de2794c\"]",
+      "Height": "5",
+      "Weight": "15",
+      "YieldExperience": "61",
+      "PrimaryAbility": "[\"a907241b-94b3-428b-b75f-17d1f44ff30e\"]",
+      "BaseHP": "38",
+      "YieldHP": "0",
+      "BaseAttack": "30",
+      "YieldAttack": "0",
+      "BaseDefense": "85",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "yamask",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

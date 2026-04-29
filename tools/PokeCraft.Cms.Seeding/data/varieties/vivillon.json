@@ -1,0 +1,26 @@
+﻿{
+  "Id": "fa7acdf0-e49f-41e0-8534-8fc146f86d87",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vivillon",
+    "DisplayName": "Vivillon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a8152ba4-ea0c-4b81-9f03-e5b55fd54b8d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vivillon",
+      "DisplayName": "Vivillon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Scale"
+      }
+    }
+  }
+}

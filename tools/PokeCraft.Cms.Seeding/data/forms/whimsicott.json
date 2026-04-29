@@ -1,0 +1,43 @@
+﻿{
+  "Id": "ded33b99-e0c5-436d-98df-02c373c176ab",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "whimsicott",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3d72e634-250e-4857-83fe-bee25fd24e12\"]",
+      "Height": "7",
+      "Weight": "66",
+      "YieldExperience": "168",
+      "PrimaryAbility": "[\"84a30672-4ea5-4904-84fc-d04259c936a3\"]",
+      "SecondaryAbility": "[\"0a9fa785-a966-4ed6-8ab9-a33aecd0847c\"]",
+      "HiddenAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "67",
+      "YieldAttack": "0",
+      "BaseDefense": "85",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "77",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "116",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "whimsicott",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

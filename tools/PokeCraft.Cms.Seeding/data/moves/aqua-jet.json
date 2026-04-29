@@ -1,0 +1,25 @@
+﻿{
+  "Id": "5a2e89a8-5cd3-4323-9389-f2c5a23018a7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aqua-jet",
+    "DisplayName": "Aqua Jet",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aqua-jet",
+      "DisplayName": "Aqua Jet",
+      "Description": "The user lunges at the target to inflict damage, moving at blinding speed. This move always goes first.",
+      "FieldValues": {}
+    }
+  }
+}

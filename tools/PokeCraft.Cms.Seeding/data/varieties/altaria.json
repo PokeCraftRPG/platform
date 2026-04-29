@@ -1,0 +1,26 @@
+﻿{
+  "Id": "61679baf-94a3-4135-92bb-3ef47bd0d96d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "altaria",
+    "DisplayName": "Altaria",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2858b66e-0946-459f-954a-62ade31d6ae0\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "altaria",
+      "DisplayName": "Altaria",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Humming"
+      }
+    }
+  }
+}

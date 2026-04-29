@@ -1,0 +1,25 @@
+﻿{
+  "Id": "35c34e8a-1946-4c7c-8876-ed9db6eb6541",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fire-fang",
+    "DisplayName": "Fire Fang",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "95",
+      "Power": "65",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fire-fang",
+      "DisplayName": "Fire Fang",
+      "Description": "The user bites with flame-cloaked fangs. This may also make the target flinch or leave it with a burn.",
+      "FieldValues": {}
+    }
+  }
+}

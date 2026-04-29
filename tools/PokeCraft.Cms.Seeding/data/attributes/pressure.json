@@ -1,0 +1,19 @@
+﻿{
+  "Id": "04822c52-0ef2-4b5e-a4bb-176772f6c3d8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pressure",
+    "DisplayName": "Pressure",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pressure",
+      "DisplayName": "Pressure",
+      "Description": "Puts other Pokémon under pressure, causing them to expend more PP to use their moves.",
+      "FieldValues": {}
+    }
+  }
+}

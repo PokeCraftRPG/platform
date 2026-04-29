@@ -1,0 +1,27 @@
+﻿{
+  "Id": "44b7f5b2-ee08-4891-b4cc-e60c29c0e462",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blitzle",
+    "DisplayName": "Blitzle",
+    "Description": null,
+    "FieldValues": {
+      "Number": "522",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blitzle",
+      "DisplayName": "Blitzle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "f8d83a98-894d-4d5b-926c-3d1c65e24bfb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "haze",
+    "DisplayName": "Haze",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "haze",
+      "DisplayName": "Haze",
+      "Description": "The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.",
+      "FieldValues": {}
+    }
+  }
+}

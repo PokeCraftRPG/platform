@@ -1,0 +1,42 @@
+﻿{
+  "Id": "5971e93e-ffe3-448c-9350-ec09ae2f8c0f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "muk",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d5ab1445-d4d4-4dbb-b96d-e040da70b78b\"]",
+      "Height": "12",
+      "Weight": "300",
+      "YieldExperience": "175",
+      "PrimaryAbility": "[\"7cea48e5-cd7c-41df-82f9-a91772037aff\"]",
+      "SecondaryAbility": "[\"c6f1b814-650e-4b1f-a482-7ed07ca1c7af\"]",
+      "HiddenAbility": "[\"5e112e5b-8643-4cbf-9c15-5a0bfce0b0b2\"]",
+      "BaseHP": "105",
+      "YieldHP": "1",
+      "BaseAttack": "105",
+      "YieldAttack": "1",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "muk",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

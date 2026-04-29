@@ -1,0 +1,42 @@
+﻿{
+  "Id": "e979b7c9-e7a0-451f-9126-d5bad4b788de",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "exeggutor-alola",
+    "DisplayName": "Alolan Exeggutor",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"cbca19f7-6bb1-4944-abba-9afc376321c1\"]",
+      "Height": "109",
+      "Weight": "4156",
+      "YieldExperience": "186",
+      "PrimaryAbility": "[\"646cd171-4012-41af-b36f-69b1a3142f3e\"]",
+      "HiddenAbility": "[\"173ca115-de73-4599-a301-8ac567198f12\"]",
+      "BaseHP": "95",
+      "YieldHP": "0",
+      "BaseAttack": "105",
+      "YieldAttack": "0",
+      "BaseDefense": "85",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "125",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "exeggutor-alola",
+      "DisplayName": "Alolan Exeggutor",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

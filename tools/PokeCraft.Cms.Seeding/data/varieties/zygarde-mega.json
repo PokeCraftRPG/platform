@@ -1,0 +1,25 @@
+﻿{
+  "Id": "dbd212c8-739f-43cb-bbf2-c07d5a7f0de9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zygarde-mega",
+    "DisplayName": "Zygarde",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0de3e2a2-1b63-4cc3-8ed7-14a08d1271e5\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zygarde-mega",
+      "DisplayName": "Zygarde",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Order"
+      }
+    }
+  }
+}

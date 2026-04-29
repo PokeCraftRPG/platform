@@ -1,0 +1,25 @@
+﻿{
+  "Id": "cd4aea83-b258-4e8e-b4d3-371e43f2113f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hyper-drill",
+    "DisplayName": "Hyper Drill",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hyper-drill",
+      "DisplayName": "Hyper Drill",
+      "Description": "The user spins the pointed part of its body at high speed to pierce the target. This attack can hit a target using a move such as Protect or Detect.",
+      "FieldValues": {}
+    }
+  }
+}

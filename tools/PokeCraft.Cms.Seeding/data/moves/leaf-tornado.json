@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6ad8f6d5-bb9f-4cc4-b803-762b10e01eea",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "leaf-tornado",
+    "DisplayName": "Leaf Tornado",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "90",
+      "Power": "65",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "leaf-tornado",
+      "DisplayName": "Leaf Tornado",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

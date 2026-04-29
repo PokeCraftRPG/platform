@@ -1,0 +1,40 @@
+﻿{
+  "Id": "1872c256-b317-428c-a8d8-7cb3b98c8c64",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "xerneas-active",
+    "DisplayName": "Active Xerneas",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b5e72cf0-087d-4ac8-a985-e1b01a5bfde9\"]",
+      "Height": "30",
+      "Weight": "2150",
+      "YieldExperience": "306",
+      "PrimaryAbility": "[\"18fae078-c83d-4365-962c-5a2b67bb2b72\"]",
+      "BaseHP": "126",
+      "YieldHP": "3",
+      "BaseAttack": "131",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "131",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "98",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "99",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "xerneas-active",
+      "DisplayName": "Active Xerneas",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

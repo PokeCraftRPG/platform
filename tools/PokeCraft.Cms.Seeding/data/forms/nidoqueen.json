@@ -1,0 +1,43 @@
+﻿{
+  "Id": "ba67d6e9-b1b0-4fd7-b299-adb2978ac933",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nidoqueen",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"25749127-5c64-46ca-884c-84a01d1bf62b\"]",
+      "Height": "13",
+      "Weight": "600",
+      "YieldExperience": "227",
+      "PrimaryAbility": "[\"2f1ed275-bfaf-494d-8d85-c48aee736e43\"]",
+      "SecondaryAbility": "[\"3bb432b8-b38c-4243-888c-20085e000f57\"]",
+      "HiddenAbility": "[\"ef348627-bea1-4c87-9bf1-417ed3b66855\"]",
+      "BaseHP": "90",
+      "YieldHP": "3",
+      "BaseAttack": "92",
+      "YieldAttack": "0",
+      "BaseDefense": "87",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "76",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nidoqueen",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

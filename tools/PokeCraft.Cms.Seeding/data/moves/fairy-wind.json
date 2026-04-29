@@ -1,0 +1,25 @@
+﻿{
+  "Id": "bf1a36fd-37ef-4e1c-a061-3873333ba040",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fairy-wind",
+    "DisplayName": "Fairy Wind",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fairy-wind",
+      "DisplayName": "Fairy Wind",
+      "Description": "The user attacks by stirring up a fairy wind to strike the target.",
+      "FieldValues": {}
+    }
+  }
+}

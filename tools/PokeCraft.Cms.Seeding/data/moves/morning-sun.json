@@ -1,0 +1,23 @@
+﻿{
+  "Id": "6d4e66b7-f734-4fc6-85cf-4d10690b3a77",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "morning-sun",
+    "DisplayName": "Morning Sun",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "morning-sun",
+      "DisplayName": "Morning Sun",
+      "Description": "The user restores its own HP. The amount of HP regained varies with the weather.",
+      "FieldValues": {}
+    }
+  }
+}

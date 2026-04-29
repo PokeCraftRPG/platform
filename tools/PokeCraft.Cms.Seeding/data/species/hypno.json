@@ -1,0 +1,27 @@
+﻿{
+  "Id": "75a2ec1d-0c4c-4a51-bd4a-6e4d3b4f9462",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hypno",
+    "DisplayName": "Hypno",
+    "Description": null,
+    "FieldValues": {
+      "Number": "97",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hypno",
+      "DisplayName": "Hypno",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

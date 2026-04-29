@@ -1,0 +1,26 @@
+﻿{
+  "Id": "891e7d5c-e761-4013-92f6-cc8d1842e860",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "quaxly",
+    "DisplayName": "Quaxly",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b779537b-8eba-4c5e-a132-576cd5ae4bb0\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "quaxly",
+      "DisplayName": "Quaxly",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Duckling"
+      }
+    }
+  }
+}

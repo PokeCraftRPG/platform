@@ -1,0 +1,19 @@
+﻿{
+  "Id": "badd5419-2c79-487b-b923-244b120f3fa8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chlorophyll",
+    "DisplayName": "Chlorophyll",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chlorophyll",
+      "DisplayName": "Chlorophyll",
+      "Description": "Boosts the Pokémon's Speed stat in harsh sunlight.",
+      "FieldValues": {}
+    }
+  }
+}

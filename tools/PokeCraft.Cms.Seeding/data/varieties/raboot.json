@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3f9bce94-05e2-4097-bfdc-cbaaff851e31",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "raboot",
+    "DisplayName": "Raboot",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"349f6a0f-dd2f-47f9-8668-26a393d84a0d\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "raboot",
+      "DisplayName": "Raboot",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rabbit"
+      }
+    }
+  }
+}

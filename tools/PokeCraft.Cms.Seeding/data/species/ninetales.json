@@ -1,0 +1,27 @@
+﻿{
+  "Id": "bf3f7cb4-6eb3-469d-9ffc-2fcc405e6e7b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ninetales",
+    "DisplayName": "Ninetales",
+    "Description": null,
+    "FieldValues": {
+      "Number": "38",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ninetales",
+      "DisplayName": "Ninetales",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿{
+  "Id": "d5d0ee4c-564d-4b6e-9b4d-e9951410a26c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hyperspace-fury",
+    "DisplayName": "Hyperspace Fury",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hyperspace-fury",
+      "DisplayName": "Hyperspace Fury",
+      "Description": "Using its many arms, the user unleashes a barrage of attacks that ignore the effects of moves like Protect and Detect. This also lowers the user's Defense stat.",
+      "FieldValues": {}
+    }
+  }
+}

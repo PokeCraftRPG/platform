@@ -1,0 +1,24 @@
+﻿{
+  "Id": "56092f33-499d-4318-9964-be183c47042e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "supersonic",
+    "DisplayName": "Supersonic",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "55",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "supersonic",
+      "DisplayName": "Supersonic",
+      "Description": "The user generates odd sound waves from its body that confuse the target.",
+      "FieldValues": {}
+    }
+  }
+}

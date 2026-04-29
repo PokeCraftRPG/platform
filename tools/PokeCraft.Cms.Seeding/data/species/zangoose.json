@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f767c686-e378-429c-8b47-ae8930e53b12",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zangoose",
+    "DisplayName": "Zangoose",
+    "Description": null,
+    "FieldValues": {
+      "Number": "335",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zangoose",
+      "DisplayName": "Zangoose",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

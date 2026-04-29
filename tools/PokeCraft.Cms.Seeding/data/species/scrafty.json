@@ -1,0 +1,28 @@
+﻿{
+  "Id": "875b7510-0303-41fa-9e3b-91adc977b2eb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scrafty",
+    "DisplayName": "Scrafty",
+    "Description": null,
+    "FieldValues": {
+      "Number": "560",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scrafty",
+      "DisplayName": "Scrafty",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

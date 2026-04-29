@@ -1,0 +1,43 @@
+﻿{
+  "Id": "d8269491-91e4-48fd-94ce-df171c088bd7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "starmie",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3a4d9aa2-b1b6-42cc-a06a-b0a1ec0e3536\"]",
+      "Height": "11",
+      "Weight": "800",
+      "YieldExperience": "182",
+      "PrimaryAbility": "[\"c5bb24d5-3152-481e-b7f6-c1637f7cc794\"]",
+      "SecondaryAbility": "[\"aaaf5fa0-672a-4904-8e65-dc6c8ffe01b7\"]",
+      "HiddenAbility": "[\"46c2aea0-fa60-492b-8e7f-0d5de67c6321\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "85",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "115",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "starmie",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

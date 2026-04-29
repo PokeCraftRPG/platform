@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b28042bf-ed95-4c24-ae62-75b013895c20",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "weedle",
+    "DisplayName": "Weedle",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"fdd8d651-f638-4d4f-8f7a-889020aeb438\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "weedle",
+      "DisplayName": "Weedle",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Hairy Bug"
+      }
+    }
+  }
+}

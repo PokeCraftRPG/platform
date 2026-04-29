@@ -1,0 +1,41 @@
+﻿{
+  "Id": "5e6b9632-1f02-4df6-beee-18cdedb8fc0f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "minun",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"576890ea-e10f-4464-a30f-a8140fb7b579\"]",
+      "Height": "4",
+      "Weight": "42",
+      "YieldExperience": "142",
+      "PrimaryAbility": "[\"1fdf39c7-0d56-4eaf-9c4c-b9fe5a938d0b\"]",
+      "HiddenAbility": "[\"891096e9-f25f-4184-8941-fcc6d6dfd5e4\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "40",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "minun",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

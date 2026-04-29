@@ -1,0 +1,43 @@
+﻿{
+  "Id": "a31b6f60-87aa-4e32-8024-f378f5075683",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "avalugg-hisui",
+    "DisplayName": "Hisuian Avalugg",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b683e69f-0f28-46b9-8a5a-6c17015afb4a\"]",
+      "Height": "14",
+      "Weight": "2624",
+      "YieldExperience": "180",
+      "PrimaryAbility": "[\"fe62f3be-1b3d-461f-bb4c-963e988d426f\"]",
+      "SecondaryAbility": "[\"c28be462-7265-4527-a8aa-85774f7eaf7b\"]",
+      "HiddenAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "BaseHP": "95",
+      "YieldHP": "0",
+      "BaseAttack": "127",
+      "YieldAttack": "0",
+      "BaseDefense": "184",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "34",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "36",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "38",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]",
+      "SecondaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "avalugg-hisui",
+      "DisplayName": "Hisuian Avalugg",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

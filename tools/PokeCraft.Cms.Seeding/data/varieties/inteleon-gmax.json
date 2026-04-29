@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c673f35c-8c8e-4777-8b51-7bf43c5eaaa9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "inteleon-gmax",
+    "DisplayName": "Inteleon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"00771be2-f486-4181-b050-1f28dbc86b16\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "inteleon-gmax",
+      "DisplayName": "Inteleon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Secret Agent"
+      }
+    }
+  }
+}

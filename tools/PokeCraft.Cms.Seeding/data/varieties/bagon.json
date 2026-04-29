@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9240b2dc-40a5-4d05-bd81-729a5ebb9bd5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bagon",
+    "DisplayName": "Bagon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"123a88b9-7e21-44d5-849b-1876298e1aee\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bagon",
+      "DisplayName": "Bagon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rock Head"
+      }
+    }
+  }
+}

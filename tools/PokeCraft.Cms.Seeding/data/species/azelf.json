@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e9d77837-0ed8-4cef-aabf-d9fbea7ff6d3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "azelf",
+    "DisplayName": "Azelf",
+    "Description": null,
+    "FieldValues": {
+      "Number": "482",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "140",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "80",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "azelf",
+      "DisplayName": "Azelf",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

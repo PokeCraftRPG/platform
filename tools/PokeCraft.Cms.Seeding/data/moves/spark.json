@@ -1,0 +1,25 @@
+﻿{
+  "Id": "398e4c24-a4d1-4ab1-9e76-3f2583899019",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spark",
+    "DisplayName": "Spark",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "65",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spark",
+      "DisplayName": "Spark",
+      "Description": "The user attacks the target with an electrically charged tackle. This may also leave the target with paralysis.",
+      "FieldValues": {}
+    }
+  }
+}

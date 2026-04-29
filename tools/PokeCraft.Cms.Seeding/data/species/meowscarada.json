@@ -1,0 +1,28 @@
+﻿{
+  "Id": "f9653744-bf7f-458d-b8b3-80bfb5d16240",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meowscarada",
+    "DisplayName": "Meowscarada",
+    "Description": null,
+    "FieldValues": {
+      "Number": "908",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meowscarada",
+      "DisplayName": "Meowscarada",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

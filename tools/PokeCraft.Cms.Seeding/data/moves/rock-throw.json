@@ -1,0 +1,25 @@
+﻿{
+  "Id": "3d8b110f-91db-40fd-9b37-fd628e4098cb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rock-throw",
+    "DisplayName": "Rock Throw",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Rock\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "50",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rock-throw",
+      "DisplayName": "Rock Throw",
+      "Description": "The user picks up and throws a small rock at the target to inflict damage.",
+      "FieldValues": {}
+    }
+  }
+}

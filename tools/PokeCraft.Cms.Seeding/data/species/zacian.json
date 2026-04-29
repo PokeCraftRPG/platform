@@ -1,0 +1,27 @@
+﻿{
+  "Id": "4959dd63-171a-491d-98a9-76a11d235a28",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zacian",
+    "DisplayName": "Zacian",
+    "Description": null,
+    "FieldValues": {
+      "Number": "888",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "10",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zacian",
+      "DisplayName": "Zacian",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

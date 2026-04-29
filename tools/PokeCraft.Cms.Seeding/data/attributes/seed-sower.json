@@ -1,0 +1,19 @@
+﻿{
+  "Id": "65b78faa-48ce-4370-a12a-c32bc0cffe47",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "seed-sower",
+    "DisplayName": "Seed Sower",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "seed-sower",
+      "DisplayName": "Seed Sower",
+      "Description": "Turns the ground into Grassy Terrain when the Pokémon is hit by an attack.",
+      "FieldValues": {}
+    }
+  }
+}

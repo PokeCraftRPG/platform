@@ -1,0 +1,26 @@
+﻿{
+  "Id": "bab75097-b4dc-4f0c-989e-ce46bad55879",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gothitelle",
+    "DisplayName": "Gothitelle",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"662a70dc-a0ea-4048-ba0e-b4873ca7df55\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gothitelle",
+      "DisplayName": "Gothitelle",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Astral Body"
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "f9164544-ea33-4aa1-9991-926b73b86404",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "burmy-plant",
+    "DisplayName": "Plant Burmy",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"bacbe1db-e21b-461b-b5a7-355940610f2d\"]",
+      "Height": "2",
+      "Weight": "34",
+      "YieldExperience": "45",
+      "PrimaryAbility": "[\"ce764204-79c4-4e66-8017-2144a4e66f3c\"]",
+      "HiddenAbility": "[\"ecf92884-7c23-4d13-9d9a-1a687fe3f447\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "29",
+      "YieldAttack": "0",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "29",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "36",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "burmy-plant",
+      "DisplayName": "Plant Burmy",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

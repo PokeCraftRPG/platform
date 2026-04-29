@@ -1,0 +1,19 @@
+﻿{
+  "Id": "0c002ec7-830d-47a9-aae3-7ba687eddf3b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rain-dish",
+    "DisplayName": "Rain Dish",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rain-dish",
+      "DisplayName": "Rain Dish",
+      "Description": "The Pokémon gradually regains HP in rain.",
+      "FieldValues": {}
+    }
+  }
+}

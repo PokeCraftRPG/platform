@@ -1,0 +1,25 @@
+﻿{
+  "Id": "48319142-25c0-4a0f-8699-ce4fb61d8ef0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "megahorn",
+    "DisplayName": "Megahorn",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "85",
+      "Power": "120",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "megahorn",
+      "DisplayName": "Megahorn",
+      "Description": "Using its tough and impressive horn, the user rams into the target with no letup.",
+      "FieldValues": {}
+    }
+  }
+}

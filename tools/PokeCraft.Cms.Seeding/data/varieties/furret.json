@@ -1,0 +1,26 @@
+﻿{
+  "Id": "71b6ae10-743e-4525-ac13-cdcb254027c4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "furret",
+    "DisplayName": "Furret",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2001d877-7a6b-4ec0-86a8-e558d8bfd531\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "furret",
+      "DisplayName": "Furret",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Long Body"
+      }
+    }
+  }
+}

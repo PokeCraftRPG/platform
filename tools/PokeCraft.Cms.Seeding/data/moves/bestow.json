@@ -1,0 +1,23 @@
+﻿{
+  "Id": "f7e8c5f4-997b-4797-81f7-3cf06b21bf67",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bestow",
+    "DisplayName": "Bestow",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bestow",
+      "DisplayName": "Bestow",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f997dd02-0b0c-440e-97da-ef73d9c89225",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kricketune",
+    "DisplayName": "Kricketune",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c0db7fed-812b-4367-8799-2a4d4091c8e8\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kricketune",
+      "DisplayName": "Kricketune",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cricket"
+      }
+    }
+  }
+}

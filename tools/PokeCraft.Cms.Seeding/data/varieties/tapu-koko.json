@@ -1,0 +1,25 @@
+﻿{
+  "Id": "0276f051-ddeb-4de1-8b13-0036e2d441f5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tapu-koko",
+    "DisplayName": "Tapu Koko",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b337cae7-4253-47d2-93ad-8f1ea08d0a56\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tapu-koko",
+      "DisplayName": "Tapu Koko",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Land Spirit"
+      }
+    }
+  }
+}

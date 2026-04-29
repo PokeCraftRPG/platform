@@ -1,0 +1,24 @@
+﻿{
+  "Id": "7c1a5e4f-293a-4566-9aa5-0efdc1538ef3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "powder",
+    "DisplayName": "Powder",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "powder",
+      "DisplayName": "Powder",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e21358a3-a1f2-46d5-82a7-b1d52fe5b496",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lilligant",
+    "DisplayName": "Lilligant",
+    "Description": null,
+    "FieldValues": {
+      "Number": "549",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lilligant",
+      "DisplayName": "Lilligant",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

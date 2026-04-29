@@ -1,0 +1,19 @@
+﻿{
+  "Id": "fd80fd8e-dbd4-4b54-bfef-8ed47d35c99e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "protosynthesis",
+    "DisplayName": "Protosynthesis",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "protosynthesis",
+      "DisplayName": "Protosynthesis",
+      "Description": "Boosts the Pokémon's most proficient stat in harsh sunlight or if the Pokémon is holding Booster Energy.",
+      "FieldValues": {}
+    }
+  }
+}

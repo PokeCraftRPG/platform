@@ -1,0 +1,41 @@
+﻿{
+  "Id": "721f635e-795a-40ca-8ebc-ffc903ddd72c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "genesect-chill",
+    "DisplayName": "Chill Genesect",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"37cda208-e755-4e69-9736-7a5cd2d72a98\"]",
+      "Height": "15",
+      "Weight": "825",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"d6733ea3-81d4-420e-a980-5cc311be02e1\"]",
+      "BaseHP": "71",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "1",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "120",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "99",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Alternative\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "genesect-chill",
+      "DisplayName": "Chill Genesect",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

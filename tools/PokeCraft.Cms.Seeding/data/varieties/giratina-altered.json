@@ -1,0 +1,25 @@
+﻿{
+  "Id": "d3d382fe-1d0e-4e03-a31b-0496fc51415d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "giratina-altered",
+    "DisplayName": "Giratina",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e8a5b3c5-047b-4f77-bd4d-f849ec304c7e\"]",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "giratina-altered",
+      "DisplayName": "Giratina",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Renegade"
+      }
+    }
+  }
+}

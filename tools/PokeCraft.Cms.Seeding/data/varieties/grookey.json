@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9bc148b0-c64a-418c-90f0-bb700619703c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grookey",
+    "DisplayName": "Grookey",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c2435e61-20a8-49a8-9055-63a3f30b68b0\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grookey",
+      "DisplayName": "Grookey",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Chimp"
+      }
+    }
+  }
+}

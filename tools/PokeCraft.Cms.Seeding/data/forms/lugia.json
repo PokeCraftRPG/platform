@@ -1,0 +1,42 @@
+﻿{
+  "Id": "8f4d3703-1f81-41f2-a394-59bd10acdaa2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lugia",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3aea619c-9b1c-4bc5-bca1-8b81c644b0fc\"]",
+      "Height": "52",
+      "Weight": "2160",
+      "YieldExperience": "306",
+      "PrimaryAbility": "[\"04822c52-0ef2-4b5e-a4bb-176772f6c3d8\"]",
+      "HiddenAbility": "[\"c1d5c879-ddfc-4121-a943-0a637effd5ea\"]",
+      "BaseHP": "106",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "130",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "90",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "154",
+      "YieldSpecialDefense": "3",
+      "BaseSpeed": "110",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lugia",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

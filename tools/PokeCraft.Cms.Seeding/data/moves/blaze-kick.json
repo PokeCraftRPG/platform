@@ -1,0 +1,25 @@
+﻿{
+  "Id": "f52f4077-14b2-4559-a18e-d677367ae6da",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blaze-kick",
+    "DisplayName": "Blaze Kick",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "85",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blaze-kick",
+      "DisplayName": "Blaze Kick",
+      "Description": "The user launches a kick that has a heightened chance of landing a critical hit. This may also leave the target with a burn.",
+      "FieldValues": {}
+    }
+  }
+}

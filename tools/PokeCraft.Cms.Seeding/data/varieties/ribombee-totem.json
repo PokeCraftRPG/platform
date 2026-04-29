@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1f3fdd3c-33b4-48f9-a8e0-30d5f17630c8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ribombee-totem",
+    "DisplayName": "Ribombee",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"35051f36-ab0b-4720-85bc-58d491d90de1\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ribombee-totem",
+      "DisplayName": "Ribombee",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bee Fly"
+      }
+    }
+  }
+}

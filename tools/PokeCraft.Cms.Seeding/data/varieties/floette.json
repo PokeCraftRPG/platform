@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b640b9b1-439b-4633-8892-40e2837ea79a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "floette",
+    "DisplayName": "Floette",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"af1b545a-de34-4795-bc1d-56d5e67814fa\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "floette",
+      "DisplayName": "Floette",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Single Bloom"
+      }
+    }
+  }
+}

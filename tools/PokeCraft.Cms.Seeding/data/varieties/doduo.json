@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4c6afdfb-1675-4841-ad21-0c2cde035b35",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "doduo",
+    "DisplayName": "Doduo",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"744bba3e-3953-4b43-8e29-a0efb4fb4c40\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "doduo",
+      "DisplayName": "Doduo",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Twin Bird"
+      }
+    }
+  }
+}

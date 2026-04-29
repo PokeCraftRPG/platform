@@ -1,0 +1,23 @@
+﻿{
+  "Id": "a211ba1e-7c88-4ed4-891e-22ea3909d758",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "celebrate",
+    "DisplayName": "Celebrate",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "40"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "celebrate",
+      "DisplayName": "Celebrate",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

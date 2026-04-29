@@ -1,0 +1,41 @@
+﻿{
+  "Id": "65fffa15-412e-4dda-a28d-08535299b310",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "raboot",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3f9bce94-05e2-4097-bfdc-cbaaff851e31\"]",
+      "Height": "6",
+      "Weight": "90",
+      "YieldExperience": "147",
+      "PrimaryAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "HiddenAbility": "[\"b887d663-0d40-467d-bc3a-b39e4c496300\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "86",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "94",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "raboot",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

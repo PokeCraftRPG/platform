@@ -1,0 +1,26 @@
+﻿{
+  "Id": "73ae3902-3d77-42ee-b544-65921e7fae7a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bidoof",
+    "DisplayName": "Bidoof",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"22fed39d-26ae-441a-9cb6-e686a6233140\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bidoof",
+      "DisplayName": "Bidoof",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Plump Mouse"
+      }
+    }
+  }
+}

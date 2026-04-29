@@ -1,0 +1,42 @@
+﻿{
+  "Id": "382c6588-00b3-420d-a8b8-6e0c7f1fdaf7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "frosmoth",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"22aaa09a-1427-48e0-a275-f9f3a4a943ce\"]",
+      "Height": "13",
+      "Weight": "420",
+      "YieldExperience": "166",
+      "PrimaryAbility": "[\"29bd00fc-e0bf-4f2e-8cf9-f87e1aa11c4a\"]",
+      "HiddenAbility": "[\"ad295228-a241-455e-a1bc-d6fd7bac469f\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "125",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]",
+      "SecondaryType": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "frosmoth",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

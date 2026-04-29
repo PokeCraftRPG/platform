@@ -1,0 +1,42 @@
+﻿{
+  "Id": "6cde6f02-4f2e-4970-9939-4ceb54ff63ac",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bonsly",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"608e1457-fb37-4c86-94f4-312f54d84ef4\"]",
+      "Height": "5",
+      "Weight": "150",
+      "YieldExperience": "58",
+      "PrimaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "SecondaryAbility": "[\"98ae35ae-b156-4c2e-b4a7-8af42a8b0ef6\"]",
+      "HiddenAbility": "[\"9c030956-19a0-4e37-8835-0484c2fa3d91\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "10",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "10",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bonsly",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c614a3dd-8fd6-432d-8eec-d0bd91a75a15",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "eelektross",
+    "DisplayName": "Eelektross",
+    "Description": null,
+    "FieldValues": {
+      "Number": "604",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "30",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "eelektross",
+      "DisplayName": "Eelektross",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿{
+  "Id": "e712468b-1e20-41e7-92eb-a0a8ff5b365f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "metal-sound",
+    "DisplayName": "Metal Sound",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "85",
+      "PowerPoints": "40"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "metal-sound",
+      "DisplayName": "Metal Sound",
+      "Description": "A horrible sound like scraping metal harshly lowers the target's Sp. Def stat.",
+      "FieldValues": {}
+    }
+  }
+}

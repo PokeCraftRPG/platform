@@ -1,0 +1,27 @@
+﻿{
+  "Id": "aaf28e4d-ab69-445c-a8a3-fabf7ce92440",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toucannon",
+    "DisplayName": "Toucannon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "733",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toucannon",
+      "DisplayName": "Toucannon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "24ddca1f-c610-4023-aa2b-775baf602dbc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "combee",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4d9faca5-1986-4d70-90a4-2194492cb968\"]",
+      "Height": "3",
+      "Weight": "55",
+      "YieldExperience": "49",
+      "PrimaryAbility": "[\"3c9c9307-f766-43a4-8417-851955114a4b\"]",
+      "HiddenAbility": "[\"12b608f7-a7b7-412e-803f-28d4eaba64c8\"]",
+      "BaseHP": "30",
+      "YieldHP": "0",
+      "BaseAttack": "30",
+      "YieldAttack": "0",
+      "BaseDefense": "42",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "42",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "combee",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

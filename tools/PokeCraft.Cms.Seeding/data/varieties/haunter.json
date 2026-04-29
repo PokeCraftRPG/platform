@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6404d13f-275c-473b-b231-d6078b784eb3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "haunter",
+    "DisplayName": "Haunter",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9db1eebd-0ab3-45dd-b950-947d56a11246\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "haunter",
+      "DisplayName": "Haunter",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Gas"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿{
+  "Id": "1846af5a-c454-4434-941e-4a512614df7b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hypnosis",
+    "DisplayName": "Hypnosis",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "60",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hypnosis",
+      "DisplayName": "Hypnosis",
+      "Description": "The user employs hypnotic suggestion to make the target fall asleep.",
+      "FieldValues": {}
+    }
+  }
+}

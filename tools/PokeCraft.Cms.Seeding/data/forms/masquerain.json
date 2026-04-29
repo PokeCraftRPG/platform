@@ -1,0 +1,42 @@
+﻿{
+  "Id": "c69200cd-5f26-4484-9186-2e3ef2a7006c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "masquerain",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5c28da87-52a2-40e8-b040-c2d88a3e6da5\"]",
+      "Height": "8",
+      "Weight": "36",
+      "YieldExperience": "159",
+      "PrimaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "HiddenAbility": "[\"5cdb3b5f-b72c-4361-b715-922fc4cb31f9\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "62",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "82",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "masquerain",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

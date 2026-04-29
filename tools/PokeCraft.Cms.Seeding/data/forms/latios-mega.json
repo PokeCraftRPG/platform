@@ -1,0 +1,41 @@
+﻿{
+  "Id": "e06b1a9f-dc9e-4017-bf43-d8c7cef44d23",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "latios-mega",
+    "DisplayName": "Mega Latios",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e2f7bbf8-560f-45a8-9bdb-a5964439c02d\"]",
+      "Height": "23",
+      "Weight": "700",
+      "YieldExperience": "315",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "130",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "160",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "120",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "110",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "latios-mega",
+      "DisplayName": "Mega Latios",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

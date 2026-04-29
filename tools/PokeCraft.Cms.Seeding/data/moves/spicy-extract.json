@@ -1,0 +1,24 @@
+﻿{
+  "Id": "31a44da4-de2f-45ce-8390-c8212a8b5006",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spicy-extract",
+    "DisplayName": "Spicy Extract",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Status\"]",
+      "Power": "0",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spicy-extract",
+      "DisplayName": "Spicy Extract",
+      "Description": "The user emits an incredibly spicy extract, sharply boosting the target's Attack stat and harshly lowering the target's Defense stat.",
+      "FieldValues": {}
+    }
+  }
+}

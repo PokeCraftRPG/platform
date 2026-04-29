@@ -1,0 +1,41 @@
+﻿{
+  "Id": "6bb8788d-b201-4cbb-acfe-a77805c6997f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "articuno-galar",
+    "DisplayName": "Galarian Articuno",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e9d27c05-5097-4abd-bf72-12789932be8a\"]",
+      "Height": "17",
+      "Weight": "509",
+      "YieldExperience": "290",
+      "PrimaryAbility": "[\"2a7439f3-bce4-4614-9969-78ec2ce46f31\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "85",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "125",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "articuno-galar",
+      "DisplayName": "Galarian Articuno",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

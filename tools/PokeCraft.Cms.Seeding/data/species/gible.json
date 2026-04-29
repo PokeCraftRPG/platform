@@ -1,0 +1,28 @@
+﻿{
+  "Id": "48a9c4f7-2be9-4eaf-81da-3f5b08ca257c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gible",
+    "DisplayName": "Gible",
+    "Description": null,
+    "FieldValues": {
+      "Number": "443",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gible",
+      "DisplayName": "Gible",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

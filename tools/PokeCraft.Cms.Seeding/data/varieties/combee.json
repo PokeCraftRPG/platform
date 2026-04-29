@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4d9faca5-1986-4d70-90a4-2194492cb968",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "combee",
+    "DisplayName": "Combee",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"96bf1604-805e-43b5-99e4-89027bf4ce9f\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "combee",
+      "DisplayName": "Combee",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tiny Bee"
+      }
+    }
+  }
+}

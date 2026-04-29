@@ -1,0 +1,23 @@
+﻿{
+  "Id": "463bde3f-ab5b-4513-a8ca-eb0254456a7e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "yawn",
+    "DisplayName": "Yawn",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "yawn",
+      "DisplayName": "Yawn",
+      "Description": "The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.",
+      "FieldValues": {}
+    }
+  }
+}

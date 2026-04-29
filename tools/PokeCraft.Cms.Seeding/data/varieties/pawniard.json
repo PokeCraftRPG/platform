@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6aec7dad-0aad-486e-aab9-077443f50c0d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pawniard",
+    "DisplayName": "Pawniard",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"99694d6b-6a12-4a09-afcb-2d2d8414ad36\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pawniard",
+      "DisplayName": "Pawniard",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sharp Blade"
+      }
+    }
+  }
+}

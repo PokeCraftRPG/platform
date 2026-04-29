@@ -1,0 +1,19 @@
+﻿{
+  "Id": "5eb98023-95bd-43b5-ada7-ca21d66bbead",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "good-as-gold",
+    "DisplayName": "Good as Gold",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "good-as-gold",
+      "DisplayName": "Good as Gold",
+      "Description": "A body of pure, solid gold gives the Pokémon full immunity to other Pokémon's status moves.",
+      "FieldValues": {}
+    }
+  }
+}

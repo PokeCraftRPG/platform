@@ -1,0 +1,23 @@
+﻿{
+  "Id": "e1c7b77f-8cd3-4926-b056-8fc20ec6f375",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shore-up",
+    "DisplayName": "Shore Up",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shore-up",
+      "DisplayName": "Shore Up",
+      "Description": "The user restores its own HP by up to half its max HP. It regains more HP in a sandstorm.",
+      "FieldValues": {}
+    }
+  }
+}

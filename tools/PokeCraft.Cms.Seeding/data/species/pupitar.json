@@ -1,0 +1,27 @@
+﻿{
+  "Id": "1a6e1c85-f558-40d6-b298-ac6d4b082970",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pupitar",
+    "DisplayName": "Pupitar",
+    "Description": null,
+    "FieldValues": {
+      "Number": "247",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Monster\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pupitar",
+      "DisplayName": "Pupitar",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

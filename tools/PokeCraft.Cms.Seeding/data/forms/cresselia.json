@@ -1,0 +1,40 @@
+﻿{
+  "Id": "aab809af-b9d6-4cd0-86d8-5ca0fc2341e7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cresselia",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a6c2c0ab-b821-4bff-ba84-16990b875a25\"]",
+      "Height": "15",
+      "Weight": "856",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "BaseHP": "120",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "110",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "120",
+      "YieldSpecialDefense": "3",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cresselia",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

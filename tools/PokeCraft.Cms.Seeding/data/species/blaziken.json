@@ -1,0 +1,27 @@
+﻿{
+  "Id": "550a47f7-96bf-4def-a9e6-783d0f41de67",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blaziken",
+    "DisplayName": "Blaziken",
+    "Description": null,
+    "FieldValues": {
+      "Number": "257",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blaziken",
+      "DisplayName": "Blaziken",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

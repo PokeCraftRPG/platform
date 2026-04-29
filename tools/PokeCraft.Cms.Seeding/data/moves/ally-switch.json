@@ -1,0 +1,23 @@
+﻿{
+  "Id": "fac07a40-200f-4494-ae4e-f38a5aeaac22",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ally-switch",
+    "DisplayName": "Ally Switch",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ally-switch",
+      "DisplayName": "Ally Switch",
+      "Description": "The user teleports using a strange power and switches places with one of its allies. This move's chance of failing rises if it is used in succession.",
+      "FieldValues": {}
+    }
+  }
+}

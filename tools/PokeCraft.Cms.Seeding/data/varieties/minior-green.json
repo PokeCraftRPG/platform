@@ -1,0 +1,25 @@
+﻿{
+  "Id": "a8410169-56c0-4fb8-b400-46567a566189",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "minior-green",
+    "DisplayName": "Minior",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ec6fcbc3-590c-44c1-9736-43cc4f88ca67\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "minior-green",
+      "DisplayName": "Minior",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Meteor"
+      }
+    }
+  }
+}

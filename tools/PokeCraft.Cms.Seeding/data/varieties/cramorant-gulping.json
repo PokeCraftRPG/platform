@@ -1,0 +1,26 @@
+﻿{
+  "Id": "eb5edffb-c943-4ab3-ba90-0118de10fe80",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cramorant-gulping",
+    "DisplayName": "Cramorant",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0b9f456b-2654-43da-bf71-4f98541f2561\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cramorant-gulping",
+      "DisplayName": "Cramorant",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Gulp"
+      }
+    }
+  }
+}

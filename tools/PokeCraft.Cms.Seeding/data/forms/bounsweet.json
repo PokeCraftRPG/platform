@@ -1,0 +1,42 @@
+﻿{
+  "Id": "d9897fd5-99c4-46a2-b6bf-0fca726d7f73",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bounsweet",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0111df10-c6e6-4b1a-827e-db789bd0e6de\"]",
+      "Height": "3",
+      "Weight": "32",
+      "YieldExperience": "42",
+      "PrimaryAbility": "[\"d724fdd9-3db1-4a76-8de7-aa696033fa20\"]",
+      "SecondaryAbility": "[\"a720be5d-1a4e-4e14-8426-1ba0fc59a8ed\"]",
+      "HiddenAbility": "[\"cd664007-8bcb-4772-9253-08beb8edb12e\"]",
+      "BaseHP": "42",
+      "YieldHP": "1",
+      "BaseAttack": "30",
+      "YieldAttack": "0",
+      "BaseDefense": "38",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "38",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "32",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bounsweet",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

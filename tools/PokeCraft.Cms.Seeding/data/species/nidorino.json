@@ -1,0 +1,28 @@
+﻿{
+  "Id": "9d1f84ed-4245-43e1-a29f-b29c2081087f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nidorino",
+    "DisplayName": "Nidorino",
+    "Description": null,
+    "FieldValues": {
+      "Number": "33",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nidorino",
+      "DisplayName": "Nidorino",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

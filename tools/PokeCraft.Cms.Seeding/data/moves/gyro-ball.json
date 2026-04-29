@@ -1,0 +1,24 @@
+﻿{
+  "Id": "e934c812-0cb6-4c47-8bf9-0d096f5e6817",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gyro-ball",
+    "DisplayName": "Gyro Ball",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gyro-ball",
+      "DisplayName": "Gyro Ball",
+      "Description": "The user tackles the target with a high-speed spin. The slower the user is than the target, the greater the move's power.",
+      "FieldValues": {}
+    }
+  }
+}

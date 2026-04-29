@@ -1,0 +1,28 @@
+﻿{
+  "Id": "49996ddb-ecc0-4896-a0e2-35549ddef467",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "masquerain",
+    "DisplayName": "Masquerain",
+    "Description": null,
+    "FieldValues": {
+      "Number": "284",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "masquerain",
+      "DisplayName": "Masquerain",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

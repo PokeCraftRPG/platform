@@ -1,0 +1,27 @@
+﻿{
+  "Id": "9a7628bf-20a9-4bef-953e-f7ccb6759a4a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "jigglypuff",
+    "DisplayName": "Jigglypuff",
+    "Description": null,
+    "FieldValues": {
+      "Number": "39",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "170",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "jigglypuff",
+      "DisplayName": "Jigglypuff",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

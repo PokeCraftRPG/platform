@@ -1,0 +1,27 @@
+﻿{
+  "Id": "6327b598-8126-4870-a8c5-18adf3aae70a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "camerupt",
+    "DisplayName": "Camerupt",
+    "Description": null,
+    "FieldValues": {
+      "Number": "323",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "150",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "camerupt",
+      "DisplayName": "Camerupt",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

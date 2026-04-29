@@ -1,0 +1,24 @@
+﻿{
+  "Id": "baf0735c-658a-48dc-9905-32d6e677b90a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "encore",
+    "DisplayName": "Encore",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "encore",
+      "DisplayName": "Encore",
+      "Description": "The user compels the target to keep using the move it encored for three turns.",
+      "FieldValues": {}
+    }
+  }
+}

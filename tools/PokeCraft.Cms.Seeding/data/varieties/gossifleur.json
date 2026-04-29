@@ -1,0 +1,26 @@
+﻿{
+  "Id": "db62e17e-c33a-4586-b1c1-a0201f68458c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gossifleur",
+    "DisplayName": "Gossifleur",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5b2d29d2-37fe-4c03-863d-479f9888f643\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gossifleur",
+      "DisplayName": "Gossifleur",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Flowering"
+      }
+    }
+  }
+}

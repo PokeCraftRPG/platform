@@ -1,0 +1,26 @@
+﻿{
+  "Id": "817a5e8d-bab4-4f54-83fc-f102d2212727",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cottonee",
+    "DisplayName": "Cottonee",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"736e3ce9-99ab-4299-8e96-e389d8df5e7b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cottonee",
+      "DisplayName": "Cottonee",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cotton Puff"
+      }
+    }
+  }
+}

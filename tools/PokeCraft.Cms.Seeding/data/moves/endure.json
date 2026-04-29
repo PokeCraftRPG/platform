@@ -1,0 +1,23 @@
+﻿{
+  "Id": "c9f5a4f7-5573-4979-832a-0bd65768ddda",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "endure",
+    "DisplayName": "Endure",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "endure",
+      "DisplayName": "Endure",
+      "Description": "The user endures any attack with at least 1 HP. This move's chance of failing rises if used in succession.",
+      "FieldValues": {}
+    }
+  }
+}

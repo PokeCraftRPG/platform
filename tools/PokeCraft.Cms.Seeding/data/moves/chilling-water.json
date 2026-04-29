@@ -1,0 +1,25 @@
+﻿{
+  "Id": "5529865c-5c81-49d0-a8cd-bcd33952e464",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chilling-water",
+    "DisplayName": "Chilling Water",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "50",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chilling-water",
+      "DisplayName": "Chilling Water",
+      "Description": "The user attacks the target by showering it with water that's so cold it saps the target's power. This also lowers the target's Attack stat.",
+      "FieldValues": {}
+    }
+  }
+}

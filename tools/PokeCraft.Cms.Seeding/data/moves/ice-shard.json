@@ -1,0 +1,25 @@
+﻿{
+  "Id": "0ca1d4ff-f86e-4120-a024-ee2152369041",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ice-shard",
+    "DisplayName": "Ice Shard",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ice-shard",
+      "DisplayName": "Ice Shard",
+      "Description": "The user flash-freezes chunks of ice and hurls them at the target. This move always goes first.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "62fb66a2-f1a3-4a9e-a79c-62e5aef80e0f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clefable",
+    "DisplayName": "Clefable",
+    "Description": null,
+    "FieldValues": {
+      "Number": "36",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "140",
+      "CatchRate": "25",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clefable",
+      "DisplayName": "Clefable",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

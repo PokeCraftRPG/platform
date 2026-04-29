@@ -1,0 +1,26 @@
+﻿{
+  "Id": "edd3d953-55f7-47d4-9dfc-959653a04b76",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "morelull",
+    "DisplayName": "Morelull",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2f37a389-3019-4a3c-9a54-dd568995fe40\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "morelull",
+      "DisplayName": "Morelull",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Illuminating"
+      }
+    }
+  }
+}

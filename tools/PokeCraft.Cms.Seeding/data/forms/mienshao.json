@@ -1,0 +1,42 @@
+﻿{
+  "Id": "f47f0fb3-0152-4e38-8e09-d18ad0498592",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mienshao",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"dd652559-1047-4c2f-92d3-12b824618107\"]",
+      "Height": "14",
+      "Weight": "355",
+      "YieldExperience": "179",
+      "PrimaryAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "SecondaryAbility": "[\"3f2976c2-09ac-4c69-8b32-5d930032faba\"]",
+      "HiddenAbility": "[\"3e4191ac-398f-48f3-a3ce-106d5ddd1742\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "125",
+      "YieldAttack": "2",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "105",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mienshao",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

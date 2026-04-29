@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5e24a519-4f4d-413f-853e-6999b0789c0e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vigoroth",
+    "DisplayName": "Vigoroth",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2a53b8b7-096a-46fa-a130-bde4f74e1389\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vigoroth",
+      "DisplayName": "Vigoroth",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Wild Monkey"
+      }
+    }
+  }
+}

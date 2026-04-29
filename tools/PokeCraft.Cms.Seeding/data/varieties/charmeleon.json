@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3d8d7313-aa9c-4530-a232-6c093879204a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "charmeleon",
+    "DisplayName": "Charmeleon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1a2040a5-ebbb-4031-9dd1-867ec6eeb750\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "charmeleon",
+      "DisplayName": "Charmeleon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Flame"
+      }
+    }
+  }
+}

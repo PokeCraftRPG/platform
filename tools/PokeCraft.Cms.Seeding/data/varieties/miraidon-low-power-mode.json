@@ -1,0 +1,25 @@
+﻿{
+  "Id": "22cc711f-1fb9-48b8-b69c-dbf494c2e440",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "miraidon-low-power-mode",
+    "DisplayName": "Miraidon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e2523254-5c7f-4b63-beb9-6824533adf80\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "miraidon-low-power-mode",
+      "DisplayName": "Miraidon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

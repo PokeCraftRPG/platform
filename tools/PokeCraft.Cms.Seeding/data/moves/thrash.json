@@ -1,0 +1,25 @@
+﻿{
+  "Id": "afca07f4-428e-4e1b-a5b7-a68cde54f2f0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thrash",
+    "DisplayName": "Thrash",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thrash",
+      "DisplayName": "Thrash",
+      "Description": "The user rampages and attacks for two to three turns. The user then becomes confused.",
+      "FieldValues": {}
+    }
+  }
+}

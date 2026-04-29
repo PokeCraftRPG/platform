@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ff915ae7-c278-4f34-a146-c29dece389cc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "excadrill",
+    "DisplayName": "Excadrill",
+    "Description": null,
+    "FieldValues": {
+      "Number": "530",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "excadrill",
+      "DisplayName": "Excadrill",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

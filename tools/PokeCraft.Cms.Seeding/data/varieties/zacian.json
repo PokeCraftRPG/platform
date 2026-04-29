@@ -1,0 +1,25 @@
+﻿{
+  "Id": "b8a92328-300d-455a-a6fb-2f5f8a9cece1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zacian",
+    "DisplayName": "Zacian",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4959dd63-171a-491d-98a9-76a11d235a28\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zacian",
+      "DisplayName": "Zacian",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Warrior"
+      }
+    }
+  }
+}

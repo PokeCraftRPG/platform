@@ -1,0 +1,25 @@
+﻿{
+  "Id": "79f3bef7-29e1-415a-891d-37eddbb2f11e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mighty-cleave",
+    "DisplayName": "Mighty Cleave",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Rock\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "95",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mighty-cleave",
+      "DisplayName": "Mighty Cleave",
+      "Description": "The user wields the light that has accumulated atop its head to cleave the target. This move hits even if the target protects itself.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "48447549-44c6-4e4d-be97-82f1e7a08ec4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "poliwhirl",
+    "DisplayName": "Poliwhirl",
+    "Description": null,
+    "FieldValues": {
+      "Number": "61",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "poliwhirl",
+      "DisplayName": "Poliwhirl",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

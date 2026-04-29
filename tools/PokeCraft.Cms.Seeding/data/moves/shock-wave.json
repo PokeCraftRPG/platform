@@ -1,0 +1,24 @@
+﻿{
+  "Id": "87524452-c554-448c-91a4-6bfec8811529",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shock-wave",
+    "DisplayName": "Shock Wave",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Special\"]",
+      "Power": "60",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shock-wave",
+      "DisplayName": "Shock Wave",
+      "Description": "The user strikes the target with a quick jolt of electricity. This attack never misses.",
+      "FieldValues": {}
+    }
+  }
+}

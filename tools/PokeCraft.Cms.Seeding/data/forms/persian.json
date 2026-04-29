@@ -1,0 +1,42 @@
+﻿{
+  "Id": "71daa3e3-1e3f-4d22-a023-72c3a9a6c790",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "persian",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"639a4133-ec35-4563-86b1-283333dd89e0\"]",
+      "Height": "10",
+      "Weight": "320",
+      "YieldExperience": "154",
+      "PrimaryAbility": "[\"170e2598-7fd5-497f-9003-f9d753aadd0d\"]",
+      "SecondaryAbility": "[\"d20432c3-18d0-4160-a3f1-a363c9e6633d\"]",
+      "HiddenAbility": "[\"5cdb3b5f-b72c-4361-b715-922fc4cb31f9\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "115",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "persian",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

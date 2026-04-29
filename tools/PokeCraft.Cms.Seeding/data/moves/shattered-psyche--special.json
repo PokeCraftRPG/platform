@@ -1,0 +1,23 @@
+﻿{
+  "Id": "38ea1a64-7881-4abb-884a-18fdea977979",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shattered-psyche--special",
+    "DisplayName": "Shattered Psyche",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shattered-psyche--special",
+      "DisplayName": "Shattered Psyche",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

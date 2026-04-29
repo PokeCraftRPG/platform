@@ -1,0 +1,41 @@
+﻿{
+  "Id": "08808a1a-6c8d-408f-9c72-42e95df1c890",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-leaves",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7f2b84b7-d0b8-4852-b88f-f696b8625c58\"]",
+      "Height": "15",
+      "Weight": "1250",
+      "YieldExperience": "295",
+      "PrimaryAbility": "[\"7cef81dc-7c42-4b31-b37d-79a7e926c4cd\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "130",
+      "YieldAttack": "3",
+      "BaseDefense": "88",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "108",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "104",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-leaves",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

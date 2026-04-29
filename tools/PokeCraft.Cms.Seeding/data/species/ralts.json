@@ -1,0 +1,28 @@
+﻿{
+  "Id": "48e6138a-c365-4e30-8c15-e3db5806590a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ralts",
+    "DisplayName": "Ralts",
+    "Description": null,
+    "FieldValues": {
+      "Number": "280",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "235",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]",
+      "SecondaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ralts",
+      "DisplayName": "Ralts",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "cfaa558e-7ce0-4c55-a7b9-360497a9cd72",
+  "Invariant": {
+    "IsPublished": true,
+    "UniqueName": "rowlet",
+    "DisplayName": "Rowlet",
+    "Description": null,
+    "FieldValues": {
+      "Number": "722",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": true,
+      "UniqueName": "rowlet",
+      "DisplayName": "Rowlet",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

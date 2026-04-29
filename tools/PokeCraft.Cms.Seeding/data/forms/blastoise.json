@@ -1,0 +1,41 @@
+﻿{
+  "Id": "f6ef505a-0050-4251-abe9-5768df6e4ea0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blastoise",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9ce01c36-4a76-4843-ab54-506cbc2ac6f6\"]",
+      "Height": "16",
+      "Weight": "855",
+      "YieldExperience": "239",
+      "PrimaryAbility": "[\"973e0e1a-dcca-4ab1-bd25-90df209dfc63\"]",
+      "HiddenAbility": "[\"0c002ec7-830d-47a9-aae3-7ba687eddf3b\"]",
+      "BaseHP": "79",
+      "YieldHP": "0",
+      "BaseAttack": "83",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "105",
+      "YieldSpecialDefense": "3",
+      "BaseSpeed": "78",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blastoise",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

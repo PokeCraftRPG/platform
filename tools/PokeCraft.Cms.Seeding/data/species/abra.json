@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c3079f18-9f5a-4c21-8bbd-51696110a412",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "abra",
+    "DisplayName": "Abra",
+    "Description": null,
+    "FieldValues": {
+      "Number": "63",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "200",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "abra",
+      "DisplayName": "Abra",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

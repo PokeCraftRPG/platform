@@ -1,0 +1,25 @@
+﻿{
+  "Id": "b6bcf8c8-620e-4873-9ea2-85b0ae425e01",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vine-whip",
+    "DisplayName": "Vine Whip",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "45",
+      "PowerPoints": "25"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vine-whip",
+      "DisplayName": "Vine Whip",
+      "Description": "The target is struck with slender, whiplike vines to inflict damage.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "db5ce56b-4b38-4ed2-ae1a-dc77739de78c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tyrogue",
+    "DisplayName": "Tyrogue",
+    "Description": null,
+    "FieldValues": {
+      "Number": "236",
+      "Category": "[\"Baby\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tyrogue",
+      "DisplayName": "Tyrogue",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

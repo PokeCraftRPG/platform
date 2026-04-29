@@ -1,0 +1,42 @@
+﻿{
+  "Id": "517d9f4f-5002-4fc0-98a6-591f8e652ad8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swalot",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e5e6c8bf-1095-4a1b-add6-0eaa0031cc57\"]",
+      "Height": "17",
+      "Weight": "800",
+      "YieldExperience": "163",
+      "PrimaryAbility": "[\"b482a4ff-53ed-43e3-8c96-e06c23762a48\"]",
+      "SecondaryAbility": "[\"c6f1b814-650e-4b1f-a482-7ed07ca1c7af\"]",
+      "HiddenAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "BaseHP": "100",
+      "YieldHP": "2",
+      "BaseAttack": "73",
+      "YieldAttack": "0",
+      "BaseDefense": "83",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "73",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "83",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swalot",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

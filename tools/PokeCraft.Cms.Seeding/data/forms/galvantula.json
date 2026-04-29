@@ -1,0 +1,43 @@
+﻿{
+  "Id": "f98e7c6b-3b51-4938-a804-8a3c4366acae",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "galvantula",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ca86e20f-0413-49af-a512-264a6edc91e3\"]",
+      "Height": "8",
+      "Weight": "143",
+      "YieldExperience": "165",
+      "PrimaryAbility": "[\"65e44b8e-43f4-4e6f-9e4e-db99591d1061\"]",
+      "SecondaryAbility": "[\"5cdb3b5f-b72c-4361-b715-922fc4cb31f9\"]",
+      "HiddenAbility": "[\"ba1b3a50-acc0-4032-bf14-6572fa26daed\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "77",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "97",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "108",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "galvantula",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

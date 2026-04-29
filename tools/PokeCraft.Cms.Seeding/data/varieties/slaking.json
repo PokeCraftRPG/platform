@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f2870f5c-82b4-4a34-b0e5-7aa90a7cc49b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slaking",
+    "DisplayName": "Slaking",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e092d982-d6c5-4435-b138-39b06a3427ab\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slaking",
+      "DisplayName": "Slaking",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Lazy"
+      }
+    }
+  }
+}

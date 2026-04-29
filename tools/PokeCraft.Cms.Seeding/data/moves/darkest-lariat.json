@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ec2fa86f-f9cc-49dc-9e3d-6d852be6651b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "darkest-lariat",
+    "DisplayName": "Darkest Lariat",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "85",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "darkest-lariat",
+      "DisplayName": "Darkest Lariat",
+      "Description": "The user swings both arms and hits the target. The target's stat changes don't affect the damage inflicted by this move.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "25282318-f2b2-40a6-a3ae-74ac70e982e3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rhydon",
+    "DisplayName": "Rhydon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "112",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rhydon",
+      "DisplayName": "Rhydon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

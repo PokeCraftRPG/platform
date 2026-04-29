@@ -1,0 +1,41 @@
+﻿{
+  "Id": "cadb937e-bd20-4a1c-bd05-2cb05c68a23b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "charjabug",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6df677bc-34f1-4f2e-85f7-bbfd16fe03dd\"]",
+      "Height": "5",
+      "Weight": "105",
+      "YieldExperience": "140",
+      "PrimaryAbility": "[\"a9491dfd-2dee-4924-8f90-137f818c18e0\"]",
+      "BaseHP": "57",
+      "YieldHP": "0",
+      "BaseAttack": "82",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "36",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "charjabug",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

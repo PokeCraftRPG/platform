@@ -1,0 +1,23 @@
+﻿{
+  "Id": "ca200b76-c865-4f4b-b302-4cbdee9ab61b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "copycat",
+    "DisplayName": "Copycat",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "copycat",
+      "DisplayName": "Copycat",
+      "Description": "The user mimics the move used immediately before it. The move fails if no other move has been used yet.",
+      "FieldValues": {}
+    }
+  }
+}

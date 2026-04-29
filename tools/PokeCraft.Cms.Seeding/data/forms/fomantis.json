@@ -1,0 +1,41 @@
+﻿{
+  "Id": "29b0ae5e-2e51-4b21-b98f-75ee3a43357c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fomantis",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1d6e5268-26e2-4d56-baac-1f64864a29ed\"]",
+      "Height": "3",
+      "Weight": "15",
+      "YieldExperience": "50",
+      "PrimaryAbility": "[\"d724fdd9-3db1-4a76-8de7-aa696033fa20\"]",
+      "HiddenAbility": "[\"db725f43-cf10-4966-83cf-8f61405f506f\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "1",
+      "BaseDefense": "35",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "35",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fomantis",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

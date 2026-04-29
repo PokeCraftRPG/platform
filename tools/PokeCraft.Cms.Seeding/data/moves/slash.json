@@ -1,0 +1,25 @@
+﻿{
+  "Id": "e233d1f3-cf78-45df-b54c-d139984c36bb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slash",
+    "DisplayName": "Slash",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "70",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slash",
+      "DisplayName": "Slash",
+      "Description": "The target is attacked with a slash of claws, scythes, or the like. This move has a heightened chance of landing a critical hit.",
+      "FieldValues": {}
+    }
+  }
+}

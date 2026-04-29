@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a2f6244f-247e-4719-9350-5b26eff98000",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gengar-mega",
+    "DisplayName": "Gengar",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"189e8d3b-86aa-48ed-8108-1378d37dcfa5\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gengar-mega",
+      "DisplayName": "Gengar",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Shadow"
+      }
+    }
+  }
+}

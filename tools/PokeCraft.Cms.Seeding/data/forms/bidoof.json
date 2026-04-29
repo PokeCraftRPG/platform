@@ -1,0 +1,42 @@
+﻿{
+  "Id": "f8b84c6e-6a21-4aee-b4d2-d7fd4b86ee79",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bidoof",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"73ae3902-3d77-42ee-b544-65921e7fae7a\"]",
+      "Height": "5",
+      "Weight": "200",
+      "YieldExperience": "50",
+      "PrimaryAbility": "[\"d970f26f-f621-46d2-812e-c20eba98a492\"]",
+      "SecondaryAbility": "[\"f9f08a4a-14de-4ff0-8844-8f97068aa2a3\"]",
+      "HiddenAbility": "[\"e54f140b-893f-4621-b7ac-44928594080e\"]",
+      "BaseHP": "59",
+      "YieldHP": "1",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "31",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bidoof",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "daee0f0b-351d-4288-b4f6-3f6713570957",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clawitzer",
+    "DisplayName": "Clawitzer",
+    "Description": null,
+    "FieldValues": {
+      "Number": "693",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "55",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clawitzer",
+      "DisplayName": "Clawitzer",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

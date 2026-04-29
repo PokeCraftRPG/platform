@@ -1,0 +1,28 @@
+﻿{
+  "Id": "dc7b7aeb-c7f7-47d2-a381-19db20d9e54f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wattrel",
+    "DisplayName": "Wattrel",
+    "Description": null,
+    "FieldValues": {
+      "Number": "940",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "180",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wattrel",
+      "DisplayName": "Wattrel",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "d48c7c79-98f0-4169-880b-02febd7bcafe",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "squirtle",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6dead6b0-505e-4b3c-a2f8-f61a75dc35fc\"]",
+      "Height": "5",
+      "Weight": "90",
+      "YieldExperience": "63",
+      "PrimaryAbility": "[\"973e0e1a-dcca-4ab1-bd25-90df209dfc63\"]",
+      "HiddenAbility": "[\"0c002ec7-830d-47a9-aae3-7ba687eddf3b\"]",
+      "BaseHP": "44",
+      "YieldHP": "0",
+      "BaseAttack": "48",
+      "YieldAttack": "0",
+      "BaseDefense": "65",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "64",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "43",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "squirtle",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

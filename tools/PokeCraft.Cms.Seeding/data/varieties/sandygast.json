@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a584e53b-26da-4c6d-b9b0-ff1b37bf6890",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sandygast",
+    "DisplayName": "Sandygast",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"256189d1-90b5-4643-9345-848241f49a3e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sandygast",
+      "DisplayName": "Sandygast",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sand Heap"
+      }
+    }
+  }
+}

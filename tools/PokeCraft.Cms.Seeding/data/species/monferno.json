@@ -1,0 +1,28 @@
+﻿{
+  "Id": "c6ddb131-c076-4da4-88e8-278f14af01ca",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "monferno",
+    "DisplayName": "Monferno",
+    "Description": null,
+    "FieldValues": {
+      "Number": "391",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "monferno",
+      "DisplayName": "Monferno",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

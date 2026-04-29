@@ -1,0 +1,27 @@
+﻿{
+  "Id": "09617224-c7ca-425a-9d6e-52c570c5e078",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "amaura",
+    "DisplayName": "Amaura",
+    "Description": null,
+    "FieldValues": {
+      "Number": "698",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Monster\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "amaura",
+      "DisplayName": "Amaura",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

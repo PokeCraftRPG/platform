@@ -1,0 +1,40 @@
+﻿{
+  "Id": "9680b509-802a-4009-a648-e15ec57a33b2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "excadrill-mega",
+    "DisplayName": "Mega Excadrill",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ad8885d1-56c4-4979-b283-52d9f83cc80e\"]",
+      "Height": "9",
+      "Weight": "600",
+      "PrimaryAbility": "[\"d90a617d-b2c3-4675-b1a0-ac66159113b1\"]",
+      "BaseHP": "110",
+      "YieldHP": "0",
+      "BaseAttack": "165",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "103",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "excadrill-mega",
+      "DisplayName": "Mega Excadrill",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "deb1b76a-3a7e-4c84-a209-e57542b66f91",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "moltres-galar",
+    "DisplayName": "Galarian Moltres",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"832e8dc8-307d-4a6f-af60-f47fdd1907da\"]",
+      "Height": "20",
+      "Weight": "660",
+      "YieldExperience": "290",
+      "PrimaryAbility": "[\"06ecb525-1130-4301-ad97-f353a1b42da7\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "125",
+      "YieldSpecialDefense": "3",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "moltres-galar",
+      "DisplayName": "Galarian Moltres",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

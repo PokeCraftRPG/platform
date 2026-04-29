@@ -1,0 +1,42 @@
+﻿{
+  "Id": "5c46112a-ccf5-4f2b-ab8f-6d0cc49c3c0a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "infernape",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"03cd6f3d-e3ed-49e8-9481-f6551c6f08d8\"]",
+      "Height": "12",
+      "Weight": "550",
+      "YieldExperience": "240",
+      "PrimaryAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "HiddenAbility": "[\"e3b961ab-87de-40fc-9d8d-95dda45c14df\"]",
+      "BaseHP": "76",
+      "YieldHP": "0",
+      "BaseAttack": "104",
+      "YieldAttack": "1",
+      "BaseDefense": "71",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "104",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "71",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "108",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "infernape",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

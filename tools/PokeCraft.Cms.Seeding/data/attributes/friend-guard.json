@@ -1,0 +1,19 @@
+﻿{
+  "Id": "47068609-b1c5-409b-a6c0-abb9e56e4c44",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "friend-guard",
+    "DisplayName": "Friend Guard",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "friend-guard",
+      "DisplayName": "Friend Guard",
+      "Description": "Reduces damage dealt to allies.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿{
+  "Id": "1e296779-e48a-451d-a6f6-bd0ecce6eaa3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shadow-punch",
+    "DisplayName": "Shadow Punch",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "60",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shadow-punch",
+      "DisplayName": "Shadow Punch",
+      "Description": "The user throws a punch from the shadows. This attack never misses.",
+      "FieldValues": {}
+    }
+  }
+}

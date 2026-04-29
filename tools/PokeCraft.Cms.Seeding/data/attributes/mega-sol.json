@@ -1,0 +1,19 @@
+﻿{
+  "Id": "59eafc09-3108-4914-b22e-44c70185e892",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mega-sol",
+    "DisplayName": "Mega Sol",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mega-sol",
+      "DisplayName": "Mega Sol",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

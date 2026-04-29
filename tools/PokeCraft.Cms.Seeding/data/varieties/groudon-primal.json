@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ae6eafd2-4ffc-491f-afc5-226de0aaf875",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "groudon-primal",
+    "DisplayName": "Groudon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7512b683-74a4-4c50-9064-268aa4cf74b0\"]",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "groudon-primal",
+      "DisplayName": "Groudon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Continent"
+      }
+    }
+  }
+}

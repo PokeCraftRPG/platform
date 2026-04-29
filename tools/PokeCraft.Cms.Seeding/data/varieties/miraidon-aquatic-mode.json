@@ -1,0 +1,25 @@
+﻿{
+  "Id": "d3a5b76c-f4ae-44a1-a092-b3c6d779a039",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "miraidon-aquatic-mode",
+    "DisplayName": "Miraidon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e2523254-5c7f-4b63-beb9-6824533adf80\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "miraidon-aquatic-mode",
+      "DisplayName": "Miraidon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

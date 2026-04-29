@@ -1,0 +1,39 @@
+﻿{
+  "Id": "baa776ea-b375-4db8-a3fa-392e9d3dfd6a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scolipede-mega",
+    "DisplayName": "Mega Scolipede",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"bdf0d789-29b4-406a-89da-5e788e52fc5d\"]",
+      "Height": "32",
+      "Weight": "2305",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "140",
+      "YieldAttack": "0",
+      "BaseDefense": "149",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "99",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "62",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scolipede-mega",
+      "DisplayName": "Mega Scolipede",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

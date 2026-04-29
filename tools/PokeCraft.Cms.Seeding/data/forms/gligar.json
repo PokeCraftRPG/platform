@@ -1,0 +1,43 @@
+﻿{
+  "Id": "52e22801-3a58-416d-b7c3-d20dbacfcf6b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gligar",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9b9ebd2e-70ef-4019-8d98-a268a1f8dd1e\"]",
+      "Height": "11",
+      "Weight": "648",
+      "YieldExperience": "86",
+      "PrimaryAbility": "[\"57e539ec-9a7b-4925-ad82-81080aa7ceb2\"]",
+      "SecondaryAbility": "[\"2298dae8-5c1f-423f-960d-8cf61b19c897\"]",
+      "HiddenAbility": "[\"87d19fcd-9364-4f75-ba5c-cc9f55b081b8\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "105",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gligar",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

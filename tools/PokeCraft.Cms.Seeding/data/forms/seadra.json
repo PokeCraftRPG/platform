@@ -1,0 +1,42 @@
+﻿{
+  "Id": "63d300cd-822e-4d08-8367-390290dc254a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "seadra",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"8255ca90-3702-4ea4-a5b1-540d7f913147\"]",
+      "Height": "12",
+      "Weight": "250",
+      "YieldExperience": "154",
+      "PrimaryAbility": "[\"2f1ed275-bfaf-494d-8d85-c48aee736e43\"]",
+      "SecondaryAbility": "[\"e1b8fd69-5bf8-4889-ab24-ea30a8419d99\"]",
+      "HiddenAbility": "[\"ebbf0ce1-0fb1-42cd-81bf-091e737bbfd4\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "seadra",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

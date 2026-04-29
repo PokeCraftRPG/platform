@@ -1,0 +1,42 @@
+﻿{
+  "Id": "4a3bcdd6-49ef-4d95-992c-b7ae53b6f77c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "raticate",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"bf9be9ae-606a-42dd-8cf0-f5cedc731cd3\"]",
+      "Height": "7",
+      "Weight": "185",
+      "YieldExperience": "145",
+      "PrimaryAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "SecondaryAbility": "[\"1c326e45-7c1a-4f8a-a55c-751b60f62f10\"]",
+      "HiddenAbility": "[\"12b608f7-a7b7-412e-803f-28d4eaba64c8\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "81",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "97",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "raticate",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

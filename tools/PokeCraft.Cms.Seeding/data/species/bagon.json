@@ -1,0 +1,27 @@
+﻿{
+  "Id": "123a88b9-7e21-44d5-849b-1876298e1aee",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bagon",
+    "DisplayName": "Bagon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "371",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bagon",
+      "DisplayName": "Bagon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "557bc81a-6b40-4337-87c8-2e6c763aa5dd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thievul",
+    "DisplayName": "Thievul",
+    "Description": null,
+    "FieldValues": {
+      "Number": "828",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "127",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thievul",
+      "DisplayName": "Thievul",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

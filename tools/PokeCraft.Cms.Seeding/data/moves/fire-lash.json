@@ -1,0 +1,25 @@
+﻿{
+  "Id": "7a06b055-eef2-42e0-898b-95214eb92da7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fire-lash",
+    "DisplayName": "Fire Lash",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fire-lash",
+      "DisplayName": "Fire Lash",
+      "Description": "The user strikes the target with a burning lash. This also lowers the target's Defense stat.",
+      "FieldValues": {}
+    }
+  }
+}

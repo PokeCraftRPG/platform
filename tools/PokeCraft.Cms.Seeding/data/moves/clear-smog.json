@@ -1,0 +1,24 @@
+﻿{
+  "Id": "757ad778-6c90-4e07-b1ff-d1fa62e5177f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clear-smog",
+    "DisplayName": "Clear Smog",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Special\"]",
+      "Power": "50",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clear-smog",
+      "DisplayName": "Clear Smog",
+      "Description": "The user attacks the target by throwing a clump of special mud. All stat changes are eliminated.",
+      "FieldValues": {}
+    }
+  }
+}

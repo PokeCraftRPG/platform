@@ -1,0 +1,28 @@
+﻿{
+  "Id": "7c8ce0c4-8463-4976-8032-335796e66166",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dipplin",
+    "DisplayName": "Dipplin",
+    "Description": null,
+    "FieldValues": {
+      "Number": "1011",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dipplin",
+      "DisplayName": "Dipplin",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

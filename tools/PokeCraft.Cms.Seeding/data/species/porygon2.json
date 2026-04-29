@@ -1,0 +1,27 @@
+﻿{
+  "Id": "8fb571a4-ad46-4f94-86c6-dcb78d238651",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "porygon2",
+    "DisplayName": "Porygon2",
+    "Description": null,
+    "FieldValues": {
+      "Number": "233",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "porygon2",
+      "DisplayName": "Porygon2",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

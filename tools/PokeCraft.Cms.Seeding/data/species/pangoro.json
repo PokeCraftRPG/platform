@@ -1,0 +1,28 @@
+﻿{
+  "Id": "c055290b-3727-4f0b-9b45-3884d9efb807",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pangoro",
+    "DisplayName": "Pangoro",
+    "Description": null,
+    "FieldValues": {
+      "Number": "675",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "65",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pangoro",
+      "DisplayName": "Pangoro",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

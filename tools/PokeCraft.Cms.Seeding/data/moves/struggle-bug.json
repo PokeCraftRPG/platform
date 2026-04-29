@@ -1,0 +1,25 @@
+﻿{
+  "Id": "4d956e22-b9a6-4e7e-88b7-f210e6c3259d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "struggle-bug",
+    "DisplayName": "Struggle Bug",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "50",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "struggle-bug",
+      "DisplayName": "Struggle Bug",
+      "Description": "The user attacks by struggling against opposing Pokémon. This also lowers their Sp. Atk stats.",
+      "FieldValues": {}
+    }
+  }
+}

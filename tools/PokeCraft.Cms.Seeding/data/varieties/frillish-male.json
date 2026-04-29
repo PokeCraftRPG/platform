@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e5c42361-9b87-40eb-ad53-9e94fbb5edeb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "frillish-male",
+    "DisplayName": "Frillish",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"57b83726-74f7-47cc-a92d-4db2ea0dc3cc\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "frillish-male",
+      "DisplayName": "Frillish",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Floating"
+      }
+    }
+  }
+}

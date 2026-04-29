@@ -1,0 +1,28 @@
+﻿{
+  "Id": "02830821-f359-4a0e-9001-cedb309a56c7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arbok",
+    "DisplayName": "Arbok",
+    "Description": null,
+    "FieldValues": {
+      "Number": "24",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arbok",
+      "DisplayName": "Arbok",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

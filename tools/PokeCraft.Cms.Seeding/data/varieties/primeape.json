@@ -1,0 +1,26 @@
+﻿{
+  "Id": "acc44095-c14f-4f9f-8df5-89b3d334ab25",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "primeape",
+    "DisplayName": "Primeape",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"390dce2e-dacc-4ded-815d-460c127f1658\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "primeape",
+      "DisplayName": "Primeape",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Pig Monkey"
+      }
+    }
+  }
+}

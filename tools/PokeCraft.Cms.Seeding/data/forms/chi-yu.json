@@ -1,0 +1,41 @@
+﻿{
+  "Id": "a2c21e54-45ec-4d90-9d77-5cef566eff35",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chi-yu",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"feeeefa8-d5a2-4b9d-868f-15e859085c00\"]",
+      "Height": "4",
+      "Weight": "49",
+      "YieldExperience": "285",
+      "PrimaryAbility": "[\"7ae43406-75b1-4857-be00-71bd46a49d96\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "135",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "120",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chi-yu",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

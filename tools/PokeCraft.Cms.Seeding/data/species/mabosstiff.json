@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c952b3b2-873d-4d8a-838b-ae0a0260e186",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mabosstiff",
+    "DisplayName": "Mabosstiff",
+    "Description": null,
+    "FieldValues": {
+      "Number": "943",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mabosstiff",
+      "DisplayName": "Mabosstiff",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

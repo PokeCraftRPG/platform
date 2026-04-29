@@ -1,0 +1,43 @@
+﻿{
+  "Id": "1e3822ff-c126-4a47-a2bc-c0a00b5f1eea",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "marowak-totem",
+    "DisplayName": "Totem Alolan Marowak",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"50e668d8-2af4-41c7-a3c7-afce9849103c\"]",
+      "Height": "17",
+      "Weight": "980",
+      "YieldExperience": "149",
+      "PrimaryAbility": "[\"de5aabec-d7d6-43c0-9d1a-575c11318439\"]",
+      "SecondaryAbility": "[\"98bb9191-1993-4224-8922-4a4d13f534a5\"]",
+      "HiddenAbility": "[\"98ae35ae-b156-4c2e-b4a7-8af42a8b0ef6\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "110",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "marowak-totem",
+      "DisplayName": "Totem Alolan Marowak",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

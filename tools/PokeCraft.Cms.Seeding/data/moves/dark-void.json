@@ -1,0 +1,24 @@
+﻿{
+  "Id": "bc594e62-5946-4704-9023-a014bfdf42d6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dark-void",
+    "DisplayName": "Dark Void",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "50",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dark-void",
+      "DisplayName": "Dark Void",
+      "Description": "Opposing Pokémon are dragged into a world of total darkness that puts them to sleep.",
+      "FieldValues": {}
+    }
+  }
+}

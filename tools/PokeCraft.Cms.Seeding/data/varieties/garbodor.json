@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b5ddeaea-73fa-431d-82a4-6d7649ea845a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "garbodor",
+    "DisplayName": "Garbodor",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c1c35cde-36fe-4dd7-8524-09a737360e22\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "garbodor",
+      "DisplayName": "Garbodor",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Trash Heap"
+      }
+    }
+  }
+}

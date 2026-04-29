@@ -1,0 +1,26 @@
+﻿{
+  "Id": "021270af-d6de-418c-be6a-bd2e89319385",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flygon",
+    "DisplayName": "Flygon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"31451de8-36fe-44ee-b0c3-0e054ee0a373\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flygon",
+      "DisplayName": "Flygon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mystic"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "81067007-8407-4d7b-ba09-8d257f9613a0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "roaring-moon",
+    "DisplayName": "Roaring Moon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6331fda9-0265-4beb-a859-e7aac26eaa9c\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "roaring-moon",
+      "DisplayName": "Roaring Moon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

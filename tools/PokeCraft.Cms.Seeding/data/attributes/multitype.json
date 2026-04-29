@@ -1,0 +1,19 @@
+﻿{
+  "Id": "bd92770c-a08a-4e39-b31d-d2ed64b9c204",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "multitype",
+    "DisplayName": "Multitype",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "multitype",
+      "DisplayName": "Multitype",
+      "Description": "Changes the Pokémon's type to match the plate it holds.",
+      "FieldValues": {}
+    }
+  }
+}

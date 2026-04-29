@@ -1,0 +1,23 @@
+﻿{
+  "Id": "ebdc2afa-7505-4aeb-8d15-fa828ffaec12",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "camouflage",
+    "DisplayName": "Camouflage",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "camouflage",
+      "DisplayName": "Camouflage",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

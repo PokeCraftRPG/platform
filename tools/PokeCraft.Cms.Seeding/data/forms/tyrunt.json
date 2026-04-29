@@ -1,0 +1,42 @@
+﻿{
+  "Id": "ba929ef2-42d3-4e7f-ad2c-a3b7f6444c32",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tyrunt",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"20b8b110-e81c-4e1e-93b9-715df4e629c6\"]",
+      "Height": "8",
+      "Weight": "260",
+      "YieldExperience": "72",
+      "PrimaryAbility": "[\"fe62f3be-1b3d-461f-bb4c-963e988d426f\"]",
+      "HiddenAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "BaseHP": "58",
+      "YieldHP": "0",
+      "BaseAttack": "89",
+      "YieldAttack": "1",
+      "BaseDefense": "77",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "48",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tyrunt",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

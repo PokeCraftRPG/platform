@@ -1,0 +1,42 @@
+﻿{
+  "Id": "9026eeb2-9e3b-4b59-adf6-ce979fd32b8c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "garbodor",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b5ddeaea-73fa-431d-82a4-6d7649ea845a\"]",
+      "Height": "19",
+      "Weight": "1073",
+      "YieldExperience": "166",
+      "PrimaryAbility": "[\"7cea48e5-cd7c-41df-82f9-a91772037aff\"]",
+      "SecondaryAbility": "[\"2b8b8cfa-e12e-43d2-b403-594ac9a1c1f7\"]",
+      "HiddenAbility": "[\"553c341c-debe-46e1-809e-34544a36ee63\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "2",
+      "BaseDefense": "82",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "82",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "75",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "garbodor",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

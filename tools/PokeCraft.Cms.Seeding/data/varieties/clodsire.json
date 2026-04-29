@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a1130935-c37b-4f72-a974-325206194956",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clodsire",
+    "DisplayName": "Clodsire",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"15bb5e5c-bfdb-4048-a151-fa4b5c33de48\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clodsire",
+      "DisplayName": "Clodsire",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Spiny Fish"
+      }
+    }
+  }
+}

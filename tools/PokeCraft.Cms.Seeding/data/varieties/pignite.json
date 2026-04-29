@@ -1,0 +1,26 @@
+﻿{
+  "Id": "91d50f5e-5969-46fc-97f9-a902271ab411",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pignite",
+    "DisplayName": "Pignite",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"01fa3929-f9d2-4979-95dc-de3e299fb029\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pignite",
+      "DisplayName": "Pignite",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fire Pig"
+      }
+    }
+  }
+}

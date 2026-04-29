@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4606d7e7-b7af-40ef-9644-82375c18219a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zubat",
+    "DisplayName": "Zubat",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4c0c13e5-bde8-4af9-83d3-f9a6d13a62a8\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zubat",
+      "DisplayName": "Zubat",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bat"
+      }
+    }
+  }
+}

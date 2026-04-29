@@ -1,0 +1,27 @@
+﻿{
+  "Id": "78511dd3-d945-4a1f-a527-9e947d153d14",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pikipek",
+    "DisplayName": "Pikipek",
+    "Description": null,
+    "FieldValues": {
+      "Number": "731",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pikipek",
+      "DisplayName": "Pikipek",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

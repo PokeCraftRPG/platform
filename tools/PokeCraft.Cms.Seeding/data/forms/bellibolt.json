@@ -1,0 +1,42 @@
+﻿{
+  "Id": "70d72ad0-7ffd-4ffe-9083-dfa5ea889f35",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bellibolt",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"00b710bf-971b-4764-8e80-44122396218e\"]",
+      "Height": "12",
+      "Weight": "1130",
+      "YieldExperience": "173",
+      "PrimaryAbility": "[\"f7fe16ee-0684-4a21-a1a2-76abe2c67361\"]",
+      "SecondaryAbility": "[\"4d8cefa4-dbcc-4c78-b5f5-0a1c30bdb019\"]",
+      "HiddenAbility": "[\"ebbf0ce1-0fb1-42cd-81bf-091e737bbfd4\"]",
+      "BaseHP": "109",
+      "YieldHP": "2",
+      "BaseAttack": "64",
+      "YieldAttack": "0",
+      "BaseDefense": "91",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "103",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "83",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bellibolt",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

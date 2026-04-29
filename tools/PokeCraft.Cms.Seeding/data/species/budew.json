@@ -1,0 +1,27 @@
+﻿{
+  "Id": "b2d88cf3-b36a-4d3d-8b69-d934bd673b9e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "budew",
+    "DisplayName": "Budew",
+    "Description": null,
+    "FieldValues": {
+      "Number": "406",
+      "Category": "[\"Baby\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "budew",
+      "DisplayName": "Budew",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

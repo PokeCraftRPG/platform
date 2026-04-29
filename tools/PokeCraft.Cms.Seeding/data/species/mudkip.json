@@ -1,0 +1,28 @@
+﻿{
+  "Id": "3798d45b-b31e-43ea-8ea4-dccbd3a5f478",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mudkip",
+    "DisplayName": "Mudkip",
+    "Description": null,
+    "FieldValues": {
+      "Number": "258",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mudkip",
+      "DisplayName": "Mudkip",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

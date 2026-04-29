@@ -1,0 +1,43 @@
+﻿{
+  "Id": "0c201fd7-ab41-425e-8722-a70bbb2d91f5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gardevoir",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"feaec4ee-d511-43c3-bbc8-05fcc66e6db6\"]",
+      "Height": "16",
+      "Weight": "484",
+      "YieldExperience": "233",
+      "PrimaryAbility": "[\"f5fd746b-4285-427b-ab75-928d416a5c85\"]",
+      "SecondaryAbility": "[\"187f6a3c-7975-4e72-9285-a225d83376ac\"]",
+      "HiddenAbility": "[\"f5863110-b5b9-4629-b95c-3869ed34433d\"]",
+      "BaseHP": "68",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "125",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "115",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gardevoir",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

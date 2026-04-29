@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ba997c2b-f284-47f3-9db8-88b25849defb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "naclstack",
+    "DisplayName": "Naclstack",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5db75583-21cc-49bb-a2e0-999cd29c6869\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "naclstack",
+      "DisplayName": "Naclstack",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rock Salt"
+      }
+    }
+  }
+}

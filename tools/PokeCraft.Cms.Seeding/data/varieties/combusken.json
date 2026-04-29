@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f2cc8684-8356-4a53-ab90-73c4f08383c0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "combusken",
+    "DisplayName": "Combusken",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d069f66b-48de-4c9b-b579-d91300d85411\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "combusken",
+      "DisplayName": "Combusken",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Young Fowl"
+      }
+    }
+  }
+}

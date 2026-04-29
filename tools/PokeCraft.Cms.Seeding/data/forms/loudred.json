@@ -1,0 +1,41 @@
+﻿{
+  "Id": "c14932a8-7ace-44fd-9973-4c324206f569",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "loudred",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5a684f19-7d01-4bea-9d9c-129dfee67979\"]",
+      "Height": "10",
+      "Weight": "405",
+      "YieldExperience": "126",
+      "PrimaryAbility": "[\"6df60939-ffd8-4ddb-ad1e-f4add0129eeb\"]",
+      "HiddenAbility": "[\"fa0ae125-7b24-45a0-bf28-4b447dfa5e21\"]",
+      "BaseHP": "84",
+      "YieldHP": "2",
+      "BaseAttack": "71",
+      "YieldAttack": "0",
+      "BaseDefense": "43",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "71",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "43",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "48",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "loudred",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

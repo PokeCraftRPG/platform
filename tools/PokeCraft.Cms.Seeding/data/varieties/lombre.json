@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a853b9b1-186b-4a71-8ec4-a185f072cfea",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lombre",
+    "DisplayName": "Lombre",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"cdf0fe7d-c43c-4597-b2c8-351111bc3d95\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lombre",
+      "DisplayName": "Lombre",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Jolly"
+      }
+    }
+  }
+}

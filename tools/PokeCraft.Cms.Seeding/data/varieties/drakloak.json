@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3610e21b-7520-429f-bbfe-46e19784f78e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drakloak",
+    "DisplayName": "Drakloak",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"aa1df647-c2b3-4dfd-a4f7-58e87d1afc75\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drakloak",
+      "DisplayName": "Drakloak",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Caretaker"
+      }
+    }
+  }
+}

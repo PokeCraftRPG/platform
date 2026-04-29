@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7573f7d2-67c8-45d4-8709-08cd72275b48",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bayleef",
+    "DisplayName": "Bayleef",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e0a784c5-858f-4965-8969-5ae634294bdf\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bayleef",
+      "DisplayName": "Bayleef",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Leaf"
+      }
+    }
+  }
+}

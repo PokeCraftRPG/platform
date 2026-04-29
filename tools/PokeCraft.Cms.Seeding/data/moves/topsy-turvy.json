@@ -1,0 +1,23 @@
+﻿{
+  "Id": "838b2b42-ca29-40c1-bc2a-8a53bcee4c74",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "topsy-turvy",
+    "DisplayName": "Topsy-Turvy",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "topsy-turvy",
+      "DisplayName": "Topsy-Turvy",
+      "Description": "All stat changes affecting the target turn topsy-turvy and become the opposite of what they were.",
+      "FieldValues": {}
+    }
+  }
+}

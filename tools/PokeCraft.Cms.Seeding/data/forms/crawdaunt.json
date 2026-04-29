@@ -1,0 +1,43 @@
+﻿{
+  "Id": "a22bdccc-5d97-4059-91ce-d0c50af1c6c2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "crawdaunt",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0c8f7a28-1f9d-4781-b58c-c0f62650e5fa\"]",
+      "Height": "11",
+      "Weight": "328",
+      "YieldExperience": "164",
+      "PrimaryAbility": "[\"57e539ec-9a7b-4925-ad82-81080aa7ceb2\"]",
+      "SecondaryAbility": "[\"238257b2-205c-4b83-b5f1-393b8c11b2e9\"]",
+      "HiddenAbility": "[\"463a60e6-bf15-4972-9934-481d443a8534\"]",
+      "BaseHP": "63",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "2",
+      "BaseDefense": "85",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "90",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "crawdaunt",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

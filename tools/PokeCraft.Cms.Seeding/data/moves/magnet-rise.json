@@ -1,0 +1,23 @@
+﻿{
+  "Id": "323696ce-0402-40b8-814b-32037e5ebd2d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magnet-rise",
+    "DisplayName": "Magnet Rise",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magnet-rise",
+      "DisplayName": "Magnet Rise",
+      "Description": "The user levitates using electrically generated magnetism for five turns.",
+      "FieldValues": {}
+    }
+  }
+}
