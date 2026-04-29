@@ -12,10 +12,12 @@ internal class ImportMovesTask
 {
   private const string OutputDirectory = "data/moves";
 
+  private readonly ILogger<ImportMovesTask> _logger;
   private readonly PokeApiSettings _pokeApi;
 
-  public ImportMovesTask(PokeApiSettings pokeApi)
+  public ImportMovesTask(ILogger<ImportMovesTask> logger, PokeApiSettings pokeApi)
   {
+    _logger = logger;
     _pokeApi = pokeApi;
   }
 
@@ -59,21 +61,8 @@ internal class ImportMovesTask
     return moves.AsReadOnly();
   }
 
-  private static ContentPayload? Transform(Move move)
+  private ContentPayload? Transform(Move move)
   {
-    if (!Enum.TryParse(move.Type.UniqueName, ignoreCase: true, out PokemonType type) || !Enum.IsDefined(type))
-    {
-      return null;
-    }
-    if (!Enum.TryParse(move.Category.UniqueName, ignoreCase: true, out MoveCategory category) || !Enum.IsDefined(category))
-    {
-      return null;
-    }
-    if (!move.PowerPoints.HasValue)
-    {
-      return null;
-    }
-
     string? displayName = move.GetDisplayName(Constants.Language);
 
     ContentPayload content = new()
@@ -83,8 +72,31 @@ internal class ImportMovesTask
     content.Invariant.UniqueName = move.UniqueName;
     content.Invariant.DisplayName = displayName;
 
-    content.Invariant.FieldValues[nameof(MoveDefinition.Type)] = $"[\"{type}\"]";
-    content.Invariant.FieldValues[nameof(MoveDefinition.Category)] = $"[\"{category}\"]";
+    ContentLocalePayload locale = new()
+    {
+      UniqueName = move.UniqueName,
+      DisplayName = displayName,
+      Description = move.GetDescription(Constants.Language, Constants.VersionGroup)
+    };
+    content.Locales[Constants.Language] = locale;
+
+    if (Enum.TryParse(move.Type.UniqueName, ignoreCase: true, out PokemonType type) && Enum.IsDefined(type))
+    {
+      content.Invariant.FieldValues[nameof(MoveDefinition.Type)] = $"[\"{type}\"]";
+    }
+    else
+    {
+      _logger.LogWarning("The move '{Move}' type '{Type}' is not valid.", move, move.Type.UniqueName);
+    }
+
+    if (Enum.TryParse(move.Category.UniqueName, ignoreCase: true, out MoveCategory category) && Enum.IsDefined(category))
+    {
+      content.Invariant.FieldValues[nameof(MoveDefinition.Category)] = $"[\"{category}\"]";
+    }
+    else
+    {
+      _logger.LogWarning("The move '{Move}' category '{Category}' is not valid.", move, move.Category.UniqueName);
+    }
 
     if (move.Accuracy.HasValue)
     {
@@ -94,15 +106,14 @@ internal class ImportMovesTask
     {
       content.Invariant.FieldValues[nameof(MoveDefinition.Power)] = move.Power.Value.ToString();
     }
-    content.Invariant.FieldValues[nameof(MoveDefinition.PowerPoints)] = move.PowerPoints.Value.ToString();
-
-    ContentLocalePayload locale = new()
+    if (move.PowerPoints.HasValue)
     {
-      UniqueName = move.UniqueName,
-      DisplayName = displayName,
-      Description = move.GetDescription(Constants.Language, Constants.VersionGroup)
-    };
-    content.Locales[Constants.Language] = locale;
+      content.Invariant.FieldValues[nameof(MoveDefinition.PowerPoints)] = move.PowerPoints.Value.ToString();
+    }
+    else
+    {
+      _logger.LogWarning("The move '{Move}' does not have power points.", move);
+    }
 
     return content;
   }

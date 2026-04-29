@@ -11,10 +11,12 @@ internal class ImportSpeciesTask
 {
   private const string OutputDirectory = "data/species";
 
+  private readonly ILogger<ImportSpeciesTask> _logger;
   private readonly PokeApiSettings _pokeApi;
 
-  public ImportSpeciesTask(PokeApiSettings pokeApi)
+  public ImportSpeciesTask(ILogger<ImportSpeciesTask> logger, PokeApiSettings pokeApi)
   {
+    _logger = logger;
     _pokeApi = pokeApi;
   }
 
@@ -58,31 +60,8 @@ internal class ImportSpeciesTask
     return speciesList.AsReadOnly();
   }
 
-  private static ContentPayload? Transform(PokemonSpecies species)
+  private ContentPayload? Transform(PokemonSpecies species)
   {
-    PokedexNumber[] pokedexNumbers = species.PokedexNumbers.Where(x => x.Pokedex.UniqueName == Constants.NationalPokedex).ToArray();
-    SpeciesCategory? category = Categorize(species);
-    GrowthRate? growthRate = ParseGrowthRate(species);
-    if (pokedexNumbers.Length != 1 || !category.HasValue || !growthRate.HasValue || species.EggGroups.Count < 1 || species.EggGroups.Count > 2)
-    {
-      return null;
-    }
-
-    EggGroup? primaryEggGroup = ParseEggGroup(species.EggGroups.First());
-    EggGroup? secondaryEggGroup = null;
-    if (!primaryEggGroup.HasValue)
-    {
-      return null;
-    }
-    else if (species.EggGroups.Count == 2)
-    {
-      secondaryEggGroup = ParseEggGroup(species.EggGroups.Last());
-      if (!secondaryEggGroup.HasValue)
-      {
-        return null;
-      }
-    }
-
     string? displayName = species.GetDisplayName(Constants.Language);
 
     ContentPayload content = new()
@@ -92,26 +71,79 @@ internal class ImportSpeciesTask
     content.Invariant.UniqueName = species.UniqueName;
     content.Invariant.DisplayName = displayName;
 
-    content.Invariant.FieldValues[nameof(SpeciesDefinition.Number)] = pokedexNumbers[0].Number.ToString();
-    content.Invariant.FieldValues[nameof(SpeciesDefinition.Category)] = $"[\"{category}\"]";
-
-    content.Invariant.FieldValues[nameof(SpeciesDefinition.BaseFriendship)] = species.BaseFriendship.ToString();
-    content.Invariant.FieldValues[nameof(SpeciesDefinition.CatchRate)] = species.CatchRate.ToString();
-    content.Invariant.FieldValues[nameof(SpeciesDefinition.GrowthRate)] = $"[\"{growthRate}\"]";
-
-    content.Invariant.FieldValues[nameof(SpeciesDefinition.EggCycles)] = species.EggCycles.ToString();
-    content.Invariant.FieldValues[nameof(SpeciesDefinition.PrimaryEggGroup)] = $"[\"{primaryEggGroup}\"]";
-    if (secondaryEggGroup.HasValue)
-    {
-      content.Invariant.FieldValues[nameof(SpeciesDefinition.SecondaryEggGroup)] = $"[\"{secondaryEggGroup}\"]";
-    }
-
     ContentLocalePayload locale = new()
     {
       UniqueName = species.UniqueName,
       DisplayName = displayName
     };
     content.Locales[Constants.Language] = locale;
+
+    PokedexNumber[] pokedexNumbers = species.PokedexNumbers.Where(x => x.Pokedex.UniqueName == Constants.NationalPokedex).ToArray();
+    if (pokedexNumbers.Length == 1)
+    {
+      content.Invariant.FieldValues[nameof(SpeciesDefinition.Number)] = pokedexNumbers[0].Number.ToString();
+    }
+    else
+    {
+      _logger.LogWarning("The Pokémon species '{Species}' must have exactly 1 national Pokédex number (Count: {Count}).", species, pokedexNumbers.Length);
+    }
+
+    SpeciesCategory? category = Categorize(species);
+    if (category.HasValue)
+    {
+      content.Invariant.FieldValues[nameof(SpeciesDefinition.Category)] = $"[\"{category}\"]";
+    }
+    else
+    {
+      _logger.LogWarning("The Pokémon species '{Species}' cannot be categorized.", species);
+    }
+
+    content.Invariant.FieldValues[nameof(SpeciesDefinition.BaseFriendship)] = species.BaseFriendship.ToString();
+    content.Invariant.FieldValues[nameof(SpeciesDefinition.CatchRate)] = species.CatchRate.ToString();
+
+    GrowthRate? growthRate = ParseGrowthRate(species);
+    if (growthRate.HasValue)
+    {
+      content.Invariant.FieldValues[nameof(SpeciesDefinition.GrowthRate)] = $"[\"{growthRate}\"]";
+    }
+    else
+    {
+      _logger.LogWarning("The Pokémon species '{Species}' growth rate '{GrowthRate}' is not valid.", species, species.GrowthRate.UniqueName);
+    }
+
+    content.Invariant.FieldValues[nameof(SpeciesDefinition.EggCycles)] = species.EggCycles.ToString();
+
+    if (species.EggGroups.Count < 1 || species.EggGroups.Count > 2)
+    {
+      _logger.LogWarning("The Pokémon species '{Species}' does not have a valid egg group count '{Count}'.", species, species.EggGroups.Count);
+    }
+    else
+    {
+      NamedResource eggGroupValue = species.EggGroups.First();
+      EggGroup? eggGroup = ParseEggGroup(eggGroupValue);
+      if (eggGroup.HasValue)
+      {
+        content.Invariant.FieldValues[nameof(SpeciesDefinition.PrimaryEggGroup)] = $"[\"{eggGroup}\"]";
+      }
+      else
+      {
+        _logger.LogWarning("The Pokémon species '{Species}' primary egg group '{EggGroup}' is not valid.", species, eggGroupValue.UniqueName);
+      }
+
+      if (species.EggGroups.Count == 2)
+      {
+        eggGroupValue = species.EggGroups.Last();
+        eggGroup = ParseEggGroup(eggGroupValue);
+        if (eggGroup.HasValue)
+        {
+          content.Invariant.FieldValues[nameof(SpeciesDefinition.SecondaryEggGroup)] = $"[\"{eggGroup}\"]";
+        }
+        else
+        {
+          _logger.LogWarning("The Pokémon species '{Species}' secondary egg group '{EggGroup}' is not valid.", species, eggGroupValue.UniqueName);
+        }
+      }
+    }
 
     return content;
   }

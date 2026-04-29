@@ -1,5 +1,4 @@
 ﻿using PokeCraft.Cms.Import.Models;
-using PokeCraft.Cms.Import.Settings;
 using PokeCraft.Cms.Import.Tasks;
 
 namespace PokeCraft.Cms.Import;
@@ -7,20 +6,30 @@ namespace PokeCraft.Cms.Import;
 internal class ImportWorker : BackgroundService
 {
   private readonly IHostApplicationLifetime _hostApplicationLifetime;
-  private readonly PokeApiSettings _pokeApi;
+  private readonly IServiceProvider _serviceProvider;
 
-  public ImportWorker(IHostApplicationLifetime hostApplicationLifetime, PokeApiSettings pokeApi)
+  public ImportWorker(IServiceProvider serviceProvider)
   {
-    _pokeApi = pokeApi;
-    _hostApplicationLifetime = hostApplicationLifetime;
+    _serviceProvider = serviceProvider;
+    _hostApplicationLifetime = serviceProvider.GetRequiredService<IHostApplicationLifetime>();
   }
 
   protected override async Task ExecuteAsync(CancellationToken cancellationToken)
   {
-    IReadOnlyDictionary<string, Imported<Ability>> abilities = await new ImportAbilitiesTask(_pokeApi).ExecuteAsync(cancellationToken);
-    IReadOnlyDictionary<string, Imported<Move>> moves = await new ImportMovesTask(_pokeApi).ExecuteAsync(cancellationToken);
-    IReadOnlyDictionary<string, Imported<PokemonSpecies>> species = await new ImportSpeciesTask(_pokeApi).ExecuteAsync(cancellationToken);
-    IReadOnlyDictionary<string, Imported<Variety>> varieties = await new ImportVarietiesTask(_pokeApi, species).ExecuteAsync(cancellationToken);
+    ImportAbilitiesTask importAbilities = _serviceProvider.GetRequiredService<ImportAbilitiesTask>();
+    IReadOnlyDictionary<string, Imported<Ability>> abilities = await importAbilities.ExecuteAsync(cancellationToken);
+
+    ImportMovesTask importMoves = _serviceProvider.GetRequiredService<ImportMovesTask>();
+    IReadOnlyDictionary<string, Imported<Move>> moves = await importMoves.ExecuteAsync(cancellationToken);
+
+    ImportSpeciesTask importSpecies = _serviceProvider.GetRequiredService<ImportSpeciesTask>();
+    IReadOnlyDictionary<string, Imported<PokemonSpecies>> species = await importSpecies.ExecuteAsync(cancellationToken);
+
+    ImportVarietiesTask importVarieties = _serviceProvider.GetRequiredService<ImportVarietiesTask>();
+    IReadOnlyDictionary<string, Imported<Variety>> varieties = await importVarieties.ExecuteAsync(species, cancellationToken);
+
+    ImportFormsTask importForms = _serviceProvider.GetRequiredService<ImportFormsTask>();
+    IReadOnlyDictionary<string, Imported<Form>> forms = await importForms.ExecuteAsync(abilities, species, varieties, cancellationToken);
 
     _hostApplicationLifetime.StopApplication();
   }

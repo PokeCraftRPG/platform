@@ -1,4 +1,5 @@
 ﻿using PokeCraft.Cms.Import.Settings;
+using PokeCraft.Cms.Import.Tasks;
 
 namespace PokeCraft.Cms.Import;
 
@@ -15,5 +16,10 @@ internal class Startup
   {
     services.AddHostedService<ImportWorker>();
     services.AddSingleton(PokeApiSettings.Initialize(_configuration));
+    services.AddSingleton<ImportAbilitiesTask>();
+    services.AddSingleton<ImportFormsTask>();
+    services.AddSingleton<ImportMovesTask>();
+    services.AddSingleton<ImportSpeciesTask>();
+    services.AddSingleton<ImportVarietiesTask>();
   }
 }

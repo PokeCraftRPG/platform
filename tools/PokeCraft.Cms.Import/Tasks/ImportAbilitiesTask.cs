@@ -9,10 +9,12 @@ internal class ImportAbilitiesTask
 {
   private const string OutputDirectory = "data/abilities";
 
+  private readonly ILogger<ImportAbilitiesTask> _logger;
   private readonly PokeApiSettings _pokeApi;
 
-  public ImportAbilitiesTask(PokeApiSettings pokeApi)
+  public ImportAbilitiesTask(ILogger<ImportAbilitiesTask> logger, PokeApiSettings pokeApi)
   {
+    _logger = logger;
     _pokeApi = pokeApi;
   }
 
