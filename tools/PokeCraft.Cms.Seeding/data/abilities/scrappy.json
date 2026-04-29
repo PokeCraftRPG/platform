@@ -1,7 +1,7 @@
 ﻿{
   "Id": "fa0ae125-7b24-45a0-bf28-4b447dfa5e21",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "scrappy",
     "DisplayName": "Scrappy",
     "Description": null,
@@ -9,7 +9,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "scrappy",
       "DisplayName": "Scrappy",
       "Description": "The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves. It is also unaffected by Intimidate.",
