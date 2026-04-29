@@ -8,7 +8,7 @@
     "FieldValues": {
       "Number": "269",
       "Category": "[\"Standard\"]",
-      "BaseFriendship": "70",
+      "BaseFriendship": "50",
       "CatchRate": "45",
       "GrowthRate": "[\"MediumFast\"]",
       "EggCycles": "15",
