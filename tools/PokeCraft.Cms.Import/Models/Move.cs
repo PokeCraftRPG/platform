@@ -1,0 +1,35 @@
+﻿namespace PokeCraft.Cms.Import.Models;
+
+internal class Move : IDescribed, INamed
+{
+  [JsonPropertyName("id")]
+  public int Id { get; set; }
+
+  [JsonPropertyName("type")]
+  public NamedResource Type { get; set; } = new();
+
+  [JsonPropertyName("damage_class")]
+  public NamedResource Category { get; set; } = new();
+
+  [JsonPropertyName("name")]
+  public string UniqueName { get; set; } = string.Empty;
+
+  [JsonPropertyName("names")]
+  public List<LocalizedName> DisplayNames { get; set; } = [];
+
+  [JsonPropertyName("flavor_text_entries")]
+  public List<FlavorText> Descriptions { get; set; } = [];
+
+  [JsonPropertyName("accuracy")]
+  public byte? Accuracy { get; set; }
+
+  [JsonPropertyName("power")]
+  public byte? Power { get; set; }
+
+  [JsonPropertyName("pp")]
+  public byte? PowerPoints { get; set; }
+
+  public override bool Equals(object? obj) => obj is Move move && move.Id == Id;
+  public override int GetHashCode() => Id.GetHashCode();
+  public override string ToString() => $"{UniqueName} | {base.ToString()} (Id={Id})";
+}
