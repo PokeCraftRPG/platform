@@ -67,19 +67,27 @@ internal class ImportVarietiesTask
 
   private ContentPayload? Transform(Variety variety, IReadOnlyDictionary<string, Imported<PokemonSpecies>> importedSpecies)
   {
+    if (!importedSpecies.TryGetValue(variety.Species.UniqueName, out Imported<PokemonSpecies>? species))
+    {
+      _logger.LogWarning("The Pokémon variety '{Variety}' species '{Species}' was not found.", variety, variety.Species.UniqueName);
+    }
+    string? displayName = species?.Entity.GetDisplayName(Constants.Language);
+
     ContentPayload content = new()
     {
       Id = Guid.NewGuid()
     };
     content.Invariant.UniqueName = variety.UniqueName;
+    content.Invariant.DisplayName = displayName;
 
     ContentLocalePayload locale = new()
     {
-      UniqueName = variety.UniqueName
+      UniqueName = variety.UniqueName,
+      DisplayName = displayName
     };
     content.Locales[Constants.Language] = locale;
 
-    if (importedSpecies.TryGetValue(variety.Species.UniqueName, out Imported<PokemonSpecies>? species))
+    if (species is not null)
     {
       content.Invariant.FieldValues[nameof(VarietyDefinition.Species)] = $"[\"{species.Content.Id}\"]";
 
@@ -103,10 +111,6 @@ internal class ImportVarietiesTask
       {
         _logger.LogWarning("The Pokémon variety '{Variety}' must have exactly 1 genus (Count: {Count}).", variety, genera.Length);
       }
-    }
-    else
-    {
-      _logger.LogWarning("The Pokémon variety '{Variety}' species '{Species}' was not found.", variety, variety.Species.UniqueName);
     }
 
     content.Invariant.FieldValues[nameof(VarietyDefinition.IsDefault)] = variety.IsDefault.ToString();
