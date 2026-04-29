@@ -1,7 +1,7 @@
 ﻿{
   "Id": "91d50f5e-5969-46fc-97f9-a902271ab411",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "pignite",
     "DisplayName": "Pignite",
     "Description": null,
@@ -14,10 +14,10 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "pignite",
       "DisplayName": "Pignite",
-      "Description": null,
+      "Description": "The more it eats, the stronger the fire in its stomach burns, boosting its power. When it flares up, its speed increases, and it may emit smoke when in trouble.",
       "FieldValues": {
         "Genus": "Fire Pig"
       }

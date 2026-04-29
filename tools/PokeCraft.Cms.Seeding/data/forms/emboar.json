@@ -1,9 +1,9 @@
 ﻿{
   "Id": "1d665593-3c06-4aab-946c-b86acb0f9bfd",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "emboar",
-    "DisplayName": null,
+    "DisplayName": "Emboar",
     "Description": null,
     "FieldValues": {
       "Variety": "[\"f6899deb-2ce8-478d-bf12-d79adf59290d\"]",
@@ -32,9 +32,9 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "emboar",
-      "DisplayName": null,
+      "DisplayName": "Emboar",
       "Description": null,
       "FieldValues": {}
     }

@@ -1,7 +1,7 @@
 ﻿{
   "Id": "d6fa994e-7a48-48b5-9f1f-c1b84dd3225f",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "thick-fat",
     "DisplayName": "Thick Fat",
     "Description": null,
@@ -9,7 +9,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "thick-fat",
       "DisplayName": "Thick Fat",
       "Description": "The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves.",

@@ -1,9 +1,9 @@
 ﻿{
   "Id": "92c742d7-0cd4-4b17-b4f3-0ce1808d0d46",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "marshtomp",
-    "DisplayName": null,
+    "DisplayName": "Marshtomp",
     "Description": null,
     "FieldValues": {
       "Variety": "[\"b9e8d6fd-2e8a-4a70-a6b3-74712e6a67da\"]",
@@ -32,9 +32,9 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "marshtomp",
-      "DisplayName": null,
+      "DisplayName": "Marshtomp",
       "Description": null,
       "FieldValues": {}
     }

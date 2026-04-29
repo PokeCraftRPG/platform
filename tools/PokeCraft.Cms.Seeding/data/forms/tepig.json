@@ -1,9 +1,9 @@
 ﻿{
   "Id": "244c38e4-4286-4e6d-954b-3e8ec047e338",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "tepig",
-    "DisplayName": null,
+    "DisplayName": "Tepig",
     "Description": null,
     "FieldValues": {
       "Variety": "[\"11aace48-1728-46da-8b8d-79c5d7358b87\"]",
@@ -31,9 +31,9 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "tepig",
-      "DisplayName": null,
+      "DisplayName": "Tepig",
       "Description": null,
       "FieldValues": {}
     }

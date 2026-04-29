@@ -1,7 +1,7 @@
 ﻿{
   "Id": "60e1a76b-8153-42e8-878f-0cce9e52a571",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "swampert",
     "DisplayName": "Swampert",
     "Description": null,
@@ -18,7 +18,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "swampert",
       "DisplayName": "Swampert",
       "Description": null,

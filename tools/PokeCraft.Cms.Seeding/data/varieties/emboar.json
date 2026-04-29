@@ -1,7 +1,7 @@
 ﻿{
   "Id": "f6899deb-2ce8-478d-bf12-d79adf59290d",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "emboar",
     "DisplayName": "Emboar",
     "Description": null,
@@ -14,10 +14,10 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "emboar",
       "DisplayName": "Emboar",
-      "Description": null,
+      "Description": "With a blazing beard of fire, it unleashes powerful, fast fighting moves. The hotter its flames burn, the greater its strength, especially when protecting its allies.",
       "FieldValues": {
         "Genus": "Mega Fire Pig"
       }

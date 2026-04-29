@@ -1,7 +1,7 @@
 ﻿{
   "Id": "b9e8d6fd-2e8a-4a70-a6b3-74712e6a67da",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "marshtomp",
     "DisplayName": "Marshtomp",
     "Description": null,
@@ -14,10 +14,10 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "marshtomp",
       "DisplayName": "Marshtomp",
-      "Description": null,
+      "Description": "Adapted to muddy terrain, it moves swiftly where others falter. Its sturdy legs give it perfect footing, and it keeps its skin moist by burrowing into mud.",
       "FieldValues": {
         "Genus": "Mud Fish"
       }

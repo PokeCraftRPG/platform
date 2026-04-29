@@ -1,7 +1,7 @@
 ﻿{
   "Id": "04a024a6-a16d-4b84-8fc8-e7789534e35c",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "emboar",
     "DisplayName": "Emboar",
     "Description": null,
@@ -17,7 +17,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "emboar",
       "DisplayName": "Emboar",
       "Description": null,
