@@ -1,0 +1,24 @@
+﻿{
+  "Id": "d7b0c6fd-8b36-4c3f-9285-da056160dfb5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "smokescreen",
+    "DisplayName": "Smokescreen",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "smokescreen",
+      "DisplayName": "Smokescreen",
+      "Description": "The user releases an obscuring cloud of smoke or ink. This lowers the target's accuracy.",
+      "FieldValues": {}
+    }
+  }
+}

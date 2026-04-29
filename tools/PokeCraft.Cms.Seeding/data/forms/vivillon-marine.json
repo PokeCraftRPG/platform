@@ -1,0 +1,43 @@
+﻿{
+  "Id": "50a96227-4b5c-4c1e-b4b8-adb8b667e2ad",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vivillon-marine",
+    "DisplayName": "Marine Vivillon",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"fa7acdf0-e49f-41e0-8534-8fc146f86d87\"]",
+      "Height": "12",
+      "Weight": "170",
+      "YieldExperience": "185",
+      "PrimaryAbility": "[\"29bd00fc-e0bf-4f2e-8cf9-f87e1aa11c4a\"]",
+      "SecondaryAbility": "[\"65e44b8e-43f4-4e6f-9e4e-db99591d1061\"]",
+      "HiddenAbility": "[\"47068609-b1c5-409b-a6c0-abb9e56e4c44\"]",
+      "BaseHP": "80",
+      "YieldHP": "1",
+      "BaseAttack": "52",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "90",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "89",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Alternative\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vivillon-marine",
+      "DisplayName": "Marine Vivillon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "9ce30aa6-61f2-4790-b565-d1894b153553",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shaymin-sky",
+    "DisplayName": "Shaymin",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ca9195d5-05e2-43b9-9aee-f025aef3f7d3\"]",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shaymin-sky",
+      "DisplayName": "Shaymin",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Gratitude"
+      }
+    }
+  }
+}

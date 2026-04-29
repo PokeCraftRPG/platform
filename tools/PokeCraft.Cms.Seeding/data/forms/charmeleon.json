@@ -1,0 +1,41 @@
+﻿{
+  "Id": "16f54820-18d7-4355-a64e-ca81bdd84261",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "charmeleon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3d8d7313-aa9c-4530-a232-6c093879204a\"]",
+      "Height": "11",
+      "Weight": "190",
+      "YieldExperience": "142",
+      "PrimaryAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "HiddenAbility": "[\"6c7fc1a9-9c49-4e4f-ae09-81bb228713b0\"]",
+      "BaseHP": "58",
+      "YieldHP": "0",
+      "BaseAttack": "64",
+      "YieldAttack": "0",
+      "BaseDefense": "58",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "charmeleon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

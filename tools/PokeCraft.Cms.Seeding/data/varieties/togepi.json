@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a32c1fcc-1caf-4d1d-b4dc-a96ea27a43d5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "togepi",
+    "DisplayName": "Togepi",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d0ced83a-2f43-4b4f-8f92-123212a8a42e\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "togepi",
+      "DisplayName": "Togepi",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Spike Ball"
+      }
+    }
+  }
+}

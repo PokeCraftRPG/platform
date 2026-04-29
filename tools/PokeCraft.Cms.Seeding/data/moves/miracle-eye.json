@@ -1,0 +1,23 @@
+﻿{
+  "Id": "649e23a4-063f-402d-a6a7-8766a8e2332f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "miracle-eye",
+    "DisplayName": "Miracle Eye",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "40"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "miracle-eye",
+      "DisplayName": "Miracle Eye",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

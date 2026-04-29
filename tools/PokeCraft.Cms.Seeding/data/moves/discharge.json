@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ff4533d9-d273-472c-8c3b-ed33bc212f2a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "discharge",
+    "DisplayName": "Discharge",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "discharge",
+      "DisplayName": "Discharge",
+      "Description": "The user strikes everything around it by letting loose a flare of electricity. This may also leave those hit by the attack with paralysis.",
+      "FieldValues": {}
+    }
+  }
+}

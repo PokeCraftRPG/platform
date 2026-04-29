@@ -1,0 +1,28 @@
+﻿{
+  "Id": "4b91a117-fb05-41d4-bc73-68f84d6bde58",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scraggy",
+    "DisplayName": "Scraggy",
+    "Description": null,
+    "FieldValues": {
+      "Number": "559",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "180",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scraggy",
+      "DisplayName": "Scraggy",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

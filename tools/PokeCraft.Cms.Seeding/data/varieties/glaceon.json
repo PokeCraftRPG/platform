@@ -1,0 +1,26 @@
+﻿{
+  "Id": "cec64dfc-7d77-4f93-a249-f024e250e22c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glaceon",
+    "DisplayName": "Glaceon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b99473b7-af0c-437c-b292-4965ea4656d1\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glaceon",
+      "DisplayName": "Glaceon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fresh Snow"
+      }
+    }
+  }
+}

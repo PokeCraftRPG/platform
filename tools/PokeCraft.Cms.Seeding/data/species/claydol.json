@@ -1,0 +1,27 @@
+﻿{
+  "Id": "6e5b570f-972a-4750-bf05-3c16742d2c98",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "claydol",
+    "DisplayName": "Claydol",
+    "Description": null,
+    "FieldValues": {
+      "Number": "344",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "claydol",
+      "DisplayName": "Claydol",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

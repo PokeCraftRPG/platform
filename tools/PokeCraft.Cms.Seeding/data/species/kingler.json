@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f8b27b24-2e3d-4186-a915-acede8fe4f91",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kingler",
+    "DisplayName": "Kingler",
+    "Description": null,
+    "FieldValues": {
+      "Number": "99",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kingler",
+      "DisplayName": "Kingler",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

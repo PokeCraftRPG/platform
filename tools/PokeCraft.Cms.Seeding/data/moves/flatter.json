@@ -1,0 +1,24 @@
+﻿{
+  "Id": "a4345be0-bb2d-41e8-8aa3-68ef283379f1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flatter",
+    "DisplayName": "Flatter",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flatter",
+      "DisplayName": "Flatter",
+      "Description": "Flattery is used to confuse the target. However, this also boosts the target's Sp. Atk stat.",
+      "FieldValues": {}
+    }
+  }
+}

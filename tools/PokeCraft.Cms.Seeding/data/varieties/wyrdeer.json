@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1b127788-6575-4b6b-90d2-a5d2347017ad",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wyrdeer",
+    "DisplayName": "Wyrdeer",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0036cbc4-d715-489e-b2f5-5f5750002160\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wyrdeer",
+      "DisplayName": "Wyrdeer",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Big Horn"
+      }
+    }
+  }
+}

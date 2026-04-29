@@ -1,0 +1,43 @@
+﻿{
+  "Id": "f7c841f5-552a-4641-ba24-fb2d3f9c3077",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "appletun",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"66fd144c-3855-41fe-a830-1f296f36a763\"]",
+      "Height": "4",
+      "Weight": "130",
+      "YieldExperience": "170",
+      "PrimaryAbility": "[\"8d6f1268-a7d2-44b6-9e77-1d6abc7fe828\"]",
+      "SecondaryAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "HiddenAbility": "[\"d6fa994e-7a48-48b5-9f1f-c1b84dd3225f\"]",
+      "BaseHP": "110",
+      "YieldHP": "2",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "appletun",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

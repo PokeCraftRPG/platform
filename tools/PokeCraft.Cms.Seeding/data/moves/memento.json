@@ -1,0 +1,24 @@
+﻿{
+  "Id": "3729652b-5f05-417c-abfc-f95b55a4e8dc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "memento",
+    "DisplayName": "Memento",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "memento",
+      "DisplayName": "Memento",
+      "Description": "The user faints. In return, the target's Attack and Sp. Atk stats are harshly lowered.",
+      "FieldValues": {}
+    }
+  }
+}

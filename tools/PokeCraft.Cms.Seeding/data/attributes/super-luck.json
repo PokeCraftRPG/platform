@@ -1,0 +1,19 @@
+﻿{
+  "Id": "c1dc8f0f-7de1-4657-b135-5bd8efc74e80",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "super-luck",
+    "DisplayName": "Super Luck",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "super-luck",
+      "DisplayName": "Super Luck",
+      "Description": "The Pokémon is so lucky that the critical-hit ratios of its moves are boosted.",
+      "FieldValues": {}
+    }
+  }
+}

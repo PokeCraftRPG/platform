@@ -1,0 +1,43 @@
+﻿{
+  "Id": "604bb530-9ee4-4f77-bdc9-294529cf8d25",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ursaluna",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1c959156-ebe2-4d0f-a1f5-841137c34f6f\"]",
+      "Height": "24",
+      "Weight": "2900",
+      "YieldExperience": "275",
+      "PrimaryAbility": "[\"1c326e45-7c1a-4f8a-a55c-751b60f62f10\"]",
+      "SecondaryAbility": "[\"95f8b622-ee64-42b7-be19-313365f588d5\"]",
+      "HiddenAbility": "[\"5cdb3b5f-b72c-4361-b715-922fc4cb31f9\"]",
+      "BaseHP": "130",
+      "YieldHP": "0",
+      "BaseAttack": "140",
+      "YieldAttack": "3",
+      "BaseDefense": "105",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ursaluna",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

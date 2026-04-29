@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c78fe69f-cd60-4585-9f6d-53c62a8be92c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "walking-wake",
+    "DisplayName": "Walking Wake",
+    "Description": null,
+    "FieldValues": {
+      "Number": "1009",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "5",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "50",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "walking-wake",
+      "DisplayName": "Walking Wake",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

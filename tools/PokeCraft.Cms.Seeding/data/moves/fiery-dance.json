@@ -1,0 +1,25 @@
+﻿{
+  "Id": "f32dea4d-f9a3-4a8c-a12b-8e2b0959a625",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fiery-dance",
+    "DisplayName": "Fiery Dance",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fiery-dance",
+      "DisplayName": "Fiery Dance",
+      "Description": "Cloaked in flames, the user attacks the target by dancing and flapping its wings. This may also boost the user's Sp. Atk stat.",
+      "FieldValues": {}
+    }
+  }
+}

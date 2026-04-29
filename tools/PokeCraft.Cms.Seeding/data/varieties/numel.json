@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1b86ff4a-0a1f-47c2-933b-dbd158b38a74",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "numel",
+    "DisplayName": "Numel",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e27f6c71-634e-4639-a667-c0c207ac08a7\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "numel",
+      "DisplayName": "Numel",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Numb"
+      }
+    }
+  }
+}

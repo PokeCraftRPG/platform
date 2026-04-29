@@ -1,0 +1,41 @@
+﻿{
+  "Id": "17c60139-2e3f-4f47-a7e2-e38a73f2bf53",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gogoat",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"30f1f369-54bb-4044-b9b0-eb2c5d696c4f\"]",
+      "Height": "17",
+      "Weight": "910",
+      "YieldExperience": "186",
+      "PrimaryAbility": "[\"a471c5f9-291c-4763-b84a-9c5c666f409b\"]",
+      "HiddenAbility": "[\"d05977af-4fa6-44c6-bc8d-99f0e069eb6d\"]",
+      "BaseHP": "123",
+      "YieldHP": "2",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "62",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "97",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "81",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "68",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gogoat",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

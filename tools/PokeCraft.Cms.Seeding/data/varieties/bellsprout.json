@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5f21d4b1-f5c2-4096-9cd9-91496ebdeb76",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bellsprout",
+    "DisplayName": "Bellsprout",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9b3beffd-5bfb-4521-bc05-b3fc28ce80e2\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bellsprout",
+      "DisplayName": "Bellsprout",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Flower"
+      }
+    }
+  }
+}

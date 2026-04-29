@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b9ec3694-4729-4317-bcc9-2015b3565166",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bellossom",
+    "DisplayName": "Bellossom",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"80884b4e-ef6b-4990-a3db-7aee5856d448\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bellossom",
+      "DisplayName": "Bellossom",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Flower"
+      }
+    }
+  }
+}

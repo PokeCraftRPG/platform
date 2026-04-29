@@ -1,0 +1,24 @@
+﻿{
+  "Id": "93b99d62-9e19-4a06-aa70-e17e0272255d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "leer",
+    "DisplayName": "Leer",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "leer",
+      "DisplayName": "Leer",
+      "Description": "The user gives opposing Pokémon an intimidating leer that lowers their Defense stats.",
+      "FieldValues": {}
+    }
+  }
+}

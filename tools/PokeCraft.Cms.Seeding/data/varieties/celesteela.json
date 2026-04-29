@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ed7851eb-ddfb-49dd-af9a-b57e817c9417",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "celesteela",
+    "DisplayName": "Celesteela",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"979f6fc4-2902-4c27-9a80-0a6f2c6e3d42\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "celesteela",
+      "DisplayName": "Celesteela",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Launch"
+      }
+    }
+  }
+}

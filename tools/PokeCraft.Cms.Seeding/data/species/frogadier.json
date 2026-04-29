@@ -1,0 +1,27 @@
+﻿{
+  "Id": "7c21c438-6717-4c58-9083-652c3f3897cc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "frogadier",
+    "DisplayName": "Frogadier",
+    "Description": null,
+    "FieldValues": {
+      "Number": "657",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "frogadier",
+      "DisplayName": "Frogadier",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

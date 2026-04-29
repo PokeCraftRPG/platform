@@ -1,0 +1,25 @@
+﻿{
+  "Id": "23391079-9ba0-4cb1-9b3e-f648166a8ba4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bite",
+    "DisplayName": "Bite",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "25"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bite",
+      "DisplayName": "Bite",
+      "Description": "The target is bitten with viciously sharp fangs. This may also make the target flinch.",
+      "FieldValues": {}
+    }
+  }
+}

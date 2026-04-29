@@ -1,0 +1,25 @@
+﻿{
+  "Id": "68fb8c68-f454-4063-9988-7e1da8f031b7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pyro-ball",
+    "DisplayName": "Pyro Ball",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "120",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pyro-ball",
+      "DisplayName": "Pyro Ball",
+      "Description": "The user attacks by igniting a small stone and launching it as a fiery ball at the target. This may also leave the target with a burn.",
+      "FieldValues": {}
+    }
+  }
+}

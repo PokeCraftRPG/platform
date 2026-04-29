@@ -1,0 +1,27 @@
+﻿{
+  "Id": "5e3f954a-2200-40b9-93f1-6120fb7349e4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "minun",
+    "DisplayName": "Minun",
+    "Description": null,
+    "FieldValues": {
+      "Number": "312",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "200",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "minun",
+      "DisplayName": "Minun",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

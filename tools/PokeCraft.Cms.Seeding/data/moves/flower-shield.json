@@ -1,0 +1,23 @@
+﻿{
+  "Id": "6983ac67-7929-4332-953d-5b79bd9d5b36",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flower-shield",
+    "DisplayName": "Flower Shield",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flower-shield",
+      "DisplayName": "Flower Shield",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

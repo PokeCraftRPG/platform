@@ -1,0 +1,41 @@
+﻿{
+  "Id": "9035e894-833d-444c-8f5b-abbaf4ef0197",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "runerigus",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7c452555-a342-42b1-ad97-fc00d18af95d\"]",
+      "Height": "16",
+      "Weight": "666",
+      "YieldExperience": "169",
+      "PrimaryAbility": "[\"30dbf203-5314-4da2-88ee-b0475372d9d4\"]",
+      "BaseHP": "58",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "0",
+      "BaseDefense": "145",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "105",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "runerigus",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

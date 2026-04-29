@@ -1,0 +1,27 @@
+﻿{
+  "Id": "580f2349-9683-4b02-a1d2-08eebf78b1bb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "probopass",
+    "DisplayName": "Probopass",
+    "Description": null,
+    "FieldValues": {
+      "Number": "476",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "probopass",
+      "DisplayName": "Probopass",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

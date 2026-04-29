@@ -1,0 +1,23 @@
+﻿{
+  "Id": "31812c47-3534-432f-afa1-5ca7ffd8b41e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stuff-cheeks",
+    "DisplayName": "Stuff Cheeks",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stuff-cheeks",
+      "DisplayName": "Stuff Cheeks",
+      "Description": "The user eats its held Berry, then sharply boosts its Defense stat.",
+      "FieldValues": {}
+    }
+  }
+}

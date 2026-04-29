@@ -1,0 +1,26 @@
+﻿{
+  "Id": "93bcfc5e-f780-4df6-a81d-a4d0dfc98290",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toedscool",
+    "DisplayName": "Toedscool",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"58dd4300-96be-4008-be60-b0dade315a80\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toedscool",
+      "DisplayName": "Toedscool",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Woodear"
+      }
+    }
+  }
+}

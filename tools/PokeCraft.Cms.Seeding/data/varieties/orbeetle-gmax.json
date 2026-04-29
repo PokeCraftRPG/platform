@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6cfc0c3e-7ecb-4d69-85b4-7c5bfa617a64",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "orbeetle-gmax",
+    "DisplayName": "Orbeetle",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f2eee868-4f1b-4312-85fc-3d48f81c3f6e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "orbeetle-gmax",
+      "DisplayName": "Orbeetle",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Seven Spot"
+      }
+    }
+  }
+}

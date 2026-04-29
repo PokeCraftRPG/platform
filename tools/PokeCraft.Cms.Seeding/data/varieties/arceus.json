@@ -1,0 +1,25 @@
+﻿{
+  "Id": "36bdccba-c20b-4900-ba70-785d17ccec56",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arceus",
+    "DisplayName": "Arceus",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"15522633-83dd-480f-bfc8-01bf8bc35058\"]",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arceus",
+      "DisplayName": "Arceus",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Alpha"
+      }
+    }
+  }
+}

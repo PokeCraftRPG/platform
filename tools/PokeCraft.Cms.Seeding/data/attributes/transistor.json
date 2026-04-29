@@ -1,0 +1,19 @@
+﻿{
+  "Id": "2070f2ce-af22-4396-982c-9706cb069bcb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "transistor",
+    "DisplayName": "Transistor",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "transistor",
+      "DisplayName": "Transistor",
+      "Description": "Powers up Electric-type moves.",
+      "FieldValues": {}
+    }
+  }
+}

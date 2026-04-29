@@ -1,0 +1,19 @@
+﻿{
+  "Id": "770e0022-42e3-45fc-adbb-4e936051c8fb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sharpness",
+    "DisplayName": "Sharpness",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sharpness",
+      "DisplayName": "Sharpness",
+      "Description": "Powers up slicing moves.",
+      "FieldValues": {}
+    }
+  }
+}

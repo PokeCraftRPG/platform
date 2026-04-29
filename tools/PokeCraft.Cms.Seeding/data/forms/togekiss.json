@@ -1,0 +1,43 @@
+﻿{
+  "Id": "d438b432-5b0d-4e1c-a23b-f9fee220cfd5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "togekiss",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ea86c294-69c3-4839-90ed-90c345055c67\"]",
+      "Height": "15",
+      "Weight": "380",
+      "YieldExperience": "245",
+      "PrimaryAbility": "[\"12b608f7-a7b7-412e-803f-28d4eaba64c8\"]",
+      "SecondaryAbility": "[\"f1619484-cf62-4314-a26f-a79e00b5720f\"]",
+      "HiddenAbility": "[\"c1dc8f0f-7de1-4657-b135-5bd8efc74e80\"]",
+      "BaseHP": "85",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "120",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "115",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fairy\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "togekiss",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

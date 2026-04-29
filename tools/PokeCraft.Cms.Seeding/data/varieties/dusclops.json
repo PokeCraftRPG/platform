@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4ad44760-5739-4b2c-b702-201599670976",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dusclops",
+    "DisplayName": "Dusclops",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"cd674784-6286-469d-8ecd-d0a05d4a54c7\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dusclops",
+      "DisplayName": "Dusclops",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Beckon"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "62c0555c-bdc3-4455-8966-d7a7cc7f5112",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "after-you",
+    "DisplayName": "After You",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "after-you",
+      "DisplayName": "After You",
+      "Description": "The user helps the target and makes it use its move right after the user.",
+      "FieldValues": {}
+    }
+  }
+}

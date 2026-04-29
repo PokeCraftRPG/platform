@@ -1,0 +1,27 @@
+﻿{
+  "Id": "2fddf89f-9c35-43c9-a667-514c182ffb5d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "honedge",
+    "DisplayName": "Honedge",
+    "Description": null,
+    "FieldValues": {
+      "Number": "679",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "180",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "honedge",
+      "DisplayName": "Honedge",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

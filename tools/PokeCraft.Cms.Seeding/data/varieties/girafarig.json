@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5c34dd95-8b4b-4ea1-95ca-425b68739080",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "girafarig",
+    "DisplayName": "Girafarig",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"dbf59b03-d0e2-4844-ba08-ed4080d71ccd\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "girafarig",
+      "DisplayName": "Girafarig",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Long Neck"
+      }
+    }
+  }
+}

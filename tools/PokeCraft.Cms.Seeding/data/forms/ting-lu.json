@@ -1,0 +1,41 @@
+﻿{
+  "Id": "7f5622d5-fc11-4515-9b4c-d62959baa334",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ting-lu",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"29ddb09a-c3ad-485a-9f23-e4a5fc5514b9\"]",
+      "Height": "27",
+      "Weight": "6997",
+      "YieldExperience": "285",
+      "PrimaryAbility": "[\"bba5c5cd-8d94-4ed0-b40a-7004714680c1\"]",
+      "BaseHP": "155",
+      "YieldHP": "0",
+      "BaseAttack": "110",
+      "YieldAttack": "0",
+      "BaseDefense": "125",
+      "YieldDefense": "3",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ting-lu",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

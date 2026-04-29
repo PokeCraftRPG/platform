@@ -1,0 +1,23 @@
+﻿{
+  "Id": "e498f7fc-f968-4db4-ac88-3e2d2b569f8c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magic-room",
+    "DisplayName": "Magic Room",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magic-room",
+      "DisplayName": "Magic Room",
+      "Description": "The user creates a bizarre area in which Pokémon's held items lose their effects for five turns.",
+      "FieldValues": {}
+    }
+  }
+}

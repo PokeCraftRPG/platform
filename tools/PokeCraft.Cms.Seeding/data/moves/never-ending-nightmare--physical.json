@@ -1,0 +1,23 @@
+﻿{
+  "Id": "ab029eee-080d-4756-a3aa-999330dccec8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "never-ending-nightmare--physical",
+    "DisplayName": "Never-Ending Nightmare",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Physical\"]",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "never-ending-nightmare--physical",
+      "DisplayName": "Never-Ending Nightmare",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

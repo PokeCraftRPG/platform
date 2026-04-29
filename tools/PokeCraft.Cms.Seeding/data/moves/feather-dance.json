@@ -1,0 +1,24 @@
+﻿{
+  "Id": "df6a1212-6c80-403f-9221-e9a326cf56c5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "feather-dance",
+    "DisplayName": "Feather Dance",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "feather-dance",
+      "DisplayName": "Feather Dance",
+      "Description": "The user covers the target's body with a mass of down that harshly lowers its Attack stat.",
+      "FieldValues": {}
+    }
+  }
+}

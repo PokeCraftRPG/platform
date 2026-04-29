@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c2157736-74e5-4af1-aa4c-ad67a60a4307",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drilbur",
+    "DisplayName": "Drilbur",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"db68eb14-9178-4ba9-8ec2-d4482e0e3b93\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drilbur",
+      "DisplayName": "Drilbur",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mole"
+      }
+    }
+  }
+}

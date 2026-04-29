@@ -1,0 +1,19 @@
+﻿{
+  "Id": "a471c5f9-291c-4763-b84a-9c5c666f409b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sap-sipper",
+    "DisplayName": "Sap Sipper",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sap-sipper",
+      "DisplayName": "Sap Sipper",
+      "Description": "The Pokémon takes no damage when hit by Grass-type moves. Instead, its Attack stat is boosted.",
+      "FieldValues": {}
+    }
+  }
+}

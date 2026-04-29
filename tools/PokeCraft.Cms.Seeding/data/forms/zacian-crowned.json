@@ -1,0 +1,41 @@
+﻿{
+  "Id": "78e51084-9da0-43b1-afce-ecbd5469b61a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zacian-crowned",
+    "DisplayName": "Crowned Zacian",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f033fe17-9f9d-4424-b6e9-dc173ccf33a2\"]",
+      "Height": "28",
+      "Weight": "3550",
+      "YieldExperience": "360",
+      "PrimaryAbility": "[\"a9f92951-9270-4a73-a2ac-b821aa439635\"]",
+      "BaseHP": "92",
+      "YieldHP": "0",
+      "BaseAttack": "150",
+      "YieldAttack": "0",
+      "BaseDefense": "115",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "115",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "148",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Fairy\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zacian-crowned",
+      "DisplayName": "Crowned Zacian",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

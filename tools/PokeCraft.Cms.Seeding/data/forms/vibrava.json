@@ -1,0 +1,41 @@
+﻿{
+  "Id": "37ee198f-1576-4ce0-8fd2-197c27bf82d1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vibrava",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"bde46ddb-f9ae-450a-adcc-5eb6b0772966\"]",
+      "Height": "11",
+      "Weight": "153",
+      "YieldExperience": "119",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "1",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vibrava",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

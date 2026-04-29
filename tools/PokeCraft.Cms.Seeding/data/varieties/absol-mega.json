@@ -1,0 +1,26 @@
+﻿{
+  "Id": "62ecb256-cc8b-42b5-928e-101d0cb0b1e3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "absol-mega",
+    "DisplayName": "Absol",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e4508ce7-c596-4704-be76-f60d22b95b0d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "absol-mega",
+      "DisplayName": "Absol",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Disaster"
+      }
+    }
+  }
+}

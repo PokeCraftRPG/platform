@@ -1,0 +1,43 @@
+﻿{
+  "Id": "c7d0b17d-647e-4557-8e7e-8948e010fcba",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aron",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"74cb15d3-5bd1-40b6-b40e-81d0f4d08cde\"]",
+      "Height": "4",
+      "Weight": "600",
+      "YieldExperience": "66",
+      "PrimaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "SecondaryAbility": "[\"98ae35ae-b156-4c2e-b4a7-8af42a8b0ef6\"]",
+      "HiddenAbility": "[\"598518b6-1116-4c2a-b768-5a90de740ff2\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aron",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

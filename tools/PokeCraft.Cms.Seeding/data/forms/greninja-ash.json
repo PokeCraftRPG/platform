@@ -1,0 +1,41 @@
+﻿{
+  "Id": "e74d4101-99bf-45f8-9a43-06f89e460fab",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "greninja-ash",
+    "DisplayName": "Ash’s Greninja",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d093a2c1-f3fa-4c0e-b14a-d17883029e6b\"]",
+      "Height": "15",
+      "Weight": "400",
+      "YieldExperience": "288",
+      "PrimaryAbility": "[\"66b93af5-b909-4040-a7b6-88a8f467a29e\"]",
+      "BaseHP": "72",
+      "YieldHP": "0",
+      "BaseAttack": "145",
+      "YieldAttack": "0",
+      "BaseDefense": "67",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "153",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "71",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "132",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "greninja-ash",
+      "DisplayName": "Ash’s Greninja",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

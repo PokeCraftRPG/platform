@@ -1,0 +1,25 @@
+﻿{
+  "Id": "d29f894d-1f38-42eb-959c-f13fda902b79",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aqua-cutter",
+    "DisplayName": "Aqua Cutter",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "70",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aqua-cutter",
+      "DisplayName": "Aqua Cutter",
+      "Description": "The user expels pressurized water to cut at the target like a blade. This move has a heightened chance of landing a critical hit.",
+      "FieldValues": {}
+    }
+  }
+}

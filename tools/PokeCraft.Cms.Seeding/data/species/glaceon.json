@@ -1,0 +1,27 @@
+﻿{
+  "Id": "b99473b7-af0c-437c-b292-4965ea4656d1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glaceon",
+    "DisplayName": "Glaceon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "471",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "35",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glaceon",
+      "DisplayName": "Glaceon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

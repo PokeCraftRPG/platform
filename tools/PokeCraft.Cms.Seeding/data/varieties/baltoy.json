@@ -1,0 +1,25 @@
+﻿{
+  "Id": "a5d3045e-2d78-420e-afd6-fa25f50653b7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "baltoy",
+    "DisplayName": "Baltoy",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c509b6b7-9559-4603-9c3b-82bc58d27ef8\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "baltoy",
+      "DisplayName": "Baltoy",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Clay Doll"
+      }
+    }
+  }
+}

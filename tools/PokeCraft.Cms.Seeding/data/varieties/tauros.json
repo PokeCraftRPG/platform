@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e6bbf42b-96a4-43c1-a6f8-10cc5efa6d82",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tauros",
+    "DisplayName": "Tauros",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7c9df02d-cfff-4a23-a7d1-c1e546b9f2b3\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tauros",
+      "DisplayName": "Tauros",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Wild Bull"
+      }
+    }
+  }
+}

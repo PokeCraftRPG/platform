@@ -1,0 +1,24 @@
+﻿{
+  "Id": "aa077a48-c1cd-46e2-a2ab-1af54acc2062",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sheer-cold",
+    "DisplayName": "Sheer Cold",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "30",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sheer-cold",
+      "DisplayName": "Sheer Cold",
+      "Description": "The target faints instantly. This move is less likely to hit the target if used by Pokémon other than Ice types.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "8d93fede-d6ca-4ca9-87bf-d9aef3a1e6d5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swellow",
+    "DisplayName": "Swellow",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3dcebd08-539c-4773-b2fd-d81820f81d12\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swellow",
+      "DisplayName": "Swellow",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Swallow"
+      }
+    }
+  }
+}

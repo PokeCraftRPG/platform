@@ -1,0 +1,27 @@
+﻿{
+  "Id": "0401e811-2c6f-46c8-8e2c-2052c5bf563f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "latios",
+    "DisplayName": "Latios",
+    "Description": null,
+    "FieldValues": {
+      "Number": "381",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "90",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "latios",
+      "DisplayName": "Latios",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

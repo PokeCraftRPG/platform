@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0f0a44a0-51ee-41bd-b4bb-cc166ff1f42a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "reuniclus",
+    "DisplayName": "Reuniclus",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4dfc17ff-832c-4ed7-b020-9d72b29133e1\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "reuniclus",
+      "DisplayName": "Reuniclus",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Multiplying"
+      }
+    }
+  }
+}

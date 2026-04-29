@@ -1,0 +1,23 @@
+﻿{
+  "Id": "f0daae4c-bdae-44fb-b74d-fa7321eef1ec",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fairy-lock",
+    "DisplayName": "Fairy Lock",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fairy-lock",
+      "DisplayName": "Fairy Lock",
+      "Description": "By locking down the battlefield, the user keeps all Pokémon from fleeing during the next turn.",
+      "FieldValues": {}
+    }
+  }
+}

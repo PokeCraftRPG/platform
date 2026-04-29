@@ -1,0 +1,23 @@
+﻿{
+  "Id": "4d814e80-7518-41df-95be-51c190e1e270",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tearful-look",
+    "DisplayName": "Tearful Look",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tearful-look",
+      "DisplayName": "Tearful Look",
+      "Description": "The user gets teary-eyed to make the target lose its combative spirit. This lowers the target's Attack and Sp. Atk stats.",
+      "FieldValues": {}
+    }
+  }
+}

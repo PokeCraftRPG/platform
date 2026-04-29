@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6ae10779-f788-4dd9-96de-59ff742ad8de",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wurmple",
+    "DisplayName": "Wurmple",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"711ed10a-3659-425d-9155-dcfba46e72b6\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wurmple",
+      "DisplayName": "Wurmple",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Worm"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "dfe9ba5e-0b83-45fc-a337-6aa906b072ba",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vulpix-alola",
+    "DisplayName": "Vulpix",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"24bd9cfe-fe0a-41e5-9966-a6b530b42e9f\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vulpix-alola",
+      "DisplayName": "Vulpix",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fox"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "8797d6f5-56a9-470a-a810-c12cecc50c7b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "klawf",
+    "DisplayName": "Klawf",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2ae23228-85ee-43cf-86b7-2c4f4877f86c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "klawf",
+      "DisplayName": "Klawf",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ambush"
+      }
+    }
+  }
+}

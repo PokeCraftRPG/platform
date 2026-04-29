@@ -1,0 +1,26 @@
+﻿{
+  "Id": "17b1f213-9556-429a-9341-c98f1070b8c3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toxtricity-low-key-gmax",
+    "DisplayName": "Toxtricity",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"671975c0-915e-4d00-ad55-be2a6d838244\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toxtricity-low-key-gmax",
+      "DisplayName": "Toxtricity",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Punk"
+      }
+    }
+  }
+}

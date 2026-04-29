@@ -1,0 +1,27 @@
+﻿{
+  "Id": "77a77bc9-e085-449e-8fb9-45c0dc4a41c8",
+  "Invariant": {
+    "IsPublished": true,
+    "UniqueName": "decidueye",
+    "DisplayName": "Decidueye",
+    "Description": null,
+    "FieldValues": {
+      "Number": "724",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": true,
+      "UniqueName": "decidueye",
+      "DisplayName": "Decidueye",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "71c36168-9364-408b-8e81-b4fb93968579",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fire-blast",
+    "DisplayName": "Fire Blast",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "85",
+      "Power": "110",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fire-blast",
+      "DisplayName": "Fire Blast",
+      "Description": "The target is attacked with an intense blast of all-consuming fire. This may also leave the target with a burn.",
+      "FieldValues": {}
+    }
+  }
+}

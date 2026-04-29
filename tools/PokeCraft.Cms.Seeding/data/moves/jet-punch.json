@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c4966b4c-4cd1-4e9c-9250-0016e9e3a9ff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "jet-punch",
+    "DisplayName": "Jet Punch",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "jet-punch",
+      "DisplayName": "Jet Punch",
+      "Description": "The user summons a torrent around its fist and punches at blinding speed. This move always goes first.",
+      "FieldValues": {}
+    }
+  }
+}

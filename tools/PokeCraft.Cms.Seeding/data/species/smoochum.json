@@ -1,0 +1,27 @@
+﻿{
+  "Id": "feaf47e0-b2ba-4310-88ff-d3d3606e25a7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "smoochum",
+    "DisplayName": "Smoochum",
+    "Description": null,
+    "FieldValues": {
+      "Number": "238",
+      "Category": "[\"Baby\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "smoochum",
+      "DisplayName": "Smoochum",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

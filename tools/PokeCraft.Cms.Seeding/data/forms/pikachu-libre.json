@@ -1,0 +1,41 @@
+﻿{
+  "Id": "02c41ee4-105e-45f9-bea7-e85c445d8c74",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pikachu-libre",
+    "DisplayName": "Pikachu Libre",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0c68cae9-f412-4752-8520-1678e1271fd8\"]",
+      "Height": "4",
+      "Weight": "60",
+      "YieldExperience": "112",
+      "PrimaryAbility": "[\"4d8cefa4-dbcc-4c78-b5f5-0a1c30bdb019\"]",
+      "HiddenAbility": "[\"98bb9191-1993-4224-8922-4a4d13f534a5\"]",
+      "BaseHP": "35",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pikachu-libre",
+      "DisplayName": "Pikachu Libre",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "33b8a5d3-abb6-4dd6-b3fb-8c5342f4f7bb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "queenly-majesty",
+    "DisplayName": "Queenly Majesty",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "queenly-majesty",
+      "DisplayName": "Queenly Majesty",
+      "Description": "The Pokémon's majesty pressures opponents and makes them unable to use priority moves against the Pokémon or its allies.",
+      "FieldValues": {}
+    }
+  }
+}

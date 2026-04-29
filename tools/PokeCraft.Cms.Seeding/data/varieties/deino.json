@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5c415edd-0d54-4fb2-894d-cb44742978c4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "deino",
+    "DisplayName": "Deino",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"cb379023-fd92-4c07-916a-2af30833337f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "deino",
+      "DisplayName": "Deino",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Irate"
+      }
+    }
+  }
+}

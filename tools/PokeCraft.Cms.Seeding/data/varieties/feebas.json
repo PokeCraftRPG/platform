@@ -1,0 +1,26 @@
+﻿{
+  "Id": "96d66d74-c0be-4ff0-8645-b39a8de276f3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "feebas",
+    "DisplayName": "Feebas",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"98f13b33-0232-4ca0-be70-92dc72978fdf\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "feebas",
+      "DisplayName": "Feebas",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fish"
+      }
+    }
+  }
+}

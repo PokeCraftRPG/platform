@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a87f92dd-d6da-4896-85ce-1aa362151631",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "trapinch",
+    "DisplayName": "Trapinch",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"28d324aa-640b-4d49-90bf-230e88261869\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "trapinch",
+      "DisplayName": "Trapinch",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ant Pit"
+      }
+    }
+  }
+}

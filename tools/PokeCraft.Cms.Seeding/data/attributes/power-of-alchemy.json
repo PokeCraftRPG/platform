@@ -1,0 +1,19 @@
+﻿{
+  "Id": "d372d79e-d4cb-42c3-917b-c837a02c99ee",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "power-of-alchemy",
+    "DisplayName": "Power of Alchemy",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "power-of-alchemy",
+      "DisplayName": "Power of Alchemy",
+      "Description": "The Pokémon copies the Ability of a defeated ally.",
+      "FieldValues": {}
+    }
+  }
+}

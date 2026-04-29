@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ecc613e4-ee37-451b-9f82-649bd82c5033",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "quilava",
+    "DisplayName": "Quilava",
+    "Description": null,
+    "FieldValues": {
+      "Number": "156",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "quilava",
+      "DisplayName": "Quilava",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

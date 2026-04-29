@@ -1,0 +1,25 @@
+﻿{
+  "Id": "64b884c6-d617-48f1-9335-1f4a1d39c0a7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spirit-shackle",
+    "DisplayName": "Spirit Shackle",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spirit-shackle",
+      "DisplayName": "Spirit Shackle",
+      "Description": "The user attacks while simultaneously stitching the target's shadow to the ground to prevent the target from fleeing.",
+      "FieldValues": {}
+    }
+  }
+}

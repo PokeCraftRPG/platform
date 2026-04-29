@@ -1,0 +1,26 @@
+﻿{
+  "Id": "47cf8e8b-2f2f-42fd-aa45-dbec37f594c3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bruxish",
+    "DisplayName": "Bruxish",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a18e578e-389b-4ba0-80d5-3a689d618a58\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bruxish",
+      "DisplayName": "Bruxish",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Gnash Teeth"
+      }
+    }
+  }
+}

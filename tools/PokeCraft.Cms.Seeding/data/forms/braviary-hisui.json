@@ -1,0 +1,43 @@
+﻿{
+  "Id": "0e0aa1cb-e922-41b2-963b-9018cb2d9f20",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "braviary-hisui",
+    "DisplayName": "Hisuian Braviary",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"231a63ef-499d-4384-8763-7579fa2a2773\"]",
+      "Height": "17",
+      "Weight": "434",
+      "YieldExperience": "179",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "SecondaryAbility": "[\"ef348627-bea1-4c87-9bf1-417ed3b66855\"]",
+      "HiddenAbility": "[\"786cffd7-a22d-4bc0-87f2-6a9ffbbc07d2\"]",
+      "BaseHP": "110",
+      "YieldHP": "0",
+      "BaseAttack": "83",
+      "YieldAttack": "2",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "112",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "braviary-hisui",
+      "DisplayName": "Hisuian Braviary",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

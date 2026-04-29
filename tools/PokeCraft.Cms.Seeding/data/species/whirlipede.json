@@ -1,0 +1,27 @@
+﻿{
+  "Id": "7b961c81-7a6b-4147-80b6-83985919aeb2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "whirlipede",
+    "DisplayName": "Whirlipede",
+    "Description": null,
+    "FieldValues": {
+      "Number": "544",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "whirlipede",
+      "DisplayName": "Whirlipede",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

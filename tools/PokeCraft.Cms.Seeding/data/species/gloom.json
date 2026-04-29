@@ -1,0 +1,27 @@
+﻿{
+  "Id": "3091c482-c636-485c-883f-4a862fd2f016",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gloom",
+    "DisplayName": "Gloom",
+    "Description": null,
+    "FieldValues": {
+      "Number": "44",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gloom",
+      "DisplayName": "Gloom",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

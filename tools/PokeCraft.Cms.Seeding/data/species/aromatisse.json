@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ca198c8a-9996-4072-9375-e1ddfa6ddeca",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aromatisse",
+    "DisplayName": "Aromatisse",
+    "Description": null,
+    "FieldValues": {
+      "Number": "683",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "140",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aromatisse",
+      "DisplayName": "Aromatisse",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

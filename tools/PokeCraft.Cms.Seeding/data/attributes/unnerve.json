@@ -1,0 +1,19 @@
+﻿{
+  "Id": "5cdb3b5f-b72c-4361-b715-922fc4cb31f9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "unnerve",
+    "DisplayName": "Unnerve",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "unnerve",
+      "DisplayName": "Unnerve",
+      "Description": "Unnerves opposing Pokémon and makes them unable to eat Berries.",
+      "FieldValues": {}
+    }
+  }
+}

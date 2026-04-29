@@ -1,0 +1,43 @@
+﻿{
+  "Id": "e5e701cc-43b7-4d47-a950-0110b78a05c6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hawlucha",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b2f17d07-8117-4432-b84a-6a25cea9d7c6\"]",
+      "Height": "8",
+      "Weight": "215",
+      "YieldExperience": "175",
+      "PrimaryAbility": "[\"170e2598-7fd5-497f-9003-f9d753aadd0d\"]",
+      "SecondaryAbility": "[\"d74f9f1b-dd57-4258-875f-46ec6bc83d99\"]",
+      "HiddenAbility": "[\"f35847b5-de3c-4706-a9d6-010903615537\"]",
+      "BaseHP": "78",
+      "YieldHP": "0",
+      "BaseAttack": "92",
+      "YieldAttack": "2",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "74",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "63",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "118",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hawlucha",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

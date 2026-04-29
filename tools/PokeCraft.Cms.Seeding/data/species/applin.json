@@ -1,0 +1,28 @@
+﻿{
+  "Id": "2c7437c1-44a4-49b8-9284-d3d5b9552d1a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "applin",
+    "DisplayName": "Applin",
+    "Description": null,
+    "FieldValues": {
+      "Number": "840",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "255",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "applin",
+      "DisplayName": "Applin",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

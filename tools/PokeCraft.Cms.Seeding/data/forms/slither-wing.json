@@ -1,0 +1,41 @@
+﻿{
+  "Id": "688672f6-11c9-4bf2-95a0-ba20c83f72f7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slither-wing",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2cad9578-731b-4ae7-8b16-e38482ab82ad\"]",
+      "Height": "32",
+      "Weight": "920",
+      "YieldExperience": "285",
+      "PrimaryAbility": "[\"fd80fd8e-dbd4-4b54-bfef-8ed47d35c99e\"]",
+      "BaseHP": "85",
+      "YieldHP": "0",
+      "BaseAttack": "135",
+      "YieldAttack": "3",
+      "BaseDefense": "79",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "105",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "81",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slither-wing",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

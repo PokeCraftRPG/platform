@@ -1,0 +1,23 @@
+﻿{
+  "Id": "bbbb59e0-e0bc-4e98-b143-0ff5bb5a2283",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "acid-armor",
+    "DisplayName": "Acid Armor",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "acid-armor",
+      "DisplayName": "Acid Armor",
+      "Description": "The user alters its cellular structure to liquefy itself, sharply boosting its Defense stat.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "8de9ce4f-a02e-48b6-b852-eccd047fb908",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zangoose",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d5b1d4bd-9fbd-49ca-afe7-6b3a8ef5bc00\"]",
+      "Height": "13",
+      "Weight": "403",
+      "YieldExperience": "160",
+      "PrimaryAbility": "[\"87d19fcd-9364-4f75-ba5c-cc9f55b081b8\"]",
+      "HiddenAbility": "[\"c3ea18cc-a675-468c-9ca6-524d5c60d91d\"]",
+      "BaseHP": "73",
+      "YieldHP": "0",
+      "BaseAttack": "115",
+      "YieldAttack": "2",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zangoose",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

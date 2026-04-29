@@ -1,0 +1,24 @@
+﻿{
+  "Id": "349042e5-7378-44b2-a207-64c381384631",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "simple-beam",
+    "DisplayName": "Simple Beam",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "simple-beam",
+      "DisplayName": "Simple Beam",
+      "Description": "The user emits a mysterious psychic wave that changes the target's Ability to Simple.",
+      "FieldValues": {}
+    }
+  }
+}

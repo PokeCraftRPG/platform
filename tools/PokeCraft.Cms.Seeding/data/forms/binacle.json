@@ -1,0 +1,43 @@
+﻿{
+  "Id": "a057da9f-8000-4771-b592-791e2da97c9b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "binacle",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9547d27d-0fea-47be-8d98-83dc3cf12222\"]",
+      "Height": "5",
+      "Weight": "310",
+      "YieldExperience": "61",
+      "PrimaryAbility": "[\"97aefd91-1b08-4ac4-b2c7-d9c6cb7f555a\"]",
+      "SecondaryAbility": "[\"e1b8fd69-5bf8-4889-ab24-ea30a8419d99\"]",
+      "HiddenAbility": "[\"03108b44-e57b-442a-ba0e-b6de95a975c1\"]",
+      "BaseHP": "42",
+      "YieldHP": "0",
+      "BaseAttack": "52",
+      "YieldAttack": "1",
+      "BaseDefense": "67",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "39",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "56",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "binacle",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

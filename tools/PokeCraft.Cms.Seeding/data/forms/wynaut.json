@@ -1,0 +1,41 @@
+﻿{
+  "Id": "115d100d-8baa-4845-b29d-35c53e766864",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wynaut",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9fce5854-66a9-4a5f-9d9e-1dafb0d35701\"]",
+      "Height": "6",
+      "Weight": "140",
+      "YieldExperience": "52",
+      "PrimaryAbility": "[\"cfe58e17-637f-488f-8a6a-a1a396382876\"]",
+      "HiddenAbility": "[\"f5863110-b5b9-4629-b95c-3869ed34433d\"]",
+      "BaseHP": "95",
+      "YieldHP": "1",
+      "BaseAttack": "23",
+      "YieldAttack": "0",
+      "BaseDefense": "48",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "23",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "48",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "23",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wynaut",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

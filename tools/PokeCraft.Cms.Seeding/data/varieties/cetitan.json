@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f50e4f9e-f5c0-4599-9a9f-0e63e8d6db64",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cetitan",
+    "DisplayName": "Cetitan",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ebe48e2d-f4eb-49c6-ae9d-1eea7e6b7af1\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cetitan",
+      "DisplayName": "Cetitan",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Terra Whale"
+      }
+    }
+  }
+}

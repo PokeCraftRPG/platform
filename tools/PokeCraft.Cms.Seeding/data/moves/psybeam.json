@@ -1,0 +1,25 @@
+﻿{
+  "Id": "9b988234-d8b1-408a-8baf-9f761427631a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "psybeam",
+    "DisplayName": "Psybeam",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "65",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "psybeam",
+      "DisplayName": "Psybeam",
+      "Description": "The target is attacked with a peculiar ray. This may also confuse the target.",
+      "FieldValues": {}
+    }
+  }
+}

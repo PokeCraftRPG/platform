@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f9d221da-f750-46df-8622-6e41c235f2aa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "eldegoss",
+    "DisplayName": "Eldegoss",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"bc437177-8229-4900-b16d-9f2d68025c8b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "eldegoss",
+      "DisplayName": "Eldegoss",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cotton Bloom"
+      }
+    }
+  }
+}

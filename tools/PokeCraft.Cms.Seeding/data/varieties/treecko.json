@@ -1,0 +1,26 @@
+﻿{
+  "Id": "95d8b501-7e13-4291-965b-ec68791ce8ee",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "treecko",
+    "DisplayName": "Treecko",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"999c79ea-2403-42cc-8288-93daf627beb9\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "treecko",
+      "DisplayName": "Treecko",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Wood Gecko"
+      }
+    }
+  }
+}

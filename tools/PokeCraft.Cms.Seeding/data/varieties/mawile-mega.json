@@ -1,0 +1,26 @@
+﻿{
+  "Id": "250a8150-f054-41a5-b4da-ea59e75b0cc6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mawile-mega",
+    "DisplayName": "Mawile",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"cdc07197-e10d-4d27-8063-4138613efee8\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mawile-mega",
+      "DisplayName": "Mawile",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Deceiver"
+      }
+    }
+  }
+}

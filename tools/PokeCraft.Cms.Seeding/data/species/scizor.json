@@ -1,0 +1,27 @@
+﻿{
+  "Id": "db12e09e-634e-4156-85db-0f02ef4a2ae1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scizor",
+    "DisplayName": "Scizor",
+    "Description": null,
+    "FieldValues": {
+      "Number": "212",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "25",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scizor",
+      "DisplayName": "Scizor",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

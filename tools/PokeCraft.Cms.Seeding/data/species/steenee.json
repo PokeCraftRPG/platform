@@ -1,0 +1,27 @@
+﻿{
+  "Id": "0dfa5d5d-a06d-4ce9-a8d8-4b74aaf6dbd7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "steenee",
+    "DisplayName": "Steenee",
+    "Description": null,
+    "FieldValues": {
+      "Number": "762",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "steenee",
+      "DisplayName": "Steenee",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

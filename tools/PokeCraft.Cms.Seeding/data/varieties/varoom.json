@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9aa81142-bfc6-4ba7-9a4f-6f2a88a3dbef",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "varoom",
+    "DisplayName": "Varoom",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b2d5189e-71a2-444c-857d-3260eab64cf9\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "varoom",
+      "DisplayName": "Varoom",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Single-Cyl"
+      }
+    }
+  }
+}

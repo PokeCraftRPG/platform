@@ -1,0 +1,23 @@
+﻿{
+  "Id": "6c7dd3d5-68e5-419c-b136-4d2d799f09b6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "howl",
+    "DisplayName": "Howl",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "40"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "howl",
+      "DisplayName": "Howl",
+      "Description": "The user howls loudly to rouse itself and its allies. This boosts their Attack stats.",
+      "FieldValues": {}
+    }
+  }
+}

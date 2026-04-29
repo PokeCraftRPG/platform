@@ -1,0 +1,25 @@
+﻿{
+  "Id": "a8d23968-a690-4056-b177-aa0763f662e4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glacial-lance",
+    "DisplayName": "Glacial Lance",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glacial-lance",
+      "DisplayName": "Glacial Lance",
+      "Description": "The user attacks by hurling a blizzard-cloaked icicle lance at opposing Pokémon.",
+      "FieldValues": {}
+    }
+  }
+}

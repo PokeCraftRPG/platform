@@ -1,0 +1,26 @@
+﻿{
+  "Id": "71e56c94-c82e-4125-8675-ab943dc11749",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "krokorok",
+    "DisplayName": "Krokorok",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d46132f3-7927-4406-a1a9-4db661071641\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "krokorok",
+      "DisplayName": "Krokorok",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Desert Croc"
+      }
+    }
+  }
+}

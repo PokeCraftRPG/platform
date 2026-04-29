@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d4d12811-a4bd-49a6-90ea-f3eaa9092ce6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lurantis",
+    "DisplayName": "Lurantis",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"264b4f01-6a44-4829-9d20-185234729dfc\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lurantis",
+      "DisplayName": "Lurantis",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bloom Sickle"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9f8414e3-2585-474d-9dec-f1882f0756d8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sandshrew-alola",
+    "DisplayName": "Sandshrew",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4ec8d252-22bc-49b2-adb2-18400d09a74d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sandshrew-alola",
+      "DisplayName": "Sandshrew",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mouse"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "23e4d162-8981-4745-9f51-c864f6afcfcf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bug-bite",
+    "DisplayName": "Bug Bite",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bug-bite",
+      "DisplayName": "Bug Bite",
+      "Description": "The user attacks by biting the target. If the target is holding a Berry, the user eats it and gains its effect.",
+      "FieldValues": {}
+    }
+  }
+}

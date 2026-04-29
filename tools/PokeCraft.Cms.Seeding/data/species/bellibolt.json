@@ -1,0 +1,27 @@
+﻿{
+  "Id": "45d37aff-9c00-43f7-9044-7c727c9b2d88",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bellibolt",
+    "DisplayName": "Bellibolt",
+    "Description": null,
+    "FieldValues": {
+      "Number": "939",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "50",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bellibolt",
+      "DisplayName": "Bellibolt",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

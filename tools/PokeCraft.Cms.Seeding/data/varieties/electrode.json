@@ -1,0 +1,25 @@
+﻿{
+  "Id": "877d3f69-50d8-4fda-8cfb-87162db849c9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "electrode",
+    "DisplayName": "Electrode",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2ee56fc5-a188-4a5d-8831-b5a50db69c63\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "electrode",
+      "DisplayName": "Electrode",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ball"
+      }
+    }
+  }
+}

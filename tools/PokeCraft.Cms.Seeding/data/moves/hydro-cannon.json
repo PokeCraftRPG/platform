@@ -1,0 +1,25 @@
+﻿{
+  "Id": "688cb36a-49c5-4f15-a498-74a224f5130a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hydro-cannon",
+    "DisplayName": "Hydro Cannon",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "90",
+      "Power": "150",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hydro-cannon",
+      "DisplayName": "Hydro Cannon",
+      "Description": "The target is hit with a watery blast. The user can't move on the next turn.",
+      "FieldValues": {}
+    }
+  }
+}

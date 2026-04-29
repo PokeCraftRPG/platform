@@ -1,0 +1,27 @@
+﻿{
+  "Id": "34b58236-727b-43b2-b4fc-c93b0b2c5a7b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "komala",
+    "DisplayName": "Komala",
+    "Description": null,
+    "FieldValues": {
+      "Number": "775",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "komala",
+      "DisplayName": "Komala",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

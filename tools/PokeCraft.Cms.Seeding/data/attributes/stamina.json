@@ -1,0 +1,19 @@
+﻿{
+  "Id": "fb4044ec-73a6-4c5c-8f82-8876b94848b3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stamina",
+    "DisplayName": "Stamina",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stamina",
+      "DisplayName": "Stamina",
+      "Description": "Boosts the Defense stat when the Pokémon is hit by an attack.",
+      "FieldValues": {}
+    }
+  }
+}

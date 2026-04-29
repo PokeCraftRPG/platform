@@ -1,0 +1,25 @@
+﻿{
+  "Id": "f3ed1f98-7296-4369-ade6-970e6f2dd574",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grav-apple",
+    "DisplayName": "Grav Apple",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grav-apple",
+      "DisplayName": "Grav Apple",
+      "Description": "The user inflicts damage by dropping an apple from high above. This also lowers the target's Defense stat.",
+      "FieldValues": {}
+    }
+  }
+}

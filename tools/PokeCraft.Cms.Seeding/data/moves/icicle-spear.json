@@ -1,0 +1,25 @@
+﻿{
+  "Id": "0ac5563d-fecc-4506-9715-5b8bb4e696b4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "icicle-spear",
+    "DisplayName": "Icicle Spear",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "25",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "icicle-spear",
+      "DisplayName": "Icicle Spear",
+      "Description": "The user attacks by launching sharp icicles at the target. This move hits two to five times in a row.",
+      "FieldValues": {}
+    }
+  }
+}

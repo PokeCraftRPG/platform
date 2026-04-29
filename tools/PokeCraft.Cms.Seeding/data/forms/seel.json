@@ -1,0 +1,42 @@
+﻿{
+  "Id": "947c497d-377e-4978-94c7-6d5b03b57352",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "seel",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e067159a-ea6a-4d4e-9df9-3943362da2d1\"]",
+      "Height": "11",
+      "Weight": "900",
+      "YieldExperience": "65",
+      "PrimaryAbility": "[\"d6fa994e-7a48-48b5-9f1f-c1b84dd3225f\"]",
+      "SecondaryAbility": "[\"14243d95-6028-489e-acf7-18592c5695c2\"]",
+      "HiddenAbility": "[\"c28be462-7265-4527-a8aa-85774f7eaf7b\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "seel",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

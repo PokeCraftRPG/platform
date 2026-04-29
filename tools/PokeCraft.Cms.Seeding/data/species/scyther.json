@@ -1,0 +1,27 @@
+﻿{
+  "Id": "7ea0f5a5-33f5-4840-9adb-2f588353a3e8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scyther",
+    "DisplayName": "Scyther",
+    "Description": null,
+    "FieldValues": {
+      "Number": "123",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scyther",
+      "DisplayName": "Scyther",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

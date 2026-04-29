@@ -1,0 +1,42 @@
+﻿{
+  "Id": "a41c4c62-31b8-4db6-a6f2-51428d15ba15",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "crabrawler",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"16f4af89-048e-471a-8c3d-9abb1c43bf9f\"]",
+      "Height": "6",
+      "Weight": "70",
+      "YieldExperience": "68",
+      "PrimaryAbility": "[\"57e539ec-9a7b-4925-ad82-81080aa7ceb2\"]",
+      "SecondaryAbility": "[\"e3b961ab-87de-40fc-9d8d-95dda45c14df\"]",
+      "HiddenAbility": "[\"35627a6f-38f0-4832-b663-c5ba955aa328\"]",
+      "BaseHP": "47",
+      "YieldHP": "0",
+      "BaseAttack": "82",
+      "YieldAttack": "1",
+      "BaseDefense": "57",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "42",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "47",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "63",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "crabrawler",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

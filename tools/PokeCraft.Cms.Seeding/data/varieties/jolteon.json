@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c0bb2250-d907-4e1f-9120-002eadd41df7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "jolteon",
+    "DisplayName": "Jolteon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"42e5ce17-f0b8-4bfb-8954-784acb04ed51\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "jolteon",
+      "DisplayName": "Jolteon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Lightning"
+      }
+    }
+  }
+}

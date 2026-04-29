@@ -1,0 +1,42 @@
+﻿{
+  "Id": "26ec0ad9-5aa5-4898-9405-c257bb3063aa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aurorus",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4b2ff617-78e8-4b37-a83a-e8fe60117ea1\"]",
+      "Height": "27",
+      "Weight": "2250",
+      "YieldExperience": "104",
+      "PrimaryAbility": "[\"0315e132-cf16-4bfe-8d13-4db13a321385\"]",
+      "HiddenAbility": "[\"94d77255-80ed-447a-8809-43dc73a72602\"]",
+      "BaseHP": "123",
+      "YieldHP": "2",
+      "BaseAttack": "77",
+      "YieldAttack": "0",
+      "BaseDefense": "72",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "99",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "92",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "58",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aurorus",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

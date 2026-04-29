@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5a6e2c01-e8a2-42ef-88b4-1650612afe24",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "petilil",
+    "DisplayName": "Petilil",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"971d8539-99fb-4e85-97e1-923d397851a9\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "petilil",
+      "DisplayName": "Petilil",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bulb"
+      }
+    }
+  }
+}

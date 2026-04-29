@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c73b20b0-ed1e-446e-a660-c0f7f8c4f655",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pidgeot-mega",
+    "DisplayName": "Pidgeot",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"19ad2dbd-716a-4d16-b016-d970cb6a3605\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pidgeot-mega",
+      "DisplayName": "Pidgeot",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bird"
+      }
+    }
+  }
+}

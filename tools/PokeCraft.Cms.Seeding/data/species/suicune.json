@@ -1,0 +1,27 @@
+﻿{
+  "Id": "1499058c-1538-4cf2-8444-47c213f7c85a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "suicune",
+    "DisplayName": "Suicune",
+    "Description": null,
+    "FieldValues": {
+      "Number": "245",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "80",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "suicune",
+      "DisplayName": "Suicune",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

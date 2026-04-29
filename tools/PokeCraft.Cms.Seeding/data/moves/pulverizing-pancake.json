@@ -1,0 +1,24 @@
+﻿{
+  "Id": "3ca3ba1a-6f9f-4cca-8416-71ad9bc03b5f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pulverizing-pancake",
+    "DisplayName": "Pulverizing Pancake",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "210",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pulverizing-pancake",
+      "DisplayName": "Pulverizing Pancake",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

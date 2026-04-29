@@ -1,0 +1,27 @@
+﻿{
+  "Id": "329fc0e9-8f21-45f5-ab58-db1613d220dd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hatterene",
+    "DisplayName": "Hatterene",
+    "Description": null,
+    "FieldValues": {
+      "Number": "858",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hatterene",
+      "DisplayName": "Hatterene",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "194468b1-6ffd-4ab8-8344-8e27d41ae99c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "manaphy",
+    "DisplayName": "Manaphy",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"60e971a5-953f-41be-956a-8ae0e1cc54aa\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "manaphy",
+      "DisplayName": "Manaphy",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Seafaring"
+      }
+    }
+  }
+}

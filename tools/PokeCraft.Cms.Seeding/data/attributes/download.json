@@ -1,0 +1,19 @@
+﻿{
+  "Id": "d6733ea3-81d4-420e-a980-5cc311be02e1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "download",
+    "DisplayName": "Download",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "download",
+      "DisplayName": "Download",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

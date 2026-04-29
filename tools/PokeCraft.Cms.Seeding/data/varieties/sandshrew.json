@@ -1,0 +1,26 @@
+﻿{
+  "Id": "8cc187d5-6b81-49cc-9aa2-2f1ae4321319",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sandshrew",
+    "DisplayName": "Sandshrew",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4ec8d252-22bc-49b2-adb2-18400d09a74d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sandshrew",
+      "DisplayName": "Sandshrew",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mouse"
+      }
+    }
+  }
+}

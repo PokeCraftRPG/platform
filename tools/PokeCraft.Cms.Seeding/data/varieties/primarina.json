@@ -1,0 +1,26 @@
+﻿{
+  "Id": "fe596764-5031-40a7-9513-f3d87e309e07",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "primarina",
+    "DisplayName": "Primarina",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c6a034da-e7f7-4b1b-aaa7-9e74d31919b7\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "primarina",
+      "DisplayName": "Primarina",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Soloist"
+      }
+    }
+  }
+}

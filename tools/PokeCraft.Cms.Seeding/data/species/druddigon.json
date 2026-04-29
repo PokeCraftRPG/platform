@@ -1,0 +1,28 @@
+﻿{
+  "Id": "082454ad-ba78-4d42-b71e-c539d60d269c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "druddigon",
+    "DisplayName": "Druddigon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "621",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Dragon\"]",
+      "SecondaryEggGroup": "[\"Monster\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "druddigon",
+      "DisplayName": "Druddigon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9b7c99cd-571e-4fd5-98f1-087849d5139f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cufant",
+    "DisplayName": "Cufant",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2015ecfd-9a11-4b6b-ba4a-828c4bf80e71\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cufant",
+      "DisplayName": "Cufant",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Copperderm"
+      }
+    }
+  }
+}

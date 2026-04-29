@@ -1,0 +1,40 @@
+﻿{
+  "Id": "b99b9901-d6e6-4a01-9739-56a26281450f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cosmog",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e60012f0-4f0e-4c4e-ac27-3bac5d9c33a6\"]",
+      "Height": "2",
+      "Weight": "1",
+      "YieldExperience": "40",
+      "PrimaryAbility": "[\"f9f08a4a-14de-4ff0-8844-8f97068aa2a3\"]",
+      "BaseHP": "43",
+      "YieldHP": "1",
+      "BaseAttack": "29",
+      "YieldAttack": "0",
+      "BaseDefense": "31",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "29",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "31",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "37",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cosmog",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

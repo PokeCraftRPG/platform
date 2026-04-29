@@ -1,0 +1,28 @@
+﻿{
+  "Id": "22cb893a-65ac-4361-9baf-83c3bb265d2f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "haxorus",
+    "DisplayName": "Haxorus",
+    "Description": null,
+    "FieldValues": {
+      "Number": "612",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "haxorus",
+      "DisplayName": "Haxorus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

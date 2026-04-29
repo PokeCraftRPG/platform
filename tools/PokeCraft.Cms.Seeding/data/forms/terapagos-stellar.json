@@ -1,0 +1,40 @@
+﻿{
+  "Id": "a074b4fb-fa9c-43c8-ad41-6e77b75523f8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "terapagos-stellar",
+    "DisplayName": "Stellar Form Terapagos",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"84fca719-73f2-4c8d-ae3b-f58ec448b80f\"]",
+      "Height": "17",
+      "Weight": "770",
+      "YieldExperience": "90",
+      "PrimaryAbility": "[\"65ad9f44-c018-4407-ab27-ff39ad8ede7d\"]",
+      "BaseHP": "160",
+      "YieldHP": "3",
+      "BaseAttack": "105",
+      "YieldAttack": "0",
+      "BaseDefense": "110",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "130",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "110",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "terapagos-stellar",
+      "DisplayName": "Stellar Form Terapagos",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

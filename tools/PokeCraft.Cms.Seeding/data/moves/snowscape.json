@@ -1,0 +1,24 @@
+﻿{
+  "Id": "0ca05c00-1e97-48c9-8e57-adb996f48893",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snowscape",
+    "DisplayName": "Snowscape",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Status\"]",
+      "Power": "0",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snowscape",
+      "DisplayName": "Snowscape",
+      "Description": "The user summons a snowstorm lasting five turns. This boosts the Defense stats of Ice types.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "b2e68e2e-1323-4e4a-b04b-b5ed4a526201",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragalge",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1b525537-642c-486b-b08f-7c08d673c476\"]",
+      "Height": "18",
+      "Weight": "815",
+      "YieldExperience": "173",
+      "PrimaryAbility": "[\"2f1ed275-bfaf-494d-8d85-c48aee736e43\"]",
+      "SecondaryAbility": "[\"5e112e5b-8643-4cbf-9c15-5a0bfce0b0b2\"]",
+      "HiddenAbility": "[\"463a60e6-bf15-4972-9934-481d443a8534\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "97",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "123",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "44",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragalge",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

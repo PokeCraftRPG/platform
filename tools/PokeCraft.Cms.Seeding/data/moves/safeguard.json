@@ -1,0 +1,23 @@
+﻿{
+  "Id": "b9b5dd7c-1e22-4c9d-9cf0-46b6b81393c2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "safeguard",
+    "DisplayName": "Safeguard",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "25"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "safeguard",
+      "DisplayName": "Safeguard",
+      "Description": "The user creates a protective field that prevents status conditions for five turns.",
+      "FieldValues": {}
+    }
+  }
+}

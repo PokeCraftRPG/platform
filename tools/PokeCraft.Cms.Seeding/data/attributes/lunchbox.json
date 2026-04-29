@@ -1,0 +1,19 @@
+﻿{
+  "Id": "98ec5a22-e8d2-438d-8525-701b2164a184",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lunchbox",
+    "DisplayName": "Lunchbox",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lunchbox",
+      "DisplayName": "Lunchbox",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "fc13224e-8933-4ac8-a599-4136bd3af2ff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clamperl",
+    "DisplayName": "Clamperl",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1ca0584e-019c-49e2-9238-ecbec0814d10\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clamperl",
+      "DisplayName": "Clamperl",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bivalve"
+      }
+    }
+  }
+}

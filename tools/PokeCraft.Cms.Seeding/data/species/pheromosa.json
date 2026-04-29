@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ace81b5a-061b-4752-b298-87717d6c5d15",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pheromosa",
+    "DisplayName": "Pheromosa",
+    "Description": null,
+    "FieldValues": {
+      "Number": "795",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pheromosa",
+      "DisplayName": "Pheromosa",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

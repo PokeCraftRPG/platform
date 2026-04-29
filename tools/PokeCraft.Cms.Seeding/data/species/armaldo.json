@@ -1,0 +1,27 @@
+﻿{
+  "Id": "a2730bce-c1ea-4c75-9389-266e512d61d1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "armaldo",
+    "DisplayName": "Armaldo",
+    "Description": null,
+    "FieldValues": {
+      "Number": "348",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "armaldo",
+      "DisplayName": "Armaldo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

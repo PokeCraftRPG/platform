@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6e1f98bf-c4af-4124-9b90-16ca5508ef58",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pin-missile",
+    "DisplayName": "Pin Missile",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "95",
+      "Power": "25",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pin-missile",
+      "DisplayName": "Pin Missile",
+      "Description": "The user attacks by shooting sharp spikes at the target. This move hits two to five times in a row.",
+      "FieldValues": {}
+    }
+  }
+}

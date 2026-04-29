@@ -1,0 +1,23 @@
+﻿{
+  "Id": "651089ed-e8bd-4b48-be33-311a86285d5d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wide-guard",
+    "DisplayName": "Wide Guard",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Rock\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wide-guard",
+      "DisplayName": "Wide Guard",
+      "Description": "The user and its allies are protected from wide-ranging attacks for one turn.",
+      "FieldValues": {}
+    }
+  }
+}

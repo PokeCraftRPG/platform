@@ -1,0 +1,27 @@
+﻿{
+  "Id": "4e8bf19b-69f1-412b-93d6-8472d2df647c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "xurkitree",
+    "DisplayName": "Xurkitree",
+    "Description": null,
+    "FieldValues": {
+      "Number": "796",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "xurkitree",
+      "DisplayName": "Xurkitree",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

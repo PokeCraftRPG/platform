@@ -1,0 +1,27 @@
+﻿{
+  "Id": "86261c9e-4979-44e8-a221-ed7fabb906d9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dolliv",
+    "DisplayName": "Dolliv",
+    "Description": null,
+    "FieldValues": {
+      "Number": "929",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dolliv",
+      "DisplayName": "Dolliv",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

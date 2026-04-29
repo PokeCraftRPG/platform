@@ -1,0 +1,26 @@
+﻿{
+  "Id": "2afcb083-7a38-4aed-9520-77243805cde3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "patrat",
+    "DisplayName": "Patrat",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"677b05ad-cc7e-423b-8364-e9531f87a6f7\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "patrat",
+      "DisplayName": "Patrat",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Scout"
+      }
+    }
+  }
+}

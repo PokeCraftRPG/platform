@@ -1,0 +1,19 @@
+﻿{
+  "Id": "fa056f25-ee2c-43b9-bb48-b5228106c14b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "perish-body",
+    "DisplayName": "Perish Body",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "perish-body",
+      "DisplayName": "Perish Body",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

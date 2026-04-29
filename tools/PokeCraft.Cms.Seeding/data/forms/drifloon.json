@@ -1,0 +1,43 @@
+﻿{
+  "Id": "508a90b0-231b-40fc-a678-4002d0ab06d2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drifloon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a6badd46-74c9-41fe-a2c7-bf80a1d8b027\"]",
+      "Height": "4",
+      "Weight": "12",
+      "YieldExperience": "70",
+      "PrimaryAbility": "[\"553c341c-debe-46e1-809e-34544a36ee63\"]",
+      "SecondaryAbility": "[\"d74f9f1b-dd57-4258-875f-46ec6bc83d99\"]",
+      "HiddenAbility": "[\"1aa9cb31-abd6-4b41-a110-927254226ed1\"]",
+      "BaseHP": "90",
+      "YieldHP": "1",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "34",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "44",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drifloon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

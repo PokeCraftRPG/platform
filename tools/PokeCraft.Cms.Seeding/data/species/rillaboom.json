@@ -1,0 +1,28 @@
+﻿{
+  "Id": "07672c26-d1fa-4a4c-9924-b9d148314366",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rillaboom",
+    "DisplayName": "Rillaboom",
+    "Description": null,
+    "FieldValues": {
+      "Number": "812",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rillaboom",
+      "DisplayName": "Rillaboom",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

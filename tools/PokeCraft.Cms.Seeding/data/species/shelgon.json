@@ -1,0 +1,27 @@
+﻿{
+  "Id": "bb9263d6-8281-4216-aa15-6654c693f9c2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shelgon",
+    "DisplayName": "Shelgon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "372",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shelgon",
+      "DisplayName": "Shelgon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

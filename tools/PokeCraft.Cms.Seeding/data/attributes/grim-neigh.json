@@ -1,0 +1,19 @@
+﻿{
+  "Id": "4613a27b-186e-4b9d-980d-a7cf03e7992d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grim-neigh",
+    "DisplayName": "Grim Neigh",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grim-neigh",
+      "DisplayName": "Grim Neigh",
+      "Description": "When the Pokémon knocks out a target, it utters a terrifying neigh, which boosts its Sp. Atk stat.",
+      "FieldValues": {}
+    }
+  }
+}

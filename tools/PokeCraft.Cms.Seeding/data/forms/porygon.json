@@ -1,0 +1,42 @@
+﻿{
+  "Id": "6c6392a0-6138-4261-842d-180ae698b191",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "porygon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5aa7a8b2-e6c7-4268-9afe-ca2af7838518\"]",
+      "Height": "8",
+      "Weight": "365",
+      "YieldExperience": "79",
+      "PrimaryAbility": "[\"187f6a3c-7975-4e72-9285-a225d83376ac\"]",
+      "SecondaryAbility": "[\"d6733ea3-81d4-420e-a980-5cc311be02e1\"]",
+      "HiddenAbility": "[\"46c2aea0-fa60-492b-8e7f-0d5de67c6321\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "porygon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

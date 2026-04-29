@@ -1,0 +1,42 @@
+﻿{
+  "Id": "84e91e98-821f-40d4-bdd2-42220695778f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sandshrew-alola",
+    "DisplayName": "Alolan Sandshrew",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9f8414e3-2585-474d-9dec-f1882f0756d8\"]",
+      "Height": "7",
+      "Weight": "400",
+      "YieldExperience": "60",
+      "PrimaryAbility": "[\"6397856d-ee55-409a-a0aa-3657039b20c4\"]",
+      "HiddenAbility": "[\"1529f289-3c54-49ef-a5b7-924ae1f92aa8\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "10",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "35",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sandshrew-alola",
+      "DisplayName": "Alolan Sandshrew",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

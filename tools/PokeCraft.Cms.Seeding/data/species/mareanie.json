@@ -1,0 +1,27 @@
+﻿{
+  "Id": "6ad25193-9c6a-4e16-928f-ac5e189f69cd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mareanie",
+    "DisplayName": "Mareanie",
+    "Description": null,
+    "FieldValues": {
+      "Number": "747",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mareanie",
+      "DisplayName": "Mareanie",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

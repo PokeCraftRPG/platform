@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4ce36c35-24a8-4012-b002-07cdaaa770fc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "baxcalibur",
+    "DisplayName": "Baxcalibur",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d13083de-7fc7-4b56-97ac-c2efeca0206e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "baxcalibur",
+      "DisplayName": "Baxcalibur",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ice Dragon"
+      }
+    }
+  }
+}

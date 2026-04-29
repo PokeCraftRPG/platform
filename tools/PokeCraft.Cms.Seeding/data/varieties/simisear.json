@@ -1,0 +1,26 @@
+﻿{
+  "Id": "65ad5d31-2dd3-4812-b2ff-698b95f36321",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "simisear",
+    "DisplayName": "Simisear",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1c1b9974-37d2-47d3-8eed-481da4134560\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "simisear",
+      "DisplayName": "Simisear",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ember"
+      }
+    }
+  }
+}

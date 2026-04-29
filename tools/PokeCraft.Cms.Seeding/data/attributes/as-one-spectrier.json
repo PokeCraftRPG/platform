@@ -1,0 +1,19 @@
+﻿{
+  "Id": "5414cf43-a9db-4e85-94be-152da9858df0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "as-one-spectrier",
+    "DisplayName": "As One",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "as-one-spectrier",
+      "DisplayName": "As One",
+      "Description": "This Ability combines the effects of both Calyrex's Unnerve Ability and Spectrier's Grim Neigh Ability.",
+      "FieldValues": {}
+    }
+  }
+}

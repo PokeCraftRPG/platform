@@ -1,0 +1,25 @@
+﻿{
+  "Id": "73334957-bdfe-4d2e-8f52-19dcc036af70",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sludge-wave",
+    "DisplayName": "Sludge Wave",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "95",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sludge-wave",
+      "DisplayName": "Sludge Wave",
+      "Description": "The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those it hits.",
+      "FieldValues": {}
+    }
+  }
+}

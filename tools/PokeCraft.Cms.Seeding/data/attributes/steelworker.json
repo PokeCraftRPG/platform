@@ -1,0 +1,19 @@
+﻿{
+  "Id": "c1b6bb39-4a66-42c9-b717-c6310696dd49",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "steelworker",
+    "DisplayName": "Steelworker",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "steelworker",
+      "DisplayName": "Steelworker",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

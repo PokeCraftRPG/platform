@@ -1,0 +1,41 @@
+﻿{
+  "Id": "de0da80e-37fd-49cd-bd6c-0dc01e1e1796",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mimikyu-busted",
+    "DisplayName": "Busted Mimikyu",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"061e7944-2046-4ede-9b42-0db6351bcc5f\"]",
+      "Height": "2",
+      "Weight": "7",
+      "YieldExperience": "167",
+      "PrimaryAbility": "[\"ce5e54a6-1529-4c02-9cc8-c09d305617a1\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "105",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "96",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Ghost\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mimikyu-busted",
+      "DisplayName": "Busted Mimikyu",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

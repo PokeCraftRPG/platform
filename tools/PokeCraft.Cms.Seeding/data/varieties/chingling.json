@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a4597aa9-428a-48fd-9e7c-81ec4145370a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chingling",
+    "DisplayName": "Chingling",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"57810082-069c-4ba4-a7d8-04a7584ab884\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chingling",
+      "DisplayName": "Chingling",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bell"
+      }
+    }
+  }
+}

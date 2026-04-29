@@ -1,0 +1,42 @@
+﻿{
+  "Id": "2a42aba3-90c8-423a-aedb-0b7d5c1c5c72",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tyrogue",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b5afbc4e-bfd7-4a9e-b790-5b8c2cd54732\"]",
+      "Height": "7",
+      "Weight": "210",
+      "YieldExperience": "42",
+      "PrimaryAbility": "[\"1c326e45-7c1a-4f8a-a55c-751b60f62f10\"]",
+      "SecondaryAbility": "[\"d4177038-a9c6-44e6-adb5-615b7111a2b4\"]",
+      "HiddenAbility": "[\"45a56091-34c8-4407-8d66-a4a64e2eb101\"]",
+      "BaseHP": "35",
+      "YieldHP": "0",
+      "BaseAttack": "35",
+      "YieldAttack": "1",
+      "BaseDefense": "35",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "35",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tyrogue",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

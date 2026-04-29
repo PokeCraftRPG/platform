@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9aacdad9-2914-44a8-aec0-6d542f744648",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "alakazam",
+    "DisplayName": "Alakazam",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5e5fe596-932d-4397-9973-95169003b4a4\"]",
+      "GenderRatio": "6",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "alakazam",
+      "DisplayName": "Alakazam",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Psi"
+      }
+    }
+  }
+}

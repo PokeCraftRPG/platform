@@ -1,0 +1,27 @@
+﻿{
+  "Id": "dcd0c241-4f4e-4557-b3c3-c995aeb89e07",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spinarak",
+    "DisplayName": "Spinarak",
+    "Description": null,
+    "FieldValues": {
+      "Number": "167",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spinarak",
+      "DisplayName": "Spinarak",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

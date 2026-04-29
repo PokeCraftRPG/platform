@@ -1,0 +1,19 @@
+﻿{
+  "Id": "9a99c76f-2cac-4cd9-aa69-ee740644f238",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "screen-cleaner",
+    "DisplayName": "Screen Cleaner",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "screen-cleaner",
+      "DisplayName": "Screen Cleaner",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

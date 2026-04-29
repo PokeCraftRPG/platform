@@ -1,0 +1,25 @@
+﻿{
+  "Id": "bd12bb45-d8e1-48c7-aaab-a2d3c6e9b060",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wicked-torque",
+    "DisplayName": "Wicked Torque",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wicked-torque",
+      "DisplayName": "Wicked Torque",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

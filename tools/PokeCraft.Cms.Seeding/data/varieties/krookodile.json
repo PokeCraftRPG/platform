@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9195712a-2920-4aa4-95f5-266c8b9c38b0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "krookodile",
+    "DisplayName": "Krookodile",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c134f2ea-60ac-4827-a5ab-dbb0a89aeee4\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "krookodile",
+      "DisplayName": "Krookodile",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Intimidation"
+      }
+    }
+  }
+}

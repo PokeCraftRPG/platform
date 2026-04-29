@@ -1,0 +1,43 @@
+﻿{
+  "Id": "8970266b-e02c-4bc7-80a7-c973c6c7f071",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "excadrill",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d10c555a-aa88-479f-a814-fc238a06cea1\"]",
+      "Height": "7",
+      "Weight": "404",
+      "YieldExperience": "178",
+      "PrimaryAbility": "[\"1f97dbb4-7d22-4d79-b63a-492151e1f04a\"]",
+      "SecondaryAbility": "[\"19474510-6538-4d3f-8775-1316904fe470\"]",
+      "HiddenAbility": "[\"f35847b5-de3c-4706-a9d6-010903615537\"]",
+      "BaseHP": "110",
+      "YieldHP": "0",
+      "BaseAttack": "135",
+      "YieldAttack": "2",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "88",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "excadrill",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

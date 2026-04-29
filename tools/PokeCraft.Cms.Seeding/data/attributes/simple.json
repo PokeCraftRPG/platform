@@ -1,0 +1,19 @@
+﻿{
+  "Id": "d970f26f-f621-46d2-812e-c20eba98a492",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "simple",
+    "DisplayName": "Simple",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "simple",
+      "DisplayName": "Simple",
+      "Description": "Doubles the effects of the Pokémon's stat changes.",
+      "FieldValues": {}
+    }
+  }
+}

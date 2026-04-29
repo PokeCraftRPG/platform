@@ -1,0 +1,42 @@
+﻿{
+  "Id": "4d8322de-3fb5-47aa-90be-2302d089fe8c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "riolu",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2e0daf4e-a2d5-46fb-ac1e-4992fa775dee\"]",
+      "Height": "7",
+      "Weight": "202",
+      "YieldExperience": "57",
+      "PrimaryAbility": "[\"d4177038-a9c6-44e6-adb5-615b7111a2b4\"]",
+      "SecondaryAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "HiddenAbility": "[\"84a30672-4ea5-4904-84fc-d04259c936a3\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "1",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "riolu",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

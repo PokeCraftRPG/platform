@@ -1,0 +1,41 @@
+﻿{
+  "Id": "ca241417-22e7-4b56-a4da-8f4c36669c67",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "groudon-primal",
+    "DisplayName": "Primal Groudon",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ae6eafd2-4ffc-491f-afc5-226de0aaf875\"]",
+      "Height": "50",
+      "Weight": "9997",
+      "YieldExperience": "347",
+      "PrimaryAbility": "[\"4d7b11f8-7834-42b5-885a-ae0d4c3d991e\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "180",
+      "YieldAttack": "3",
+      "BaseDefense": "160",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "150",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "groudon-primal",
+      "DisplayName": "Primal Groudon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ea6a20a1-20f7-4812-9cb5-46ca685ce8ba",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rabsca",
+    "DisplayName": "Rabsca",
+    "Description": null,
+    "FieldValues": {
+      "Number": "954",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rabsca",
+      "DisplayName": "Rabsca",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

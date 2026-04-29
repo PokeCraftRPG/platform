@@ -1,0 +1,28 @@
+﻿{
+  "Id": "df41abb5-5700-40e5-9d9a-1e852e2e4607",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "togekiss",
+    "DisplayName": "Togekiss",
+    "Description": null,
+    "FieldValues": {
+      "Number": "468",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "30",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"Flying\"]",
+      "SecondaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "togekiss",
+      "DisplayName": "Togekiss",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

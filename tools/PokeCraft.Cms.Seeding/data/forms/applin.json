@@ -1,0 +1,43 @@
+﻿{
+  "Id": "f74d4b12-31de-4188-9767-e4257c010828",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "applin",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"471f4495-5952-43da-971a-335196c19b48\"]",
+      "Height": "2",
+      "Weight": "5",
+      "YieldExperience": "52",
+      "PrimaryAbility": "[\"8d6f1268-a7d2-44b6-9e77-1d6abc7fe828\"]",
+      "SecondaryAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "HiddenAbility": "[\"95f8b622-ee64-42b7-be19-313365f588d5\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "40",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "20",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "applin",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

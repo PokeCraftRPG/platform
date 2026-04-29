@@ -1,0 +1,25 @@
+﻿{
+  "Id": "8b888c92-4028-437d-b493-39dbb5dcae56",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "calyrex-ice",
+    "DisplayName": "Calyrex",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2292606c-3fa0-4c48-9d3e-cbcaec06d0a4\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "calyrex-ice",
+      "DisplayName": "Calyrex",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "King"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c0a36b0c-ecc4-401f-a169-f71b620106a6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ambipom",
+    "DisplayName": "Ambipom",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e575c590-1361-4540-82a0-4b601817b8fd\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ambipom",
+      "DisplayName": "Ambipom",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Long Tail"
+      }
+    }
+  }
+}

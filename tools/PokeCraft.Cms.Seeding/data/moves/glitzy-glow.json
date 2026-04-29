@@ -1,0 +1,25 @@
+﻿{
+  "Id": "9e3b6027-2df1-4ec5-a227-a20969f8f795",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glitzy-glow",
+    "DisplayName": "Glitzy Glow",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "95",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glitzy-glow",
+      "DisplayName": "Glitzy Glow",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

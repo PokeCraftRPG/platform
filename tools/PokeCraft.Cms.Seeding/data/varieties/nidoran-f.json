@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6264c693-3f4b-49db-a44a-2915cd10aa1c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nidoran-f",
+    "DisplayName": "Nidoran♀",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f3a0a7bd-1da2-4a4f-a2ef-fe45545b6907\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nidoran-f",
+      "DisplayName": "Nidoran♀",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Poison Pin"
+      }
+    }
+  }
+}

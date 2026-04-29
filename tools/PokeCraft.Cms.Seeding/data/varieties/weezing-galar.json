@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d677ad86-6914-4b55-983b-bf450d2c1641",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "weezing-galar",
+    "DisplayName": "Weezing",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"fac1b8f7-bffc-485b-9e11-7906f20e4a2b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "weezing-galar",
+      "DisplayName": "Weezing",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Poison Gas"
+      }
+    }
+  }
+}

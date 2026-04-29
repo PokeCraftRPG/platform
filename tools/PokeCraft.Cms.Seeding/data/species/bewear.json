@@ -1,0 +1,27 @@
+﻿{
+  "Id": "96e7a958-0533-439f-a1dd-48695a02a5f4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bewear",
+    "DisplayName": "Bewear",
+    "Description": null,
+    "FieldValues": {
+      "Number": "760",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "70",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bewear",
+      "DisplayName": "Bewear",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "aa16ecbd-2d02-4eb8-819f-2d930f54507d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "innards-out",
+    "DisplayName": "Innards Out",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "innards-out",
+      "DisplayName": "Innards Out",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

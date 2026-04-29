@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b826727d-4627-49f0-ae28-0d1d4980304d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "houndoom-mega",
+    "DisplayName": "Houndoom",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"bc29c391-4db4-4584-8255-95b8a829fcea\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "houndoom-mega",
+      "DisplayName": "Houndoom",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Dark"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4ef001e6-4005-4e2e-b5a2-f608e313481a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "delibird",
+    "DisplayName": "Delibird",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4becb6c0-39f0-4472-8345-172597166fe2\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "delibird",
+      "DisplayName": "Delibird",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Delivery"
+      }
+    }
+  }
+}

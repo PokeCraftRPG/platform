@@ -1,0 +1,27 @@
+﻿{
+  "Id": "104a81ed-b069-42d6-bc79-f3839cd7ac04",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nidorina",
+    "DisplayName": "Nidorina",
+    "Description": null,
+    "FieldValues": {
+      "Number": "30",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nidorina",
+      "DisplayName": "Nidorina",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

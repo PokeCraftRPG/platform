@@ -1,0 +1,41 @@
+﻿{
+  "Id": "cdae0717-65eb-42fc-9cb7-de9d12125393",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "miraidon-low-power-mode",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"22cc711f-1fb9-48b8-b69c-dbf494c2e440\"]",
+      "Height": "28",
+      "Weight": "2400",
+      "YieldExperience": "335",
+      "PrimaryAbility": "[\"4308a253-e69c-43c7-a381-3bc7dff7874e\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "135",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "115",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "135",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Alternative\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "miraidon-low-power-mode",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

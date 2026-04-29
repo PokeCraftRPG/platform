@@ -1,0 +1,25 @@
+﻿{
+  "Id": "da16d961-8e3d-40b8-bb1b-4ef883bbec41",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-boulder",
+    "DisplayName": "Iron Boulder",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5aa96a05-3c52-44a0-853d-3a7104b9cd0b\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-boulder",
+      "DisplayName": "Iron Boulder",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

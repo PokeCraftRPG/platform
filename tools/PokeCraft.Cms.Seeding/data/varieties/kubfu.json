@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ba92b431-7005-4d2e-b35f-44d10c993a39",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kubfu",
+    "DisplayName": "Kubfu",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f5bcaf5c-751e-40ec-bd40-791e670c6c3e\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kubfu",
+      "DisplayName": "Kubfu",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Wushu"
+      }
+    }
+  }
+}

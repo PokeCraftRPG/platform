@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7a16e7cc-1812-4f47-911e-001cfb963fad",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nincada",
+    "DisplayName": "Nincada",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a3186fad-4199-46d0-92db-ddd3ddb52e66\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nincada",
+      "DisplayName": "Nincada",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Trainee"
+      }
+    }
+  }
+}

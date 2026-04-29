@@ -1,0 +1,25 @@
+﻿{
+  "Id": "cc5089d1-b4eb-4acf-8f11-5f8b1403e637",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "light-of-ruin",
+    "DisplayName": "Light of Ruin",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "90",
+      "Power": "140",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "light-of-ruin",
+      "DisplayName": "Light of Ruin",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "35cb92c0-e169-430e-8b72-b8893e16e950",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gothita",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"819c6077-0697-466d-b2d5-c1bc85a80cde\"]",
+      "Height": "4",
+      "Weight": "58",
+      "YieldExperience": "58",
+      "PrimaryAbility": "[\"646cd171-4012-41af-b36f-69b1a3142f3e\"]",
+      "SecondaryAbility": "[\"2a7439f3-bce4-4614-9969-78ec2ce46f31\"]",
+      "HiddenAbility": "[\"cfe58e17-637f-488f-8a6a-a1a396382876\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "30",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gothita",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

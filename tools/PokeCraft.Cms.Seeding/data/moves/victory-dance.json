@@ -1,0 +1,24 @@
+﻿{
+  "Id": "fec01e41-ffeb-4197-b1a5-bf7ba2b4fae6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "victory-dance",
+    "DisplayName": "Victory Dance",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Status\"]",
+      "Power": "0",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "victory-dance",
+      "DisplayName": "Victory Dance",
+      "Description": "The user performs an intense dance to usher in victory, boosting its Attack, Defense, and Speed stats.",
+      "FieldValues": {}
+    }
+  }
+}

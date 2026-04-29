@@ -1,0 +1,25 @@
+﻿{
+  "Id": "0793fc9e-a79f-4565-acad-4b921a02cfee",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ho-oh",
+    "DisplayName": "Ho-Oh",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"44dc482d-17a5-4521-8bf9-8528213d9c71\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ho-oh",
+      "DisplayName": "Ho-Oh",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rainbow"
+      }
+    }
+  }
+}

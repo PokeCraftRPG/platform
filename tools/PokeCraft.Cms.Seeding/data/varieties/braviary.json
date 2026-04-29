@@ -1,0 +1,26 @@
+﻿{
+  "Id": "fa0f14b5-9647-44c9-91eb-2f58310841ad",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "braviary",
+    "DisplayName": "Braviary",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"40326144-b761-44c6-8ecd-8bed0e1bfb5f\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "braviary",
+      "DisplayName": "Braviary",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Valiant"
+      }
+    }
+  }
+}

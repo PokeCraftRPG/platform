@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ddde59f3-a608-4f71-a407-863030f4777d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "accelgor",
+    "DisplayName": "Accelgor",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7fc2f9e4-5e29-41da-888c-69dffd320b4b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "accelgor",
+      "DisplayName": "Accelgor",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Shell Out"
+      }
+    }
+  }
+}

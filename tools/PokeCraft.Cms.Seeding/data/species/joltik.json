@@ -1,0 +1,27 @@
+﻿{
+  "Id": "008af4aa-0d3f-41bc-895f-519d4a408275",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "joltik",
+    "DisplayName": "Joltik",
+    "Description": null,
+    "FieldValues": {
+      "Number": "595",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "joltik",
+      "DisplayName": "Joltik",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

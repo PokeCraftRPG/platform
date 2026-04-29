@@ -1,0 +1,27 @@
+﻿{
+  "Id": "af0327f0-36ac-4e31-9782-7fc9515c431a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kangaskhan",
+    "DisplayName": "Kangaskhan",
+    "Description": null,
+    "FieldValues": {
+      "Number": "115",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kangaskhan",
+      "DisplayName": "Kangaskhan",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

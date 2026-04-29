@@ -1,0 +1,19 @@
+﻿{
+  "Id": "65ad9f44-c018-4407-ab27-ff39ad8ede7d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "teraform-zero",
+    "DisplayName": "Teraform Zero",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "teraform-zero",
+      "DisplayName": "Teraform Zero",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

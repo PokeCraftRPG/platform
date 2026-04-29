@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b6158bd3-ee3f-44fd-91c9-e1fc4b02cd94",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fennekin",
+    "DisplayName": "Fennekin",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"11ad4453-eeda-48c6-a708-3763d815dd1e\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fennekin",
+      "DisplayName": "Fennekin",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fox"
+      }
+    }
+  }
+}

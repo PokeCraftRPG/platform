@@ -1,0 +1,25 @@
+﻿{
+  "Id": "4c9ceec2-8c81-46ee-8d15-bf58b5943fb0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "diancie-mega",
+    "DisplayName": "Diancie",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6e6a3ca2-bce4-446f-afa1-5e5e12b6e65c\"]",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "diancie-mega",
+      "DisplayName": "Diancie",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Jewel"
+      }
+    }
+  }
+}

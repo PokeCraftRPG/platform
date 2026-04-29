@@ -1,0 +1,25 @@
+﻿{
+  "Id": "681687df-2c9c-4a5f-a432-1ee8f1a408be",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "surf",
+    "DisplayName": "Surf",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "surf",
+      "DisplayName": "Surf",
+      "Description": "The user attacks everything around it by swamping its surroundings with a giant wave.",
+      "FieldValues": {}
+    }
+  }
+}

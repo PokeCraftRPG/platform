@@ -1,0 +1,27 @@
+﻿{
+  "Id": "b723fb02-eb60-4bbe-9fa7-e5fb56f36f3e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hoopa",
+    "DisplayName": "Hoopa",
+    "Description": null,
+    "FieldValues": {
+      "Number": "720",
+      "Category": "[\"Mythical\"]",
+      "BaseFriendship": "100",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hoopa",
+      "DisplayName": "Hoopa",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "18c2259c-f8d0-4243-b4f9-735b414e3cab",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meganium",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3676c1b8-593f-4f11-8921-3118d9110550\"]",
+      "Height": "18",
+      "Weight": "1005",
+      "YieldExperience": "236",
+      "PrimaryAbility": "[\"f635691a-6cf0-4a55-a848-a2183d487971\"]",
+      "HiddenAbility": "[\"d724fdd9-3db1-4a76-8de7-aa696033fa20\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "82",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "83",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meganium",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

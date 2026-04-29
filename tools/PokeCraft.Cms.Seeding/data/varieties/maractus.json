@@ -1,0 +1,26 @@
+﻿{
+  "Id": "da94aff6-9524-4602-a492-eb3215beae9b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "maractus",
+    "DisplayName": "Maractus",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"bef18283-ac63-4d9a-a9a9-de2197138b2a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "maractus",
+      "DisplayName": "Maractus",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cactus"
+      }
+    }
+  }
+}

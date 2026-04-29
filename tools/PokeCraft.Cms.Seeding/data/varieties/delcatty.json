@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4c0e873f-9a0c-4aae-8727-cf3df3630609",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "delcatty",
+    "DisplayName": "Delcatty",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"37f70f83-56d7-4bc6-98bf-06f48fa2920f\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "delcatty",
+      "DisplayName": "Delcatty",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Prim"
+      }
+    }
+  }
+}

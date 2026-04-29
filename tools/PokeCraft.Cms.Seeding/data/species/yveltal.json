@@ -1,0 +1,27 @@
+﻿{
+  "Id": "4aafc949-40f0-4d20-812d-33260e577aab",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "yveltal",
+    "DisplayName": "Yveltal",
+    "Description": null,
+    "FieldValues": {
+      "Number": "717",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "yveltal",
+      "DisplayName": "Yveltal",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

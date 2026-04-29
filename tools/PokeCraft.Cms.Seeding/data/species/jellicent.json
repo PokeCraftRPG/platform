@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f94c9628-18d5-47ea-b429-8d91e770f9c6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "jellicent",
+    "DisplayName": "Jellicent",
+    "Description": null,
+    "FieldValues": {
+      "Number": "593",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "jellicent",
+      "DisplayName": "Jellicent",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

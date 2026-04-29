@@ -1,0 +1,25 @@
+﻿{
+  "Id": "e00c15e9-ffe9-46d6-96a0-ebd4fb5177b5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "water-gun",
+    "DisplayName": "Water Gun",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "25"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "water-gun",
+      "DisplayName": "Water Gun",
+      "Description": "The target is blasted with a forceful shot of water.",
+      "FieldValues": {}
+    }
+  }
+}

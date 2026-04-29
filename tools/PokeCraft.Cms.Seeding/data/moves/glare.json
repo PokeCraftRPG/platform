@@ -1,0 +1,24 @@
+﻿{
+  "Id": "9eebd8ea-9429-465e-a3c1-5216183831bc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glare",
+    "DisplayName": "Glare",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glare",
+      "DisplayName": "Glare",
+      "Description": "The user intimidates the target with the pattern on its belly to cause paralysis.",
+      "FieldValues": {}
+    }
+  }
+}

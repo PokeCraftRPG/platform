@@ -1,0 +1,25 @@
+﻿{
+  "Id": "0c64af93-1e08-4414-b607-eca0d7e79762",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "echoed-voice",
+    "DisplayName": "Echoed Voice",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "echoed-voice",
+      "DisplayName": "Echoed Voice",
+      "Description": "The user attacks the target with an echoing voice. If this move is used consecutively by any Pokémon, its power is boosted.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "1f9264c7-c3eb-486c-9952-c0d712f28e8c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rock-wrecker",
+    "DisplayName": "Rock Wrecker",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Rock\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "150",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rock-wrecker",
+      "DisplayName": "Rock Wrecker",
+      "Description": "The user launches a huge boulder at the target to attack. The user can't move on the next turn.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "bcb2f855-1da8-41ed-84d4-2dcc9831d01e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skiddo",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1b3ea00b-61b3-48db-948d-7c5443365c37\"]",
+      "Height": "9",
+      "Weight": "310",
+      "YieldExperience": "70",
+      "PrimaryAbility": "[\"a471c5f9-291c-4763-b84a-9c5c666f409b\"]",
+      "HiddenAbility": "[\"d05977af-4fa6-44c6-bc8d-99f0e069eb6d\"]",
+      "BaseHP": "66",
+      "YieldHP": "1",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "48",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "62",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "57",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "52",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skiddo",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

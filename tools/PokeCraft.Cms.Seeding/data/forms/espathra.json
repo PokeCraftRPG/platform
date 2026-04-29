@@ -1,0 +1,42 @@
+﻿{
+  "Id": "ecdd5b5f-d736-44e4-8fd7-b77fd732f44e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "espathra",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7ec4c30a-2ad8-4a7d-8182-3268b846d06d\"]",
+      "Height": "19",
+      "Weight": "900",
+      "YieldExperience": "168",
+      "PrimaryAbility": "[\"e69a8386-2c7b-4d0a-946a-5a9a2b9a01bc\"]",
+      "SecondaryAbility": "[\"646cd171-4012-41af-b36f-69b1a3142f3e\"]",
+      "HiddenAbility": "[\"c34cae01-916e-44ec-8e58-1cc63029592f\"]",
+      "BaseHP": "95",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "101",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "105",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "espathra",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

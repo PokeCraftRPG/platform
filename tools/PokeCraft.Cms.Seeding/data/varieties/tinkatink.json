@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4489fa30-e1c5-4ebe-8094-1e6321a7be1d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tinkatink",
+    "DisplayName": "Tinkatink",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"dd36671e-9791-43a5-ba35-f5ddd86fd093\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tinkatink",
+      "DisplayName": "Tinkatink",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Metalsmith"
+      }
+    }
+  }
+}

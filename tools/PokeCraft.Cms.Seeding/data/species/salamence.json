@@ -1,0 +1,27 @@
+﻿{
+  "Id": "9b12e3f4-6dea-4847-b4ff-029e40d69253",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "salamence",
+    "DisplayName": "Salamence",
+    "Description": null,
+    "FieldValues": {
+      "Number": "373",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "salamence",
+      "DisplayName": "Salamence",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

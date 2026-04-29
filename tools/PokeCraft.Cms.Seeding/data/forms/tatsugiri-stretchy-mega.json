@@ -1,0 +1,39 @@
+﻿{
+  "Id": "c1b15c53-f12c-4d0c-8d0d-b6de11744658",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tatsugiri-stretchy-mega",
+    "DisplayName": "Mega Stretchy Tatsugiri",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1db8a0ac-6a35-4439-9ca5-7ca9f05f8ceb\"]",
+      "Height": "6",
+      "Weight": "240",
+      "BaseHP": "68",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "135",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "125",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "92",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tatsugiri-stretchy-mega",
+      "DisplayName": "Mega Stretchy Tatsugiri",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "567ee2d3-e90f-42c4-8202-dc71eb0eeb95",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "decorate",
+    "DisplayName": "Decorate",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "decorate",
+      "DisplayName": "Decorate",
+      "Description": "The user sharply boosts the target's Attack and Sp. Atk stats by decorating the target.",
+      "FieldValues": {}
+    }
+  }
+}

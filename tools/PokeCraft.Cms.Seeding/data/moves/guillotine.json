@@ -1,0 +1,24 @@
+﻿{
+  "Id": "66af3dc3-b332-45d7-b83c-e74ec03d4ecd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "guillotine",
+    "DisplayName": "Guillotine",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "30",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "guillotine",
+      "DisplayName": "Guillotine",
+      "Description": "A vicious tearing attack with big pincers. The target faints instantly if this attack hits.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "16320a23-fcf4-45b7-9bbf-ea91da504fc7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dratini",
+    "DisplayName": "Dratini",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ea3b43f4-ae4e-48f1-88b7-5596be81221e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dratini",
+      "DisplayName": "Dratini",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Dragon"
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "fc6bad85-335b-4b06-954f-30dced4d0f2e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glaceon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"cec64dfc-7d77-4f93-a249-f024e250e22c\"]",
+      "Height": "8",
+      "Weight": "259",
+      "YieldExperience": "184",
+      "PrimaryAbility": "[\"6397856d-ee55-409a-a0aa-3657039b20c4\"]",
+      "HiddenAbility": "[\"c28be462-7265-4527-a8aa-85774f7eaf7b\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "110",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "130",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glaceon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

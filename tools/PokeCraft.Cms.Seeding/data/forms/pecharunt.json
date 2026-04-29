@@ -1,0 +1,41 @@
+﻿{
+  "Id": "a48861ae-03e6-4554-8b4b-7c0443e32a57",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pecharunt",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9ef1d943-61aa-48d2-8259-81ae55adc765\"]",
+      "Height": "3",
+      "Weight": "3",
+      "YieldExperience": "300",
+      "PrimaryAbility": "[\"52d9f76a-245d-4d12-9a4d-75e93f155661\"]",
+      "BaseHP": "88",
+      "YieldHP": "0",
+      "BaseAttack": "88",
+      "YieldAttack": "0",
+      "BaseDefense": "160",
+      "YieldDefense": "3",
+      "BaseSpecialAttack": "88",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "88",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "88",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pecharunt",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

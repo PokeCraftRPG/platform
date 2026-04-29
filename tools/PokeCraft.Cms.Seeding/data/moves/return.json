@@ -1,0 +1,24 @@
+﻿{
+  "Id": "4215513f-ae4d-49b5-9fc2-97958ddebf6a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "return",
+    "DisplayName": "Return",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "return",
+      "DisplayName": "Return",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

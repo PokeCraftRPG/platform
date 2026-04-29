@@ -1,0 +1,26 @@
+﻿{
+  "Id": "dba9c496-747c-45ea-9071-63fa3a1b4eba",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "basculin-white-striped",
+    "DisplayName": "Basculin",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2926640e-e7ff-42c6-bc25-462084aa8e16\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "basculin-white-striped",
+      "DisplayName": "Basculin",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Hostile"
+      }
+    }
+  }
+}

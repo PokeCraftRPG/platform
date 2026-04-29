@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e1db5ab3-d14a-419c-87a7-be3d4f198b4e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lotad",
+    "DisplayName": "Lotad",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e5c7f8c6-2a6f-492d-8c45-beabdcc51f98\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lotad",
+      "DisplayName": "Lotad",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Water Weed"
+      }
+    }
+  }
+}

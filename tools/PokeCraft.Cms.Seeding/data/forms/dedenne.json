@@ -1,0 +1,43 @@
+﻿{
+  "Id": "7ee48dae-2466-42dd-92b1-f3c820904efa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dedenne",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b8031262-7707-40d3-abfd-8a99a5aaa90f\"]",
+      "Height": "2",
+      "Weight": "22",
+      "YieldExperience": "151",
+      "PrimaryAbility": "[\"f6d802de-f5c1-41cc-bdc8-744a3fdfcf19\"]",
+      "SecondaryAbility": "[\"071551b8-ee73-4742-85e8-264e82a49f57\"]",
+      "HiddenAbility": "[\"885b9c4a-a988-4730-a7dd-b11c03474e5d\"]",
+      "BaseHP": "67",
+      "YieldHP": "0",
+      "BaseAttack": "58",
+      "YieldAttack": "0",
+      "BaseDefense": "57",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "81",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "67",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "101",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dedenne",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

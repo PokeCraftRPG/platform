@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6a7a80d0-6bd4-47eb-b6a5-971f04f7c159",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "barbaracle-mega",
+    "DisplayName": "Barbaracle",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9cfab8d9-4616-4760-ba95-89248a219a15\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "barbaracle-mega",
+      "DisplayName": "Barbaracle",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Collective"
+      }
+    }
+  }
+}

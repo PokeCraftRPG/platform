@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1b3ea00b-61b3-48db-948d-7c5443365c37",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skiddo",
+    "DisplayName": "Skiddo",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"951bed9d-9ad8-45b6-8bad-941c70aeea94\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skiddo",
+      "DisplayName": "Skiddo",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mount"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c4288ce3-fd49-46c0-b76c-542876e2afb9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "confusion",
+    "DisplayName": "Confusion",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "50",
+      "PowerPoints": "25"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "confusion",
+      "DisplayName": "Confusion",
+      "Description": "The target is hit with a weak telekinetic force to inflict damage. This may also confuse the target.",
+      "FieldValues": {}
+    }
+  }
+}

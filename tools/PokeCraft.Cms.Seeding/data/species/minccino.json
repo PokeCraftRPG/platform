@@ -1,0 +1,27 @@
+﻿{
+  "Id": "1a61af55-226a-4114-bf6d-b7cb87c13f5d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "minccino",
+    "DisplayName": "Minccino",
+    "Description": null,
+    "FieldValues": {
+      "Number": "572",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "minccino",
+      "DisplayName": "Minccino",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

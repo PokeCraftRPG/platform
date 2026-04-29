@@ -1,0 +1,26 @@
+﻿{
+  "Id": "34a83d48-1ac7-4dff-8d9b-dd4ff58328aa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aipom",
+    "DisplayName": "Aipom",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"edca8314-97e6-44c5-988e-65162c90b3d4\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aipom",
+      "DisplayName": "Aipom",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Long Tail"
+      }
+    }
+  }
+}

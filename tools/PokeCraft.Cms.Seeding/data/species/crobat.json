@@ -1,0 +1,27 @@
+﻿{
+  "Id": "31478781-a813-4a8c-95c2-c69cc2e273ee",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "crobat",
+    "DisplayName": "Crobat",
+    "Description": null,
+    "FieldValues": {
+      "Number": "169",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "crobat",
+      "DisplayName": "Crobat",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

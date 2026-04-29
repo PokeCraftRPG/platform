@@ -1,0 +1,25 @@
+﻿{
+  "Id": "bdf75b85-7cc6-4009-8f17-c14e1c7fe8bc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fishious-rend",
+    "DisplayName": "Fishious Rend",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "85",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fishious-rend",
+      "DisplayName": "Fishious Rend",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

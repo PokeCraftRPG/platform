@@ -1,0 +1,25 @@
+﻿{
+  "Id": "2e2f447e-762d-4fab-91de-2066b5697944",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "accelerock",
+    "DisplayName": "Accelerock",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Rock\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "accelerock",
+      "DisplayName": "Accelerock",
+      "Description": "The user smashes into the target at high speed. This move always goes first.",
+      "FieldValues": {}
+    }
+  }
+}

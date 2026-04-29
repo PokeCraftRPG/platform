@@ -1,0 +1,27 @@
+﻿{
+  "Id": "4f330cc8-9939-4658-bc96-ea3431378516",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pidgeotto",
+    "DisplayName": "Pidgeotto",
+    "Description": null,
+    "FieldValues": {
+      "Number": "17",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pidgeotto",
+      "DisplayName": "Pidgeotto",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

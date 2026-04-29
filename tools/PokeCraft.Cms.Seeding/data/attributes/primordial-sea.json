@@ -1,0 +1,19 @@
+﻿{
+  "Id": "8a628afa-cbdd-42b8-bd13-2030e7ffdda1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "primordial-sea",
+    "DisplayName": "Primordial Sea",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "primordial-sea",
+      "DisplayName": "Primordial Sea",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

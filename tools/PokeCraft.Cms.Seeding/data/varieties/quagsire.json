@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0cbb9bf1-f975-438a-9ec9-31a4bdfabc9b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "quagsire",
+    "DisplayName": "Quagsire",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"acb451b5-e700-470f-bc60-c05c21d42a53\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "quagsire",
+      "DisplayName": "Quagsire",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Water Fish"
+      }
+    }
+  }
+}

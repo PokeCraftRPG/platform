@@ -1,0 +1,42 @@
+﻿{
+  "Id": "645fa51a-7f22-4975-874f-1c628ea029d1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "electrike",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9752accd-0bda-4b91-845c-bb1018fd7fbd\"]",
+      "Height": "6",
+      "Weight": "152",
+      "YieldExperience": "59",
+      "PrimaryAbility": "[\"4d8cefa4-dbcc-4c78-b5f5-0a1c30bdb019\"]",
+      "SecondaryAbility": "[\"98bb9191-1993-4224-8922-4a4d13f534a5\"]",
+      "HiddenAbility": "[\"1fdf39c7-0d56-4eaf-9c4c-b9fe5a938d0b\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "electrike",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

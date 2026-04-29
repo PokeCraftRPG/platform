@@ -1,0 +1,26 @@
+﻿{
+  "Id": "58fb6ae9-902c-4883-aaf1-08839dfbba89",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toxapex",
+    "DisplayName": "Toxapex",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"15afa5cb-20b7-4767-83ae-e205f7dfc5c9\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toxapex",
+      "DisplayName": "Toxapex",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Brutal Star"
+      }
+    }
+  }
+}

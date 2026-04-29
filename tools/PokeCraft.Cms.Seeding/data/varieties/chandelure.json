@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7e98bbeb-2e37-41b2-9b11-308218220e02",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chandelure",
+    "DisplayName": "Chandelure",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ad493a70-db39-4cc0-9405-18b067c84a8c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chandelure",
+      "DisplayName": "Chandelure",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Luring"
+      }
+    }
+  }
+}

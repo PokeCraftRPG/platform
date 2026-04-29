@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4d0af059-df3e-42dc-b1ea-cb2445dde9ec",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "yanma",
+    "DisplayName": "Yanma",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2cb57dd4-ffa0-44a6-995e-e38dcbb4f1c6\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "yanma",
+      "DisplayName": "Yanma",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Clear Wing"
+      }
+    }
+  }
+}

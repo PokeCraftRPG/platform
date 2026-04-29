@@ -1,0 +1,27 @@
+﻿{
+  "Id": "28d2f4dd-1ec4-48fa-91db-fdea83f506da",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shinx",
+    "DisplayName": "Shinx",
+    "Description": null,
+    "FieldValues": {
+      "Number": "403",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "235",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shinx",
+      "DisplayName": "Shinx",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f64f4a67-aca7-460c-93bf-e0d33c3e89ff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aerodactyl",
+    "DisplayName": "Aerodactyl",
+    "Description": null,
+    "FieldValues": {
+      "Number": "142",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "35",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aerodactyl",
+      "DisplayName": "Aerodactyl",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

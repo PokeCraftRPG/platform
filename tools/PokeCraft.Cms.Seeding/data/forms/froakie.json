@@ -1,0 +1,41 @@
+﻿{
+  "Id": "82f581e3-a35d-4301-9a6d-3e2daa4570bb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "froakie",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e82f858d-f636-48c5-ad88-a67c4c26008d\"]",
+      "Height": "3",
+      "Weight": "70",
+      "YieldExperience": "63",
+      "PrimaryAbility": "[\"973e0e1a-dcca-4ab1-bd25-90df209dfc63\"]",
+      "HiddenAbility": "[\"65291225-4bca-4334-a235-9f7d9e09f7a2\"]",
+      "BaseHP": "41",
+      "YieldHP": "0",
+      "BaseAttack": "56",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "62",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "44",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "71",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "froakie",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

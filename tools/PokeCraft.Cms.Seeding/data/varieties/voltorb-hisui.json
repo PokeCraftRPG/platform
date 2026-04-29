@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ef783c26-a638-4cf2-b5c3-c2af2e512e7d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "voltorb-hisui",
+    "DisplayName": "Voltorb",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f8c7c6ff-2cb1-4ed0-b93d-5b4cf101bf8b\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "voltorb-hisui",
+      "DisplayName": "Voltorb",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ball"
+      }
+    }
+  }
+}

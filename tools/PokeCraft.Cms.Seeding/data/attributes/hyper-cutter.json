@@ -1,0 +1,19 @@
+﻿{
+  "Id": "57e539ec-9a7b-4925-ad82-81080aa7ceb2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hyper-cutter",
+    "DisplayName": "Hyper Cutter",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hyper-cutter",
+      "DisplayName": "Hyper Cutter",
+      "Description": "The Pokémon's prized, mighty pincers prevent other Pokémon from lowering its Attack stat.",
+      "FieldValues": {}
+    }
+  }
+}

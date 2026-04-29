@@ -1,0 +1,42 @@
+﻿{
+  "Id": "425d75f5-81e1-4a02-8ebf-c233e7dda394",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "venusaur",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1aadecf9-d859-4ad7-bcfd-9a89ded1b0e7\"]",
+      "Height": "20",
+      "Weight": "1000",
+      "YieldExperience": "236",
+      "PrimaryAbility": "[\"f635691a-6cf0-4a55-a848-a2183d487971\"]",
+      "HiddenAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "82",
+      "YieldAttack": "0",
+      "BaseDefense": "83",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "venusaur",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

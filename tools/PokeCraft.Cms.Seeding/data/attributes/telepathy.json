@@ -1,0 +1,19 @@
+﻿{
+  "Id": "f5863110-b5b9-4629-b95c-3869ed34433d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "telepathy",
+    "DisplayName": "Telepathy",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "telepathy",
+      "DisplayName": "Telepathy",
+      "Description": "The Pokémon anticipates and dodges the attacks of its allies.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9177a0e7-4b12-41e2-bebe-b82ddff9eb76",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cleffa",
+    "DisplayName": "Cleffa",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b6b34211-263c-4cc1-98dc-c9a9a426d2ab\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cleffa",
+      "DisplayName": "Cleffa",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Star Shape"
+      }
+    }
+  }
+}

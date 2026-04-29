@@ -1,0 +1,42 @@
+﻿{
+  "Id": "e62a3115-f1f1-4b72-a247-36e5f82b605e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "okidogi",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"bbba1a1f-88a4-46b3-92bd-874f5e24a87c\"]",
+      "Height": "18",
+      "Weight": "922",
+      "YieldExperience": "278",
+      "PrimaryAbility": "[\"897d3f02-52df-441e-a74e-f9b4f4598da3\"]",
+      "HiddenAbility": "[\"1538dc09-0678-4490-8143-241c5e8f9ee3\"]",
+      "BaseHP": "88",
+      "YieldHP": "0",
+      "BaseAttack": "128",
+      "YieldAttack": "3",
+      "BaseDefense": "115",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "58",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "86",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "okidogi",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

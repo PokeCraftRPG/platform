@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f09ea759-669e-49c4-8370-f6c88d7a8a13",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "abra",
+    "DisplayName": "Abra",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c3079f18-9f5a-4c21-8bbd-51696110a412\"]",
+      "GenderRatio": "6",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "abra",
+      "DisplayName": "Abra",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Psi"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "59d0b46b-bf5e-4797-b37c-601077d956a3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sableye",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b22539d4-71c9-4089-b304-09f1573e5b5b\"]",
+      "Height": "5",
+      "Weight": "110",
+      "YieldExperience": "133",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "SecondaryAbility": "[\"e848c112-bcaa-4969-81c7-b56ba516d8e6\"]",
+      "HiddenAbility": "[\"84a30672-4ea5-4904-84fc-d04259c936a3\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "1",
+      "BaseDefense": "75",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sableye",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

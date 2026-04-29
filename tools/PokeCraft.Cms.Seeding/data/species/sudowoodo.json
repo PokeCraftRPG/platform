@@ -1,0 +1,27 @@
+﻿{
+  "Id": "54179a6c-ea7e-470d-b518-54ab98af969d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sudowoodo",
+    "DisplayName": "Sudowoodo",
+    "Description": null,
+    "FieldValues": {
+      "Number": "185",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "65",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sudowoodo",
+      "DisplayName": "Sudowoodo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

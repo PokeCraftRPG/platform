@@ -1,0 +1,41 @@
+﻿{
+  "Id": "18bd5099-c303-4b76-b6d9-cc171d9e2b9c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cufant",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9b7c99cd-571e-4fd5-98f1-087849d5139f\"]",
+      "Height": "12",
+      "Weight": "1000",
+      "YieldExperience": "66",
+      "PrimaryAbility": "[\"ef348627-bea1-4c87-9bf1-417ed3b66855\"]",
+      "HiddenAbility": "[\"598518b6-1116-4c2a-b768-5a90de740ff2\"]",
+      "BaseHP": "72",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "1",
+      "BaseDefense": "49",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "49",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cufant",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

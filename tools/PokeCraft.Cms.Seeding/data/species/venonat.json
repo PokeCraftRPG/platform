@@ -1,0 +1,27 @@
+﻿{
+  "Id": "fbb215bf-8f11-4cda-bab4-1a00e4fc3785",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "venonat",
+    "DisplayName": "Venonat",
+    "Description": null,
+    "FieldValues": {
+      "Number": "48",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "venonat",
+      "DisplayName": "Venonat",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

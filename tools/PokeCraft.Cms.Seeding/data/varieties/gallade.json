@@ -1,0 +1,26 @@
+﻿{
+  "Id": "37bb49c9-a440-4a67-976d-ba3838c1620d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gallade",
+    "DisplayName": "Gallade",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a425c196-1db5-440d-85f9-0c6d167f551f\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gallade",
+      "DisplayName": "Gallade",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Blade"
+      }
+    }
+  }
+}

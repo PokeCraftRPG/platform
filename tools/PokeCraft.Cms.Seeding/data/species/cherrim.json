@@ -1,0 +1,28 @@
+﻿{
+  "Id": "d0b33e53-6027-45f2-8cdb-40c8a6b79eb7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cherrim",
+    "DisplayName": "Cherrim",
+    "Description": null,
+    "FieldValues": {
+      "Number": "421",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Fairy\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cherrim",
+      "DisplayName": "Cherrim",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

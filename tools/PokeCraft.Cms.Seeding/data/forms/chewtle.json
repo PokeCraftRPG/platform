@@ -1,0 +1,42 @@
+﻿{
+  "Id": "46960de2-ef76-47d0-b573-5efde6dd8766",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chewtle",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6bf77def-291b-42b4-8fa1-3125c18ca1dc\"]",
+      "Height": "3",
+      "Weight": "85",
+      "YieldExperience": "57",
+      "PrimaryAbility": "[\"fe62f3be-1b3d-461f-bb4c-963e988d426f\"]",
+      "SecondaryAbility": "[\"238257b2-205c-4b83-b5f1-393b8c11b2e9\"]",
+      "HiddenAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "64",
+      "YieldAttack": "1",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "38",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "38",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "44",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chewtle",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

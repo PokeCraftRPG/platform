@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b868f95d-65ed-4e61-8f8a-c99ead6922ff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "poliwhirl",
+    "DisplayName": "Poliwhirl",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"48447549-44c6-4e4d-be97-82f1e7a08ec4\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "poliwhirl",
+      "DisplayName": "Poliwhirl",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tadpole"
+      }
+    }
+  }
+}

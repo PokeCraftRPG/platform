@@ -1,0 +1,27 @@
+﻿{
+  "Id": "b10851e9-fa27-47d7-8941-4ddcf1434c5b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "crabrawler",
+    "DisplayName": "Crabrawler",
+    "Description": null,
+    "FieldValues": {
+      "Number": "739",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "225",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "crabrawler",
+      "DisplayName": "Crabrawler",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

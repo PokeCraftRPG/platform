@@ -1,0 +1,23 @@
+﻿{
+  "Id": "53666056-44e4-4e86-9720-3bf091e42017",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lock-on",
+    "DisplayName": "Lock-On",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lock-on",
+      "DisplayName": "Lock-On",
+      "Description": "The user takes sure aim at the target. This ensures the user's next move does not miss that target.",
+      "FieldValues": {}
+    }
+  }
+}

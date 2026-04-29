@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ebd3a153-a48b-4c04-8755-d69a5d445a97",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "strange-steam",
+    "DisplayName": "Strange Steam",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "95",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "strange-steam",
+      "DisplayName": "Strange Steam",
+      "Description": "The user attacks the target by emitting steam. This may also confuse the target.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,40 @@
+﻿{
+  "Id": "7d011a52-6461-4af3-aec4-dc0497ebef30",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vigoroth",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5e24a519-4f4d-413f-853e-6999b0789c0e\"]",
+      "Height": "14",
+      "Weight": "465",
+      "YieldExperience": "154",
+      "PrimaryAbility": "[\"45a56091-34c8-4407-8d66-a4a64e2eb101\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vigoroth",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

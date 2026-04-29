@@ -1,0 +1,26 @@
+﻿{
+  "Id": "71ff342a-1863-4c5f-a429-83d4b6cfa76c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "luvdisc",
+    "DisplayName": "Luvdisc",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4d76ca9f-bc21-40c0-b3df-9be0353826e7\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "luvdisc",
+      "DisplayName": "Luvdisc",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rendezvous"
+      }
+    }
+  }
+}

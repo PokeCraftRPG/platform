@@ -1,0 +1,28 @@
+﻿{
+  "Id": "acb451b5-e700-470f-bc60-c05c21d42a53",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "quagsire",
+    "DisplayName": "Quagsire",
+    "Description": null,
+    "FieldValues": {
+      "Number": "195",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "quagsire",
+      "DisplayName": "Quagsire",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

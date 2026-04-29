@@ -1,0 +1,27 @@
+﻿{
+  "Id": "a66568c5-a44a-4267-8607-dc6d17e82491",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kyogre",
+    "DisplayName": "Kyogre",
+    "Description": null,
+    "FieldValues": {
+      "Number": "382",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kyogre",
+      "DisplayName": "Kyogre",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

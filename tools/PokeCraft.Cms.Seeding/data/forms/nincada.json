@@ -1,0 +1,42 @@
+﻿{
+  "Id": "e58fd28f-1581-47d4-aa3d-8ce32d42a4f0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nincada",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7a16e7cc-1812-4f47-911e-001cfb963fad\"]",
+      "Height": "5",
+      "Weight": "55",
+      "YieldExperience": "53",
+      "PrimaryAbility": "[\"65e44b8e-43f4-4e6f-9e4e-db99591d1061\"]",
+      "HiddenAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "BaseHP": "31",
+      "YieldHP": "0",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "30",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nincada",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

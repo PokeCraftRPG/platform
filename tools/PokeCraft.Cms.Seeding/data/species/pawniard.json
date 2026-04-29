@@ -1,0 +1,27 @@
+﻿{
+  "Id": "99694d6b-6a12-4a09-afcb-2d2d8414ad36",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pawniard",
+    "DisplayName": "Pawniard",
+    "Description": null,
+    "FieldValues": {
+      "Number": "624",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pawniard",
+      "DisplayName": "Pawniard",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

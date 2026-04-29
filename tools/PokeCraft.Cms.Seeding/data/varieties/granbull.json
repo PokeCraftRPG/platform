@@ -1,0 +1,26 @@
+﻿{
+  "Id": "fbafed73-adea-47a2-89a5-349fda506be6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "granbull",
+    "DisplayName": "Granbull",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c4060491-634d-4342-8e65-9cd57beb8e75\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "granbull",
+      "DisplayName": "Granbull",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fairy"
+      }
+    }
+  }
+}

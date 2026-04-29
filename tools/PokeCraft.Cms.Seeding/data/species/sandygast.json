@@ -1,0 +1,27 @@
+﻿{
+  "Id": "256189d1-90b5-4643-9345-848241f49a3e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sandygast",
+    "DisplayName": "Sandygast",
+    "Description": null,
+    "FieldValues": {
+      "Number": "769",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "140",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sandygast",
+      "DisplayName": "Sandygast",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

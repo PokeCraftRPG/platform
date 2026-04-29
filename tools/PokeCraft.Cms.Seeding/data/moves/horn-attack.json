@@ -1,0 +1,25 @@
+﻿{
+  "Id": "21e7eab6-da9f-4bc4-b803-05562943ee70",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "horn-attack",
+    "DisplayName": "Horn Attack",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "65",
+      "PowerPoints": "25"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "horn-attack",
+      "DisplayName": "Horn Attack",
+      "Description": "The target is jabbed with a sharply pointed horn to inflict damage.",
+      "FieldValues": {}
+    }
+  }
+}

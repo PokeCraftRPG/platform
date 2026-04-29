@@ -1,0 +1,43 @@
+﻿{
+  "Id": "70be5155-efce-42f7-b8e2-a1fd498b9fe3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "deerling-spring",
+    "DisplayName": "Spring Deerling",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"17fe679b-aa20-49f4-a965-eb44089a0c3f\"]",
+      "Height": "6",
+      "Weight": "195",
+      "YieldExperience": "67",
+      "PrimaryAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "SecondaryAbility": "[\"a471c5f9-291c-4763-b84a-9c5c666f409b\"]",
+      "HiddenAbility": "[\"f1619484-cf62-4314-a26f-a79e00b5720f\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "75",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "deerling-spring",
+      "DisplayName": "Spring Deerling",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

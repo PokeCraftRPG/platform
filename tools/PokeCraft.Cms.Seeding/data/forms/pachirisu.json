@@ -1,0 +1,42 @@
+﻿{
+  "Id": "a368a1f8-2f6a-41fc-af73-12c4d49d8b7a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pachirisu",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"741d93ba-3b39-41b7-942d-642ec2b4f931\"]",
+      "Height": "4",
+      "Weight": "39",
+      "YieldExperience": "142",
+      "PrimaryAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "SecondaryAbility": "[\"071551b8-ee73-4742-85e8-264e82a49f57\"]",
+      "HiddenAbility": "[\"891096e9-f25f-4184-8941-fcc6d6dfd5e4\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pachirisu",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

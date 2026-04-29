@@ -1,0 +1,25 @@
+﻿{
+  "Id": "eb1c10f6-9da5-42a7-bb11-4086413fea95",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fire-pledge",
+    "DisplayName": "Fire Pledge",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fire-pledge",
+      "DisplayName": "Fire Pledge",
+      "Description": "A column of fire hits the target. When used with its grass counterpart, this move's power is boosted and a vast sea of fire appears.",
+      "FieldValues": {}
+    }
+  }
+}

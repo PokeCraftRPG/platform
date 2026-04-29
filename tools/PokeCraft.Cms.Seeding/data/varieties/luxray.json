@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d7574e3c-448a-4e84-89fa-d03e5389900f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "luxray",
+    "DisplayName": "Luxray",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7383c900-aec9-435b-a310-6ccca329e83c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "luxray",
+      "DisplayName": "Luxray",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Gleam Eyes"
+      }
+    }
+  }
+}

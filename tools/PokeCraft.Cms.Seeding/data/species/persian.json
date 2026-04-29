@@ -1,0 +1,27 @@
+﻿{
+  "Id": "29fb55b0-4d93-4b4c-a106-1d024e15080e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "persian",
+    "DisplayName": "Persian",
+    "Description": null,
+    "FieldValues": {
+      "Number": "53",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "persian",
+      "DisplayName": "Persian",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

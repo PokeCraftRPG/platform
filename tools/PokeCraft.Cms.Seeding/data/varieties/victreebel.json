@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f00e6053-7655-4dcd-a5c2-2f0bef713060",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "victreebel",
+    "DisplayName": "Victreebel",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"307bf5ec-6f70-4e7e-88db-f94988d1150c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "victreebel",
+      "DisplayName": "Victreebel",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Flycatcher"
+      }
+    }
+  }
+}

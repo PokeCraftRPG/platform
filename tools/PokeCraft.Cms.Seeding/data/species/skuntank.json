@@ -1,0 +1,27 @@
+﻿{
+  "Id": "b06fe63b-a62e-4645-9064-7f8e85508ba5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skuntank",
+    "DisplayName": "Skuntank",
+    "Description": null,
+    "FieldValues": {
+      "Number": "435",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skuntank",
+      "DisplayName": "Skuntank",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

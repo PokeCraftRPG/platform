@@ -1,0 +1,24 @@
+﻿{
+  "Id": "741c9993-543c-4898-910f-d65d916ed054",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "captivate",
+    "DisplayName": "Captivate",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "captivate",
+      "DisplayName": "Captivate",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

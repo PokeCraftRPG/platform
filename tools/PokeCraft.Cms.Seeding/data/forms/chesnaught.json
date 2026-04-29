@@ -1,0 +1,42 @@
+﻿{
+  "Id": "dc08877c-26bb-4439-9742-d1a4aaaafecc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chesnaught",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"954a41cf-bb50-4a57-877f-60c5abf53946\"]",
+      "Height": "16",
+      "Weight": "900",
+      "YieldExperience": "239",
+      "PrimaryAbility": "[\"f635691a-6cf0-4a55-a848-a2183d487971\"]",
+      "HiddenAbility": "[\"95f8b622-ee64-42b7-be19-313365f588d5\"]",
+      "BaseHP": "88",
+      "YieldHP": "0",
+      "BaseAttack": "107",
+      "YieldAttack": "0",
+      "BaseDefense": "122",
+      "YieldDefense": "3",
+      "BaseSpecialAttack": "74",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "64",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chesnaught",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

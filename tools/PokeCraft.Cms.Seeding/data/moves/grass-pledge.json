@@ -1,0 +1,25 @@
+﻿{
+  "Id": "75a33e2d-7211-416f-93bb-ddabfa951725",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grass-pledge",
+    "DisplayName": "Grass Pledge",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grass-pledge",
+      "DisplayName": "Grass Pledge",
+      "Description": "A column of grass hits the target. When used with its water counterpart, this move's power is boosted and a vast swamp appears.",
+      "FieldValues": {}
+    }
+  }
+}

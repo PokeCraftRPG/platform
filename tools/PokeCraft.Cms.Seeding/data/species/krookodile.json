@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c134f2ea-60ac-4827-a5ab-dbb0a89aeee4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "krookodile",
+    "DisplayName": "Krookodile",
+    "Description": null,
+    "FieldValues": {
+      "Number": "553",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "krookodile",
+      "DisplayName": "Krookodile",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

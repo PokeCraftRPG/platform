@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1f618a56-ac8e-4d77-91e0-182fe5ebdb57",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mudbray",
+    "DisplayName": "Mudbray",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"46114859-3afd-4081-acf5-b45442fb14b1\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mudbray",
+      "DisplayName": "Mudbray",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Donkey"
+      }
+    }
+  }
+}

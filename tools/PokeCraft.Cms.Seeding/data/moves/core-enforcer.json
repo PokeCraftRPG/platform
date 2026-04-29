@@ -1,0 +1,25 @@
+﻿{
+  "Id": "b15135a0-5d6b-4901-a3e7-7c7f9caa1226",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "core-enforcer",
+    "DisplayName": "Core Enforcer",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "core-enforcer",
+      "DisplayName": "Core Enforcer",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

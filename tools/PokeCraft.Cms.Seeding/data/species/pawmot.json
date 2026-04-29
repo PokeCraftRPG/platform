@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e9b146da-a62e-420f-bca1-995b9568057c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pawmot",
+    "DisplayName": "Pawmot",
+    "Description": null,
+    "FieldValues": {
+      "Number": "923",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pawmot",
+      "DisplayName": "Pawmot",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

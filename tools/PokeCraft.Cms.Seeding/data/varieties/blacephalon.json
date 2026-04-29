@@ -1,0 +1,25 @@
+﻿{
+  "Id": "1ccdc94c-8ec1-4ba9-9323-fa3cd32b68ca",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blacephalon",
+    "DisplayName": "Blacephalon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"cd0c3c93-4f81-4a2e-beb1-ab22c1643cd5\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blacephalon",
+      "DisplayName": "Blacephalon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fireworks"
+      }
+    }
+  }
+}

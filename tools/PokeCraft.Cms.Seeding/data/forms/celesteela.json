@@ -1,0 +1,41 @@
+﻿{
+  "Id": "02cce29a-e03c-4e20-8612-a295943ec99a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "celesteela",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ed7851eb-ddfb-49dd-af9a-b57e817c9417\"]",
+      "Height": "92",
+      "Weight": "9999",
+      "YieldExperience": "257",
+      "PrimaryAbility": "[\"e7ec0ce2-6979-45a9-80ab-215081d487e3\"]",
+      "BaseHP": "97",
+      "YieldHP": "0",
+      "BaseAttack": "101",
+      "YieldAttack": "1",
+      "BaseDefense": "103",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "107",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "101",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "61",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "celesteela",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

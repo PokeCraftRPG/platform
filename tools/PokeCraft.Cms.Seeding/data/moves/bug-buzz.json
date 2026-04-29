@@ -1,0 +1,25 @@
+﻿{
+  "Id": "a2b3ed7a-7221-4a92-9719-8b391cc318d1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bug-buzz",
+    "DisplayName": "Bug Buzz",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bug-buzz",
+      "DisplayName": "Bug Buzz",
+      "Description": "The user vibrates to generate a damaging sound wave. This may also lower the target's Sp. Def stat.",
+      "FieldValues": {}
+    }
+  }
+}

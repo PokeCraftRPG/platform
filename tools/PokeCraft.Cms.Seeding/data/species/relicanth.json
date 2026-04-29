@@ -1,0 +1,28 @@
+﻿{
+  "Id": "055b589e-d263-4257-9890-5600ee70867e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "relicanth",
+    "DisplayName": "Relicanth",
+    "Description": null,
+    "FieldValues": {
+      "Number": "369",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "25",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "relicanth",
+      "DisplayName": "Relicanth",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

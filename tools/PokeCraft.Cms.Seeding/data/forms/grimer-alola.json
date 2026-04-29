@@ -1,0 +1,43 @@
+﻿{
+  "Id": "db71b707-d29c-4d60-9fda-87632094da53",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grimer-alola",
+    "DisplayName": "Alolan Grimer",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a13cae4d-d828-4b55-a5ec-e7f52d79aaf5\"]",
+      "Height": "7",
+      "Weight": "420",
+      "YieldExperience": "65",
+      "PrimaryAbility": "[\"5e112e5b-8643-4cbf-9c15-5a0bfce0b0b2\"]",
+      "SecondaryAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "HiddenAbility": "[\"d372d79e-d4cb-42c3-917b-c837a02c99ee\"]",
+      "BaseHP": "80",
+      "YieldHP": "1",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "25",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grimer-alola",
+      "DisplayName": "Alolan Grimer",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

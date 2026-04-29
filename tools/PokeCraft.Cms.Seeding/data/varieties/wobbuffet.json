@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1bb23d26-e912-49be-9013-178a82047fd8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wobbuffet",
+    "DisplayName": "Wobbuffet",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b1884112-f507-462c-a5dd-a8bb41d83e23\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wobbuffet",
+      "DisplayName": "Wobbuffet",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Patient"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3f359646-77f1-4409-b9ae-672912e482de",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "beautifly",
+    "DisplayName": "Beautifly",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"31d1115f-2d38-49d3-baa3-c089815d22f9\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "beautifly",
+      "DisplayName": "Beautifly",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Butterfly"
+      }
+    }
+  }
+}

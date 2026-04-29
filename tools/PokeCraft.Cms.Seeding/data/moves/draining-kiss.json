@@ -1,0 +1,25 @@
+﻿{
+  "Id": "09cfc245-7b63-4400-996d-9657b9a4bd2d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "draining-kiss",
+    "DisplayName": "Draining Kiss",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "50",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "draining-kiss",
+      "DisplayName": "Draining Kiss",
+      "Description": "The user steals the target's HP with a kiss. The user's HP is restored by over half the damage taken by the target.",
+      "FieldValues": {}
+    }
+  }
+}

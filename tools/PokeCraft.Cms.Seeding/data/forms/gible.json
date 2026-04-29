@@ -1,0 +1,42 @@
+﻿{
+  "Id": "c66a4e8f-7c13-48ac-8d27-c244c2dd92e6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gible",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1c523262-993c-4d85-80cf-d9fa994823fe\"]",
+      "Height": "7",
+      "Weight": "205",
+      "YieldExperience": "60",
+      "PrimaryAbility": "[\"2298dae8-5c1f-423f-960d-8cf61b19c897\"]",
+      "HiddenAbility": "[\"b48ce3db-30ec-4675-8331-7389c8cc19c6\"]",
+      "BaseHP": "58",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "1",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "42",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gible",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

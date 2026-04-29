@@ -1,0 +1,27 @@
+﻿{
+  "Id": "0de3e2a2-1b63-4cc3-8ed7-14a08d1271e5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zygarde",
+    "DisplayName": "Zygarde",
+    "Description": null,
+    "FieldValues": {
+      "Number": "718",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zygarde",
+      "DisplayName": "Zygarde",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

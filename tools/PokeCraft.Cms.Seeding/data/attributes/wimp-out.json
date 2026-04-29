@@ -1,0 +1,19 @@
+﻿{
+  "Id": "21279eb8-8588-4f3b-8a92-e049fd61bc5e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wimp-out",
+    "DisplayName": "Wimp Out",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wimp-out",
+      "DisplayName": "Wimp Out",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

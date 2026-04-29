@@ -1,0 +1,26 @@
+﻿{
+  "Id": "70d76165-2878-46c2-93f5-32b9b4072309",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "yanmega",
+    "DisplayName": "Yanmega",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b9bbfc1a-4e89-4cea-8f7e-a4b72a943e3d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "yanmega",
+      "DisplayName": "Yanmega",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ogre Darner"
+      }
+    }
+  }
+}

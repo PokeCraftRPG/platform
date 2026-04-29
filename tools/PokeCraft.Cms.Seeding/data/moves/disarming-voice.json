@@ -1,0 +1,24 @@
+﻿{
+  "Id": "076f4a94-0aaa-4a16-8f01-e5990d3d4066",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "disarming-voice",
+    "DisplayName": "Disarming Voice",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Special\"]",
+      "Power": "40",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "disarming-voice",
+      "DisplayName": "Disarming Voice",
+      "Description": "Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses.",
+      "FieldValues": {}
+    }
+  }
+}

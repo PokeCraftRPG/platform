@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f00dfe3c-eb8a-4e66-bfc5-3bc197a5e69e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "roggenrola",
+    "DisplayName": "Roggenrola",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9b3dfbd8-13da-4b00-926a-1d75195e8c51\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "roggenrola",
+      "DisplayName": "Roggenrola",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mantle"
+      }
+    }
+  }
+}

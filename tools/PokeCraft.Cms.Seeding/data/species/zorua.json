@@ -1,0 +1,27 @@
+﻿{
+  "Id": "84ce342f-4c57-4c0c-b25f-2582b4ce0c01",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zorua",
+    "DisplayName": "Zorua",
+    "Description": null,
+    "FieldValues": {
+      "Number": "570",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zorua",
+      "DisplayName": "Zorua",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

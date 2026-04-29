@@ -1,0 +1,40 @@
+﻿{
+  "Id": "02e257ab-107b-436e-bf12-10b522d50069",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "feraligatr-mega",
+    "DisplayName": "Mega Feraligatr",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"bc271891-9b6c-4ee2-b124-677ba58dd5c1\"]",
+      "Height": "23",
+      "Weight": "1088",
+      "PrimaryAbility": "[\"c01cbecd-8bda-4dcd-9ddd-090968ea830c\"]",
+      "BaseHP": "85",
+      "YieldHP": "0",
+      "BaseAttack": "160",
+      "YieldAttack": "0",
+      "BaseDefense": "125",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "89",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "93",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "78",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "feraligatr-mega",
+      "DisplayName": "Mega Feraligatr",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

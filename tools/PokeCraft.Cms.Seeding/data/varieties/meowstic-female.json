@@ -1,0 +1,26 @@
+﻿{
+  "Id": "869e838a-5c3b-45e3-95ee-667e357a2212",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meowstic-female",
+    "DisplayName": "Meowstic",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b0772e8f-7801-4def-8b6f-2a17b1f8b464\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meowstic-female",
+      "DisplayName": "Meowstic",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Constraint"
+      }
+    }
+  }
+}

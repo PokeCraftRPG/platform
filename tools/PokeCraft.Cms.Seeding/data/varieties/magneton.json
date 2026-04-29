@@ -1,0 +1,25 @@
+﻿{
+  "Id": "1ef95c67-fd90-403c-85be-f8b77eb147e6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magneton",
+    "DisplayName": "Magneton",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"91e3bfe4-977a-4b4d-899f-3feb9c2c4b7a\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magneton",
+      "DisplayName": "Magneton",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Magnet"
+      }
+    }
+  }
+}

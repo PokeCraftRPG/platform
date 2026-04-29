@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ce73cdb2-aa32-4615-8c61-74e08e04ca71",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "liepard",
+    "DisplayName": "Liepard",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8d1da36f-88e9-429c-a5e1-d4cd7505def3\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "liepard",
+      "DisplayName": "Liepard",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cruel"
+      }
+    }
+  }
+}

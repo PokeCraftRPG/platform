@@ -1,0 +1,25 @@
+﻿{
+  "Id": "4d4fe57b-ab3d-437c-8ac2-56ef12676c87",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "twin-beam",
+    "DisplayName": "Twin Beam",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "twin-beam",
+      "DisplayName": "Twin Beam",
+      "Description": "The user shoots mystical beams from its eyes to inflict damage. The target is hit twice in a row.",
+      "FieldValues": {}
+    }
+  }
+}

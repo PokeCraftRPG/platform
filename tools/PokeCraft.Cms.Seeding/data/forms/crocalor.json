@@ -1,0 +1,41 @@
+﻿{
+  "Id": "9132fbd6-97cf-4282-8b47-f409638576dc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "crocalor",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b0e91174-173b-4384-8c7a-d7ee37d6b3bf\"]",
+      "Height": "10",
+      "Weight": "307",
+      "YieldExperience": "144",
+      "PrimaryAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "HiddenAbility": "[\"f9f08a4a-14de-4ff0-8844-8f97068aa2a3\"]",
+      "BaseHP": "81",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "78",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "90",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "58",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "49",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "crocalor",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

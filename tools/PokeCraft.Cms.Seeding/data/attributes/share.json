@@ -1,0 +1,19 @@
+﻿{
+  "Id": "46368eae-9407-4055-8010-108739d82d79",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "share",
+    "DisplayName": "Share",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "share",
+      "DisplayName": "Share",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

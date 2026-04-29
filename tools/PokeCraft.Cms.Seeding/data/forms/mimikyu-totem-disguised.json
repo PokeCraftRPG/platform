@@ -1,0 +1,41 @@
+﻿{
+  "Id": "a4e9362d-fed3-48e6-8654-183cb187c88e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mimikyu-totem-disguised",
+    "DisplayName": "Totem Disguised Mimikyu",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f06a5d3c-8682-4a41-8e50-7798f3608210\"]",
+      "Height": "4",
+      "Weight": "28",
+      "YieldExperience": "167",
+      "PrimaryAbility": "[\"ce5e54a6-1529-4c02-9cc8-c09d305617a1\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "105",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "96",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mimikyu-totem-disguised",
+      "DisplayName": "Totem Disguised Mimikyu",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

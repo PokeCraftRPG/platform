@@ -1,0 +1,42 @@
+﻿{
+  "Id": "27559911-c4c8-4473-843f-78b812ac3cd8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "heatmor",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"768c4490-1ca0-451c-892a-6650a6657f23\"]",
+      "Height": "14",
+      "Weight": "580",
+      "YieldExperience": "169",
+      "PrimaryAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "SecondaryAbility": "[\"956efecf-ecf7-4731-9df1-25171033ad13\"]",
+      "HiddenAbility": "[\"b4d7933c-f6e8-4d96-9c6a-d47553ced38c\"]",
+      "BaseHP": "85",
+      "YieldHP": "0",
+      "BaseAttack": "97",
+      "YieldAttack": "0",
+      "BaseDefense": "66",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "105",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "66",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "heatmor",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

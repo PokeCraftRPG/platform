@@ -1,0 +1,43 @@
+﻿{
+  "Id": "76d17857-0864-44dc-a0e3-7d2b35ebcb05",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sigilyph",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b29ac83f-0dd6-490b-b36f-0266eb9659ac\"]",
+      "Height": "14",
+      "Weight": "140",
+      "YieldExperience": "172",
+      "PrimaryAbility": "[\"f0c9ab67-3a27-4710-9c6c-d1ebe1d18d98\"]",
+      "SecondaryAbility": "[\"69c09e48-92e7-44ba-99ac-01ed04423dd6\"]",
+      "HiddenAbility": "[\"786cffd7-a22d-4bc0-87f2-6a9ffbbc07d2\"]",
+      "BaseHP": "72",
+      "YieldHP": "0",
+      "BaseAttack": "58",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "103",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "97",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sigilyph",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

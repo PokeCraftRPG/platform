@@ -1,0 +1,26 @@
+﻿{
+  "Id": "bd79f247-e894-4b52-92d4-a86c94745dfe",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "oranguru",
+    "DisplayName": "Oranguru",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1534b41b-73bf-45e6-9fce-857e9a5ad7a4\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "oranguru",
+      "DisplayName": "Oranguru",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sage"
+      }
+    }
+  }
+}

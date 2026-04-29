@@ -1,0 +1,40 @@
+﻿{
+  "Id": "c21e580c-bd27-488e-b46a-5ccf4d7e4fd5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "starmie-mega",
+    "DisplayName": "Mega Starmie",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"27c82a07-a474-4e41-983e-9f1deeb465fb\"]",
+      "Height": "23",
+      "Weight": "800",
+      "PrimaryAbility": "[\"fc4446e9-654f-46c3-8257-6cb0986da05f\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "105",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "130",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "105",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "120",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "starmie-mega",
+      "DisplayName": "Mega Starmie",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

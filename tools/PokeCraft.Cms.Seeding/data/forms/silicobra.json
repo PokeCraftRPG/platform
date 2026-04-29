@@ -1,0 +1,42 @@
+﻿{
+  "Id": "b5d2e318-6f84-4266-b294-119539c6b52b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "silicobra",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"87c95862-e8cf-4539-8d5a-5baf71b0b2a8\"]",
+      "Height": "22",
+      "Weight": "76",
+      "YieldExperience": "63",
+      "PrimaryAbility": "[\"2ae8a15b-05f1-4fac-99d9-cec278ed6c0d\"]",
+      "SecondaryAbility": "[\"ce764204-79c4-4e66-8017-2144a4e66f3c\"]",
+      "HiddenAbility": "[\"2298dae8-5c1f-423f-960d-8cf61b19c897\"]",
+      "BaseHP": "52",
+      "YieldHP": "0",
+      "BaseAttack": "57",
+      "YieldAttack": "0",
+      "BaseDefense": "75",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "46",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "silicobra",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

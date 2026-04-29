@@ -1,0 +1,25 @@
+﻿{
+  "Id": "4b6206c7-ebf7-4a28-8472-167a9e56085f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "leafage",
+    "DisplayName": "Leafage",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "40"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "leafage",
+      "DisplayName": "Leafage",
+      "Description": "The user attacks by pelting the target with leaves.",
+      "FieldValues": {}
+    }
+  }
+}

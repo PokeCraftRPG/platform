@@ -1,0 +1,42 @@
+﻿{
+  "Id": "4dfb4f60-f702-461c-9e4d-82fa8e25f49a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "reuniclus",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0f0a44a0-51ee-41bd-b4bb-cc166ff1f42a\"]",
+      "Height": "10",
+      "Weight": "201",
+      "YieldExperience": "221",
+      "PrimaryAbility": "[\"ecf92884-7c23-4d13-9d9a-1a687fe3f447\"]",
+      "SecondaryAbility": "[\"69c09e48-92e7-44ba-99ac-01ed04423dd6\"]",
+      "HiddenAbility": "[\"3f2976c2-09ac-4c69-8b32-5d930032faba\"]",
+      "BaseHP": "110",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "125",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "reuniclus",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

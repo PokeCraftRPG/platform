@@ -1,0 +1,27 @@
+﻿{
+  "Id": "6c2d553a-1430-4dab-866f-ca2249574dc7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grubbin",
+    "DisplayName": "Grubbin",
+    "Description": null,
+    "FieldValues": {
+      "Number": "736",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grubbin",
+      "DisplayName": "Grubbin",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

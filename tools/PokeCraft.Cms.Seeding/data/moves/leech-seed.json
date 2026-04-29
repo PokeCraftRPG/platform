@@ -1,0 +1,24 @@
+﻿{
+  "Id": "a316cd6c-e94d-4bad-b54c-3deb39011acc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "leech-seed",
+    "DisplayName": "Leech Seed",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "leech-seed",
+      "DisplayName": "Leech Seed",
+      "Description": "A seed is planted on the target. It steals some HP from the target every turn.",
+      "FieldValues": {}
+    }
+  }
+}

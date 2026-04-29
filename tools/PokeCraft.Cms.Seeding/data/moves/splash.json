@@ -1,0 +1,23 @@
+﻿{
+  "Id": "fae9b2d6-c42a-49c5-a013-3538341528e3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "splash",
+    "DisplayName": "Splash",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "40"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "splash",
+      "DisplayName": "Splash",
+      "Description": "The user just flops and splashes around to no effect at all...",
+      "FieldValues": {}
+    }
+  }
+}

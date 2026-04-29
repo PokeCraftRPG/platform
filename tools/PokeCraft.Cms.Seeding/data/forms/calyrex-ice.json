@@ -1,0 +1,41 @@
+﻿{
+  "Id": "9ebc6120-aa57-46ab-b5a9-136e0413c406",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "calyrex-ice",
+    "DisplayName": "Ice Calyrex",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"8b888c92-4028-437d-b493-39dbb5dcae56\"]",
+      "Height": "24",
+      "Weight": "8091",
+      "YieldExperience": "340",
+      "PrimaryAbility": "[\"e0a4917c-57f5-4c38-be65-1ce0617b53aa\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "165",
+      "YieldAttack": "3",
+      "BaseDefense": "150",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "130",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "calyrex-ice",
+      "DisplayName": "Ice Calyrex",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

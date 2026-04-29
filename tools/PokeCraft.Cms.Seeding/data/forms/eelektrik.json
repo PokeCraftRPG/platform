@@ -1,0 +1,40 @@
+﻿{
+  "Id": "96156500-63e6-4bad-a28f-0715d858afdf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "eelektrik",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d2d346c4-d877-4609-aedf-5477045688ad\"]",
+      "Height": "12",
+      "Weight": "220",
+      "YieldExperience": "142",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "2",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "eelektrik",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

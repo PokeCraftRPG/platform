@@ -1,0 +1,27 @@
+﻿{
+  "Id": "93f0f80f-6aa5-452e-8706-a9f3894063a1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "huntail",
+    "DisplayName": "Huntail",
+    "Description": null,
+    "FieldValues": {
+      "Number": "367",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "huntail",
+      "DisplayName": "Huntail",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

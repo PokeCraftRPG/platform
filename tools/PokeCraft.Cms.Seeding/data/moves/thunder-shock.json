@@ -1,0 +1,25 @@
+﻿{
+  "Id": "89a805ab-ffdb-4f3a-9069-cda0bd373605",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thunder-shock",
+    "DisplayName": "Thunder Shock",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thunder-shock",
+      "DisplayName": "Thunder Shock",
+      "Description": "The user attacks the target with a jolt of electricity. This may also leave the target with paralysis.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "bf4c01cf-83b5-40d7-b5a4-0772c88b2205",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "feebas",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"96d66d74-c0be-4ff0-8645-b39a8de276f3\"]",
+      "Height": "6",
+      "Weight": "74",
+      "YieldExperience": "40",
+      "PrimaryAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "SecondaryAbility": "[\"a720be5d-1a4e-4e14-8426-1ba0fc59a8ed\"]",
+      "HiddenAbility": "[\"463a60e6-bf15-4972-9934-481d443a8534\"]",
+      "BaseHP": "20",
+      "YieldHP": "0",
+      "BaseAttack": "15",
+      "YieldAttack": "0",
+      "BaseDefense": "20",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "10",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "feebas",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

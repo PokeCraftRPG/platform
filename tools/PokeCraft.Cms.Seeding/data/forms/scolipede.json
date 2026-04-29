@@ -1,0 +1,43 @@
+﻿{
+  "Id": "9bf622ec-c9a0-4787-869f-a889e10adefe",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scolipede",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"93e481bf-e021-4247-9509-cbdfc540ad1a\"]",
+      "Height": "25",
+      "Weight": "2005",
+      "YieldExperience": "218",
+      "PrimaryAbility": "[\"2f1ed275-bfaf-494d-8d85-c48aee736e43\"]",
+      "SecondaryAbility": "[\"ba1b3a50-acc0-4032-bf14-6572fa26daed\"]",
+      "HiddenAbility": "[\"c34cae01-916e-44ec-8e58-1cc63029592f\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "89",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "69",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "112",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scolipede",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

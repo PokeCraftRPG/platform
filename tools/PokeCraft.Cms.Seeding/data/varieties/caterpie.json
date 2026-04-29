@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1d01c404-fd22-4e02-9c6d-97426d00b80f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "caterpie",
+    "DisplayName": "Caterpie",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b543ee61-2d83-4e12-88f2-07cdbdd8cb95\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "caterpie",
+      "DisplayName": "Caterpie",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Worm"
+      }
+    }
+  }
+}

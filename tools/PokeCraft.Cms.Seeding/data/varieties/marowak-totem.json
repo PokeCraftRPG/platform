@@ -1,0 +1,26 @@
+﻿{
+  "Id": "50e668d8-2af4-41c7-a3c7-afce9849103c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "marowak-totem",
+    "DisplayName": "Marowak",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8dfd43c8-3a92-4c84-8304-d86e9eaa38fe\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "marowak-totem",
+      "DisplayName": "Marowak",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bone Keeper"
+      }
+    }
+  }
+}

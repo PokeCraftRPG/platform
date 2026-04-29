@@ -1,0 +1,26 @@
+﻿{
+  "Id": "95849143-6e11-4bef-a3ba-303f1d21cfeb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cacturne",
+    "DisplayName": "Cacturne",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c7528e40-6514-4de8-a9ac-f85d288f62e9\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cacturne",
+      "DisplayName": "Cacturne",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Scarecrow"
+      }
+    }
+  }
+}

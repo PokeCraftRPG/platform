@@ -1,0 +1,42 @@
+﻿{
+  "Id": "7bafa19c-0891-4646-82d9-71177cb476c0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cradily",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6f05b3d8-8f40-4106-86c9-360017750172\"]",
+      "Height": "15",
+      "Weight": "604",
+      "YieldExperience": "173",
+      "PrimaryAbility": "[\"7f395dac-6fba-4c1f-8a37-b6772676e8c8\"]",
+      "HiddenAbility": "[\"f863cc47-85a0-4a65-bb10-a51733957719\"]",
+      "BaseHP": "86",
+      "YieldHP": "0",
+      "BaseAttack": "81",
+      "YieldAttack": "0",
+      "BaseDefense": "97",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "81",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "107",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "43",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cradily",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

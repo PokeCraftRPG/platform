@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f5bcaf5c-751e-40ec-bd40-791e670c6c3e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kubfu",
+    "DisplayName": "Kubfu",
+    "Description": null,
+    "FieldValues": {
+      "Number": "891",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kubfu",
+      "DisplayName": "Kubfu",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

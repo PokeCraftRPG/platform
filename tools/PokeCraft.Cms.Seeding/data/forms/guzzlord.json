@@ -1,0 +1,41 @@
+﻿{
+  "Id": "ca45cca2-714a-4aa1-9de7-61fccc835ba8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "guzzlord",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"493fecdf-a5e5-44d7-9c5a-87af8190498a\"]",
+      "Height": "55",
+      "Weight": "8880",
+      "YieldExperience": "257",
+      "PrimaryAbility": "[\"e7ec0ce2-6979-45a9-80ab-215081d487e3\"]",
+      "BaseHP": "223",
+      "YieldHP": "3",
+      "BaseAttack": "101",
+      "YieldAttack": "0",
+      "BaseDefense": "53",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "97",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "53",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "43",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "guzzlord",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

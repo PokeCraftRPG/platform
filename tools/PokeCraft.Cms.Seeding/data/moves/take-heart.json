@@ -1,0 +1,24 @@
+﻿{
+  "Id": "cb33d5ae-174b-4883-8eea-d1349648d4ef",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "take-heart",
+    "DisplayName": "Take Heart",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "Power": "0",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "take-heart",
+      "DisplayName": "Take Heart",
+      "Description": "The user lifts its spirits, curing its own status conditions and boosting its Sp. Atk and Sp. Def stats.",
+      "FieldValues": {}
+    }
+  }
+}

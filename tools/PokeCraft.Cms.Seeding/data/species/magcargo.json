@@ -1,0 +1,27 @@
+﻿{
+  "Id": "802d5201-b566-4151-92fe-3609b780f5b2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magcargo",
+    "DisplayName": "Magcargo",
+    "Description": null,
+    "FieldValues": {
+      "Number": "219",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magcargo",
+      "DisplayName": "Magcargo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

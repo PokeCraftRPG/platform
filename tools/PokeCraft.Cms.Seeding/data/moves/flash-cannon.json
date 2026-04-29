@@ -1,0 +1,25 @@
+﻿{
+  "Id": "2dc95b06-4ba7-4197-a2c2-d69970829400",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flash-cannon",
+    "DisplayName": "Flash Cannon",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flash-cannon",
+      "DisplayName": "Flash Cannon",
+      "Description": "The user gathers all its light energy and releases it at once. This may also lower the target's Sp. Def stat.",
+      "FieldValues": {}
+    }
+  }
+}

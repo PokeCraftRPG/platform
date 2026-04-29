@@ -1,0 +1,43 @@
+﻿{
+  "Id": "26281ebe-eef7-4abb-8f1e-6c8b5950cb6c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "frillish-male",
+    "DisplayName": "Male Frillish",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e5c42361-9b87-40eb-ad53-9e94fbb5edeb\"]",
+      "Height": "12",
+      "Weight": "330",
+      "YieldExperience": "67",
+      "PrimaryAbility": "[\"ce06d228-a509-444d-ab16-f046f2519e89\"]",
+      "SecondaryAbility": "[\"de5aabec-d7d6-43c0-9d1a-575c11318439\"]",
+      "HiddenAbility": "[\"ebbf0ce1-0fb1-42cd-81bf-091e737bbfd4\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "40",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "frillish-male",
+      "DisplayName": "Male Frillish",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "2fc56c33-baa7-47c8-aa5e-09b1e973aa3e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sand-tomb",
+    "DisplayName": "Sand Tomb",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "85",
+      "Power": "35",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sand-tomb",
+      "DisplayName": "Sand Tomb",
+      "Description": "The user traps the target inside a harshly raging sandstorm that inflicts damage for four to five turns.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "d153e170-accf-4270-b95a-c63d86fadca6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "guard-swap",
+    "DisplayName": "Guard Swap",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "guard-swap",
+      "DisplayName": "Guard Swap",
+      "Description": "The user employs its psychic power to switch changes to its Defense and Sp. Def stats with the target.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "535acdab-9a3a-45f0-bb67-1889d40c8370",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "merciless",
+    "DisplayName": "Merciless",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "merciless",
+      "DisplayName": "Merciless",
+      "Description": "The Pokémon's attacks become critical hits if the target is poisoned.",
+      "FieldValues": {}
+    }
+  }
+}

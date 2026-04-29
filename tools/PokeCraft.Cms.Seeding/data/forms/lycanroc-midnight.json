@@ -1,0 +1,42 @@
+﻿{
+  "Id": "910af914-d5e0-405b-a0fc-369222c34fbe",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lycanroc-midnight",
+    "DisplayName": "Midnight Lycanroc",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a4a35f34-a7d9-47d7-a981-1d78a65940f7\"]",
+      "Height": "11",
+      "Weight": "250",
+      "YieldExperience": "170",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "SecondaryAbility": "[\"45a56091-34c8-4407-8d66-a4a64e2eb101\"]",
+      "HiddenAbility": "[\"9abfc5f6-0767-4c13-a4c0-dd48c54a21d3\"]",
+      "BaseHP": "85",
+      "YieldHP": "0",
+      "BaseAttack": "115",
+      "YieldAttack": "2",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "82",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lycanroc-midnight",
+      "DisplayName": "Midnight Lycanroc",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

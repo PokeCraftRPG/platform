@@ -1,0 +1,26 @@
+﻿{
+  "Id": "91ef86f3-06d3-429c-9a6a-99fd4a6c220a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drednaw-gmax",
+    "DisplayName": "Drednaw",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"64ca12a1-88b0-44e3-8066-673e9d20422d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drednaw-gmax",
+      "DisplayName": "Drednaw",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bite"
+      }
+    }
+  }
+}

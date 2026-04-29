@@ -1,0 +1,24 @@
+﻿{
+  "Id": "6d34f235-087a-41fa-bb96-027f9ad3e4f1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "catastropika",
+    "DisplayName": "Catastropika",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "210",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "catastropika",
+      "DisplayName": "Catastropika",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "86f157db-5995-420f-bd50-c7adbb25349c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "golem-alola",
+    "DisplayName": "Alolan Golem",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4a6006e8-36dc-496b-9f68-4d9958e72b36\"]",
+      "Height": "17",
+      "Weight": "3160",
+      "YieldExperience": "223",
+      "PrimaryAbility": "[\"fbeddbd6-52d8-452c-97cc-0564133113a1\"]",
+      "SecondaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "HiddenAbility": "[\"25689f9a-42d4-4d84-8210-b4841575e186\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "0",
+      "BaseDefense": "130",
+      "YieldDefense": "3",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "golem-alola",
+      "DisplayName": "Alolan Golem",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

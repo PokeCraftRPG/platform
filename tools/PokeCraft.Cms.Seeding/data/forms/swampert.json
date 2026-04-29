@@ -1,0 +1,42 @@
+﻿{
+  "Id": "c540fe7b-0539-4700-b4b0-d2f890b03e1f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swampert",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e89e937b-bb00-4cbf-a52d-e62c667bf6ef\"]",
+      "Height": "15",
+      "Weight": "819",
+      "YieldExperience": "241",
+      "PrimaryAbility": "[\"973e0e1a-dcca-4ab1-bd25-90df209dfc63\"]",
+      "HiddenAbility": "[\"ebbf0ce1-0fb1-42cd-81bf-091e737bbfd4\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "110",
+      "YieldAttack": "3",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swampert",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

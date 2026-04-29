@@ -1,0 +1,25 @@
+﻿{
+  "Id": "afa3b77e-99f2-448b-82b5-d7f894435e38",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "misty-explosion",
+    "DisplayName": "Misty Explosion",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "misty-explosion",
+      "DisplayName": "Misty Explosion",
+      "Description": "The user attacks everything around it and faints upon using this move. This move's power is boosted on Misty Terrain.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "12335baf-f407-45ca-86a4-10d5c110c744",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meloetta-pirouette",
+    "DisplayName": "Meloetta",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"349df19d-4e67-400e-b2d9-88b27b6c7f1b\"]",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meloetta-pirouette",
+      "DisplayName": "Meloetta",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Melody"
+      }
+    }
+  }
+}

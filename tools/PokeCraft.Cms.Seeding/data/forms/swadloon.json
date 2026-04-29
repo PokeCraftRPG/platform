@@ -1,0 +1,43 @@
+﻿{
+  "Id": "e97f0178-c5a5-4b84-ade0-51c6f0399f52",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swadloon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"cd405a7e-bf2c-4b1d-b45e-2abbda43f607\"]",
+      "Height": "5",
+      "Weight": "73",
+      "YieldExperience": "133",
+      "PrimaryAbility": "[\"d724fdd9-3db1-4a76-8de7-aa696033fa20\"]",
+      "SecondaryAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "HiddenAbility": "[\"ecf92884-7c23-4d13-9d9a-1a687fe3f447\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "63",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "42",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swadloon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

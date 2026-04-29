@@ -1,0 +1,27 @@
+﻿{
+  "Id": "8c010a84-e8ac-4a62-ad11-c33bf5deaeeb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vikavolt",
+    "DisplayName": "Vikavolt",
+    "Description": null,
+    "FieldValues": {
+      "Number": "738",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vikavolt",
+      "DisplayName": "Vikavolt",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "f95cfd2d-d6fa-4062-a37e-ec29341b1bf1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slack-off",
+    "DisplayName": "Slack Off",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slack-off",
+      "DisplayName": "Slack Off",
+      "Description": "The user slacks off, restoring its own HP by up to half its max HP.",
+      "FieldValues": {}
+    }
+  }
+}

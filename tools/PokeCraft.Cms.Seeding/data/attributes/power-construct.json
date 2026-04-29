@@ -1,0 +1,19 @@
+﻿{
+  "Id": "6ddb17ba-dbb1-433c-88aa-3ab1376766ff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "power-construct",
+    "DisplayName": "Power Construct",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "power-construct",
+      "DisplayName": "Power Construct",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

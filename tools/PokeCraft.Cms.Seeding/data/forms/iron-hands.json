@@ -1,0 +1,41 @@
+﻿{
+  "Id": "d9d31202-49b6-452d-b193-9e77154bfef2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-hands",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"39c515dc-8566-4374-87c9-65adcc29b198\"]",
+      "Height": "18",
+      "Weight": "3807",
+      "YieldExperience": "285",
+      "PrimaryAbility": "[\"7cef81dc-7c42-4b31-b37d-79a7e926c4cd\"]",
+      "BaseHP": "154",
+      "YieldHP": "0",
+      "BaseAttack": "140",
+      "YieldAttack": "3",
+      "BaseDefense": "108",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "68",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]",
+      "SecondaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-hands",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

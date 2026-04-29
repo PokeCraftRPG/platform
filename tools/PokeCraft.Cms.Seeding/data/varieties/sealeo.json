@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7976a0aa-27e1-4bc6-804d-076e1afcc563",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sealeo",
+    "DisplayName": "Sealeo",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2b552d39-aee9-456d-862b-3cabd2fe6e37\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sealeo",
+      "DisplayName": "Sealeo",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ball Roll"
+      }
+    }
+  }
+}

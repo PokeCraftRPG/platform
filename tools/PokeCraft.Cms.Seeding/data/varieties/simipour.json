@@ -1,0 +1,26 @@
+﻿{
+  "Id": "91616691-7e4f-4954-929c-89d1849a6332",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "simipour",
+    "DisplayName": "Simipour",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"49c3f7d9-d606-45ca-8eef-89e26ee442e1\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "simipour",
+      "DisplayName": "Simipour",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Geyser"
+      }
+    }
+  }
+}

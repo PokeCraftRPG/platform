@@ -1,0 +1,23 @@
+﻿{
+  "Id": "62092450-629b-484e-84dc-a6603e53e3ea",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "perish-song",
+    "DisplayName": "Perish Song",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "perish-song",
+      "DisplayName": "Perish Song",
+      "Description": "Any Pokémon that hears this song faints in three turns, unless it switches out of battle.",
+      "FieldValues": {}
+    }
+  }
+}

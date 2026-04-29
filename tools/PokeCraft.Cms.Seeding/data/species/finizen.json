@@ -1,0 +1,28 @@
+﻿{
+  "Id": "07cd5181-f032-4457-ab3b-19864c5ad6bc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "finizen",
+    "DisplayName": "Finizen",
+    "Description": null,
+    "FieldValues": {
+      "Number": "963",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "200",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "finizen",
+      "DisplayName": "Finizen",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

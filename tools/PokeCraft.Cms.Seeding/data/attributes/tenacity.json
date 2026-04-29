@@ -1,0 +1,19 @@
+﻿{
+  "Id": "de3913a0-cc96-49ca-8a86-3a9e92e3d0bb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tenacity",
+    "DisplayName": "Tenacity",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tenacity",
+      "DisplayName": "Tenacity",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

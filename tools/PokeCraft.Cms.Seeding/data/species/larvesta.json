@@ -1,0 +1,27 @@
+﻿{
+  "Id": "177cb180-8a7c-4a28-9adf-06a5b92e7b7a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "larvesta",
+    "DisplayName": "Larvesta",
+    "Description": null,
+    "FieldValues": {
+      "Number": "636",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "larvesta",
+      "DisplayName": "Larvesta",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

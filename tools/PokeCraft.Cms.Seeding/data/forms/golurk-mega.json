@@ -1,0 +1,40 @@
+﻿{
+  "Id": "1b86076c-2e8e-4a08-9d98-e4740a2e8cac",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "golurk-mega",
+    "DisplayName": "Mega Golurk",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"09e7fb6a-5fc4-4fb1-a97d-283caee03d5a\"]",
+      "Height": "40",
+      "Weight": "3300",
+      "PrimaryAbility": "[\"4a0019c1-3730-4b26-857b-3d0cf36d3517\"]",
+      "BaseHP": "89",
+      "YieldHP": "0",
+      "BaseAttack": "159",
+      "YieldAttack": "0",
+      "BaseDefense": "105",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "105",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "golurk-mega",
+      "DisplayName": "Mega Golurk",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

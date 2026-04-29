@@ -1,0 +1,26 @@
+﻿{
+  "Id": "15faa6e1-e813-4396-9374-ebf4d119ce06",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "greavard",
+    "DisplayName": "Greavard",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"11d620ed-e9d5-48fd-a388-01ccccdc623a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "greavard",
+      "DisplayName": "Greavard",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ghost Dog"
+      }
+    }
+  }
+}

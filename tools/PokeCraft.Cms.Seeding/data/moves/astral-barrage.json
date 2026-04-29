@@ -1,0 +1,25 @@
+﻿{
+  "Id": "08dc037c-6d01-4621-b67f-e4778d29d9ff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "astral-barrage",
+    "DisplayName": "Astral Barrage",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "astral-barrage",
+      "DisplayName": "Astral Barrage",
+      "Description": "The user attacks by sending a frightful amount of small ghosts at opposing Pokémon.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "54682795-9928-40b6-9288-f24d3d9f0fa2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dugtrio",
+    "DisplayName": "Dugtrio",
+    "Description": null,
+    "FieldValues": {
+      "Number": "51",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "50",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dugtrio",
+      "DisplayName": "Dugtrio",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

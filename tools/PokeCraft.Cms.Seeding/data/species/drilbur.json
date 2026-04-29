@@ -1,0 +1,27 @@
+﻿{
+  "Id": "db68eb14-9178-4ba9-8ec2-d4482e0e3b93",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drilbur",
+    "DisplayName": "Drilbur",
+    "Description": null,
+    "FieldValues": {
+      "Number": "529",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drilbur",
+      "DisplayName": "Drilbur",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

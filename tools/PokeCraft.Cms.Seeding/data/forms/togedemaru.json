@@ -1,0 +1,43 @@
+﻿{
+  "Id": "92c1f8a1-0da5-4cc1-a7b3-5454c6a56585",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "togedemaru",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"176ade1f-7793-4a4b-b887-c0e2ec5c8b89\"]",
+      "Height": "3",
+      "Weight": "33",
+      "YieldExperience": "152",
+      "PrimaryAbility": "[\"889ae121-b252-4176-9acd-146583e36c72\"]",
+      "SecondaryAbility": "[\"98bb9191-1993-4224-8922-4a4d13f534a5\"]",
+      "HiddenAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "98",
+      "YieldAttack": "2",
+      "BaseDefense": "63",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "73",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "96",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "togedemaru",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

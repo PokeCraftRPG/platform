@@ -1,0 +1,42 @@
+﻿{
+  "Id": "93e09710-b15b-4004-9fbf-a6adda399726",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "emolga",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"21eca61c-123f-434c-b050-2987ddabe624\"]",
+      "Height": "4",
+      "Weight": "50",
+      "YieldExperience": "150",
+      "PrimaryAbility": "[\"4d8cefa4-dbcc-4c78-b5f5-0a1c30bdb019\"]",
+      "HiddenAbility": "[\"1c41e2f3-b9f2-4ba5-a444-5bf018b5657e\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "103",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "emolga",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

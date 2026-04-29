@@ -1,0 +1,19 @@
+﻿{
+  "Id": "35627a6f-38f0-4832-b663-c5ba955aa328",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "anger-point",
+    "DisplayName": "Anger Point",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "anger-point",
+      "DisplayName": "Anger Point",
+      "Description": "The Pokémon is angered when it takes a critical hit, and that maxes its Attack stat.",
+      "FieldValues": {}
+    }
+  }
+}

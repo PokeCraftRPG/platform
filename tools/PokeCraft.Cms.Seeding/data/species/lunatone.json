@@ -1,0 +1,27 @@
+﻿{
+  "Id": "37783ad8-9e72-4197-971b-30dbdacf07ae",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lunatone",
+    "DisplayName": "Lunatone",
+    "Description": null,
+    "FieldValues": {
+      "Number": "337",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lunatone",
+      "DisplayName": "Lunatone",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

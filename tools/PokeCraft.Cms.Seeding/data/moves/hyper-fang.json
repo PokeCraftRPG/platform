@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6f40ade3-ef6e-4a1a-b2bd-8f73e2162b74",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hyper-fang",
+    "DisplayName": "Hyper Fang",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hyper-fang",
+      "DisplayName": "Hyper Fang",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

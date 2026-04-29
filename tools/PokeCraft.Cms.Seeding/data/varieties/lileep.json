@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1bdfdd09-acb8-40b4-8985-5571b190b0c8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lileep",
+    "DisplayName": "Lileep",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6075e706-0ccd-4462-b469-6fcce9280c3c\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lileep",
+      "DisplayName": "Lileep",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sea Lily"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "03108b44-e57b-442a-ba0e-b6de95a975c1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pickpocket",
+    "DisplayName": "Pickpocket",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pickpocket",
+      "DisplayName": "Pickpocket",
+      "Description": "The Pokémon steals the held item from attackers that made direct contact with it.",
+      "FieldValues": {}
+    }
+  }
+}

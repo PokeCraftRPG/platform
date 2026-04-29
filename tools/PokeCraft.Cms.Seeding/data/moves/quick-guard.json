@@ -1,0 +1,23 @@
+﻿{
+  "Id": "2213f7ab-9b63-4ead-8b47-8074c64a7688",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "quick-guard",
+    "DisplayName": "Quick Guard",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "quick-guard",
+      "DisplayName": "Quick Guard",
+      "Description": "The user protects itself and its allies from priority moves.",
+      "FieldValues": {}
+    }
+  }
+}

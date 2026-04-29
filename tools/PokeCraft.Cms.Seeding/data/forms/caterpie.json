@@ -1,0 +1,41 @@
+﻿{
+  "Id": "a4f1c3ab-ae2e-47be-9154-1babd9f812dc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "caterpie",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1d01c404-fd22-4e02-9c6d-97426d00b80f\"]",
+      "Height": "3",
+      "Weight": "29",
+      "YieldExperience": "39",
+      "PrimaryAbility": "[\"29bd00fc-e0bf-4f2e-8cf9-f87e1aa11c4a\"]",
+      "HiddenAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "BaseHP": "45",
+      "YieldHP": "1",
+      "BaseAttack": "30",
+      "YieldAttack": "0",
+      "BaseDefense": "35",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "20",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "20",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "caterpie",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

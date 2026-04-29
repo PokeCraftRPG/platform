@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ad85f99d-bd74-4002-9490-a2719d97b2a5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "oddish",
+    "DisplayName": "Oddish",
+    "Description": null,
+    "FieldValues": {
+      "Number": "43",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "oddish",
+      "DisplayName": "Oddish",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

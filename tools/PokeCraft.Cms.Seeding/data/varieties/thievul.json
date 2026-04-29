@@ -1,0 +1,26 @@
+﻿{
+  "Id": "cd79778e-69fb-4c77-86d8-b9adc0c12f2a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thievul",
+    "DisplayName": "Thievul",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"557bc81a-6b40-4337-87c8-2e6c763aa5dd\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thievul",
+      "DisplayName": "Thievul",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fox"
+      }
+    }
+  }
+}

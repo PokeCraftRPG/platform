@@ -1,0 +1,26 @@
+﻿{
+  "Id": "feaec4ee-d511-43c3-bbc8-05fcc66e6db6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gardevoir",
+    "DisplayName": "Gardevoir",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"118c6470-263b-4e3c-aef7-4c6de3232682\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gardevoir",
+      "DisplayName": "Gardevoir",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Embrace"
+      }
+    }
+  }
+}

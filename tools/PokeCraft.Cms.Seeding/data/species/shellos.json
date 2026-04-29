@@ -1,0 +1,28 @@
+﻿{
+  "Id": "1ddf1800-e1af-4888-9acb-370d8abc2a20",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shellos",
+    "DisplayName": "Shellos",
+    "Description": null,
+    "FieldValues": {
+      "Number": "422",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shellos",
+      "DisplayName": "Shellos",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "20c2844c-e559-42aa-a50c-3c694cd454b8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ice-ball",
+    "DisplayName": "Ice Ball",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "30",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ice-ball",
+      "DisplayName": "Ice Ball",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

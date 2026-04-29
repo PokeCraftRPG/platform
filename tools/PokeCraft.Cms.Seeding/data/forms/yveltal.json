@@ -1,0 +1,41 @@
+﻿{
+  "Id": "64305edc-1488-4e8f-8d96-1c24186f3093",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "yveltal",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"bae74fa4-bd0e-4604-b83d-cf32d1c56662\"]",
+      "Height": "58",
+      "Weight": "2030",
+      "YieldExperience": "306",
+      "PrimaryAbility": "[\"64ea43f2-fa75-4887-8ab1-b15bbc315fcc\"]",
+      "BaseHP": "126",
+      "YieldHP": "3",
+      "BaseAttack": "131",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "131",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "98",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "99",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "yveltal",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

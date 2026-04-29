@@ -1,0 +1,28 @@
+﻿{
+  "Id": "a916c101-b5c6-472d-ae63-bd893c71e6d3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "noivern",
+    "DisplayName": "Noivern",
+    "Description": null,
+    "FieldValues": {
+      "Number": "715",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Flying\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "noivern",
+      "DisplayName": "Noivern",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

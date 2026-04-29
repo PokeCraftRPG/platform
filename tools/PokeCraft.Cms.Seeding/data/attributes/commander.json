@@ -1,0 +1,19 @@
+﻿{
+  "Id": "2188bc67-b0f4-4e3c-8c4e-5888c1a543f8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "commander",
+    "DisplayName": "Commander",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "commander",
+      "DisplayName": "Commander",
+      "Description": "When the Pokémon enters a battle, it goes inside the mouth of an ally Dondozo if one is on the field. The Pokémon then issues commands from there.",
+      "FieldValues": {}
+    }
+  }
+}

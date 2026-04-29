@@ -1,0 +1,25 @@
+﻿{
+  "Id": "2465d0ad-7cb5-45e7-97a1-e1eaee20d6e0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zap-cannon",
+    "DisplayName": "Zap Cannon",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "50",
+      "Power": "120",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zap-cannon",
+      "DisplayName": "Zap Cannon",
+      "Description": "The user attacks by firing an electric blast like a cannon. This also leaves the target with paralysis.",
+      "FieldValues": {}
+    }
+  }
+}

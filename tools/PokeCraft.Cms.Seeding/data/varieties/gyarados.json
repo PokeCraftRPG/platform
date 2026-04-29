@@ -1,0 +1,26 @@
+﻿{
+  "Id": "744eea1f-ab2a-4cfc-940e-426c71f4a9fe",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gyarados",
+    "DisplayName": "Gyarados",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9ee4e927-3eb3-4423-9924-cb22e1a31f5e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gyarados",
+      "DisplayName": "Gyarados",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Atrocious"
+      }
+    }
+  }
+}

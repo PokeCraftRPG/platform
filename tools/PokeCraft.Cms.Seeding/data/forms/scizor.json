@@ -1,0 +1,43 @@
+﻿{
+  "Id": "bfd21561-7bd6-400d-911e-80cc3803ccef",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scizor",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e3bce6a4-a452-4552-8220-152c814c527d\"]",
+      "Height": "18",
+      "Weight": "1180",
+      "YieldExperience": "175",
+      "PrimaryAbility": "[\"ba1b3a50-acc0-4032-bf14-6572fa26daed\"]",
+      "SecondaryAbility": "[\"d20432c3-18d0-4160-a3f1-a363c9e6633d\"]",
+      "HiddenAbility": "[\"a9839af2-6266-4453-a3f7-39226d90dc2e\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "130",
+      "YieldAttack": "2",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scizor",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

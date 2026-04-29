@@ -1,0 +1,19 @@
+﻿{
+  "Id": "ddf0f168-034f-4d76-8321-9da0318782f2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fur-coat",
+    "DisplayName": "Fur Coat",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fur-coat",
+      "DisplayName": "Fur Coat",
+      "Description": "Halves the damage from physical moves.",
+      "FieldValues": {}
+    }
+  }
+}

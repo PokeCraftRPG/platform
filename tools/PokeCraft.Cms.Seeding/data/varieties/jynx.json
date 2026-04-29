@@ -1,0 +1,26 @@
+﻿{
+  "Id": "60c35523-3b0b-4ac8-b34c-fcbdb8458048",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "jynx",
+    "DisplayName": "Jynx",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"67164647-1951-4a17-84f0-15b236c2add0\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "jynx",
+      "DisplayName": "Jynx",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Human Shape"
+      }
+    }
+  }
+}

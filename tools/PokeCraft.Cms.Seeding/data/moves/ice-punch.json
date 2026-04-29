@@ -1,0 +1,25 @@
+﻿{
+  "Id": "32e09f02-044d-4a52-95de-45f956d78309",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ice-punch",
+    "DisplayName": "Ice Punch",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "75",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ice-punch",
+      "DisplayName": "Ice Punch",
+      "Description": "The target is attacked with an icy punch. This may also leave the target frozen.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "42854f3b-6ff8-4a37-822c-884e0ee168d1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wind-power",
+    "DisplayName": "Wind Power",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wind-power",
+      "DisplayName": "Wind Power",
+      "Description": "The Pokémon becomes charged when it is hit by a wind move, boosting the power of the next Electric-type move the Pokémon uses.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "fbeddbd6-52d8-452c-97cc-0564133113a1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magnet-pull",
+    "DisplayName": "Magnet Pull",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magnet-pull",
+      "DisplayName": "Magnet Pull",
+      "Description": "Prevents Steel-type Pokémon from fleeing by pulling them in with magnetism.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3aac1e02-c93f-4623-96c7-26a8a4696b12",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gulpin",
+    "DisplayName": "Gulpin",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"725c4aea-ba7e-47c4-bca3-daf960838748\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gulpin",
+      "DisplayName": "Gulpin",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Stomach"
+      }
+    }
+  }
+}

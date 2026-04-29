@@ -1,0 +1,42 @@
+﻿{
+  "Id": "428283d4-b467-42ef-9afd-c9f696088187",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "goodra",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0818e7d0-8321-485c-98c9-57355e7581cc\"]",
+      "Height": "20",
+      "Weight": "1505",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"a471c5f9-291c-4763-b84a-9c5c666f409b\"]",
+      "SecondaryAbility": "[\"14243d95-6028-489e-acf7-18592c5695c2\"]",
+      "HiddenAbility": "[\"b26695ec-9331-4ca1-b94c-d371e8bbbb15\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "110",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "150",
+      "YieldSpecialDefense": "3",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "goodra",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

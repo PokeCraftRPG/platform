@@ -1,0 +1,42 @@
+﻿{
+  "Id": "557529f8-9ff4-4b3e-9e6f-c4e4153ef9f6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tapu-koko",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0276f051-ddeb-4de1-8b13-0036e2d441f5\"]",
+      "Height": "18",
+      "Weight": "205",
+      "YieldExperience": "257",
+      "PrimaryAbility": "[\"737464ea-cf63-4eef-a01d-2285d42b18fd\"]",
+      "HiddenAbility": "[\"f5863110-b5b9-4629-b95c-3869ed34433d\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "115",
+      "YieldAttack": "0",
+      "BaseDefense": "85",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "130",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tapu-koko",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

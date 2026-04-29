@@ -1,0 +1,41 @@
+﻿{
+  "Id": "feda3303-8194-4b8c-8bbf-f5bfbd6d74ea",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "giratina-origin",
+    "DisplayName": "Origin Giratina",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ac483a60-b0c5-41da-914e-7c583e89ba78\"]",
+      "Height": "69",
+      "Weight": "6500",
+      "YieldExperience": "340",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "BaseHP": "150",
+      "YieldHP": "3",
+      "BaseAttack": "120",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "120",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "giratina-origin",
+      "DisplayName": "Origin Giratina",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

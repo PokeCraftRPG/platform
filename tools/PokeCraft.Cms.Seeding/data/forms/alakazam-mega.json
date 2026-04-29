@@ -1,0 +1,40 @@
+﻿{
+  "Id": "629b24a3-47bb-4929-bca4-4423571ae151",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "alakazam-mega",
+    "DisplayName": "Mega Alakazam",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2cca9cd7-507c-4185-8c6b-f91c9948f82e\"]",
+      "Height": "12",
+      "Weight": "480",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"187f6a3c-7975-4e72-9285-a225d83376ac\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "175",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "105",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "150",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "alakazam-mega",
+      "DisplayName": "Mega Alakazam",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

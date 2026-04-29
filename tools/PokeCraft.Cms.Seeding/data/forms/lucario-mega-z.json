@@ -1,0 +1,39 @@
+﻿{
+  "Id": "fd6184e7-bfb8-49c7-9045-8752509a3e06",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lucario-mega-z",
+    "DisplayName": "Mega Lucario Z",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"bb71f53b-ce96-4471-b38c-83d489ec06ab\"]",
+      "Height": "13",
+      "Weight": "494",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "164",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "151",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Fighting\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lucario-mega-z",
+      "DisplayName": "Mega Lucario Z",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

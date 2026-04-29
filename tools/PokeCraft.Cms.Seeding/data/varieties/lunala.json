@@ -1,0 +1,25 @@
+﻿{
+  "Id": "1e0b53b0-f1a3-4ec2-8079-e71baa194403",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lunala",
+    "DisplayName": "Lunala",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ffc74806-4214-41d9-b629-eeb681632053\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lunala",
+      "DisplayName": "Lunala",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Moone"
+      }
+    }
+  }
+}

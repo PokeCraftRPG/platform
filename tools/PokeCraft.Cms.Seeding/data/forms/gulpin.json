@@ -1,0 +1,42 @@
+﻿{
+  "Id": "88577f3a-671b-429d-9bd8-0f3bad9bf56d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gulpin",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3aac1e02-c93f-4623-96c7-26a8a4696b12\"]",
+      "Height": "4",
+      "Weight": "103",
+      "YieldExperience": "60",
+      "PrimaryAbility": "[\"b482a4ff-53ed-43e3-8c96-e06c23762a48\"]",
+      "SecondaryAbility": "[\"c6f1b814-650e-4b1f-a482-7ed07ca1c7af\"]",
+      "HiddenAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "BaseHP": "70",
+      "YieldHP": "1",
+      "BaseAttack": "43",
+      "YieldAttack": "0",
+      "BaseDefense": "53",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "43",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "53",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gulpin",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

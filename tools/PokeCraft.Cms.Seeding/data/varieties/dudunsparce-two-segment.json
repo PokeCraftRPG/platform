@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4b42dd72-730c-46e4-b8b4-d5e062dbe815",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dudunsparce-two-segment",
+    "DisplayName": "Dudunsparce",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9df52d05-8750-485c-a2c5-39c96755a881\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dudunsparce-two-segment",
+      "DisplayName": "Dudunsparce",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Land Snake"
+      }
+    }
+  }
+}

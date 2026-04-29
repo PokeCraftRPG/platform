@@ -1,0 +1,43 @@
+﻿{
+  "Id": "8e37d3cb-ac80-4497-9d46-083e10d87b5f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pawniard",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6aec7dad-0aad-486e-aab9-077443f50c0d\"]",
+      "Height": "5",
+      "Weight": "102",
+      "YieldExperience": "68",
+      "PrimaryAbility": "[\"493ac234-5dd4-4767-9e41-8ec4cd322437\"]",
+      "SecondaryAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "HiddenAbility": "[\"04822c52-0ef2-4b5e-a4bb-176772f6c3d8\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "1",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pawniard",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

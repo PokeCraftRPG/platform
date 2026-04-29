@@ -1,0 +1,27 @@
+﻿{
+  "Id": "662a70dc-a0ea-4048-ba0e-b4873ca7df55",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gothitelle",
+    "DisplayName": "Gothitelle",
+    "Description": null,
+    "FieldValues": {
+      "Number": "576",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "50",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gothitelle",
+      "DisplayName": "Gothitelle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

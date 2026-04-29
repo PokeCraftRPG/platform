@@ -1,0 +1,26 @@
+﻿{
+  "Id": "79772620-c336-433e-83d1-1e95052079ae",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "carvanha",
+    "DisplayName": "Carvanha",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"68c390f6-ed69-4c48-a672-e4ce9c2886a1\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "carvanha",
+      "DisplayName": "Carvanha",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Savage"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "4cccd844-dc65-4ee9-b71e-94447da8f576",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hoopa",
+    "DisplayName": "Hoopa",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b723fb02-eb60-4bbe-9fa7-e5fb56f36f3e\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hoopa",
+      "DisplayName": "Hoopa",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mischief"
+      }
+    }
+  }
+}

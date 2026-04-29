@@ -1,0 +1,26 @@
+﻿{
+  "Id": "148201bd-72f0-4955-9d88-8f820ffe40dc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vanillish",
+    "DisplayName": "Vanillish",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"991a6cc9-c74a-4db3-a39a-7b4e251ba7e1\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vanillish",
+      "DisplayName": "Vanillish",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Icy Snow"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "b621bc43-a5cb-4fcb-ace4-c962ede024e8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tectonic-rage--special",
+    "DisplayName": "Tectonic Rage",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Special\"]",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tectonic-rage--special",
+      "DisplayName": "Tectonic Rage",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

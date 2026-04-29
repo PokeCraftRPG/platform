@@ -1,0 +1,25 @@
+﻿{
+  "Id": "263e10f9-4ae3-4c9a-85e4-830b9d1549fe",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pollen-puff",
+    "DisplayName": "Pollen Puff",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pollen-puff",
+      "DisplayName": "Pollen Puff",
+      "Description": "The user attacks the enemy with a pollen puff that explodes. If the target is an ally, it gives the ally a pollen puff that restores its HP instead.",
+      "FieldValues": {}
+    }
+  }
+}

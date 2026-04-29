@@ -1,0 +1,26 @@
+﻿{
+  "Id": "67b11875-b66a-4a2a-a9b9-42ea520eb0d9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "marowak",
+    "DisplayName": "Marowak",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8dfd43c8-3a92-4c84-8304-d86e9eaa38fe\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "marowak",
+      "DisplayName": "Marowak",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bone Keeper"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ebe48e2d-f4eb-49c6-ae9d-1eea7e6b7af1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cetitan",
+    "DisplayName": "Cetitan",
+    "Description": null,
+    "FieldValues": {
+      "Number": "975",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "50",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cetitan",
+      "DisplayName": "Cetitan",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

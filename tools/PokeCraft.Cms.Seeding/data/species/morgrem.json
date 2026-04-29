@@ -1,0 +1,28 @@
+﻿{
+  "Id": "eefeb616-a90d-4710-a423-d5a9b9ecf947",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "morgrem",
+    "DisplayName": "Morgrem",
+    "Description": null,
+    "FieldValues": {
+      "Number": "860",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Fairy\"]",
+      "SecondaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "morgrem",
+      "DisplayName": "Morgrem",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

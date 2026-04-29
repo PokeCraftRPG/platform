@@ -1,0 +1,41 @@
+﻿{
+  "Id": "c7fd18c4-9209-441e-8d47-9ee94703e243",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "orthworm",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3c4926ba-7287-4939-a6d5-432fa3b5ec38\"]",
+      "Height": "25",
+      "Weight": "3100",
+      "YieldExperience": "240",
+      "PrimaryAbility": "[\"364f55f0-ba5d-48e5-89c1-f5f3ae980781\"]",
+      "HiddenAbility": "[\"2298dae8-5c1f-423f-960d-8cf61b19c897\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "145",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "orthworm",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

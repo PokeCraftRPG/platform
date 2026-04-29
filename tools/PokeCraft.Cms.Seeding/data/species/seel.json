@@ -1,0 +1,28 @@
+﻿{
+  "Id": "d9b22084-3cad-4f76-a56c-b0d3bb71a91f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "seel",
+    "DisplayName": "Seel",
+    "Description": null,
+    "FieldValues": {
+      "Number": "86",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "seel",
+      "DisplayName": "Seel",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

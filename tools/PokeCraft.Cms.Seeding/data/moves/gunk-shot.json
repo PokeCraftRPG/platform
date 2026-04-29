@@ -1,0 +1,25 @@
+﻿{
+  "Id": "b3cec8fd-de97-4a4f-b876-04e888ecc0ab",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gunk-shot",
+    "DisplayName": "Gunk Shot",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "80",
+      "Power": "120",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gunk-shot",
+      "DisplayName": "Gunk Shot",
+      "Description": "The user shoots filthy garbage at the target to attack. This may also poison the target.",
+      "FieldValues": {}
+    }
+  }
+}

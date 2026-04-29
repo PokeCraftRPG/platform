@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5dcc28d4-7bd3-4934-b1f5-d8f92fdd98f7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thundurus-therian",
+    "DisplayName": "Thundurus",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"277d99c4-4982-445d-9881-53737e6dedff\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thundurus-therian",
+      "DisplayName": "Thundurus",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bolt Strike"
+      }
+    }
+  }
+}

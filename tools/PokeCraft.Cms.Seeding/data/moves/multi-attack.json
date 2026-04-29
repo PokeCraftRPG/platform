@@ -1,0 +1,25 @@
+﻿{
+  "Id": "171f1c3c-8c88-4b68-8966-8a571b2f9797",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "multi-attack",
+    "DisplayName": "Multi-Attack",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "multi-attack",
+      "DisplayName": "Multi-Attack",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "90168b8f-efcc-4b54-aaba-fae49f95b04d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nidorina",
+    "DisplayName": "Nidorina",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"104a81ed-b069-42d6-bc79-f3839cd7ac04\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nidorina",
+      "DisplayName": "Nidorina",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Poison Pin"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "cafa5da5-3be5-4954-8f03-898a3ac4f7f7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dig",
+    "DisplayName": "Dig",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dig",
+      "DisplayName": "Dig",
+      "Description": "The user burrows into the ground on the first turn, then attacks on the next turn.",
+      "FieldValues": {}
+    }
+  }
+}

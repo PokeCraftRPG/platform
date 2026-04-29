@@ -1,0 +1,25 @@
+﻿{
+  "Id": "051c58bb-3fb1-4a0d-90b9-e07975114508",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "syrup-bomb",
+    "DisplayName": "Syrup Bomb",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "85",
+      "Power": "60",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "syrup-bomb",
+      "DisplayName": "Syrup Bomb",
+      "Description": "The user sets off an explosion of sticky candy syrup, which coats the target and causes the target's Speed stat to drop each turn for three turns.",
+      "FieldValues": {}
+    }
+  }
+}

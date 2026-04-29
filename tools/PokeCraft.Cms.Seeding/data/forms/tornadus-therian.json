@@ -1,0 +1,40 @@
+﻿{
+  "Id": "4cd6b1de-7efc-4ea9-9f7c-b079944f13d7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tornadus-therian",
+    "DisplayName": "Therian Tornadus",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"cd71a86b-9458-4f0d-8e00-457e79dfb89e\"]",
+      "Height": "14",
+      "Weight": "630",
+      "YieldExperience": "290",
+      "PrimaryAbility": "[\"3f2976c2-09ac-4c69-8b32-5d930032faba\"]",
+      "BaseHP": "79",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "110",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "121",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tornadus-therian",
+      "DisplayName": "Therian Tornadus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

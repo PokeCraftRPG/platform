@@ -1,0 +1,24 @@
+﻿{
+  "Id": "7bfca20f-6275-4178-9057-4c145f2d028d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tidy-up",
+    "DisplayName": "Tidy Up",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "Power": "0",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tidy-up",
+      "DisplayName": "Tidy Up",
+      "Description": "The user tidies up and removes the effects of Spikes, Stealth Rock, Sticky Web, Toxic Spikes, and Substitute. This also boosts the user’s Attack and Speed stats.",
+      "FieldValues": {}
+    }
+  }
+}

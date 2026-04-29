@@ -1,0 +1,28 @@
+﻿{
+  "Id": "00771be2-f486-4181-b050-1f28dbc86b16",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "inteleon",
+    "DisplayName": "Inteleon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "818",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "inteleon",
+      "DisplayName": "Inteleon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

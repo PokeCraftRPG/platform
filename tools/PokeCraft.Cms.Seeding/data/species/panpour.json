@@ -1,0 +1,27 @@
+﻿{
+  "Id": "5a4b7b08-afc0-438a-a92c-d12a9a4090c8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "panpour",
+    "DisplayName": "Panpour",
+    "Description": null,
+    "FieldValues": {
+      "Number": "515",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "panpour",
+      "DisplayName": "Panpour",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

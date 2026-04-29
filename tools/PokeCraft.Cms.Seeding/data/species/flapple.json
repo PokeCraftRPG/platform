@@ -1,0 +1,28 @@
+﻿{
+  "Id": "7c64eac7-7952-4167-a5f9-8b91a84eb8db",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flapple",
+    "DisplayName": "Flapple",
+    "Description": null,
+    "FieldValues": {
+      "Number": "841",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flapple",
+      "DisplayName": "Flapple",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

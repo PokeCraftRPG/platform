@@ -1,0 +1,27 @@
+﻿{
+  "Id": "189e8d3b-86aa-48ed-8108-1378d37dcfa5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gengar",
+    "DisplayName": "Gengar",
+    "Description": null,
+    "FieldValues": {
+      "Number": "94",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gengar",
+      "DisplayName": "Gengar",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

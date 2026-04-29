@@ -1,0 +1,19 @@
+﻿{
+  "Id": "c09d26a7-c6bb-41a0-9c37-5c79269ac8ed",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "parry",
+    "DisplayName": "Parry",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "parry",
+      "DisplayName": "Parry",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

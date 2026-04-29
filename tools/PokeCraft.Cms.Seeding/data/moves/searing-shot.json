@@ -1,0 +1,25 @@
+﻿{
+  "Id": "02dd73d4-2fdf-425a-8747-111c1663926b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "searing-shot",
+    "DisplayName": "Searing Shot",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "searing-shot",
+      "DisplayName": "Searing Shot",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

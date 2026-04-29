@@ -1,0 +1,19 @@
+﻿{
+  "Id": "9f4b7030-9dea-4566-93c8-f82b81ca2f53",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "forewarn",
+    "DisplayName": "Forewarn",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "forewarn",
+      "DisplayName": "Forewarn",
+      "Description": "When it enters a battle, the Pokémon can tell one of the moves an opposing Pokémon has.",
+      "FieldValues": {}
+    }
+  }
+}

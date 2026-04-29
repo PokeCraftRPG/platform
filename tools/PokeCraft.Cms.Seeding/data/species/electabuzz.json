@@ -1,0 +1,27 @@
+﻿{
+  "Id": "69702f4d-8a84-46c4-b506-a678d4b0b740",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "electabuzz",
+    "DisplayName": "Electabuzz",
+    "Description": null,
+    "FieldValues": {
+      "Number": "125",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "electabuzz",
+      "DisplayName": "Electabuzz",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d60af702-6871-4514-9d8e-5f8b7f423069",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "doublade",
+    "DisplayName": "Doublade",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"23f6fea2-a2b4-49f2-b4ac-2630cac1046f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "doublade",
+      "DisplayName": "Doublade",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sword"
+      }
+    }
+  }
+}

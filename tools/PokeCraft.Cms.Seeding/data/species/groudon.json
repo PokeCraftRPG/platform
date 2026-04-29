@@ -1,0 +1,27 @@
+﻿{
+  "Id": "7512b683-74a4-4c50-9064-268aa4cf74b0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "groudon",
+    "DisplayName": "Groudon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "383",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "groudon",
+      "DisplayName": "Groudon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

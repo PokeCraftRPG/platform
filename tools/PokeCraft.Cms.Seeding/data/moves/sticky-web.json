@@ -1,0 +1,23 @@
+﻿{
+  "Id": "72c900d4-0c56-483f-8174-0e0c9270cb9b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sticky-web",
+    "DisplayName": "Sticky Web",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sticky-web",
+      "DisplayName": "Sticky Web",
+      "Description": "The user weaves a sticky net around the opposing team, which lowers their Speed stats upon switching into battle.",
+      "FieldValues": {}
+    }
+  }
+}

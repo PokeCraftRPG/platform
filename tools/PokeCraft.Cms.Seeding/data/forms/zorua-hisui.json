@@ -1,0 +1,41 @@
+﻿{
+  "Id": "c93c2573-5d73-47c1-9272-33264ea99763",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zorua-hisui",
+    "DisplayName": "Hisuian Zorua",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"494cb2b5-9110-4207-84ed-9729fed27e3d\"]",
+      "Height": "7",
+      "Weight": "125",
+      "YieldExperience": "66",
+      "PrimaryAbility": "[\"cceea85b-ae3f-41c2-9547-cb15703bb8a8\"]",
+      "BaseHP": "35",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zorua-hisui",
+      "DisplayName": "Hisuian Zorua",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

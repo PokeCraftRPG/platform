@@ -1,0 +1,26 @@
+﻿{
+  "Id": "47af1142-ef53-484f-834d-ee1217547fc5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "overqwil",
+    "DisplayName": "Overqwil",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"055a9d89-6efe-46fc-81a7-52ef6bde7cdc\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "overqwil",
+      "DisplayName": "Overqwil",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Pin Cluster"
+      }
+    }
+  }
+}

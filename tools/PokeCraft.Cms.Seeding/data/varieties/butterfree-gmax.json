@@ -1,0 +1,26 @@
+﻿{
+  "Id": "752f3b69-78c8-4e91-ab74-4debd21b0956",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "butterfree-gmax",
+    "DisplayName": "Butterfree",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f079b229-e8f5-4904-bd22-c2608719dc3f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "butterfree-gmax",
+      "DisplayName": "Butterfree",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Butterfly"
+      }
+    }
+  }
+}

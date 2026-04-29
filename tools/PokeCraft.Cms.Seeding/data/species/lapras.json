@@ -1,0 +1,28 @@
+﻿{
+  "Id": "c5633820-a71c-45a7-9216-8e78cbc1553c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lapras",
+    "DisplayName": "Lapras",
+    "Description": null,
+    "FieldValues": {
+      "Number": "131",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lapras",
+      "DisplayName": "Lapras",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

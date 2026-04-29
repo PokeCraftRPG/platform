@@ -1,0 +1,26 @@
+﻿{
+  "Id": "293e263e-fff7-44f9-9a02-c6e7359095c9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "noivern",
+    "DisplayName": "Noivern",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a916c101-b5c6-472d-ae63-bd893c71e6d3\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "noivern",
+      "DisplayName": "Noivern",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sound Wave"
+      }
+    }
+  }
+}

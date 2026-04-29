@@ -1,0 +1,27 @@
+﻿{
+  "Id": "abdefc5d-ac24-4c9b-9303-24ed76b49531",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "escavalier",
+    "DisplayName": "Escavalier",
+    "Description": null,
+    "FieldValues": {
+      "Number": "589",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "escavalier",
+      "DisplayName": "Escavalier",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

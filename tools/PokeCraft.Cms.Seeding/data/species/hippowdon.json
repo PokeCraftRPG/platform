@@ -1,0 +1,27 @@
+﻿{
+  "Id": "3f23f132-4b61-43de-abd7-c313546c7704",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hippowdon",
+    "DisplayName": "Hippowdon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "450",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hippowdon",
+      "DisplayName": "Hippowdon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

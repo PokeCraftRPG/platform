@@ -1,0 +1,19 @@
+﻿{
+  "Id": "b26695ec-9331-4ca1-b94c-d371e8bbbb15",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gooey",
+    "DisplayName": "Gooey",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gooey",
+      "DisplayName": "Gooey",
+      "Description": "Contact with the Pokémon lowers the attacker's Speed stat.",
+      "FieldValues": {}
+    }
+  }
+}

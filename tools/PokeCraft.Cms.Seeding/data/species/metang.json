@@ -1,0 +1,27 @@
+﻿{
+  "Id": "0e43cf31-0837-446c-915e-9d740b48d02c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "metang",
+    "DisplayName": "Metang",
+    "Description": null,
+    "FieldValues": {
+      "Number": "375",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "metang",
+      "DisplayName": "Metang",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿{
+  "Id": "cca6e122-37e6-455b-811d-edbd372c495f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "parting-shot",
+    "DisplayName": "Parting Shot",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "parting-shot",
+      "DisplayName": "Parting Shot",
+      "Description": "With a parting threat, the user lowers the target's Attack and Sp. Atk stats. Then it switches places with a party Pokémon in waiting.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f25754fa-f8b6-468a-a18f-984d9b5c9c6b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "litwick",
+    "DisplayName": "Litwick",
+    "Description": null,
+    "FieldValues": {
+      "Number": "607",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "litwick",
+      "DisplayName": "Litwick",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

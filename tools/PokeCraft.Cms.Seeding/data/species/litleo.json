@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c88a2e18-245b-4307-92cb-44d08938f0e1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "litleo",
+    "DisplayName": "Litleo",
+    "Description": null,
+    "FieldValues": {
+      "Number": "667",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "220",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "litleo",
+      "DisplayName": "Litleo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "e5b27004-b399-4a93-9243-30f5ff05dca1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "naganadel",
+    "DisplayName": "Naganadel",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5517a42c-434b-4ede-a2ff-f220ba9e3e35\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "naganadel",
+      "DisplayName": "Naganadel",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Poison Pin"
+      }
+    }
+  }
+}

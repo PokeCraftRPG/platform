@@ -1,0 +1,25 @@
+﻿{
+  "Id": "26b8b13c-0524-4f0b-a8e8-8dda73ae6138",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sandy-shocks",
+    "DisplayName": "Sandy Shocks",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"cbaf65dd-bcb0-45d6-9030-a29f8e04ea28\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sandy-shocks",
+      "DisplayName": "Sandy Shocks",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

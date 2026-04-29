@@ -1,0 +1,25 @@
+﻿{
+  "Id": "3fa78298-de3c-4f62-b716-07feddfcc440",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "moongeist-beam",
+    "DisplayName": "Moongeist Beam",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "moongeist-beam",
+      "DisplayName": "Moongeist Beam",
+      "Description": "The user emits a sinister ray to attack the target. This move can be used on the target regardless of its Ability.",
+      "FieldValues": {}
+    }
+  }
+}

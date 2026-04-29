@@ -1,0 +1,27 @@
+﻿{
+  "Id": "91e3bfe4-977a-4b4d-899f-3feb9c2c4b7a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magneton",
+    "DisplayName": "Magneton",
+    "Description": null,
+    "FieldValues": {
+      "Number": "82",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magneton",
+      "DisplayName": "Magneton",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

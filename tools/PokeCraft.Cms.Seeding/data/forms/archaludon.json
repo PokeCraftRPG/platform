@@ -1,0 +1,43 @@
+﻿{
+  "Id": "3e4d51d4-f8fd-4f96-bfc2-2646f04182dd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "archaludon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1bb38381-b598-4808-8554-10069bc25d12\"]",
+      "Height": "20",
+      "Weight": "600",
+      "YieldExperience": "300",
+      "PrimaryAbility": "[\"fb4044ec-73a6-4c5c-8f82-8876b94848b3\"]",
+      "SecondaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "HiddenAbility": "[\"2d79c523-5ef7-4cb9-bdab-70a71bdbdd99\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "105",
+      "YieldAttack": "0",
+      "BaseDefense": "130",
+      "YieldDefense": "3",
+      "BaseSpecialAttack": "125",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "archaludon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "9db94965-af01-46af-bcc4-0a49401893cd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gouging-fire",
+    "DisplayName": "Gouging Fire",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"29a50aa7-6c34-4239-8f15-0b01e61e7523\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gouging-fire",
+      "DisplayName": "Gouging Fire",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

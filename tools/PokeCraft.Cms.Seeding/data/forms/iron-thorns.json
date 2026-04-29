@@ -1,0 +1,41 @@
+﻿{
+  "Id": "5c6bad07-1478-4a0a-a03a-da05334a0ae4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-thorns",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5f872c8c-75be-41ec-9fb9-275b50602f87\"]",
+      "Height": "16",
+      "Weight": "3030",
+      "YieldExperience": "285",
+      "PrimaryAbility": "[\"7cef81dc-7c42-4b31-b37d-79a7e926c4cd\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "134",
+      "YieldAttack": "3",
+      "BaseDefense": "110",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "84",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "72",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-thorns",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

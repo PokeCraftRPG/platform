@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6e43d550-3ea0-40cc-9133-6b70ff7c83dc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magma-storm",
+    "DisplayName": "Magma Storm",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "75",
+      "Power": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magma-storm",
+      "DisplayName": "Magma Storm",
+      "Description": "The user traps the target inside a maelstrom of fire that inflicts damage for four to five turns.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "94087205-1a1c-4584-bd1d-007a487818c9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "frostbite",
+    "DisplayName": "Frostbite",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "frostbite",
+      "DisplayName": "Frostbite",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

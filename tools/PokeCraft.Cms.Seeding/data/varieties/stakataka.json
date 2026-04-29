@@ -1,0 +1,25 @@
+﻿{
+  "Id": "e81265da-67d9-4a0e-bf68-b182b116947f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stakataka",
+    "DisplayName": "Stakataka",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6e6eb70c-2a77-4886-b6b1-091de5710338\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stakataka",
+      "DisplayName": "Stakataka",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rampart"
+      }
+    }
+  }
+}

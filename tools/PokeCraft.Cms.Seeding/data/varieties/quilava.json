@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7be0c572-0500-4869-a9c7-10d09d1326a7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "quilava",
+    "DisplayName": "Quilava",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ecc613e4-ee37-451b-9f82-649bd82c5033\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "quilava",
+      "DisplayName": "Quilava",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Volcano"
+      }
+    }
+  }
+}

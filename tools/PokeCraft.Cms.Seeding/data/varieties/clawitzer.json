@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3d885320-4d2e-4e81-bafe-9410348d2ef6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clawitzer",
+    "DisplayName": "Clawitzer",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"daee0f0b-351d-4288-b4f6-3f6713570957\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clawitzer",
+      "DisplayName": "Clawitzer",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Howitzer"
+      }
+    }
+  }
+}

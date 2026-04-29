@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e8caf716-95cd-4513-80a7-e9629261c889",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spiritomb",
+    "DisplayName": "Spiritomb",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"bbdf5007-11a6-4142-877e-e049d1f6d37d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spiritomb",
+      "DisplayName": "Spiritomb",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Forbidden"
+      }
+    }
+  }
+}

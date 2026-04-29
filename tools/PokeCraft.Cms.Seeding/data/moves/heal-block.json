@@ -1,0 +1,24 @@
+﻿{
+  "Id": "4c98a7af-204e-4bc4-8dcb-3ed2ea7ae567",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "heal-block",
+    "DisplayName": "Heal Block",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "heal-block",
+      "DisplayName": "Heal Block",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

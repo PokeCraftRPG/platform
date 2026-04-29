@@ -1,0 +1,19 @@
+﻿{
+  "Id": "ad295228-a241-455e-a1bc-d6fd7bac469f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ice-scales",
+    "DisplayName": "Ice Scales",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ice-scales",
+      "DisplayName": "Ice Scales",
+      "Description": "The Pokémon is protected by ice scales, which halve the damage taken from special moves.",
+      "FieldValues": {}
+    }
+  }
+}

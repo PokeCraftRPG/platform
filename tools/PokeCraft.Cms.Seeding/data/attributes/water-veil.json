@@ -1,0 +1,19 @@
+﻿{
+  "Id": "24615c56-6280-47e4-8568-73a412d83865",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "water-veil",
+    "DisplayName": "Water Veil",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "water-veil",
+      "DisplayName": "Water Veil",
+      "Description": "The Pokémon's water veil prevents it from being burned.",
+      "FieldValues": {}
+    }
+  }
+}

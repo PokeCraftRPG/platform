@@ -1,0 +1,24 @@
+﻿{
+  "Id": "257a39a1-6350-42b6-8922-d96519672f36",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flash",
+    "DisplayName": "Flash",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flash",
+      "DisplayName": "Flash",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

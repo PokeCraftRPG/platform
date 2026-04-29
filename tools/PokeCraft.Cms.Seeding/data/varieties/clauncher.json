@@ -1,0 +1,26 @@
+﻿{
+  "Id": "26cfa8da-8252-4334-abc7-7fbc77e7d7b1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clauncher",
+    "DisplayName": "Clauncher",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f36396fe-8eeb-49bd-95ef-ebb77367b254\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clauncher",
+      "DisplayName": "Clauncher",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Water Gun"
+      }
+    }
+  }
+}

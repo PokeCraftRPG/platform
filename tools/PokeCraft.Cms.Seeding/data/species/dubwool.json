@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f4dbd689-6ba1-43cf-96de-0b140f5d50a9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dubwool",
+    "DisplayName": "Dubwool",
+    "Description": null,
+    "FieldValues": {
+      "Number": "832",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "127",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dubwool",
+      "DisplayName": "Dubwool",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

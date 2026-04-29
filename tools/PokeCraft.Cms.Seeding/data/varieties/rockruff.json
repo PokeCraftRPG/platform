@@ -1,0 +1,26 @@
+﻿{
+  "Id": "2f6d6d70-fea7-483a-8a8d-32761ec32453",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rockruff",
+    "DisplayName": "Rockruff",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"bb5c926a-5f5a-47c7-84df-540f4f1ec5bd\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rockruff",
+      "DisplayName": "Rockruff",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Puppy"
+      }
+    }
+  }
+}

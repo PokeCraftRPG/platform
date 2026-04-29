@@ -1,0 +1,41 @@
+﻿{
+  "Id": "15e78a0e-e4dd-4de7-9fb9-54c8d856c049",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "electabuzz",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"13f43ea1-d0c9-4c8f-8102-764bf06454ee\"]",
+      "Height": "11",
+      "Weight": "300",
+      "YieldExperience": "172",
+      "PrimaryAbility": "[\"4d8cefa4-dbcc-4c78-b5f5-0a1c30bdb019\"]",
+      "HiddenAbility": "[\"45a56091-34c8-4407-8d66-a4a64e2eb101\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "83",
+      "YieldAttack": "0",
+      "BaseDefense": "57",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "105",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "electabuzz",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

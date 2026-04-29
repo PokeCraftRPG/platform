@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a55435a2-ccb5-487b-ad1e-8bf9f834366f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fezandipiti",
+    "DisplayName": "Fezandipiti",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8eeecd32-def1-46d1-8f89-018d3cd63036\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fezandipiti",
+      "DisplayName": "Fezandipiti",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Retainer"
+      }
+    }
+  }
+}

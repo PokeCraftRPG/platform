@@ -1,0 +1,26 @@
+﻿{
+  "Id": "cd0e56a9-2a32-4a2c-9f95-5773d4571c36",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glalie-mega",
+    "DisplayName": "Glalie",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"442967cc-8c34-4424-b04e-aba3b33990bd\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glalie-mega",
+      "DisplayName": "Glalie",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Face"
+      }
+    }
+  }
+}

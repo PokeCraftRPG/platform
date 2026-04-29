@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1fe8d0f4-5d04-4489-abe2-c08d41ba8f22",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "qwilfish-hisui",
+    "DisplayName": "Qwilfish",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6622dd88-f1df-4ffd-8fea-3e647ba215b4\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "qwilfish-hisui",
+      "DisplayName": "Qwilfish",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Balloon"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "0a9fa785-a966-4ed6-8ab9-a33aecd0847c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "infiltrator",
+    "DisplayName": "Infiltrator",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "infiltrator",
+      "DisplayName": "Infiltrator",
+      "Description": "The Pokémon's moves are unaffected by the target's barriers, substitutes, and the like.",
+      "FieldValues": {}
+    }
+  }
+}

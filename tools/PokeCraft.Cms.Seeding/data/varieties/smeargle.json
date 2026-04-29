@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4725cb09-ee15-4506-9a61-0f4782a50d4f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "smeargle",
+    "DisplayName": "Smeargle",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6ecf0065-0631-481a-8c1b-23248d1b5aab\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "smeargle",
+      "DisplayName": "Smeargle",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Painter"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "0b43d08b-7bb9-4ce1-913e-b80d077332e5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "regice",
+    "DisplayName": "Regice",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"015d0fbd-5709-40e0-8e8f-17b4b9910071\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "regice",
+      "DisplayName": "Regice",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Iceberg"
+      }
+    }
+  }
+}

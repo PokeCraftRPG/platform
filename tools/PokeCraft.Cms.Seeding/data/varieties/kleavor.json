@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6bd50ce8-4a3f-4fb1-adc8-df0f7a2303ad",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kleavor",
+    "DisplayName": "Kleavor",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"276629f2-a0ed-47f8-90cb-4ca2846dc0d1\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kleavor",
+      "DisplayName": "Kleavor",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Axe"
+      }
+    }
+  }
+}

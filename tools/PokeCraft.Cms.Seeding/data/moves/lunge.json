@@ -1,0 +1,25 @@
+﻿{
+  "Id": "67e6b4ea-a057-48bb-8c8b-8942919d1e2b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lunge",
+    "DisplayName": "Lunge",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lunge",
+      "DisplayName": "Lunge",
+      "Description": "The user makes a lunge at the target, attacking with full force. This also lowers the target's Attack stat.",
+      "FieldValues": {}
+    }
+  }
+}

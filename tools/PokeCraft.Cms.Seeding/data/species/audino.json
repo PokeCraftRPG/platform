@@ -1,0 +1,27 @@
+﻿{
+  "Id": "a69dad39-2caa-4db0-ac93-c7447281a6fb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "audino",
+    "DisplayName": "Audino",
+    "Description": null,
+    "FieldValues": {
+      "Number": "531",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "audino",
+      "DisplayName": "Audino",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

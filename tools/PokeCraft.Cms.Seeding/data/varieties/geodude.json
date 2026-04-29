@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b2c27d35-6fed-4895-8a82-4a02abce905e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "geodude",
+    "DisplayName": "Geodude",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ab4f4595-30d3-490c-9bf2-dc61d3e82702\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "geodude",
+      "DisplayName": "Geodude",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rock"
+      }
+    }
+  }
+}

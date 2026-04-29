@@ -1,0 +1,26 @@
+﻿{
+  "Id": "11aace48-1728-46da-8b8d-79c5d7358b87",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tepig",
+    "DisplayName": "Tepig",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1b9e29de-ca1c-4b4f-9f21-f4ae7d351076\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tepig",
+      "DisplayName": "Tepig",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fire Pig"
+      }
+    }
+  }
+}

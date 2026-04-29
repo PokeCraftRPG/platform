@@ -1,0 +1,40 @@
+﻿{
+  "Id": "8bcb96ee-5af0-4e25-ad4a-eb0b0cfb0d05",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spectrier",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b245211e-f839-4d1a-9b86-a63786f1d69b\"]",
+      "Height": "20",
+      "Weight": "445",
+      "YieldExperience": "290",
+      "PrimaryAbility": "[\"4613a27b-186e-4b9d-980d-a7cf03e7992d\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "145",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "130",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spectrier",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

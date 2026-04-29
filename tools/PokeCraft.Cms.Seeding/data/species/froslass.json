@@ -1,0 +1,28 @@
+﻿{
+  "Id": "8a2fd465-45f2-40ed-a556-2831ecfde4bd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "froslass",
+    "DisplayName": "Froslass",
+    "Description": null,
+    "FieldValues": {
+      "Number": "478",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Fairy\"]",
+      "SecondaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "froslass",
+      "DisplayName": "Froslass",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

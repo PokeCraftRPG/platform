@@ -1,0 +1,40 @@
+﻿{
+  "Id": "07e8ced3-e917-4d4e-a4b5-025bcf24f3ea",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wishiwashi-solo",
+    "DisplayName": "Solo Wishiwashi",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9380d9f4-6f2c-4303-828a-da299f0ab15d\"]",
+      "Height": "2",
+      "Weight": "3",
+      "YieldExperience": "61",
+      "PrimaryAbility": "[\"b90785a0-8303-4bb7-9c65-60956b510467\"]",
+      "BaseHP": "45",
+      "YieldHP": "1",
+      "BaseAttack": "20",
+      "YieldAttack": "0",
+      "BaseDefense": "20",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "25",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "25",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wishiwashi-solo",
+      "DisplayName": "Solo Wishiwashi",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

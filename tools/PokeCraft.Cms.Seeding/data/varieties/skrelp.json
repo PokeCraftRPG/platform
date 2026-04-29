@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a1a38735-d7dc-45ce-9555-1c07654aa04e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skrelp",
+    "DisplayName": "Skrelp",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0f872c90-1b55-46e8-a9c9-0f6d7f466d32\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skrelp",
+      "DisplayName": "Skrelp",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mock Kelp"
+      }
+    }
+  }
+}

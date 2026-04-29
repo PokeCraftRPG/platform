@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7297567b-2d2e-4312-a7ed-801be0463e8b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "axew",
+    "DisplayName": "Axew",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8ad27055-d212-4311-8c77-3d40f0594fbc\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "axew",
+      "DisplayName": "Axew",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tusk"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ce6d861c-8144-42ae-b039-025dc86bbb00",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "melmetal",
+    "DisplayName": "Melmetal",
+    "Description": null,
+    "FieldValues": {
+      "Number": "809",
+      "Category": "[\"Mythical\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "melmetal",
+      "DisplayName": "Melmetal",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

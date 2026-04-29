@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b9c48510-f756-420a-9830-80c4f75940d4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "garganacl",
+    "DisplayName": "Garganacl",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f0654b40-baa9-40c3-8642-9a2ac7dd9a0f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "garganacl",
+      "DisplayName": "Garganacl",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rock Salt"
+      }
+    }
+  }
+}

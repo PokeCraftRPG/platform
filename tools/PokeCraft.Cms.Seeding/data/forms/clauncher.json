@@ -1,0 +1,40 @@
+﻿{
+  "Id": "3f0260bc-35ce-4702-9ac2-cc681cc557e4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clauncher",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"26cfa8da-8252-4334-abc7-7fbc77e7d7b1\"]",
+      "Height": "5",
+      "Weight": "83",
+      "YieldExperience": "66",
+      "PrimaryAbility": "[\"45d97b89-d63f-49b7-be52-c5b5e5eb407c\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "53",
+      "YieldAttack": "0",
+      "BaseDefense": "62",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "58",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "63",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "44",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clauncher",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

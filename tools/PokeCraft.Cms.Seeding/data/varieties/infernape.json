@@ -1,0 +1,26 @@
+﻿{
+  "Id": "03cd6f3d-e3ed-49e8-9481-f6551c6f08d8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "infernape",
+    "DisplayName": "Infernape",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"59ffd9f6-cd77-42df-98d0-a3190c157f1b\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "infernape",
+      "DisplayName": "Infernape",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Flame"
+      }
+    }
+  }
+}

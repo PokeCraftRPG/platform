@@ -1,0 +1,42 @@
+﻿{
+  "Id": "fb06d4e3-864e-40be-ab04-7622eb041b47",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "garchomp",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d2c6bd77-caec-4232-9388-5f12ffdd185a\"]",
+      "Height": "19",
+      "Weight": "950",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"2298dae8-5c1f-423f-960d-8cf61b19c897\"]",
+      "HiddenAbility": "[\"b48ce3db-30ec-4675-8331-7389c8cc19c6\"]",
+      "BaseHP": "108",
+      "YieldHP": "0",
+      "BaseAttack": "130",
+      "YieldAttack": "3",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "102",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "garchomp",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "b337cae7-4253-47d2-93ad-8f1ea08d0a56",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tapu-koko",
+    "DisplayName": "Tapu Koko",
+    "Description": null,
+    "FieldValues": {
+      "Number": "785",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tapu-koko",
+      "DisplayName": "Tapu Koko",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

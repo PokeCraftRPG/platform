@@ -1,0 +1,26 @@
+﻿{
+  "Id": "692a4d14-73e4-4d32-ac5e-a90fcff8f5b8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "samurott",
+    "DisplayName": "Samurott",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e3aa5a8e-5284-4565-949f-a49fb205e967\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "samurott",
+      "DisplayName": "Samurott",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Formidable"
+      }
+    }
+  }
+}

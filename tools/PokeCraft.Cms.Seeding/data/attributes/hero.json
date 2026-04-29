@@ -1,0 +1,19 @@
+﻿{
+  "Id": "df99ebea-c9ed-49d5-b6f4-91c0e15e5316",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hero",
+    "DisplayName": "Hero",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hero",
+      "DisplayName": "Hero",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

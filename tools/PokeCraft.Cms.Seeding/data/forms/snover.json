@@ -1,0 +1,42 @@
+﻿{
+  "Id": "3a0f7f18-2d08-444a-a60f-3df849ea4adb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snover",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f336313c-d6d8-45cc-8baa-ca9312caf1f5\"]",
+      "Height": "10",
+      "Weight": "505",
+      "YieldExperience": "67",
+      "PrimaryAbility": "[\"94d77255-80ed-447a-8809-43dc73a72602\"]",
+      "HiddenAbility": "[\"6df60939-ffd8-4ddb-ad1e-f4add0129eeb\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "62",
+      "YieldAttack": "1",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "62",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snover",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

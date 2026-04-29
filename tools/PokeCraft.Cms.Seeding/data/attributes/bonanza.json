@@ -1,0 +1,19 @@
+﻿{
+  "Id": "e1f9a9d7-006a-47b6-ab32-50fed85d3a7c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bonanza",
+    "DisplayName": "Bonanza",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bonanza",
+      "DisplayName": "Bonanza",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "30dbf203-5314-4da2-88ee-b0475372d9d4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wandering-spirit",
+    "DisplayName": "Wandering Spirit",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wandering-spirit",
+      "DisplayName": "Wandering Spirit",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

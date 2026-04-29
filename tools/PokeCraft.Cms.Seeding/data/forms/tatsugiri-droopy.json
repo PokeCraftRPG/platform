@@ -1,0 +1,42 @@
+﻿{
+  "Id": "3f28aa46-f235-46f9-8364-207d7418c2a5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tatsugiri-droopy",
+    "DisplayName": "Droopy Form Tatsugiri",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9ba5b890-7824-45b0-82e7-bf7e82693905\"]",
+      "Height": "3",
+      "Weight": "80",
+      "YieldExperience": "166",
+      "PrimaryAbility": "[\"2188bc67-b0f4-4e3c-8c4e-5888c1a543f8\"]",
+      "HiddenAbility": "[\"f863cc47-85a0-4a65-bb10-a51733957719\"]",
+      "BaseHP": "68",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "120",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "82",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tatsugiri-droopy",
+      "DisplayName": "Droopy Form Tatsugiri",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

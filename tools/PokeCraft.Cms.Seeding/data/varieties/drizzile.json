@@ -1,0 +1,26 @@
+﻿{
+  "Id": "fb4c97d8-19fd-48c3-84e5-88264b0212cd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drizzile",
+    "DisplayName": "Drizzile",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5ad6db6f-91f8-43db-8556-47e309b40875\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drizzile",
+      "DisplayName": "Drizzile",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Water Lizard"
+      }
+    }
+  }
+}

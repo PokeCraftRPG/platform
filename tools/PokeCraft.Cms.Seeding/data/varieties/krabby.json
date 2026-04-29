@@ -1,0 +1,26 @@
+﻿{
+  "Id": "608b2217-6e2f-40c6-8569-f801de9641f2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "krabby",
+    "DisplayName": "Krabby",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ea00699a-45c3-4c78-a072-8080c45acfcb\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "krabby",
+      "DisplayName": "Krabby",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "River Crab"
+      }
+    }
+  }
+}

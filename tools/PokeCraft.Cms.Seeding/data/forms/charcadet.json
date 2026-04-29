@@ -1,0 +1,41 @@
+﻿{
+  "Id": "275c5182-e1bf-47f4-b680-831b6ba336fa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "charcadet",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f8641c8e-9d29-4212-8135-88dc6fa9a5ca\"]",
+      "Height": "6",
+      "Weight": "105",
+      "YieldExperience": "51",
+      "PrimaryAbility": "[\"956efecf-ecf7-4731-9df1-25171033ad13\"]",
+      "HiddenAbility": "[\"61541bb6-568e-4dd0-b07a-56233b9fe96f\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "charcadet",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

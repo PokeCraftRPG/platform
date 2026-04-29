@@ -1,0 +1,41 @@
+﻿{
+  "Id": "143d3062-1a88-44ef-a68d-290750095e8b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lucario-mega",
+    "DisplayName": "Mega Lucario",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6fc8422c-49d7-4be3-a576-3a607f71d963\"]",
+      "Height": "13",
+      "Weight": "575",
+      "YieldExperience": "219",
+      "PrimaryAbility": "[\"463a60e6-bf15-4972-9934-481d443a8534\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "145",
+      "YieldAttack": "1",
+      "BaseDefense": "88",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "140",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "112",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Fighting\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lucario-mega",
+      "DisplayName": "Mega Lucario",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

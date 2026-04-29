@@ -1,0 +1,41 @@
+﻿{
+  "Id": "e3804dca-7be5-4d87-9086-e6cdfe3d098b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "metagross-mega",
+    "DisplayName": "Mega Metagross",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c6e94d6f-741a-4359-b001-04b8e63be268\"]",
+      "Height": "25",
+      "Weight": "9429",
+      "YieldExperience": "315",
+      "PrimaryAbility": "[\"97aefd91-1b08-4ac4-b2c7-d9c6cb7f555a\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "145",
+      "YieldAttack": "0",
+      "BaseDefense": "150",
+      "YieldDefense": "3",
+      "BaseSpecialAttack": "105",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "110",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "110",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "metagross-mega",
+      "DisplayName": "Mega Metagross",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

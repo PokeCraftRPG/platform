@@ -1,0 +1,43 @@
+﻿{
+  "Id": "3cb7ee66-e84a-40da-892e-6a7dd05dfc7c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "venomoth",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5694da74-cc06-44a6-ba7e-82518fcdec62\"]",
+      "Height": "15",
+      "Weight": "125",
+      "YieldExperience": "158",
+      "PrimaryAbility": "[\"29bd00fc-e0bf-4f2e-8cf9-f87e1aa11c4a\"]",
+      "SecondaryAbility": "[\"786cffd7-a22d-4bc0-87f2-6a9ffbbc07d2\"]",
+      "HiddenAbility": "[\"f0c9ab67-3a27-4710-9c6c-d1ebe1d18d98\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "90",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "venomoth",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

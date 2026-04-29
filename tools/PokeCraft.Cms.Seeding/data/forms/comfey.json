@@ -1,0 +1,42 @@
+﻿{
+  "Id": "21aacf47-faeb-40d0-b697-0314282e1815",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "comfey",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b230de33-c7a5-4788-a801-c6601c79aefb\"]",
+      "Height": "1",
+      "Weight": "3",
+      "YieldExperience": "170",
+      "PrimaryAbility": "[\"d1629cad-fb04-4b50-b39b-929078b3316a\"]",
+      "SecondaryAbility": "[\"dcf329bf-b49d-49eb-a80f-024eb6e7ad46\"]",
+      "HiddenAbility": "[\"aaaf5fa0-672a-4904-8e65-dc6c8ffe01b7\"]",
+      "BaseHP": "51",
+      "YieldHP": "0",
+      "BaseAttack": "52",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "82",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "110",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "comfey",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

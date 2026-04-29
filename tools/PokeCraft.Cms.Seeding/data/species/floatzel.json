@@ -1,0 +1,28 @@
+﻿{
+  "Id": "5379af66-9e1b-4eb8-a1d3-661da21e073a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "floatzel",
+    "DisplayName": "Floatzel",
+    "Description": null,
+    "FieldValues": {
+      "Number": "419",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "floatzel",
+      "DisplayName": "Floatzel",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

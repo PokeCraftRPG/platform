@@ -1,0 +1,27 @@
+﻿{
+  "Id": "bbdd0401-395a-4d3c-86ab-07c45ebb751a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wigglytuff",
+    "DisplayName": "Wigglytuff",
+    "Description": null,
+    "FieldValues": {
+      "Number": "40",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "50",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wigglytuff",
+      "DisplayName": "Wigglytuff",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

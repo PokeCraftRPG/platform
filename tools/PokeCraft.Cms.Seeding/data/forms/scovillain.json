@@ -1,0 +1,43 @@
+﻿{
+  "Id": "1f995643-4567-446f-ad61-9b1e5f47c5be",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scovillain",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b53febaf-09b1-4aeb-a665-85407bc493f3\"]",
+      "Height": "9",
+      "Weight": "150",
+      "YieldExperience": "170",
+      "PrimaryAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "SecondaryAbility": "[\"74551570-259c-470c-a9ba-64ffd0e3afad\"]",
+      "HiddenAbility": "[\"e54f140b-893f-4621-b7ac-44928594080e\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "108",
+      "YieldAttack": "2",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "108",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "75",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scovillain",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "3207e925-888b-4b7f-8e24-fd2d6a963b18",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "surging-strikes",
+    "DisplayName": "Surging Strikes",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "25",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "surging-strikes",
+      "DisplayName": "Surging Strikes",
+      "Description": "The user, having mastered the Water style, strikes the target with a flowing motion three times in a row. This move always lands a critical hit.",
+      "FieldValues": {}
+    }
+  }
+}

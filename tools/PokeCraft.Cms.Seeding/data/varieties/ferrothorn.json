@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ea8c3b61-3c05-401b-a460-439f2768e42e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ferrothorn",
+    "DisplayName": "Ferrothorn",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b43a0d7d-24a4-41b6-b318-621e000f888c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ferrothorn",
+      "DisplayName": "Ferrothorn",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Thorn Pod"
+      }
+    }
+  }
+}

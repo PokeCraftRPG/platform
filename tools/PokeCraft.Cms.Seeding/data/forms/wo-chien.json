@@ -1,0 +1,41 @@
+﻿{
+  "Id": "819b21ae-33f9-42ba-944a-23adca6acee0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wo-chien",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3ef9eb00-508a-4a9b-851f-0dfee917627d\"]",
+      "Height": "15",
+      "Weight": "742",
+      "YieldExperience": "285",
+      "PrimaryAbility": "[\"20ef4d48-ef68-40ff-b3b9-d05e30aae97d\"]",
+      "BaseHP": "85",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "135",
+      "YieldSpecialDefense": "3",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wo-chien",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9c387ae5-cfb7-4abf-86ae-222febd18262",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swoobat",
+    "DisplayName": "Swoobat",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"63a997a4-0602-4342-b27c-1bc1adae5fef\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swoobat",
+      "DisplayName": "Swoobat",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Courting"
+      }
+    }
+  }
+}

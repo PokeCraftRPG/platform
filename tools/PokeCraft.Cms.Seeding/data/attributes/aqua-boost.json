@@ -1,0 +1,19 @@
+﻿{
+  "Id": "2c69d69e-c65d-41f6-9929-9d2a19a721c5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aqua-boost",
+    "DisplayName": "Aqua Boost",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aqua-boost",
+      "DisplayName": "Aqua Boost",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "be9ae11f-8495-49f9-94fb-637dd08e390e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bisharp",
+    "DisplayName": "Bisharp",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d532168b-1ae4-4904-8f6c-b85657503471\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bisharp",
+      "DisplayName": "Bisharp",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sword Blade"
+      }
+    }
+  }
+}

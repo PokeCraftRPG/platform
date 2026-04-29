@@ -1,0 +1,42 @@
+﻿{
+  "Id": "00169166-efc8-4f6a-9aa1-eff90d8f91e9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lokix",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4b691cb3-964f-4269-8c0e-4837d41110e7\"]",
+      "Height": "10",
+      "Weight": "175",
+      "YieldExperience": "158",
+      "PrimaryAbility": "[\"ba1b3a50-acc0-4032-bf14-6572fa26daed\"]",
+      "HiddenAbility": "[\"786cffd7-a22d-4bc0-87f2-6a9ffbbc07d2\"]",
+      "BaseHP": "71",
+      "YieldHP": "0",
+      "BaseAttack": "102",
+      "YieldAttack": "2",
+      "BaseDefense": "78",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "52",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "92",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lokix",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

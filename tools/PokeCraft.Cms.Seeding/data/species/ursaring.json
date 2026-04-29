@@ -1,0 +1,27 @@
+﻿{
+  "Id": "4e254705-c04a-453d-985a-c5e2b5a39b7d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ursaring",
+    "DisplayName": "Ursaring",
+    "Description": null,
+    "FieldValues": {
+      "Number": "217",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ursaring",
+      "DisplayName": "Ursaring",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

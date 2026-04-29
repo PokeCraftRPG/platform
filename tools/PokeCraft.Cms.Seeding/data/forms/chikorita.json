@@ -1,0 +1,41 @@
+﻿{
+  "Id": "488e4902-db3c-4ab2-962e-7f70feff2753",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chikorita",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"120f5107-bf3a-4b70-8a7b-ea809dc28a2c\"]",
+      "Height": "9",
+      "Weight": "64",
+      "YieldExperience": "64",
+      "PrimaryAbility": "[\"f635691a-6cf0-4a55-a848-a2183d487971\"]",
+      "HiddenAbility": "[\"d724fdd9-3db1-4a76-8de7-aa696033fa20\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "49",
+      "YieldAttack": "0",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "49",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chikorita",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

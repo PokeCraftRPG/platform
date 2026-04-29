@@ -1,0 +1,40 @@
+﻿{
+  "Id": "85b269de-1519-4dec-9a38-6987abfa8586",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "melmetal",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9ff0a2ca-4883-401e-bf71-86761fbab95d\"]",
+      "Height": "25",
+      "Weight": "8000",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"e3b961ab-87de-40fc-9d8d-95dda45c14df\"]",
+      "BaseHP": "135",
+      "YieldHP": "0",
+      "BaseAttack": "143",
+      "YieldAttack": "3",
+      "BaseDefense": "143",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "34",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "melmetal",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

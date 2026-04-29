@@ -1,0 +1,28 @@
+﻿{
+  "Id": "a80b31ca-fdb3-4077-9c27-ae00e51b5c05",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "carbink",
+    "DisplayName": "Carbink",
+    "Description": null,
+    "FieldValues": {
+      "Number": "703",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Fairy\"]",
+      "SecondaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "carbink",
+      "DisplayName": "Carbink",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

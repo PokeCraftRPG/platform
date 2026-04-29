@@ -1,0 +1,19 @@
+﻿{
+  "Id": "a907241b-94b3-428b-b75f-17d1f44ff30e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mummy",
+    "DisplayName": "Mummy",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mummy",
+      "DisplayName": "Mummy",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

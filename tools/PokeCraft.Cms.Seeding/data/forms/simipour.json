@@ -1,0 +1,41 @@
+﻿{
+  "Id": "c91936ce-21fd-46d3-b871-747e4f339377",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "simipour",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"91616691-7e4f-4954-929c-89d1849a6332\"]",
+      "Height": "10",
+      "Weight": "290",
+      "YieldExperience": "174",
+      "PrimaryAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "HiddenAbility": "[\"973e0e1a-dcca-4ab1-bd25-90df209dfc63\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "98",
+      "YieldAttack": "0",
+      "BaseDefense": "63",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "98",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "63",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "101",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "simipour",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

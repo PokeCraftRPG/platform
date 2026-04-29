@@ -1,0 +1,25 @@
+﻿{
+  "Id": "b55b9342-2455-471b-a13a-e1c644220ef1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "raging-bull",
+    "DisplayName": "Raging Bull",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "raging-bull",
+      "DisplayName": "Raging Bull",
+      "Description": "The user performs a tackle like a raging bull. This move's type depends on the user's form. It can also break barriers, such as Light Screen and Reflect.",
+      "FieldValues": {}
+    }
+  }
+}

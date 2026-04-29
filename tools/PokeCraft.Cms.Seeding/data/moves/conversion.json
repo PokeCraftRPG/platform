@@ -1,0 +1,23 @@
+﻿{
+  "Id": "c964b6e2-dbe2-4ec3-aee9-5d18e92904be",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "conversion",
+    "DisplayName": "Conversion",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "conversion",
+      "DisplayName": "Conversion",
+      "Description": "The user changes its type to become the same type as the move at the top of the list of moves it knows.",
+      "FieldValues": {}
+    }
+  }
+}

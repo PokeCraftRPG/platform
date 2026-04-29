@@ -1,0 +1,27 @@
+﻿{
+  "Id": "4dfc17ff-832c-4ed7-b020-9d72b29133e1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "reuniclus",
+    "DisplayName": "Reuniclus",
+    "Description": null,
+    "FieldValues": {
+      "Number": "579",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "50",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "reuniclus",
+      "DisplayName": "Reuniclus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "5ad90831-96b6-4541-9635-2648ea7232f7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glameow",
+    "DisplayName": "Glameow",
+    "Description": null,
+    "FieldValues": {
+      "Number": "431",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glameow",
+      "DisplayName": "Glameow",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

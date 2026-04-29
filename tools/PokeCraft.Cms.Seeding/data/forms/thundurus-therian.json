@@ -1,0 +1,41 @@
+﻿{
+  "Id": "908f39e9-46f5-4848-9c0f-d55315cf0884",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thundurus-therian",
+    "DisplayName": "Therian Thundurus",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5dcc28d4-7bd3-4934-b1f5-d8f92fdd98f7\"]",
+      "Height": "30",
+      "Weight": "610",
+      "YieldExperience": "290",
+      "PrimaryAbility": "[\"891096e9-f25f-4184-8941-fcc6d6dfd5e4\"]",
+      "BaseHP": "79",
+      "YieldHP": "0",
+      "BaseAttack": "105",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "145",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "101",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thundurus-therian",
+      "DisplayName": "Therian Thundurus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

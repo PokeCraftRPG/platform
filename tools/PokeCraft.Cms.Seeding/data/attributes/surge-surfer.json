@@ -1,0 +1,19 @@
+﻿{
+  "Id": "baf385dd-127c-48bc-beec-76112c7cef9f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "surge-surfer",
+    "DisplayName": "Surge Surfer",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "surge-surfer",
+      "DisplayName": "Surge Surfer",
+      "Description": "Doubles the Pokémon's Speed stat on Electric Terrain.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿{
+  "Id": "26c664df-982a-4073-90fe-9e3e9355c3ab",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fake-tears",
+    "DisplayName": "Fake Tears",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fake-tears",
+      "DisplayName": "Fake Tears",
+      "Description": "The user feigns crying to fluster the target. This harshly lowers the target's Sp. Def stat.",
+      "FieldValues": {}
+    }
+  }
+}

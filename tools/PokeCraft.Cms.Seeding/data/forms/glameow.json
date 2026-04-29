@@ -1,0 +1,42 @@
+﻿{
+  "Id": "fc9fe45d-6c59-479d-963a-4ed5c42eb2db",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glameow",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1a120cab-ad68-44e7-b399-e0ae8b18b475\"]",
+      "Height": "5",
+      "Weight": "39",
+      "YieldExperience": "62",
+      "PrimaryAbility": "[\"170e2598-7fd5-497f-9003-f9d753aadd0d\"]",
+      "SecondaryAbility": "[\"1d2b3915-c19d-4017-baac-19e24cc4b20a\"]",
+      "HiddenAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "BaseHP": "49",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "42",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "42",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "37",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "85",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glameow",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "7e52010a-a78f-4dd2-a3b8-385b7f52c804",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cryogonal",
+    "DisplayName": "Cryogonal",
+    "Description": null,
+    "FieldValues": {
+      "Number": "615",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "25",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cryogonal",
+      "DisplayName": "Cryogonal",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

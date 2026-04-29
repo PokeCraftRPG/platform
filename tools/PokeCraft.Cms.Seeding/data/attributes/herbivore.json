@@ -1,0 +1,19 @@
+﻿{
+  "Id": "a08a41f5-b45a-4cb0-9f65-62e33766a209",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "herbivore",
+    "DisplayName": "Herbivore",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "herbivore",
+      "DisplayName": "Herbivore",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

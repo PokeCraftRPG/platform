@@ -1,0 +1,27 @@
+﻿{
+  "Id": "3162d71a-c1b4-4730-ad03-d048971331ee",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "armarouge",
+    "DisplayName": "Armarouge",
+    "Description": null,
+    "FieldValues": {
+      "Number": "936",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "20",
+      "CatchRate": "25",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "35",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "armarouge",
+      "DisplayName": "Armarouge",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

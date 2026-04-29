@@ -1,0 +1,26 @@
+﻿{
+  "Id": "005a4bc6-e7e4-4e84-be1f-5db3c9d0e9da",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "purrloin",
+    "DisplayName": "Purrloin",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"87a23f95-8c65-484b-8699-c95cd3c334a2\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "purrloin",
+      "DisplayName": "Purrloin",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Devious"
+      }
+    }
+  }
+}

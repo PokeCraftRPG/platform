@@ -1,0 +1,27 @@
+﻿{
+  "Id": "50da8fe4-af2b-4a79-9ec3-8c27a85981bc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "necrozma",
+    "DisplayName": "Necrozma",
+    "Description": null,
+    "FieldValues": {
+      "Number": "800",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "255",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "necrozma",
+      "DisplayName": "Necrozma",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

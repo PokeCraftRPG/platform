@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0842c781-ee7a-402b-96fd-ffd9cbdc0449",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mamoswine",
+    "DisplayName": "Mamoswine",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"61316e72-2c06-48c2-a1e7-08b0a8a1c48b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mamoswine",
+      "DisplayName": "Mamoswine",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Twin Tusk"
+      }
+    }
+  }
+}

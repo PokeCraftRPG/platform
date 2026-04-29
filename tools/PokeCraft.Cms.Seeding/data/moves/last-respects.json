@@ -1,0 +1,25 @@
+﻿{
+  "Id": "f4d25ae3-16b8-4e32-a4a0-c8b647868b76",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "last-respects",
+    "DisplayName": "Last Respects",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "50",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "last-respects",
+      "DisplayName": "Last Respects",
+      "Description": "The user attacks to avenge its allies. The more defeated allies there are in the user's party, the greater the move's power.",
+      "FieldValues": {}
+    }
+  }
+}

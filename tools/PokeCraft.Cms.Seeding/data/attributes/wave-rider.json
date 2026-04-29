@@ -1,0 +1,19 @@
+﻿{
+  "Id": "ff66c698-fb3d-400c-ac5e-0ee1b592ef42",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wave-rider",
+    "DisplayName": "Wave Rider",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wave-rider",
+      "DisplayName": "Wave Rider",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

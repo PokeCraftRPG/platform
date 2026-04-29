@@ -1,0 +1,41 @@
+﻿{
+  "Id": "f7f85bb2-fa8a-446d-8864-7fd04fbfdeec",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clamperl",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"fc13224e-8933-4ac8-a599-4136bd3af2ff\"]",
+      "Height": "4",
+      "Weight": "525",
+      "YieldExperience": "69",
+      "PrimaryAbility": "[\"238257b2-205c-4b83-b5f1-393b8c11b2e9\"]",
+      "HiddenAbility": "[\"9c030956-19a0-4e37-8835-0484c2fa3d91\"]",
+      "BaseHP": "35",
+      "YieldHP": "0",
+      "BaseAttack": "64",
+      "YieldAttack": "0",
+      "BaseDefense": "85",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "74",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "32",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clamperl",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "09a81338-1bf1-476c-b509-8ccb9bda8b4a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "conversion-2",
+    "DisplayName": "Conversion 2",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "conversion-2",
+      "DisplayName": "Conversion 2",
+      "Description": "The user changes its type to make itself resistant to the type of the move the target used last.",
+      "FieldValues": {}
+    }
+  }
+}

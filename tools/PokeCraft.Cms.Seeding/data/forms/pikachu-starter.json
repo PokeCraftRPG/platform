@@ -1,0 +1,41 @@
+﻿{
+  "Id": "9683ec42-e4fd-4ce3-b184-695bb5eb958f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pikachu-starter",
+    "DisplayName": "Partner Pikachu",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"15ae050d-5605-4400-818a-901dab1e28c5\"]",
+      "Height": "4",
+      "Weight": "60",
+      "YieldExperience": "86",
+      "PrimaryAbility": "[\"4d8cefa4-dbcc-4c78-b5f5-0a1c30bdb019\"]",
+      "HiddenAbility": "[\"98bb9191-1993-4224-8922-4a4d13f534a5\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "120",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pikachu-starter",
+      "DisplayName": "Partner Pikachu",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

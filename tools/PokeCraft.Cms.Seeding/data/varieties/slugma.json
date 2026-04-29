@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1465c33f-571f-4929-8265-9155ab024358",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slugma",
+    "DisplayName": "Slugma",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a2291267-fec1-4665-9ea3-880e6dc06bef\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slugma",
+      "DisplayName": "Slugma",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Lava"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "549011f3-5f50-4d82-a055-d744dd6efae5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "psychic-fangs",
+    "DisplayName": "Psychic Fangs",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "85",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "psychic-fangs",
+      "DisplayName": "Psychic Fangs",
+      "Description": "The user attacks by biting the target with its psychic capabilities. This move can also break barriers, such as Light Screen and Reflect.",
+      "FieldValues": {}
+    }
+  }
+}

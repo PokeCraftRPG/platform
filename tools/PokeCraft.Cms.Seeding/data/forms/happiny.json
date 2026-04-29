@@ -1,0 +1,42 @@
+﻿{
+  "Id": "58e5c550-f520-4402-a82b-8dc8a22ba3d1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "happiny",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"91fb42a5-bb37-41f3-835d-9e89da0fb77f\"]",
+      "Height": "6",
+      "Weight": "244",
+      "YieldExperience": "110",
+      "PrimaryAbility": "[\"aaaf5fa0-672a-4904-8e65-dc6c8ffe01b7\"]",
+      "SecondaryAbility": "[\"f1619484-cf62-4314-a26f-a79e00b5720f\"]",
+      "HiddenAbility": "[\"47068609-b1c5-409b-a6c0-abb9e56e4c44\"]",
+      "BaseHP": "100",
+      "YieldHP": "1",
+      "BaseAttack": "5",
+      "YieldAttack": "0",
+      "BaseDefense": "5",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "15",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "happiny",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

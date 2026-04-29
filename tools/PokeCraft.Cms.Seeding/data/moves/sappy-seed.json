@@ -1,0 +1,25 @@
+﻿{
+  "Id": "494fc71c-dffd-4352-9eac-0c600d706f96",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sappy-seed",
+    "DisplayName": "Sappy Seed",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sappy-seed",
+      "DisplayName": "Sappy Seed",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

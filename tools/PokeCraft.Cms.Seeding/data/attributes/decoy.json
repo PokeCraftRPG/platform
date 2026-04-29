@@ -1,0 +1,19 @@
+﻿{
+  "Id": "9488fc79-f86f-4c4a-bcd9-84dbfbbd4c9f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "decoy",
+    "DisplayName": "Decoy",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "decoy",
+      "DisplayName": "Decoy",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

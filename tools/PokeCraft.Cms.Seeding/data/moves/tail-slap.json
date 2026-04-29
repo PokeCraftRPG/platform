@@ -1,0 +1,25 @@
+﻿{
+  "Id": "3d820efc-41eb-46d5-85fd-ee580f1f3f3e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tail-slap",
+    "DisplayName": "Tail Slap",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "85",
+      "Power": "25",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tail-slap",
+      "DisplayName": "Tail Slap",
+      "Description": "The user attacks by striking the target with its hard tail. This move hits two to five times in a row.",
+      "FieldValues": {}
+    }
+  }
+}

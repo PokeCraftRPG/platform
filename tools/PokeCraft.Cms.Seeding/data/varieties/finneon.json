@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a458ebb6-137e-4f0e-aeca-74e58ad4f5d5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "finneon",
+    "DisplayName": "Finneon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"10758397-d65a-4d3e-a66a-ff9ad5e83f85\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "finneon",
+      "DisplayName": "Finneon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Wing Fish"
+      }
+    }
+  }
+}

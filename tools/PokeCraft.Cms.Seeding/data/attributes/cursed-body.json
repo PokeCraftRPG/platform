@@ -1,0 +1,19 @@
+﻿{
+  "Id": "de5aabec-d7d6-43c0-9d1a-575c11318439",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cursed-body",
+    "DisplayName": "Cursed Body",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cursed-body",
+      "DisplayName": "Cursed Body",
+      "Description": "May disable a move that has dealt damage to the Pokémon.",
+      "FieldValues": {}
+    }
+  }
+}

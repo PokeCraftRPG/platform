@@ -1,0 +1,27 @@
+﻿{
+  "Id": "bc437177-8229-4900-b16d-9f2d68025c8b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "eldegoss",
+    "DisplayName": "Eldegoss",
+    "Description": null,
+    "FieldValues": {
+      "Number": "830",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "eldegoss",
+      "DisplayName": "Eldegoss",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ff930d0a-694f-4733-ad97-13eb65bd89e0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tentacool",
+    "DisplayName": "Tentacool",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4d8a5702-5651-4115-bfdb-c3036cfb7360\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tentacool",
+      "DisplayName": "Tentacool",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Jellyfish"
+      }
+    }
+  }
+}

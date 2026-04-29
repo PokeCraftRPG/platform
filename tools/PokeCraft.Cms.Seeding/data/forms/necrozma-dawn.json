@@ -1,0 +1,41 @@
+﻿{
+  "Id": "da6bbc3c-8760-42e3-bdbe-93f868d8941a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "necrozma-dawn",
+    "DisplayName": "Dawn Necrozma",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0cfd116a-e378-453e-b840-93513d4c65fc\"]",
+      "Height": "42",
+      "Weight": "3500",
+      "YieldExperience": "340",
+      "PrimaryAbility": "[\"5d1a9a16-1d41-4d5c-ab3f-38e269190a81\"]",
+      "BaseHP": "97",
+      "YieldHP": "0",
+      "BaseAttack": "113",
+      "YieldAttack": "0",
+      "BaseDefense": "109",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "157",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "127",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "77",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "necrozma-dawn",
+      "DisplayName": "Dawn Necrozma",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

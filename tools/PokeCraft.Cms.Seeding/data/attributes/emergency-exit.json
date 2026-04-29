@@ -1,0 +1,19 @@
+﻿{
+  "Id": "14a7886f-3c57-4737-9a39-e40e7152388a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "emergency-exit",
+    "DisplayName": "Emergency Exit",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "emergency-exit",
+      "DisplayName": "Emergency Exit",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

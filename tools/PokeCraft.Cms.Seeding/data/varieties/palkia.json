@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6960b51d-31e6-4b65-88eb-9dfea490eea2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "palkia",
+    "DisplayName": "Palkia",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"64e858f6-e6fa-4558-a172-51778fbb5964\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "palkia",
+      "DisplayName": "Palkia",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Spatial"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "008a1ec2-a325-4c68-9dd1-1936df7e8a2f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "empoleon",
+    "DisplayName": "Empoleon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "395",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "empoleon",
+      "DisplayName": "Empoleon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

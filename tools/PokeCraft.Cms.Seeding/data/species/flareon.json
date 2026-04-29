@@ -1,0 +1,27 @@
+﻿{
+  "Id": "363e4121-36db-4780-a50f-28f587980113",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flareon",
+    "DisplayName": "Flareon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "136",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "35",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flareon",
+      "DisplayName": "Flareon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "774dadef-e82f-48d2-9ffd-f37357245043",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vullaby",
+    "DisplayName": "Vullaby",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"acf84e29-99fe-49a3-84d9-9398328f4ee1\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vullaby",
+      "DisplayName": "Vullaby",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Diapered"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "99849d23-931c-42cc-b730-539d07a81a0c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mightyena",
+    "DisplayName": "Mightyena",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3971639b-3bb5-427c-a043-87fea1eeb721\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mightyena",
+      "DisplayName": "Mightyena",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bite"
+      }
+    }
+  }
+}

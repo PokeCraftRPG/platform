@@ -1,0 +1,26 @@
+﻿{
+  "Id": "87c95862-e8cf-4539-8d5a-5baf71b0b2a8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "silicobra",
+    "DisplayName": "Silicobra",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7766b779-1345-47bc-95dc-3acee3b18e35\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "silicobra",
+      "DisplayName": "Silicobra",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sand Snake"
+      }
+    }
+  }
+}

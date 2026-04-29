@@ -1,0 +1,25 @@
+﻿{
+  "Id": "195ca082-ca9c-4261-853f-0ba5e86c04a3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragon-tail",
+    "DisplayName": "Dragon Tail",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "60",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragon-tail",
+      "DisplayName": "Dragon Tail",
+      "Description": "The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "FieldValues": {}
+    }
+  }
+}

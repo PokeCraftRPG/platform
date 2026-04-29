@@ -1,0 +1,40 @@
+﻿{
+  "Id": "bbf787af-0c10-4840-ac1b-6785b1cf7511",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "deoxys-speed",
+    "DisplayName": "Speed Deoxys",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b347dd92-6621-4426-a8f5-d487b9bf5f88\"]",
+      "Height": "17",
+      "Weight": "608",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"04822c52-0ef2-4b5e-a4bb-176772f6c3d8\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "180",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "deoxys-speed",
+      "DisplayName": "Speed Deoxys",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

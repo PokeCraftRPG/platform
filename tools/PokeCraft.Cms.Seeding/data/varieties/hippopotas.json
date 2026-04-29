@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e8013163-73af-4afd-9beb-b5f3c1aed260",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hippopotas",
+    "DisplayName": "Hippopotas",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7f18e6a3-bad0-40d7-b9e4-1b8e8fb1e68e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hippopotas",
+      "DisplayName": "Hippopotas",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Hippo"
+      }
+    }
+  }
+}

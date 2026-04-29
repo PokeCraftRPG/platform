@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c6e94d6f-741a-4359-b001-04b8e63be268",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "metagross-mega",
+    "DisplayName": "Metagross",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"46fb2e6e-967d-41d5-9ca0-7f633aa8e01c\"]",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "metagross-mega",
+      "DisplayName": "Metagross",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Iron Leg"
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "424a85ef-371a-4536-9ea1-2b2522b32c85",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sharpedo-mega",
+    "DisplayName": "Mega Sharpedo",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3c94f9a4-803c-4d35-8833-23c9b955b868\"]",
+      "Height": "25",
+      "Weight": "1303",
+      "YieldExperience": "196",
+      "PrimaryAbility": "[\"fe62f3be-1b3d-461f-bb4c-963e988d426f\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "140",
+      "YieldAttack": "2",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "110",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "105",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sharpedo-mega",
+      "DisplayName": "Mega Sharpedo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

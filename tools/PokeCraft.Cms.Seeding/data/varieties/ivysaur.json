@@ -1,0 +1,26 @@
+﻿{
+  "Id": "75b13634-ddef-41b3-afd8-fcd570495326",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ivysaur",
+    "DisplayName": "Ivysaur",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"067d228f-38bb-49f8-a547-91c4d1363e52\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ivysaur",
+      "DisplayName": "Ivysaur",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Seed"
+      }
+    }
+  }
+}

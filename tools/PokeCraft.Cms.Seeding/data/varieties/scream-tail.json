@@ -1,0 +1,25 @@
+﻿{
+  "Id": "dee5dc52-360d-4f91-b802-c5f44f5ed119",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scream-tail",
+    "DisplayName": "Scream Tail",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d2cecdb6-3e83-4b27-b39b-5e5401461e02\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scream-tail",
+      "DisplayName": "Scream Tail",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

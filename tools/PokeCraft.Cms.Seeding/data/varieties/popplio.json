@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6af2dd4a-8bbb-47bb-be91-885e3f789e45",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "popplio",
+    "DisplayName": "Popplio",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"cada5e45-d801-4f65-983b-39f77d5e1387\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "popplio",
+      "DisplayName": "Popplio",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sea Lion"
+      }
+    }
+  }
+}

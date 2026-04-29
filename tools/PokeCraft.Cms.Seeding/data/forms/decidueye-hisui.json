@@ -1,0 +1,42 @@
+﻿{
+  "Id": "4fb25152-ac12-4856-a3e0-0875c8300a60",
+  "Invariant": {
+    "IsPublished": true,
+    "UniqueName": "decidueye-hisui",
+    "DisplayName": "Hisuian Decidueye",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0180ba89-0996-4c22-adf4-38259ee32696\"]",
+      "Height": "16",
+      "Weight": "370",
+      "YieldExperience": "239",
+      "PrimaryAbility": "[\"f635691a-6cf0-4a55-a848-a2183d487971\"]",
+      "HiddenAbility": "[\"fa0ae125-7b24-45a0-bf28-4b447dfa5e21\"]",
+      "BaseHP": "88",
+      "YieldHP": "0",
+      "BaseAttack": "112",
+      "YieldAttack": "3",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": true,
+      "UniqueName": "decidueye-hisui",
+      "DisplayName": "Hisuian Decidueye",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

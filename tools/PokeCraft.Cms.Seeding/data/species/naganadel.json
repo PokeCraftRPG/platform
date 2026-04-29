@@ -1,0 +1,27 @@
+﻿{
+  "Id": "5517a42c-434b-4ede-a2ff-f220ba9e3e35",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "naganadel",
+    "DisplayName": "Naganadel",
+    "Description": null,
+    "FieldValues": {
+      "Number": "804",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "naganadel",
+      "DisplayName": "Naganadel",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

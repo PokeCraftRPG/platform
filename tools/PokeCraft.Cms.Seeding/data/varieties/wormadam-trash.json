@@ -1,0 +1,26 @@
+﻿{
+  "Id": "8ef20800-eff8-4132-abe1-61b1eede808d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wormadam-trash",
+    "DisplayName": "Wormadam",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"324db9cd-4cff-4eca-bc1f-855829383591\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wormadam-trash",
+      "DisplayName": "Wormadam",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bagworm"
+      }
+    }
+  }
+}

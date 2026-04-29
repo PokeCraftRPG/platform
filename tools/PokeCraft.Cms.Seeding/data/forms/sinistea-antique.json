@@ -1,0 +1,41 @@
+﻿{
+  "Id": "8d68346d-a72f-481c-92aa-c910499791cf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sinistea-antique",
+    "DisplayName": "Antique Sinistea",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"aea41279-cb55-4592-bee3-c7b7460244fe\"]",
+      "Height": "1",
+      "Weight": "2",
+      "YieldExperience": "62",
+      "PrimaryAbility": "[\"2b8b8cfa-e12e-43d2-b403-594ac9a1c1f7\"]",
+      "HiddenAbility": "[\"de5aabec-d7d6-43c0-9d1a-575c11318439\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "74",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "54",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Alternative\"]",
+      "PrimaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sinistea-antique",
+      "DisplayName": "Antique Sinistea",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

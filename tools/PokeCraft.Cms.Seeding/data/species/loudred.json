@@ -1,0 +1,28 @@
+﻿{
+  "Id": "b90ebb5f-c4d3-4d02-b84f-46449428bf28",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "loudred",
+    "DisplayName": "Loudred",
+    "Description": null,
+    "FieldValues": {
+      "Number": "294",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "loudred",
+      "DisplayName": "Loudred",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

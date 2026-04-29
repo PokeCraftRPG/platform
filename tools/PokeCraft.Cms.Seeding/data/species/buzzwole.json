@@ -1,0 +1,27 @@
+﻿{
+  "Id": "be778bff-8d18-4b91-8a2f-660f19e066ef",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "buzzwole",
+    "DisplayName": "Buzzwole",
+    "Description": null,
+    "FieldValues": {
+      "Number": "794",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "buzzwole",
+      "DisplayName": "Buzzwole",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "ac12cfd0-046c-40f1-a413-ad2e635ef977",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "follow-me",
+    "DisplayName": "Follow Me",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "follow-me",
+      "DisplayName": "Follow Me",
+      "Description": "The user draws attention to itself, making all opposing Pokémon take aim only at the user.",
+      "FieldValues": {}
+    }
+  }
+}

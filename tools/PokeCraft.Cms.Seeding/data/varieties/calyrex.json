@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6ed4cb2f-8aa8-421a-a9bb-9d20eb9eb268",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "calyrex",
+    "DisplayName": "Calyrex",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2292606c-3fa0-4c48-9d3e-cbcaec06d0a4\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "calyrex",
+      "DisplayName": "Calyrex",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "King"
+      }
+    }
+  }
+}

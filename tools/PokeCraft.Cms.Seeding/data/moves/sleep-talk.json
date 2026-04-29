@@ -1,0 +1,23 @@
+﻿{
+  "Id": "1ab7d954-2dcf-40c3-a64b-86d895b21015",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sleep-talk",
+    "DisplayName": "Sleep Talk",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sleep-talk",
+      "DisplayName": "Sleep Talk",
+      "Description": "The user randomly uses one of the moves it knows. This move can only be used while the user is asleep.",
+      "FieldValues": {}
+    }
+  }
+}

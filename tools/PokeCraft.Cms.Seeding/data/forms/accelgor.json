@@ -1,0 +1,42 @@
+﻿{
+  "Id": "cafc76e3-bdc5-4cc4-8b8e-433b84603b6f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "accelgor",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ddde59f3-a608-4f71-a407-863030f4777d\"]",
+      "Height": "8",
+      "Weight": "253",
+      "YieldExperience": "173",
+      "PrimaryAbility": "[\"14243d95-6028-489e-acf7-18592c5695c2\"]",
+      "SecondaryAbility": "[\"c6f1b814-650e-4b1f-a482-7ed07ca1c7af\"]",
+      "HiddenAbility": "[\"d74f9f1b-dd57-4258-875f-46ec6bc83d99\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "145",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "accelgor",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

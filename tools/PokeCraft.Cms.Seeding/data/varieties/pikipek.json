@@ -1,0 +1,26 @@
+﻿{
+  "Id": "917fe192-0991-4726-97ff-ed6c41ea9ced",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pikipek",
+    "DisplayName": "Pikipek",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"78511dd3-d945-4a1f-a527-9e947d153d14\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pikipek",
+      "DisplayName": "Pikipek",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Woodpecker"
+      }
+    }
+  }
+}

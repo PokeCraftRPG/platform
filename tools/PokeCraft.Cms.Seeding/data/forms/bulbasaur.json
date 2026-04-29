@@ -1,0 +1,42 @@
+﻿{
+  "Id": "5c44a833-533d-413b-a4b4-cbc66fb1e9b7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bulbasaur",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3c1d4b66-8f82-4749-b5a2-9a6c66be3921\"]",
+      "Height": "7",
+      "Weight": "69",
+      "YieldExperience": "64",
+      "PrimaryAbility": "[\"f635691a-6cf0-4a55-a848-a2183d487971\"]",
+      "HiddenAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "49",
+      "YieldAttack": "0",
+      "BaseDefense": "49",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bulbasaur",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

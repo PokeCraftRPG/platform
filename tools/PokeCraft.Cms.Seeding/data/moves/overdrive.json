@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c7badadf-f670-4d03-b69e-6031eefe2253",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "overdrive",
+    "DisplayName": "Overdrive",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "overdrive",
+      "DisplayName": "Overdrive",
+      "Description": "The user attacks opposing Pokémon by twanging a guitar or bass guitar, causing a huge echo and strong vibration.",
+      "FieldValues": {}
+    }
+  }
+}

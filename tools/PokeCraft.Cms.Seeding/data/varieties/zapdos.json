@@ -1,0 +1,25 @@
+﻿{
+  "Id": "666534f2-6b10-4aea-b430-debb687efa98",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zapdos",
+    "DisplayName": "Zapdos",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c201c774-62d4-47f0-b48a-2e52ba18ebd5\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zapdos",
+      "DisplayName": "Zapdos",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Electric"
+      }
+    }
+  }
+}

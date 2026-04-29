@@ -1,0 +1,23 @@
+﻿{
+  "Id": "63f23e0f-af53-401f-b984-d381f82729c6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "happy-hour",
+    "DisplayName": "Happy Hour",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "happy-hour",
+      "DisplayName": "Happy Hour",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

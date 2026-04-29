@@ -1,0 +1,25 @@
+﻿{
+  "Id": "32bda552-9bd6-4978-808d-fe31104ca474",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "giga-drain",
+    "DisplayName": "Giga Drain",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "75",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "giga-drain",
+      "DisplayName": "Giga Drain",
+      "Description": "A nutrient-draining attack. The user's HP is restored by up to half the damage taken by the target.",
+      "FieldValues": {}
+    }
+  }
+}

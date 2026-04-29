@@ -1,0 +1,19 @@
+﻿{
+  "Id": "c01cbecd-8bda-4dcd-9ddd-090968ea830c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragonize",
+    "DisplayName": "Dragonize",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragonize",
+      "DisplayName": "Dragonize",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

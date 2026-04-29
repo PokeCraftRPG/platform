@@ -1,0 +1,40 @@
+﻿{
+  "Id": "bdada562-2039-4baa-8a0d-c54499b8a2dd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cofagrigus",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f2d3c463-92fc-4d0a-bb53-b4e2fe1b2bf4\"]",
+      "Height": "17",
+      "Weight": "765",
+      "YieldExperience": "169",
+      "PrimaryAbility": "[\"a907241b-94b3-428b-b75f-17d1f44ff30e\"]",
+      "BaseHP": "58",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "145",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "105",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cofagrigus",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

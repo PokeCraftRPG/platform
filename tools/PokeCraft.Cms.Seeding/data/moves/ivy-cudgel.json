@@ -1,0 +1,25 @@
+﻿{
+  "Id": "7d643efe-2566-47b5-a537-28f98a653856",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ivy-cudgel",
+    "DisplayName": "Ivy Cudgel",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ivy-cudgel",
+      "DisplayName": "Ivy Cudgel",
+      "Description": "The user strikes with an ivy-wrapped cudgel. This move's type changes depending on the mask worn by the user, and it has a heightened chance of landing a critical hit.",
+      "FieldValues": {}
+    }
+  }
+}

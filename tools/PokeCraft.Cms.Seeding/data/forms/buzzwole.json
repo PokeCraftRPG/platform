@@ -1,0 +1,41 @@
+﻿{
+  "Id": "92b23655-396c-45c0-94ea-eec47034540f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "buzzwole",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"bb93a006-4f71-4134-a04d-8eb439ca5b1a\"]",
+      "Height": "24",
+      "Weight": "3336",
+      "YieldExperience": "257",
+      "PrimaryAbility": "[\"e7ec0ce2-6979-45a9-80ab-215081d487e3\"]",
+      "BaseHP": "107",
+      "YieldHP": "0",
+      "BaseAttack": "139",
+      "YieldAttack": "1",
+      "BaseDefense": "139",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "53",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "53",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "79",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "buzzwole",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

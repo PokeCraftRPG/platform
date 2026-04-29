@@ -1,0 +1,19 @@
+﻿{
+  "Id": "3bb432b8-b38c-4243-888c-20085e000f57",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rivalry",
+    "DisplayName": "Rivalry",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rivalry",
+      "DisplayName": "Rivalry",
+      "Description": "The Pokémon's competitive spirit makes it deal more damage to Pokémon of the same gender, but less damage to Pokémon of the opposite gender.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "15b2bb1c-9dba-4784-bead-3933f4669df7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "jangmo-o",
+    "DisplayName": "Jangmo-o",
+    "Description": null,
+    "FieldValues": {
+      "Number": "782",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "jangmo-o",
+      "DisplayName": "Jangmo-o",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6afafb19-b972-429f-92c7-b10f3fa239f0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "finizen",
+    "DisplayName": "Finizen",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"07cd5181-f032-4457-ab3b-19864c5ad6bc\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "finizen",
+      "DisplayName": "Finizen",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Dolphin"
+      }
+    }
+  }
+}

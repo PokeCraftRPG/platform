@@ -1,0 +1,41 @@
+﻿{
+  "Id": "fc1a21f2-0581-49be-a538-7637f6af5d9e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hippopotas",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e8013163-73af-4afd-9beb-b5f3c1aed260\"]",
+      "Height": "8",
+      "Weight": "495",
+      "YieldExperience": "66",
+      "PrimaryAbility": "[\"b7c00fcc-02c4-44a4-aae6-d207b07e5d37\"]",
+      "HiddenAbility": "[\"19474510-6538-4d3f-8775-1316904fe470\"]",
+      "BaseHP": "68",
+      "YieldHP": "0",
+      "BaseAttack": "72",
+      "YieldAttack": "0",
+      "BaseDefense": "78",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "38",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "42",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "32",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hippopotas",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

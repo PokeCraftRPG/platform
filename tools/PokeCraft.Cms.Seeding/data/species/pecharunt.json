@@ -1,0 +1,27 @@
+﻿{
+  "Id": "cf5173e7-4434-4ea9-b898-bddbcd809cf2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pecharunt",
+    "DisplayName": "Pecharunt",
+    "Description": null,
+    "FieldValues": {
+      "Number": "1025",
+      "Category": "[\"Mythical\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pecharunt",
+      "DisplayName": "Pecharunt",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "5284f05e-5b12-4e0c-9994-241973720e24",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kyurem",
+    "DisplayName": "Kyurem",
+    "Description": null,
+    "FieldValues": {
+      "Number": "646",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kyurem",
+      "DisplayName": "Kyurem",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,39 @@
+﻿{
+  "Id": "b1e70bd5-4325-4da6-8222-5edbd75e6c9f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "staraptor-mega",
+    "DisplayName": "Mega Staraptor",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9dc92af0-eb70-4634-bf4f-96104ac58bd6\"]",
+      "Height": "19",
+      "Weight": "500",
+      "BaseHP": "85",
+      "YieldHP": "0",
+      "BaseAttack": "140",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "110",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Fighting\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "staraptor-mega",
+      "DisplayName": "Mega Staraptor",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

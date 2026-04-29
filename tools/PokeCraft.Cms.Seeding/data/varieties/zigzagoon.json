@@ -1,0 +1,26 @@
+﻿{
+  "Id": "18131fc8-df66-41ce-96a2-795eb17f4beb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zigzagoon",
+    "DisplayName": "Zigzagoon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9c7da31e-3388-48cd-9138-181e094786f8\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zigzagoon",
+      "DisplayName": "Zigzagoon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tiny Raccoon"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "a7f40fd8-7620-44db-a2a1-225821ac0cf8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shadow-fire",
+    "DisplayName": "Shadow Fire",
+    "Description": null,
+    "FieldValues": {
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "75"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shadow-fire",
+      "DisplayName": "Shadow Fire",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ef3d69bb-d3f5-436a-b3c3-7416f05d3cd7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slowking-galar",
+    "DisplayName": "Slowking",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0ebf6191-bd72-42d6-b905-1c2ea8e01849\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slowking-galar",
+      "DisplayName": "Slowking",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Royal"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "fd81b18c-05e6-4501-97c1-a9d5ed32c9fc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gogoat",
+    "DisplayName": "Gogoat",
+    "Description": null,
+    "FieldValues": {
+      "Number": "673",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gogoat",
+      "DisplayName": "Gogoat",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

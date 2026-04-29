@@ -1,0 +1,23 @@
+﻿{
+  "Id": "c89a66bd-8a75-449c-b4c9-3bfb26ec7060",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aromatherapy",
+    "DisplayName": "Aromatherapy",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aromatherapy",
+      "DisplayName": "Aromatherapy",
+      "Description": "This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.",
+      "FieldValues": {}
+    }
+  }
+}

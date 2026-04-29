@@ -1,0 +1,25 @@
+﻿{
+  "Id": "32abfd95-8d3b-4802-a247-ec06132b982b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "volt-switch",
+    "DisplayName": "Volt Switch",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "70",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "volt-switch",
+      "DisplayName": "Volt Switch",
+      "Description": "After making its attack, the user rushes back to switch places with a party Pokémon in waiting.",
+      "FieldValues": {}
+    }
+  }
+}

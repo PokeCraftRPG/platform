@@ -1,0 +1,26 @@
+﻿{
+  "Id": "84fca719-73f2-4c8d-ae3b-f58ec448b80f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "terapagos-stellar",
+    "DisplayName": "Terapagos",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7d8bb225-8bef-491b-9fd5-d5181194ad8b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "terapagos-stellar",
+      "DisplayName": "Terapagos",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tera"
+      }
+    }
+  }
+}

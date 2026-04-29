@@ -1,0 +1,41 @@
+﻿{
+  "Id": "eeab0cee-02e2-4ed3-952d-405bb5c88dc1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-crown",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"90c2ea1d-704d-4f60-a3f0-8caabb1ab23d\"]",
+      "Height": "16",
+      "Weight": "1560",
+      "YieldExperience": "295",
+      "PrimaryAbility": "[\"7cef81dc-7c42-4b31-b37d-79a7e926c4cd\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "72",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "122",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "108",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "98",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-crown",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a668f4f9-7415-440a-85df-e4c336039289",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "timburr",
+    "DisplayName": "Timburr",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1d125d30-7812-474a-9c29-579fcb7c4d69\"]",
+      "GenderRatio": "6",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "timburr",
+      "DisplayName": "Timburr",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Muscular"
+      }
+    }
+  }
+}

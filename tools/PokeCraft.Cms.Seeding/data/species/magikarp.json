@@ -1,0 +1,28 @@
+﻿{
+  "Id": "95dd1420-250a-4888-a650-fdb805cfc39c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magikarp",
+    "DisplayName": "Magikarp",
+    "Description": null,
+    "FieldValues": {
+      "Number": "129",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "5",
+      "PrimaryEggGroup": "[\"Water2\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magikarp",
+      "DisplayName": "Magikarp",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

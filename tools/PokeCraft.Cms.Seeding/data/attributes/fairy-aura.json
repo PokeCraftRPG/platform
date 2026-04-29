@@ -1,0 +1,19 @@
+﻿{
+  "Id": "18fae078-c83d-4365-962c-5a2b67bb2b72",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fairy-aura",
+    "DisplayName": "Fairy Aura",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fairy-aura",
+      "DisplayName": "Fairy Aura",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

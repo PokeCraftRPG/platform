@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e4623863-075f-4381-a365-5aa08a33e833",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "whismur",
+    "DisplayName": "Whismur",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e6e07f0e-8cd5-4fb4-acaf-3f43d7c203bf\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "whismur",
+      "DisplayName": "Whismur",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Whisper"
+      }
+    }
+  }
+}

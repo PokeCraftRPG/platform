@@ -1,0 +1,25 @@
+﻿{
+  "Id": "89bb74c4-3936-4fa8-a367-58e6dda9e6eb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hyper-voice",
+    "DisplayName": "Hyper Voice",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hyper-voice",
+      "DisplayName": "Hyper Voice",
+      "Description": "The user attacks by letting loose a horribly loud, resounding cry.",
+      "FieldValues": {}
+    }
+  }
+}

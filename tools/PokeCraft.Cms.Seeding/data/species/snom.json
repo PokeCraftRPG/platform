@@ -1,0 +1,27 @@
+﻿{
+  "Id": "df237fda-d7d1-4ed6-9fcb-7e510ff5772c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snom",
+    "DisplayName": "Snom",
+    "Description": null,
+    "FieldValues": {
+      "Number": "872",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snom",
+      "DisplayName": "Snom",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

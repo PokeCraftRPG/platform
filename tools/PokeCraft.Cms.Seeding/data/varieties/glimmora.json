@@ -1,0 +1,26 @@
+﻿{
+  "Id": "979f5e08-db21-4d62-9c72-4c30bc5606eb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glimmora",
+    "DisplayName": "Glimmora",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6a8a2e85-56ac-4633-90b0-1b1300099e11\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glimmora",
+      "DisplayName": "Glimmora",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ore"
+      }
+    }
+  }
+}

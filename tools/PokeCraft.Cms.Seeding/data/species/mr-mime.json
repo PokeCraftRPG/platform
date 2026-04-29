@@ -1,0 +1,27 @@
+﻿{
+  "Id": "54e96d53-737c-458f-9295-629b4ab0a0bf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mr-mime",
+    "DisplayName": "Mr. Mime",
+    "Description": null,
+    "FieldValues": {
+      "Number": "122",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mr-mime",
+      "DisplayName": "Mr. Mime",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

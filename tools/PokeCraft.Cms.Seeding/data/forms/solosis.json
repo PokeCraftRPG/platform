@@ -1,0 +1,42 @@
+﻿{
+  "Id": "aee1b0d5-a5a9-4204-89a7-70fa2678f218",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "solosis",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c9b4e0db-1a95-4b26-99d5-d5b0bbbc84eb\"]",
+      "Height": "3",
+      "Weight": "10",
+      "YieldExperience": "58",
+      "PrimaryAbility": "[\"ecf92884-7c23-4d13-9d9a-1a687fe3f447\"]",
+      "SecondaryAbility": "[\"69c09e48-92e7-44ba-99ac-01ed04423dd6\"]",
+      "HiddenAbility": "[\"3f2976c2-09ac-4c69-8b32-5d930032faba\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "30",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "105",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "20",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "solosis",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

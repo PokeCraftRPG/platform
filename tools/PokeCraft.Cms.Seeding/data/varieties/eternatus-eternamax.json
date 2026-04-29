@@ -1,0 +1,25 @@
+﻿{
+  "Id": "d9331195-6427-4a02-9965-d409e988754a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "eternatus-eternamax",
+    "DisplayName": "Eternatus",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"48a6f435-d28b-4378-80fd-23bf4c1d379a\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "eternatus-eternamax",
+      "DisplayName": "Eternatus",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Gigantic"
+      }
+    }
+  }
+}

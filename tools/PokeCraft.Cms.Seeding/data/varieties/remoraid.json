@@ -1,0 +1,26 @@
+﻿{
+  "Id": "956b717e-e28d-49a7-820c-c2a2d0c1f632",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "remoraid",
+    "DisplayName": "Remoraid",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c8c3cb57-76f3-42dc-9658-7866d7ea705d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "remoraid",
+      "DisplayName": "Remoraid",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Jet"
+      }
+    }
+  }
+}

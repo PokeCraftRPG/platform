@@ -1,0 +1,25 @@
+﻿{
+  "Id": "5edb1a94-181e-40a0-9242-93dd9f4e9fdd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cobalion",
+    "DisplayName": "Cobalion",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"81029cc4-845b-4ac2-b671-a68dc1eeba9c\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cobalion",
+      "DisplayName": "Cobalion",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Iron Will"
+      }
+    }
+  }
+}

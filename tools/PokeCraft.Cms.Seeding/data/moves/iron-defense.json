@@ -1,0 +1,23 @@
+﻿{
+  "Id": "ec68ba2e-20e1-4892-a3ef-c31c2c64f002",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-defense",
+    "DisplayName": "Iron Defense",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-defense",
+      "DisplayName": "Iron Defense",
+      "Description": "The user hardens its body's surface like iron, sharply boosting its Defense stat.",
+      "FieldValues": {}
+    }
+  }
+}

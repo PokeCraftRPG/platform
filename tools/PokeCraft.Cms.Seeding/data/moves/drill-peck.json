@@ -1,0 +1,25 @@
+﻿{
+  "Id": "94274cd3-8511-4378-b0cb-f4a6cb3557f0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drill-peck",
+    "DisplayName": "Drill Peck",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drill-peck",
+      "DisplayName": "Drill Peck",
+      "Description": "A corkscrewing attack that strikes the target with a sharp beak acting as a drill.",
+      "FieldValues": {}
+    }
+  }
+}

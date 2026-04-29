@@ -1,0 +1,27 @@
+﻿{
+  "Id": "9d43cbea-d2ca-4847-afdf-6f1078c6b30f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swinub",
+    "DisplayName": "Swinub",
+    "Description": null,
+    "FieldValues": {
+      "Number": "220",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "225",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swinub",
+      "DisplayName": "Swinub",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

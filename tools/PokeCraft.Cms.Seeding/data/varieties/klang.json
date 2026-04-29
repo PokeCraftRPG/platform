@@ -1,0 +1,25 @@
+﻿{
+  "Id": "26161206-c838-49c9-81fa-639186c60413",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "klang",
+    "DisplayName": "Klang",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"367bce84-2dbb-42af-8df5-de6296a0b1c5\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "klang",
+      "DisplayName": "Klang",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Gear"
+      }
+    }
+  }
+}

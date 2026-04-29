@@ -1,0 +1,41 @@
+﻿{
+  "Id": "5f94d072-8494-4b8c-b3c7-baa059be7350",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slowbro-mega",
+    "DisplayName": "Mega Slowbro",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5cb0a547-3e13-4bc6-8406-a2d75cbe6a40\"]",
+      "Height": "20",
+      "Weight": "1200",
+      "YieldExperience": "207",
+      "PrimaryAbility": "[\"238257b2-205c-4b83-b5f1-393b8c11b2e9\"]",
+      "BaseHP": "95",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "180",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "130",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slowbro-mega",
+      "DisplayName": "Mega Slowbro",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

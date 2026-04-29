@@ -1,0 +1,25 @@
+﻿{
+  "Id": "8ad89a06-59b2-4e58-883c-248e07cda255",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "egg-bomb",
+    "DisplayName": "Egg Bomb",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "75",
+      "Power": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "egg-bomb",
+      "DisplayName": "Egg Bomb",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

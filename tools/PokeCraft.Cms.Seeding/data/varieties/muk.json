@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d5ab1445-d4d4-4dbb-b96d-e040da70b78b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "muk",
+    "DisplayName": "Muk",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6098954c-7b84-4f1f-8785-6f6ca1c367d9\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "muk",
+      "DisplayName": "Muk",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sludge"
+      }
+    }
+  }
+}

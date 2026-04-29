@@ -1,0 +1,25 @@
+﻿{
+  "Id": "1ae7d3b8-8a6a-4871-8463-548b1f04d8c4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "terrakion",
+    "DisplayName": "Terrakion",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8f811e62-99aa-49e9-900c-91d3245fb2ed\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "terrakion",
+      "DisplayName": "Terrakion",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cavern"
+      }
+    }
+  }
+}

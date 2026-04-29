@@ -1,0 +1,25 @@
+﻿{
+  "Id": "e5197489-86d2-442a-ad87-c644642ea603",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "alluring-voice",
+    "DisplayName": "Alluring Voice",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "alluring-voice",
+      "DisplayName": "Alluring Voice",
+      "Description": "The user attacks the target using its angelic voice. This also confuses the target if its stats have been boosted during the turn.",
+      "FieldValues": {}
+    }
+  }
+}

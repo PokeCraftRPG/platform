@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ad8885d1-56c4-4979-b283-52d9f83cc80e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "excadrill-mega",
+    "DisplayName": "Excadrill",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ff915ae7-c278-4f34-a146-c29dece389cc\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "excadrill-mega",
+      "DisplayName": "Excadrill",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Subterrene"
+      }
+    }
+  }
+}

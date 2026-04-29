@@ -1,0 +1,26 @@
+﻿{
+  "Id": "00aeddbd-8992-4d0a-922c-39e1e5c9b897",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "duskull",
+    "DisplayName": "Duskull",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"90f4875b-61d8-497f-9b76-91c7c142c40c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "duskull",
+      "DisplayName": "Duskull",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Requiem"
+      }
+    }
+  }
+}

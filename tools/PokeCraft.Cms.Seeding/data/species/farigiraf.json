@@ -1,0 +1,27 @@
+﻿{
+  "Id": "bf69a818-64d7-4c47-bf63-641c2b5eb7e2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "farigiraf",
+    "DisplayName": "Farigiraf",
+    "Description": null,
+    "FieldValues": {
+      "Number": "981",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "farigiraf",
+      "DisplayName": "Farigiraf",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "d2c39c55-d607-4d01-9a12-19de9a366f64",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spectral-thief",
+    "DisplayName": "Spectral Thief",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spectral-thief",
+      "DisplayName": "Spectral Thief",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

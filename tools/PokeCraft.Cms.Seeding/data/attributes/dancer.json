@@ -1,0 +1,19 @@
+﻿{
+  "Id": "5368f678-61be-4999-a306-26a2d698772e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dancer",
+    "DisplayName": "Dancer",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dancer",
+      "DisplayName": "Dancer",
+      "Description": "Whenever a dance move is used in battle, the Pokémon will copy the user to immediately perform that dance move itself.",
+      "FieldValues": {}
+    }
+  }
+}

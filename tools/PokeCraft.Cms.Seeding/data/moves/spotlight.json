@@ -1,0 +1,23 @@
+﻿{
+  "Id": "f11cfba0-9041-4b8b-9b09-10ea471071ce",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spotlight",
+    "DisplayName": "Spotlight",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spotlight",
+      "DisplayName": "Spotlight",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

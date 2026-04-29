@@ -1,0 +1,28 @@
+﻿{
+  "Id": "cf8e85e8-b568-4a1b-9f71-546918f61183",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pachirisu",
+    "DisplayName": "Pachirisu",
+    "Description": null,
+    "FieldValues": {
+      "Number": "417",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "100",
+      "CatchRate": "200",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pachirisu",
+      "DisplayName": "Pachirisu",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

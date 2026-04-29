@@ -1,0 +1,27 @@
+﻿{
+  "Id": "8eeecd32-def1-46d1-8f89-018d3cd63036",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fezandipiti",
+    "DisplayName": "Fezandipiti",
+    "Description": null,
+    "FieldValues": {
+      "Number": "1016",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "50",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fezandipiti",
+      "DisplayName": "Fezandipiti",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

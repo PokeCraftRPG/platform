@@ -1,0 +1,43 @@
+﻿{
+  "Id": "a17ed831-d1bf-4d59-a59c-14cab3879d75",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sizzlipede",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ccb04d69-5a16-4148-9e15-82be776d9644\"]",
+      "Height": "7",
+      "Weight": "10",
+      "YieldExperience": "61",
+      "PrimaryAbility": "[\"956efecf-ecf7-4731-9df1-25171033ad13\"]",
+      "SecondaryAbility": "[\"b4d7933c-f6e8-4d96-9c6a-d47553ced38c\"]",
+      "HiddenAbility": "[\"61541bb6-568e-4dd0-b07a-56233b9fe96f\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "1",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sizzlipede",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

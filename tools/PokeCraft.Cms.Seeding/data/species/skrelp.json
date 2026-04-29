@@ -1,0 +1,28 @@
+﻿{
+  "Id": "0f872c90-1b55-46e8-a9c9-0f6d7f466d32",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skrelp",
+    "DisplayName": "Skrelp",
+    "Description": null,
+    "FieldValues": {
+      "Number": "690",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "225",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skrelp",
+      "DisplayName": "Skrelp",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

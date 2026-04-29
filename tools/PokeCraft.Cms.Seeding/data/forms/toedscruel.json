@@ -1,0 +1,41 @@
+﻿{
+  "Id": "6946d2b1-08f4-407e-a1d5-999e71367024",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toedscruel",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"10923a4a-70a4-4e78-9c0a-3f3c0e988135\"]",
+      "Height": "19",
+      "Weight": "580",
+      "YieldExperience": "180",
+      "PrimaryAbility": "[\"83522335-1c9a-4d9f-a292-8b9fad34d6b8\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "120",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toedscruel",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

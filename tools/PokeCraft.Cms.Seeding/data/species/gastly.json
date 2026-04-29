@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ccf958fd-e7a1-4262-85d4-85fa22ecbd6b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gastly",
+    "DisplayName": "Gastly",
+    "Description": null,
+    "FieldValues": {
+      "Number": "92",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gastly",
+      "DisplayName": "Gastly",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

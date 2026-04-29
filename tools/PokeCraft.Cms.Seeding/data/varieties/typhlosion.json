@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3ad61ef5-697e-4403-b52d-0979061249a6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "typhlosion",
+    "DisplayName": "Typhlosion",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"44f8e35a-1ead-4287-aa1c-ec223d551989\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "typhlosion",
+      "DisplayName": "Typhlosion",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Volcano"
+      }
+    }
+  }
+}

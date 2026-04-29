@@ -1,0 +1,24 @@
+﻿{
+  "Id": "582f7e96-6554-40f8-bd4d-81b34a9c5231",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "max-hailstorm",
+    "DisplayName": "Max Hailstorm",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "10",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "max-hailstorm",
+      "DisplayName": "Max Hailstorm",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

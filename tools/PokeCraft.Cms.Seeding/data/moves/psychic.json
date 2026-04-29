@@ -1,0 +1,25 @@
+﻿{
+  "Id": "2a8eca88-d11f-49e5-93ec-6d7106bde280",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "psychic",
+    "DisplayName": "Psychic",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "psychic",
+      "DisplayName": "Psychic",
+      "Description": "The target is hit with a strong telekinetic force to inflict damage. This may also lower the target’s Sp. Def stat.",
+      "FieldValues": {}
+    }
+  }
+}

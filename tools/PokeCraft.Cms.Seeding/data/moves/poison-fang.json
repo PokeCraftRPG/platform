@@ -1,0 +1,25 @@
+﻿{
+  "Id": "bf2c4213-075d-4c59-869c-27f546c0aa43",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "poison-fang",
+    "DisplayName": "Poison Fang",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "50",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "poison-fang",
+      "DisplayName": "Poison Fang",
+      "Description": "The user bites the target with toxic fangs. This may also leave the target badly poisoned.",
+      "FieldValues": {}
+    }
+  }
+}

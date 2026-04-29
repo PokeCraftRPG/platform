@@ -1,0 +1,19 @@
+﻿{
+  "Id": "97aefd91-1b08-4ac4-b2c7-d9c6cb7f555a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tough-claws",
+    "DisplayName": "Tough Claws",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tough-claws",
+      "DisplayName": "Tough Claws",
+      "Description": "Powers up moves that make direct contact.",
+      "FieldValues": {}
+    }
+  }
+}

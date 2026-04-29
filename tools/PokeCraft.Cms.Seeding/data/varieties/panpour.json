@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6602a0ef-c373-46c4-9cc9-d62c919b64e7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "panpour",
+    "DisplayName": "Panpour",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5a4b7b08-afc0-438a-a92c-d12a9a4090c8\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "panpour",
+      "DisplayName": "Panpour",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Spray"
+      }
+    }
+  }
+}

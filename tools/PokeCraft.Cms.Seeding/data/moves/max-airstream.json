@@ -1,0 +1,24 @@
+﻿{
+  "Id": "5cccee69-db95-4623-a199-c94bdc115c2c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "max-airstream",
+    "DisplayName": "Max Airstream",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "10",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "max-airstream",
+      "DisplayName": "Max Airstream",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "c00b6cb6-bc37-49f6-b689-59a499770970",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "farfetchd-galar",
+    "DisplayName": "Galarian Farfetch’d",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"05a1f514-b0e2-4f7f-b512-e46a0c55464e\"]",
+      "Height": "8",
+      "Weight": "420",
+      "YieldExperience": "132",
+      "PrimaryAbility": "[\"d4177038-a9c6-44e6-adb5-615b7111a2b4\"]",
+      "HiddenAbility": "[\"fa0ae125-7b24-45a0-bf28-4b447dfa5e21\"]",
+      "BaseHP": "52",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "1",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "58",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "62",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "farfetchd-galar",
+      "DisplayName": "Galarian Farfetch’d",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

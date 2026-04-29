@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6b03e7eb-c7e0-408e-bcf4-f041783f26eb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "jaw-lock",
+    "DisplayName": "Jaw Lock",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "jaw-lock",
+      "DisplayName": "Jaw Lock",
+      "Description": "This move prevents the user and the target from switching out until either of them faints. The effect goes away if either of the Pokémon leaves the field.",
+      "FieldValues": {}
+    }
+  }
+}

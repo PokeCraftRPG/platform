@@ -1,0 +1,19 @@
+﻿{
+  "Id": "18c111db-23d2-4f3f-9097-e1d435c7611d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pastel-veil",
+    "DisplayName": "Pastel Veil",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pastel-veil",
+      "DisplayName": "Pastel Veil",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

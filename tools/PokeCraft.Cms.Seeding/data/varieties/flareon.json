@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6b2cbe60-b3ff-4673-9df8-d5b03832a542",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flareon",
+    "DisplayName": "Flareon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"363e4121-36db-4780-a50f-28f587980113\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flareon",
+      "DisplayName": "Flareon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Flame"
+      }
+    }
+  }
+}

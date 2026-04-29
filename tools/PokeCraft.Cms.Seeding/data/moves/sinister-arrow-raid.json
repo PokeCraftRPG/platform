@@ -1,0 +1,24 @@
+﻿{
+  "Id": "4a17fbc4-73be-4894-818e-aac1e3990c1b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sinister-arrow-raid",
+    "DisplayName": "Sinister Arrow Raid",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "180",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sinister-arrow-raid",
+      "DisplayName": "Sinister Arrow Raid",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

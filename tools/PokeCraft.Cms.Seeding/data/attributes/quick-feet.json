@@ -1,0 +1,19 @@
+﻿{
+  "Id": "69ed006e-469a-417a-824a-dd844d36ba47",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "quick-feet",
+    "DisplayName": "Quick Feet",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "quick-feet",
+      "DisplayName": "Quick Feet",
+      "Description": "Boosts the Speed stat if the Pokémon has a status condition.",
+      "FieldValues": {}
+    }
+  }
+}

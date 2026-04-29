@@ -1,0 +1,38 @@
+﻿{
+  "Id": "2db25859-5c9a-4b5d-9680-9525689cb638",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "falinks-mega",
+    "DisplayName": "Mega Falinks",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b7f93552-a2e0-42ed-af17-43fcd23103ba\"]",
+      "Height": "16",
+      "Weight": "990",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "135",
+      "YieldAttack": "0",
+      "BaseDefense": "135",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "falinks-mega",
+      "DisplayName": "Mega Falinks",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

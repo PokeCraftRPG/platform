@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d67b3ffd-6bc9-451e-aa97-a0e737d17121",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "beheeyem",
+    "DisplayName": "Beheeyem",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1196ffe3-5202-4fbc-bf5b-34a3da5d47fe\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "beheeyem",
+      "DisplayName": "Beheeyem",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cerebral"
+      }
+    }
+  }
+}

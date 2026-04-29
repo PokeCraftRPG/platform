@@ -1,0 +1,19 @@
+﻿{
+  "Id": "66b93af5-b909-4040-a7b6-88a8f467a29e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "battle-bond",
+    "DisplayName": "Battle Bond",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "battle-bond",
+      "DisplayName": "Battle Bond",
+      "Description": "When the Pokémon knocks out a target, its bond with its Trainer is strengthened, and its Attack, Sp. Atk, and Speed stats are boosted.",
+      "FieldValues": {}
+    }
+  }
+}

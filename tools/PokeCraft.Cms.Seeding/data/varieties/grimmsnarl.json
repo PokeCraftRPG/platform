@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c62820b4-cecc-452c-b270-9388e34f8cdb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grimmsnarl",
+    "DisplayName": "Grimmsnarl",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"653ae47d-546a-44d0-9897-c67686379525\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grimmsnarl",
+      "DisplayName": "Grimmsnarl",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bulk Up"
+      }
+    }
+  }
+}

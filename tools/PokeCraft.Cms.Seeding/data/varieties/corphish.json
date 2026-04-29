@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d56062bb-c351-4dd9-9f33-05fd069c1f1c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "corphish",
+    "DisplayName": "Corphish",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"dd0d11f2-e1f8-4e40-a78d-73f5fb71a7b9\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "corphish",
+      "DisplayName": "Corphish",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ruffian"
+      }
+    }
+  }
+}

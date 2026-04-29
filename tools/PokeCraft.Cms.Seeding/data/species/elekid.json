@@ -1,0 +1,27 @@
+﻿{
+  "Id": "75b679a0-0d53-44e8-8ee7-a0cdefbe70ee",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "elekid",
+    "DisplayName": "Elekid",
+    "Description": null,
+    "FieldValues": {
+      "Number": "239",
+      "Category": "[\"Baby\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "elekid",
+      "DisplayName": "Elekid",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

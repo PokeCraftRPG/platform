@@ -1,0 +1,25 @@
+﻿{
+  "Id": "8ced11d3-37ff-41e7-ab1a-fe16bf83ca56",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "brine",
+    "DisplayName": "Brine",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "65",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "brine",
+      "DisplayName": "Brine",
+      "Description": "This move's power is doubled if the target's HP is at half or less.",
+      "FieldValues": {}
+    }
+  }
+}

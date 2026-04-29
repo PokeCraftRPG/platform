@@ -1,0 +1,27 @@
+﻿{
+  "Id": "9a3687f1-1d1a-4032-9f2c-dde7a2260d59",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shelmet",
+    "DisplayName": "Shelmet",
+    "Description": null,
+    "FieldValues": {
+      "Number": "616",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "200",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shelmet",
+      "DisplayName": "Shelmet",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d0055fa6-3488-47ab-b80c-089fdcb53f60",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tyrantrum",
+    "DisplayName": "Tyrantrum",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"598ceed7-32a2-4ab4-8cdd-9f6f39dec6d6\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tyrantrum",
+      "DisplayName": "Tyrantrum",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Despot"
+      }
+    }
+  }
+}

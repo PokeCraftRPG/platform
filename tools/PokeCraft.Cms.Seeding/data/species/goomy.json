@@ -1,0 +1,27 @@
+﻿{
+  "Id": "1dc8ae80-19da-4dd8-b3a8-afdb22399543",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "goomy",
+    "DisplayName": "Goomy",
+    "Description": null,
+    "FieldValues": {
+      "Number": "704",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "goomy",
+      "DisplayName": "Goomy",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

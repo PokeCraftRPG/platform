@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d6c036b1-7a13-4b7a-bd4c-fbe36a98ef3c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "poliwag",
+    "DisplayName": "Poliwag",
+    "Description": null,
+    "FieldValues": {
+      "Number": "60",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "poliwag",
+      "DisplayName": "Poliwag",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

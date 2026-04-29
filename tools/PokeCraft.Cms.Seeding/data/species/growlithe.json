@@ -1,0 +1,27 @@
+﻿{
+  "Id": "dafaae3c-941b-4a64-9e5d-7b538e7514c6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "growlithe",
+    "DisplayName": "Growlithe",
+    "Description": null,
+    "FieldValues": {
+      "Number": "58",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "growlithe",
+      "DisplayName": "Growlithe",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

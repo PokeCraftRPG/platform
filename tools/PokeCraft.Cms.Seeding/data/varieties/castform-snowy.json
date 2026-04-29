@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f66ed6f1-336a-4b52-ba85-4b016cc76c41",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "castform-snowy",
+    "DisplayName": "Castform",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6686be7b-b6f1-4f0f-9201-41243857c19f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "castform-snowy",
+      "DisplayName": "Castform",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Weather"
+      }
+    }
+  }
+}

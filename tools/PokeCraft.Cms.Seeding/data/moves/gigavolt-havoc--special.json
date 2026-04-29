@@ -1,0 +1,23 @@
+﻿{
+  "Id": "a4dd9489-89dc-4b06-8dd2-60713945277b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gigavolt-havoc--special",
+    "DisplayName": "Gigavolt Havoc",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Special\"]",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gigavolt-havoc--special",
+      "DisplayName": "Gigavolt Havoc",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

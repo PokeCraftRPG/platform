@@ -1,0 +1,42 @@
+﻿{
+  "Id": "56b30921-4b35-424c-be8f-d60ccd56a5ce",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bouffalant",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b1a4ee1a-6801-409c-9f5f-5e050a45a3be\"]",
+      "Height": "16",
+      "Weight": "946",
+      "YieldExperience": "172",
+      "PrimaryAbility": "[\"3e4191ac-398f-48f3-a3ce-106d5ddd1742\"]",
+      "SecondaryAbility": "[\"a471c5f9-291c-4763-b84a-9c5c666f409b\"]",
+      "HiddenAbility": "[\"6df60939-ffd8-4ddb-ad1e-f4add0129eeb\"]",
+      "BaseHP": "95",
+      "YieldHP": "0",
+      "BaseAttack": "110",
+      "YieldAttack": "2",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bouffalant",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "ab5675fd-4f48-4e7a-8d3b-7ae5cde81f0b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shadow-wave",
+    "DisplayName": "Shadow Wave",
+    "Description": null,
+    "FieldValues": {
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "50"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shadow-wave",
+      "DisplayName": "Shadow Wave",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

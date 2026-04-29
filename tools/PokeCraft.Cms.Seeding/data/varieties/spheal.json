@@ -1,0 +1,26 @@
+﻿{
+  "Id": "917be08f-572e-49d4-8ff0-d8b1a5bd92f0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spheal",
+    "DisplayName": "Spheal",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f8543d4a-23f1-44f2-afa3-0c12086b127a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spheal",
+      "DisplayName": "Spheal",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Clap"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c8b06360-5088-43e2-9115-e3bf61aa8005",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "maschiff",
+    "DisplayName": "Maschiff",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"184c816d-c163-433f-a541-c81a2662c27c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "maschiff",
+      "DisplayName": "Maschiff",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rascal"
+      }
+    }
+  }
+}

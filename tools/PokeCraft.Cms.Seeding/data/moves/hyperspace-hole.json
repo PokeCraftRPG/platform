@@ -1,0 +1,24 @@
+﻿{
+  "Id": "a343f96e-02c8-42bc-abbe-0d9a3a299f6c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hyperspace-hole",
+    "DisplayName": "Hyperspace Hole",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Power": "80",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hyperspace-hole",
+      "DisplayName": "Hyperspace Hole",
+      "Description": "Using a hyperspace hole, the user appears right next to the target and strikes. This attack can hit a target using a move such as Protect or Detect.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "90c51c90-f08b-4612-b906-525fe60299d6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dracovish",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3c3a99fc-5055-43b9-a043-57215c89c8c0\"]",
+      "Height": "23",
+      "Weight": "2150",
+      "YieldExperience": "177",
+      "PrimaryAbility": "[\"ce06d228-a509-444d-ab16-f046f2519e89\"]",
+      "SecondaryAbility": "[\"fe62f3be-1b3d-461f-bb4c-963e988d426f\"]",
+      "HiddenAbility": "[\"1f97dbb4-7d22-4d79-b63a-492151e1f04a\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "75",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dracovish",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

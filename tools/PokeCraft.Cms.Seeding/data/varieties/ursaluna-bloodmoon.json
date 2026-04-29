@@ -1,0 +1,26 @@
+﻿{
+  "Id": "004a6fc8-4232-4e54-880d-162590311dda",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ursaluna-bloodmoon",
+    "DisplayName": "Ursaluna",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"bed4ff00-b997-4b23-9dc0-bb739ac8e1da\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ursaluna-bloodmoon",
+      "DisplayName": "Ursaluna",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Peat"
+      }
+    }
+  }
+}

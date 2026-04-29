@@ -1,0 +1,27 @@
+﻿{
+  "Id": "86aed9ed-cc0a-4e03-acf3-462c82ff28b2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "trumbeak",
+    "DisplayName": "Trumbeak",
+    "Description": null,
+    "FieldValues": {
+      "Number": "732",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "trumbeak",
+      "DisplayName": "Trumbeak",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

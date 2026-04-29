@@ -1,0 +1,41 @@
+﻿{
+  "Id": "f10b4bd7-a44a-4f7d-b8f6-63de73aff93d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "eternatus",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c0aad271-62ed-48b9-bfbe-9b95a993ff12\"]",
+      "Height": "200",
+      "Weight": "9500",
+      "YieldExperience": "345",
+      "PrimaryAbility": "[\"04822c52-0ef2-4b5e-a4bb-176772f6c3d8\"]",
+      "BaseHP": "140",
+      "YieldHP": "3",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "145",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "130",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "eternatus",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

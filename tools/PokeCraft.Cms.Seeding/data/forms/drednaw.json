@@ -1,0 +1,43 @@
+﻿{
+  "Id": "d028ef90-ba74-48aa-879b-035a710358a3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drednaw",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4ccb70d6-43c7-4fc3-99c1-3d7eba1b9957\"]",
+      "Height": "10",
+      "Weight": "1155",
+      "YieldExperience": "170",
+      "PrimaryAbility": "[\"fe62f3be-1b3d-461f-bb4c-963e988d426f\"]",
+      "SecondaryAbility": "[\"238257b2-205c-4b83-b5f1-393b8c11b2e9\"]",
+      "HiddenAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "115",
+      "YieldAttack": "2",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "48",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "68",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "74",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drednaw",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "84a30672-4ea5-4904-84fc-d04259c936a3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "prankster",
+    "DisplayName": "Prankster",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "prankster",
+      "DisplayName": "Prankster",
+      "Description": "Gives priority to the Pokémon's status moves.",
+      "FieldValues": {}
+    }
+  }
+}

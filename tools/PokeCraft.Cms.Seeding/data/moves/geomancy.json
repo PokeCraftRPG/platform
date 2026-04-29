@@ -1,0 +1,23 @@
+﻿{
+  "Id": "768ca23d-23b6-41fd-971f-6216c8f56552",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "geomancy",
+    "DisplayName": "Geomancy",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "geomancy",
+      "DisplayName": "Geomancy",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

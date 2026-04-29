@@ -1,0 +1,41 @@
+﻿{
+  "Id": "e51299ac-f2ea-4e40-8fb5-e4c953fa842e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stunfisk-galar",
+    "DisplayName": "Galarian Stunfisk",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"51fb086d-03ef-4e77-84b9-7e1d66089747\"]",
+      "Height": "7",
+      "Weight": "205",
+      "YieldExperience": "165",
+      "PrimaryAbility": "[\"e32eb06e-b4e9-497c-904f-3689aa16a5aa\"]",
+      "BaseHP": "109",
+      "YieldHP": "2",
+      "BaseAttack": "81",
+      "YieldAttack": "0",
+      "BaseDefense": "99",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "66",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "84",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "32",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stunfisk-galar",
+      "DisplayName": "Galarian Stunfisk",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

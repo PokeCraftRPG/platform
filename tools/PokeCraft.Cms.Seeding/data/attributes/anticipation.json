@@ -1,0 +1,19 @@
+﻿{
+  "Id": "6eea2506-c8b3-44c8-9082-76bec64e5880",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "anticipation",
+    "DisplayName": "Anticipation",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "anticipation",
+      "DisplayName": "Anticipation",
+      "Description": "The Pokémon can sense an opposing Pokémon's dangerous moves.",
+      "FieldValues": {}
+    }
+  }
+}

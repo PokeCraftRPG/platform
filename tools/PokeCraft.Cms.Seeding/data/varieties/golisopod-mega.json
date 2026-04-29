@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f5ed2ce5-7c03-4f36-9b9d-b069318d10e9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "golisopod-mega",
+    "DisplayName": "Golisopod",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"775bf140-7faa-4e99-86cf-03afe9dd75e7\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "golisopod-mega",
+      "DisplayName": "Golisopod",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Hard Scale"
+      }
+    }
+  }
+}

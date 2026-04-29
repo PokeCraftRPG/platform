@@ -1,0 +1,43 @@
+﻿{
+  "Id": "4890b3ff-34c2-4560-b84a-d6ba2062bf5c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "honchkrow",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"313cf002-4bc2-4217-a672-7d910e421138\"]",
+      "Height": "9",
+      "Weight": "273",
+      "YieldExperience": "177",
+      "PrimaryAbility": "[\"74551570-259c-470c-a9ba-64ffd0e3afad\"]",
+      "SecondaryAbility": "[\"c1dc8f0f-7de1-4657-b135-5bd8efc74e80\"]",
+      "HiddenAbility": "[\"5ca88ad1-2039-4935-9e88-99d81c4bf372\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "125",
+      "YieldAttack": "2",
+      "BaseDefense": "52",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "105",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "52",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "71",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "honchkrow",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

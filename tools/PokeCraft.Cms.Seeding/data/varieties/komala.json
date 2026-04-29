@@ -1,0 +1,26 @@
+﻿{
+  "Id": "58a3051d-16b9-4780-be74-f712b78ca623",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "komala",
+    "DisplayName": "Komala",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"34b58236-727b-43b2-b4fc-c93b0b2c5a7b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "komala",
+      "DisplayName": "Komala",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Drowsing"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "3ef7dab3-fc0b-47e1-93b8-cad460184dbe",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "assurance",
+    "DisplayName": "Assurance",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "assurance",
+      "DisplayName": "Assurance",
+      "Description": "This move's power is doubled if the target has already taken some damage in the same turn.",
+      "FieldValues": {}
+    }
+  }
+}

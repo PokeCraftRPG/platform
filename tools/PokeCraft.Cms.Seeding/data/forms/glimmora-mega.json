@@ -1,0 +1,40 @@
+﻿{
+  "Id": "dc127eba-c183-4017-ad0f-79c0b07853db",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glimmora-mega",
+    "DisplayName": "Mega Glimmora",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"54dbad27-be7d-4798-ab42-fd8f71b842ef\"]",
+      "Height": "28",
+      "Weight": "770",
+      "PrimaryAbility": "[\"463a60e6-bf15-4972-9934-481d443a8534\"]",
+      "BaseHP": "83",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "105",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "150",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "96",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "101",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glimmora-mega",
+      "DisplayName": "Mega Glimmora",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

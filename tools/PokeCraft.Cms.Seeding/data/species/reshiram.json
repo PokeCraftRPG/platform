@@ -1,0 +1,27 @@
+﻿{
+  "Id": "93c59fed-564e-4875-abf3-517f0a1457db",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "reshiram",
+    "DisplayName": "Reshiram",
+    "Description": null,
+    "FieldValues": {
+      "Number": "643",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "reshiram",
+      "DisplayName": "Reshiram",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

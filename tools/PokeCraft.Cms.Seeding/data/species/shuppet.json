@@ -1,0 +1,27 @@
+﻿{
+  "Id": "82721432-1627-4fae-95c9-cabbf8781e09",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shuppet",
+    "DisplayName": "Shuppet",
+    "Description": null,
+    "FieldValues": {
+      "Number": "353",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "225",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shuppet",
+      "DisplayName": "Shuppet",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

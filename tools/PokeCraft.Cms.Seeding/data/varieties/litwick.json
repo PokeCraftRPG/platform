@@ -1,0 +1,26 @@
+﻿{
+  "Id": "24c6ef15-9d29-4b3d-8d33-aa03d82e8ad0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "litwick",
+    "DisplayName": "Litwick",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f25754fa-f8b6-468a-a18f-984d9b5c9c6b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "litwick",
+      "DisplayName": "Litwick",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Candle"
+      }
+    }
+  }
+}

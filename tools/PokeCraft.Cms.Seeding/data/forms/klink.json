@@ -1,0 +1,42 @@
+﻿{
+  "Id": "1656ff8a-6a18-451b-b186-eba9bc2315d6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "klink",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"43ffa9e5-0945-409f-9f15-0e2165b3be34\"]",
+      "Height": "3",
+      "Weight": "210",
+      "YieldExperience": "60",
+      "PrimaryAbility": "[\"885b9c4a-a988-4730-a7dd-b11c03474e5d\"]",
+      "SecondaryAbility": "[\"1fdf39c7-0d56-4eaf-9c4c-b9fe5a938d0b\"]",
+      "HiddenAbility": "[\"eac52537-4006-4999-9072-1b3e1a92910c\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "klink",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

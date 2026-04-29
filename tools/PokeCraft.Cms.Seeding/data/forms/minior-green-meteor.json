@@ -1,0 +1,41 @@
+﻿{
+  "Id": "2bffd9b7-2162-455d-ac41-5a36e05b14e4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "minior-green-meteor",
+    "DisplayName": "Green Meteor Minior",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"017e61a1-a909-4c02-8eed-ec135f01620c\"]",
+      "Height": "3",
+      "Weight": "400",
+      "YieldExperience": "154",
+      "PrimaryAbility": "[\"a521c824-65bf-45af-b621-33901339def9\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "minior-green-meteor",
+      "DisplayName": "Green Meteor Minior",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

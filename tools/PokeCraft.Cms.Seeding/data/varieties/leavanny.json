@@ -1,0 +1,26 @@
+﻿{
+  "Id": "eeded840-c9da-43d1-9475-766ae4cfbaaa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "leavanny",
+    "DisplayName": "Leavanny",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6701eb6c-ca2c-4111-9423-51d6bb3f99c8\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "leavanny",
+      "DisplayName": "Leavanny",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Nurturing"
+      }
+    }
+  }
+}

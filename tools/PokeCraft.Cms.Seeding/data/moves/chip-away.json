@@ -1,0 +1,25 @@
+﻿{
+  "Id": "60194a29-9d7f-4fb9-b6ae-8063891aead2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chip-away",
+    "DisplayName": "Chip Away",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "70",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chip-away",
+      "DisplayName": "Chip Away",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

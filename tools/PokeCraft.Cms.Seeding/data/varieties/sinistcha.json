@@ -1,0 +1,25 @@
+﻿{
+  "Id": "e807bca5-0caa-43f9-9a82-5333297f9e88",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sinistcha",
+    "DisplayName": "Sinistcha",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"42441fb3-c287-4fbc-aed8-8e77b87f2bf7\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sinistcha",
+      "DisplayName": "Sinistcha",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Matcha"
+      }
+    }
+  }
+}

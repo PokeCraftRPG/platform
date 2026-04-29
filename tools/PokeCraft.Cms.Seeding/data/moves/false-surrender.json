@@ -1,0 +1,24 @@
+﻿{
+  "Id": "6ec4c926-6e21-4d48-9382-ad0d13ae1669",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "false-surrender",
+    "DisplayName": "False Surrender",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "false-surrender",
+      "DisplayName": "False Surrender",
+      "Description": "The user pretends to bow its head, but then it stabs the target with its disheveled hair. This attack never misses.",
+      "FieldValues": {}
+    }
+  }
+}

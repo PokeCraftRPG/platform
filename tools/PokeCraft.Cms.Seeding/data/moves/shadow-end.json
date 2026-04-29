@@ -1,0 +1,23 @@
+﻿{
+  "Id": "34759b53-519e-4a7c-a366-51ed56d57255",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shadow-end",
+    "DisplayName": "Shadow End",
+    "Description": null,
+    "FieldValues": {
+      "Category": "[\"Physical\"]",
+      "Accuracy": "60",
+      "Power": "120"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shadow-end",
+      "DisplayName": "Shadow End",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

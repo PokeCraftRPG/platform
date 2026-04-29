@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b1e7a302-f1c6-47d2-b0f6-a5de43223ec6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hoothoot",
+    "DisplayName": "Hoothoot",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9d127f5d-294d-428e-a226-03415627563e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hoothoot",
+      "DisplayName": "Hoothoot",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Owl"
+      }
+    }
+  }
+}

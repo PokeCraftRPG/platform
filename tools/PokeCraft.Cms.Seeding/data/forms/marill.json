@@ -1,0 +1,43 @@
+﻿{
+  "Id": "e927b8a0-4952-4e56-8393-e5dacf3dfe91",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "marill",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f6297d3e-af05-4f54-a0f9-cb330f9b9704\"]",
+      "Height": "4",
+      "Weight": "85",
+      "YieldExperience": "88",
+      "PrimaryAbility": "[\"d6fa994e-7a48-48b5-9f1f-c1b84dd3225f\"]",
+      "SecondaryAbility": "[\"fc4446e9-654f-46c3-8257-6cb0986da05f\"]",
+      "HiddenAbility": "[\"a471c5f9-291c-4763-b84a-9c5c666f409b\"]",
+      "BaseHP": "70",
+      "YieldHP": "2",
+      "BaseAttack": "20",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "20",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "marill",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

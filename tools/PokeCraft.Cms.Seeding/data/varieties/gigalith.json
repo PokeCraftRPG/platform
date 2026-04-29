@@ -1,0 +1,26 @@
+﻿{
+  "Id": "edffa5aa-25ef-461d-94a9-dbc958976709",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gigalith",
+    "DisplayName": "Gigalith",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"61ae2216-5ea6-4dbd-876c-9fd5f9d17510\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gigalith",
+      "DisplayName": "Gigalith",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Compressed"
+      }
+    }
+  }
+}

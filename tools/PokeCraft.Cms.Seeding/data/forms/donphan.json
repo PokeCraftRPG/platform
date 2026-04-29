@@ -1,0 +1,41 @@
+﻿{
+  "Id": "3029b165-ae46-4bc1-abf6-58ed37da7677",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "donphan",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"95a53223-e471-4462-9274-73dbe8b425f1\"]",
+      "Height": "11",
+      "Weight": "1200",
+      "YieldExperience": "175",
+      "PrimaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "HiddenAbility": "[\"2298dae8-5c1f-423f-960d-8cf61b19c897\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "1",
+      "BaseDefense": "120",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "donphan",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

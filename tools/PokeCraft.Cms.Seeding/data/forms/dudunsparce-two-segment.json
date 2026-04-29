@@ -1,0 +1,42 @@
+﻿{
+  "Id": "13c1801d-065c-46a9-8a12-ec65eb0e7cd2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dudunsparce-two-segment",
+    "DisplayName": "Two-Segment Form Dudunsparce",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4b42dd72-730c-46e4-b8b4-d5e062dbe815\"]",
+      "Height": "36",
+      "Weight": "392",
+      "YieldExperience": "182",
+      "PrimaryAbility": "[\"f1619484-cf62-4314-a26f-a79e00b5720f\"]",
+      "SecondaryAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "HiddenAbility": "[\"9c030956-19a0-4e37-8835-0484c2fa3d91\"]",
+      "BaseHP": "125",
+      "YieldHP": "2",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dudunsparce-two-segment",
+      "DisplayName": "Two-Segment Form Dudunsparce",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e9d7ee85-9089-4b7d-af4f-6528785416a5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "graveler",
+    "DisplayName": "Graveler",
+    "Description": null,
+    "FieldValues": {
+      "Number": "75",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "graveler",
+      "DisplayName": "Graveler",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

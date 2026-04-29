@@ -1,0 +1,25 @@
+﻿{
+  "Id": "8521b410-a4c4-47de-a8d2-4db800ba0284",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "synchronoise",
+    "DisplayName": "Synchronoise",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "synchronoise",
+      "DisplayName": "Synchronoise",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

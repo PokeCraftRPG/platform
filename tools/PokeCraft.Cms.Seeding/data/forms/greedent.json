@@ -1,0 +1,41 @@
+﻿{
+  "Id": "937d739c-91bb-4c73-85c3-47ceea337a9d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "greedent",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"82e7b5c2-cd1b-4941-a4cc-a904df8e3ba2\"]",
+      "Height": "6",
+      "Weight": "60",
+      "YieldExperience": "161",
+      "PrimaryAbility": "[\"f6d802de-f5c1-41cc-bdc8-744a3fdfcf19\"]",
+      "HiddenAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "BaseHP": "120",
+      "YieldHP": "2",
+      "BaseAttack": "95",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "20",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "greedent",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

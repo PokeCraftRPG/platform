@@ -1,0 +1,43 @@
+﻿{
+  "Id": "c186b54a-9d83-4e8f-ba7e-7354b7330466",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "delibird",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4ef001e6-4005-4e2e-b5a2-f608e313481a\"]",
+      "Height": "9",
+      "Weight": "160",
+      "YieldExperience": "116",
+      "PrimaryAbility": "[\"45a56091-34c8-4407-8d66-a4a64e2eb101\"]",
+      "SecondaryAbility": "[\"12b608f7-a7b7-412e-803f-28d4eaba64c8\"]",
+      "HiddenAbility": "[\"74551570-259c-470c-a9ba-64ffd0e3afad\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "75",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "delibird",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

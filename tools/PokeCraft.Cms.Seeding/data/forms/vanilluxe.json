@@ -1,0 +1,42 @@
+﻿{
+  "Id": "aeb7b656-2dff-4e53-9ec0-fb650ec18879",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vanilluxe",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a1d7152c-f0a9-4ad5-80ab-4f44a6d78cf4\"]",
+      "Height": "13",
+      "Weight": "575",
+      "YieldExperience": "241",
+      "PrimaryAbility": "[\"c28be462-7265-4527-a8aa-85774f7eaf7b\"]",
+      "SecondaryAbility": "[\"94d77255-80ed-447a-8809-43dc73a72602\"]",
+      "HiddenAbility": "[\"2b8b8cfa-e12e-43d2-b403-594ac9a1c1f7\"]",
+      "BaseHP": "71",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "0",
+      "BaseDefense": "85",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "110",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "79",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vanilluxe",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

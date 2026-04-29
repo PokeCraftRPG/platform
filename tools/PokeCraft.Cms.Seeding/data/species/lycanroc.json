@@ -1,0 +1,27 @@
+﻿{
+  "Id": "72e57b85-3905-4119-8c0c-1e967310e9a2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lycanroc",
+    "DisplayName": "Lycanroc",
+    "Description": null,
+    "FieldValues": {
+      "Number": "745",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lycanroc",
+      "DisplayName": "Lycanroc",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

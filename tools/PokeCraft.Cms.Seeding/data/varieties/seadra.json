@@ -1,0 +1,26 @@
+﻿{
+  "Id": "8255ca90-3702-4ea4-a5b1-540d7f913147",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "seadra",
+    "DisplayName": "Seadra",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"17ad7193-0d4f-4e83-a773-7a611ad654a2\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "seadra",
+      "DisplayName": "Seadra",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Dragon"
+      }
+    }
+  }
+}

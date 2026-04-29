@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d4607381-8192-4729-8574-5afedd76c16f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bounsweet",
+    "DisplayName": "Bounsweet",
+    "Description": null,
+    "FieldValues": {
+      "Number": "761",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "235",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bounsweet",
+      "DisplayName": "Bounsweet",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

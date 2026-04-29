@@ -1,0 +1,41 @@
+﻿{
+  "Id": "30c7eb26-0f09-471d-b3b9-6b91ff1375fb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cramorant-gulping",
+    "DisplayName": "Gulping Cramorant",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"eb5edffb-c943-4ab3-ba90-0118de10fe80\"]",
+      "Height": "8",
+      "Weight": "180",
+      "YieldExperience": "166",
+      "PrimaryAbility": "[\"2e48ab3b-2657-4b9f-96b8-8614cc22877a\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Flying\"]",
+      "SecondaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cramorant-gulping",
+      "DisplayName": "Gulping Cramorant",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

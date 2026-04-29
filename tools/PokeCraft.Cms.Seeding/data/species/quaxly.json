@@ -1,0 +1,28 @@
+﻿{
+  "Id": "b779537b-8eba-4c5e-a132-576cd5ae4bb0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "quaxly",
+    "DisplayName": "Quaxly",
+    "Description": null,
+    "FieldValues": {
+      "Number": "912",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Flying\"]",
+      "SecondaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "quaxly",
+      "DisplayName": "Quaxly",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

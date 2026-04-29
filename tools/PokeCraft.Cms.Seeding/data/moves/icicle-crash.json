@@ -1,0 +1,25 @@
+﻿{
+  "Id": "a17f5a25-d4f4-48de-baa7-f12a66e29f4e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "icicle-crash",
+    "DisplayName": "Icicle Crash",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "85",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "icicle-crash",
+      "DisplayName": "Icicle Crash",
+      "Description": "The user attacks by crashing large icicles onto the target. This may also make the target flinch.",
+      "FieldValues": {}
+    }
+  }
+}

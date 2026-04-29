@@ -1,0 +1,42 @@
+﻿{
+  "Id": "35f0f6c5-aa65-469b-9330-f006fb7afc1c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "beedrill",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5c5c46be-904a-4661-8d19-c21d1d2c6725\"]",
+      "Height": "10",
+      "Weight": "295",
+      "YieldExperience": "178",
+      "PrimaryAbility": "[\"ba1b3a50-acc0-4032-bf14-6572fa26daed\"]",
+      "HiddenAbility": "[\"e1b8fd69-5bf8-4889-ab24-ea30a8419d99\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "2",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "75",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "beedrill",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

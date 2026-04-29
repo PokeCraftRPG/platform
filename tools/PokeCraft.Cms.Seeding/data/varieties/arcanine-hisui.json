@@ -1,0 +1,26 @@
+﻿{
+  "Id": "af618aaf-713c-412b-9fa5-bcf73547781b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arcanine-hisui",
+    "DisplayName": "Arcanine",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1e13afbb-1f05-4655-96e5-fa308299f6b0\"]",
+      "GenderRatio": "6",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arcanine-hisui",
+      "DisplayName": "Arcanine",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Legendary"
+      }
+    }
+  }
+}

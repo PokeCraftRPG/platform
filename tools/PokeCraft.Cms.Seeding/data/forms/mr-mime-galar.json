@@ -1,0 +1,43 @@
+﻿{
+  "Id": "9ecb5c7b-b447-4e47-8237-90eb529a2163",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mr-mime-galar",
+    "DisplayName": "Galarian Mr. Mime",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7561a729-dc00-4853-97f6-363e582e2e41\"]",
+      "Height": "14",
+      "Weight": "568",
+      "YieldExperience": "161",
+      "PrimaryAbility": "[\"45a56091-34c8-4407-8d66-a4a64e2eb101\"]",
+      "SecondaryAbility": "[\"9a99c76f-2cac-4cd9-aa69-ee740644f238\"]",
+      "HiddenAbility": "[\"c28be462-7265-4527-a8aa-85774f7eaf7b\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "90",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mr-mime-galar",
+      "DisplayName": "Galarian Mr. Mime",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

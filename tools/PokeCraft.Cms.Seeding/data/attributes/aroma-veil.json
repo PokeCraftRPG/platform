@@ -1,0 +1,19 @@
+﻿{
+  "Id": "56b529e6-13d3-4830-992f-f1807b22cd23",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aroma-veil",
+    "DisplayName": "Aroma Veil",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aroma-veil",
+      "DisplayName": "Aroma Veil",
+      "Description": "Protects the Pokémon and its allies from effects that prevent the use of moves.",
+      "FieldValues": {}
+    }
+  }
+}

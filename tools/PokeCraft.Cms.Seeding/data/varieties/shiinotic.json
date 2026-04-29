@@ -1,0 +1,26 @@
+﻿{
+  "Id": "dd14bfd8-519b-4db3-88c1-8ed199aa0551",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shiinotic",
+    "DisplayName": "Shiinotic",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"246e9095-8a04-4d84-a936-517fde18cefc\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shiinotic",
+      "DisplayName": "Shiinotic",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Illuminating"
+      }
+    }
+  }
+}

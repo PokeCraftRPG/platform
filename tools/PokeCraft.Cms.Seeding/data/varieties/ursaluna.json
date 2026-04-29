@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1c959156-ebe2-4d0f-a1f5-841137c34f6f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ursaluna",
+    "DisplayName": "Ursaluna",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"bed4ff00-b997-4b23-9dc0-bb739ac8e1da\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ursaluna",
+      "DisplayName": "Ursaluna",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Peat"
+      }
+    }
+  }
+}

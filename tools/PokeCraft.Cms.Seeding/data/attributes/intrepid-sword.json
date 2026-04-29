@@ -1,0 +1,19 @@
+﻿{
+  "Id": "a9f92951-9270-4a73-a2ac-b821aa439635",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "intrepid-sword",
+    "DisplayName": "Intrepid Sword",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "intrepid-sword",
+      "DisplayName": "Intrepid Sword",
+      "Description": "Boosts the Pokémon’s Attack stat the first time the Pokémon enters a battle.",
+      "FieldValues": {}
+    }
+  }
+}

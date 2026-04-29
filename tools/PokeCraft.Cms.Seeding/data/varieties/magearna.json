@@ -1,0 +1,25 @@
+﻿{
+  "Id": "7cfb29b5-a0b0-4d57-befe-520cf046d7e8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magearna",
+    "DisplayName": "Magearna",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d2c0aa50-510f-4929-b467-62436dfddca9\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magearna",
+      "DisplayName": "Magearna",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Artificial"
+      }
+    }
+  }
+}

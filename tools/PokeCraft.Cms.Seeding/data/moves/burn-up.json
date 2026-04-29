@@ -1,0 +1,25 @@
+﻿{
+  "Id": "e33dac35-91ec-42cf-aef4-9ba3b13c1000",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "burn-up",
+    "DisplayName": "Burn Up",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "130",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "burn-up",
+      "DisplayName": "Burn Up",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

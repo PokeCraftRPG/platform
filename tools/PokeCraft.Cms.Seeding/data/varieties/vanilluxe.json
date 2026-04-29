@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a1d7152c-f0a9-4ad5-80ab-4f44a6d78cf4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vanilluxe",
+    "DisplayName": "Vanilluxe",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6c9e7026-3a05-4644-a7ca-ea71fa4e189d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vanilluxe",
+      "DisplayName": "Vanilluxe",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Snowstorm"
+      }
+    }
+  }
+}

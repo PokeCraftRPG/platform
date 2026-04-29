@@ -1,0 +1,26 @@
+﻿{
+  "Id": "480004c2-d4b6-4011-8d93-b01e06a4bc98",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "poochyena",
+    "DisplayName": "Poochyena",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d151e991-a09a-4003-bdc1-817c5f326501\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "poochyena",
+      "DisplayName": "Poochyena",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bite"
+      }
+    }
+  }
+}

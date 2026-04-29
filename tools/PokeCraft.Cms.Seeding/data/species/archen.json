@@ -1,0 +1,28 @@
+﻿{
+  "Id": "f802bd0a-dd20-4b8c-849a-0f10bd19ad19",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "archen",
+    "DisplayName": "Archen",
+    "Description": null,
+    "FieldValues": {
+      "Number": "566",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Flying\"]",
+      "SecondaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "archen",
+      "DisplayName": "Archen",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

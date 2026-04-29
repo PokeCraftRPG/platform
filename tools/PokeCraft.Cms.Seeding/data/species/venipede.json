@@ -1,0 +1,27 @@
+﻿{
+  "Id": "4131c40d-a334-4ec9-9ed8-f294f8d93b34",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "venipede",
+    "DisplayName": "Venipede",
+    "Description": null,
+    "FieldValues": {
+      "Number": "543",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "venipede",
+      "DisplayName": "Venipede",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

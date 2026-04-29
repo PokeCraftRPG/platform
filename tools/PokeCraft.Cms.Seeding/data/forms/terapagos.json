@@ -1,0 +1,40 @@
+﻿{
+  "Id": "0e4ccd16-7cf0-4906-b656-e8340a4d07ca",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "terapagos",
+    "DisplayName": "Normal Form Terapagos",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"578e715c-b3b4-4492-aef8-5a3206c7fb8d\"]",
+      "Height": "2",
+      "Weight": "65",
+      "YieldExperience": "90",
+      "PrimaryAbility": "[\"793c8451-1c4b-4f67-8dfd-f874fac318f9\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "85",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "terapagos",
+      "DisplayName": "Normal Form Terapagos",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

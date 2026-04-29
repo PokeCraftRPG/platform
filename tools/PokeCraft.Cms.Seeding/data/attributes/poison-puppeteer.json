@@ -1,0 +1,19 @@
+﻿{
+  "Id": "52d9f76a-245d-4d12-9a4d-75e93f155661",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "poison-puppeteer",
+    "DisplayName": "Poison Puppeteer",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "poison-puppeteer",
+      "DisplayName": "Poison Puppeteer",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

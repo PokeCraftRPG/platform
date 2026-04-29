@@ -1,0 +1,27 @@
+﻿{
+  "Id": "a28ae6e1-6cf4-4b2d-a160-fc355549fc17",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cascoon",
+    "DisplayName": "Cascoon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "268",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cascoon",
+      "DisplayName": "Cascoon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

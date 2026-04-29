@@ -1,0 +1,27 @@
+﻿{
+  "Id": "4cb37a34-855d-49ed-9028-47b1bdcf85db",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "heracross",
+    "DisplayName": "Heracross",
+    "Description": null,
+    "FieldValues": {
+      "Number": "214",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "heracross",
+      "DisplayName": "Heracross",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

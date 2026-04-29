@@ -1,0 +1,23 @@
+﻿{
+  "Id": "660de984-e6b8-4c21-9575-5618db1995a6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pika-papow",
+    "DisplayName": "Pika Papow",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Special\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pika-papow",
+      "DisplayName": "Pika Papow",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "7fb235eb-cae5-4727-80a7-dfce6d402b25",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "linoone-galar",
+    "DisplayName": "Galarian Linoone",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"16d7484a-c83d-41dc-a2a5-00d7d7113926\"]",
+      "Height": "5",
+      "Weight": "325",
+      "YieldExperience": "147",
+      "PrimaryAbility": "[\"071551b8-ee73-4742-85e8-264e82a49f57\"]",
+      "SecondaryAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "HiddenAbility": "[\"69ed006e-469a-417a-824a-dd844d36ba47\"]",
+      "BaseHP": "78",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "61",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "61",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "linoone-galar",
+      "DisplayName": "Galarian Linoone",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

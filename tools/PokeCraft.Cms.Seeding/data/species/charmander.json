@@ -1,0 +1,28 @@
+﻿{
+  "Id": "60567581-8d61-43fa-9fe9-703f473d20cc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "charmander",
+    "DisplayName": "Charmander",
+    "Description": null,
+    "FieldValues": {
+      "Number": "4",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "charmander",
+      "DisplayName": "Charmander",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

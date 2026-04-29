@@ -1,0 +1,25 @@
+﻿{
+  "Id": "157c9cc2-cdec-4f50-9586-2498026cfaba",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sacred-sword",
+    "DisplayName": "Sacred Sword",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sacred-sword",
+      "DisplayName": "Sacred Sword",
+      "Description": "The user attacks by slicing with a sword. The target's stat changes don't affect the damage inflicted by this move.",
+      "FieldValues": {}
+    }
+  }
+}

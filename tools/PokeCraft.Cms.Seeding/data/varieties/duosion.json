@@ -1,0 +1,26 @@
+﻿{
+  "Id": "17bb4ce7-cc9a-4454-9c55-9b4d7fd25800",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "duosion",
+    "DisplayName": "Duosion",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1f4158b0-8bb4-4b6a-aa2d-06af8f75d7a5\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "duosion",
+      "DisplayName": "Duosion",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mitosis"
+      }
+    }
+  }
+}

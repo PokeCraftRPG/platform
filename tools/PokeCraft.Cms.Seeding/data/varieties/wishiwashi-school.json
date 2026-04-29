@@ -1,0 +1,26 @@
+﻿{
+  "Id": "78d08ced-8663-4d31-9a21-80f43a71e22d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wishiwashi-school",
+    "DisplayName": "Wishiwashi",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"038e374e-b60b-4f59-b6ad-c36390c007fe\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wishiwashi-school",
+      "DisplayName": "Wishiwashi",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Small Fry"
+      }
+    }
+  }
+}

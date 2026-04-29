@@ -1,0 +1,27 @@
+﻿{
+  "Id": "44f8e35a-1ead-4287-aa1c-ec223d551989",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "typhlosion",
+    "DisplayName": "Typhlosion",
+    "Description": null,
+    "FieldValues": {
+      "Number": "157",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "typhlosion",
+      "DisplayName": "Typhlosion",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "a4dbbf3f-78e7-4f5b-bac3-cccb3b80db8b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "volt-tackle",
+    "DisplayName": "Volt Tackle",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "volt-tackle",
+      "DisplayName": "Volt Tackle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

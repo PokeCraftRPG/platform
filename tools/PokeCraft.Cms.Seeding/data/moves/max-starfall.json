@@ -1,0 +1,24 @@
+﻿{
+  "Id": "c305a23f-a385-48f1-83f2-d06751a4e62c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "max-starfall",
+    "DisplayName": "Max Starfall",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "10",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "max-starfall",
+      "DisplayName": "Max Starfall",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

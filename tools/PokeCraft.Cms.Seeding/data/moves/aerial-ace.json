@@ -1,0 +1,24 @@
+﻿{
+  "Id": "9c9f3052-6a12-43ac-a27f-a41689aef498",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aerial-ace",
+    "DisplayName": "Aerial Ace",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "60",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aerial-ace",
+      "DisplayName": "Aerial Ace",
+      "Description": "The user confounds the target with speed, then slashes. This attack never misses.",
+      "FieldValues": {}
+    }
+  }
+}

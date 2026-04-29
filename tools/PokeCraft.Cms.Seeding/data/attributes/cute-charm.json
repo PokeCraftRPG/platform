@@ -1,0 +1,19 @@
+﻿{
+  "Id": "1547f00e-f05d-4d0c-98c7-9a77e75e1bf5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cute-charm",
+    "DisplayName": "Cute Charm",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cute-charm",
+      "DisplayName": "Cute Charm",
+      "Description": "The Pokémon may infatuate attackers that make direct contact with it.",
+      "FieldValues": {}
+    }
+  }
+}

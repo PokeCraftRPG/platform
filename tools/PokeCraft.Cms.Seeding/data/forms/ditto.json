@@ -1,0 +1,41 @@
+﻿{
+  "Id": "90de50b1-d33f-4d9e-8a1b-b78f5469a67e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ditto",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b94c06b9-fba7-49e8-83c6-a3ccaeaea754\"]",
+      "Height": "3",
+      "Weight": "40",
+      "YieldExperience": "101",
+      "PrimaryAbility": "[\"170e2598-7fd5-497f-9003-f9d753aadd0d\"]",
+      "HiddenAbility": "[\"b28942db-fbf2-4313-ab25-51af9668f755\"]",
+      "BaseHP": "48",
+      "YieldHP": "1",
+      "BaseAttack": "48",
+      "YieldAttack": "0",
+      "BaseDefense": "48",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "48",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "48",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "48",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ditto",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

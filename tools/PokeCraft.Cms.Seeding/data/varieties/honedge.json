@@ -1,0 +1,26 @@
+﻿{
+  "Id": "bfc32918-69e1-4a91-9356-b0731a9b6f10",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "honedge",
+    "DisplayName": "Honedge",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2fddf89f-9c35-43c9-a667-514c182ffb5d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "honedge",
+      "DisplayName": "Honedge",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sword"
+      }
+    }
+  }
+}

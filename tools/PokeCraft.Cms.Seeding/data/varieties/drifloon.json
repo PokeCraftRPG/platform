@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a6badd46-74c9-41fe-a2c7-bf80a1d8b027",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drifloon",
+    "DisplayName": "Drifloon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0065e1db-f2c8-4d97-98a2-9e1263a4be3e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drifloon",
+      "DisplayName": "Drifloon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Balloon"
+      }
+    }
+  }
+}

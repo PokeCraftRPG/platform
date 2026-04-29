@@ -1,0 +1,24 @@
+﻿{
+  "Id": "a4ce6de3-ccf3-453b-bafd-480c42edab10",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "metal-burst",
+    "DisplayName": "Metal Burst",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "metal-burst",
+      "DisplayName": "Metal Burst",
+      "Description": "The user retaliates with much greater force against the opponent that last inflicted damage on it.",
+      "FieldValues": {}
+    }
+  }
+}

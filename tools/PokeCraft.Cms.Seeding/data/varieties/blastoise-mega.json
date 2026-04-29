@@ -1,0 +1,26 @@
+﻿{
+  "Id": "2fbdc618-abed-48d6-8dda-82f3f176cb9d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blastoise-mega",
+    "DisplayName": "Blastoise",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d59f82d0-3101-4f12-b735-1d2a3fd964f0\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blastoise-mega",
+      "DisplayName": "Blastoise",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Shellfish"
+      }
+    }
+  }
+}

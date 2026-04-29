@@ -1,0 +1,28 @@
+﻿{
+  "Id": "e61ff48d-05e7-4397-9d39-5f01ab43ad3a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arctibax",
+    "DisplayName": "Arctibax",
+    "Description": null,
+    "FieldValues": {
+      "Number": "997",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "25",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Dragon\"]",
+      "SecondaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arctibax",
+      "DisplayName": "Arctibax",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

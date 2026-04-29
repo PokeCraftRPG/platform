@@ -1,0 +1,23 @@
+﻿{
+  "Id": "c798dcab-c4d1-4ae8-925b-78a73d93d4dc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stockpile",
+    "DisplayName": "Stockpile",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stockpile",
+      "DisplayName": "Stockpile",
+      "Description": "The user stores power and boosts its Defense and Sp. Def stats. This move can be used up to three times.",
+      "FieldValues": {}
+    }
+  }
+}

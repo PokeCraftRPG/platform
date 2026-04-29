@@ -1,0 +1,26 @@
+﻿{
+  "Id": "50f91113-9eab-46d2-b683-fe18b0c90e01",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spidops",
+    "DisplayName": "Spidops",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a474bb12-ba1b-4937-a713-2c25834295a6\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spidops",
+      "DisplayName": "Spidops",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Trap"
+      }
+    }
+  }
+}

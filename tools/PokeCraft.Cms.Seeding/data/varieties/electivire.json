@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d5dd9dd4-48ca-4d4f-8064-b3aa78ff5f86",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "electivire",
+    "DisplayName": "Electivire",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c76b8a50-0eec-490f-ab93-7a48ba1bf111\"]",
+      "GenderRatio": "6",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "electivire",
+      "DisplayName": "Electivire",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Thunderbolt"
+      }
+    }
+  }
+}

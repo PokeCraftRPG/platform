@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4b691cb3-964f-4269-8c0e-4837d41110e7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lokix",
+    "DisplayName": "Lokix",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c084c88a-4dbe-49f3-93f1-e39265fb4659\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lokix",
+      "DisplayName": "Lokix",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Grasshopper"
+      }
+    }
+  }
+}

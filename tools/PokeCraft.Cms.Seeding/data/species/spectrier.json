@@ -1,0 +1,27 @@
+﻿{
+  "Id": "3c5e0182-7087-402c-951e-687431649bb2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spectrier",
+    "DisplayName": "Spectrier",
+    "Description": null,
+    "FieldValues": {
+      "Number": "897",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spectrier",
+      "DisplayName": "Spectrier",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

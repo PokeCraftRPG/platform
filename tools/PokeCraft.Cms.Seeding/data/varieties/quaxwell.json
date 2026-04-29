@@ -1,0 +1,26 @@
+﻿{
+  "Id": "8191c20e-0775-4aae-ad7f-a7db33cfd3b4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "quaxwell",
+    "DisplayName": "Quaxwell",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7fd38592-b5f1-4700-9cfb-e684bb2c923d\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "quaxwell",
+      "DisplayName": "Quaxwell",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Practicing"
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "3410afaa-8ba1-49a2-8899-ceda496303bd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kyurem",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"8ef0d76c-87bf-48d8-91bf-0443fe0d3bee\"]",
+      "Height": "30",
+      "Weight": "3250",
+      "YieldExperience": "297",
+      "PrimaryAbility": "[\"04822c52-0ef2-4b5e-a4bb-176772f6c3d8\"]",
+      "BaseHP": "125",
+      "YieldHP": "1",
+      "BaseAttack": "130",
+      "YieldAttack": "1",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "130",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kyurem",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

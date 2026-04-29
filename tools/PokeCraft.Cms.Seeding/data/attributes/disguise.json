@@ -1,0 +1,19 @@
+﻿{
+  "Id": "ce5e54a6-1529-4c02-9cc8-c09d305617a1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "disguise",
+    "DisplayName": "Disguise",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "disguise",
+      "DisplayName": "Disguise",
+      "Description": "Once per battle, the shroud that covers the Pokémon can protect it from an attack.",
+      "FieldValues": {}
+    }
+  }
+}

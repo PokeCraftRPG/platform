@@ -1,0 +1,27 @@
+﻿{
+  "Id": "2292606c-3fa0-4c48-9d3e-cbcaec06d0a4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "calyrex",
+    "DisplayName": "Calyrex",
+    "Description": null,
+    "FieldValues": {
+      "Number": "898",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "100",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "calyrex",
+      "DisplayName": "Calyrex",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

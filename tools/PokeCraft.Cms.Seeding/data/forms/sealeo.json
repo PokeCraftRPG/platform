@@ -1,0 +1,43 @@
+﻿{
+  "Id": "af69d2dd-6fa4-4ae3-8f41-c48f2500fc0e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sealeo",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7976a0aa-27e1-4bc6-804d-076e1afcc563\"]",
+      "Height": "11",
+      "Weight": "876",
+      "YieldExperience": "144",
+      "PrimaryAbility": "[\"d6fa994e-7a48-48b5-9f1f-c1b84dd3225f\"]",
+      "SecondaryAbility": "[\"c28be462-7265-4527-a8aa-85774f7eaf7b\"]",
+      "HiddenAbility": "[\"a720be5d-1a4e-4e14-8426-1ba0fc59a8ed\"]",
+      "BaseHP": "90",
+      "YieldHP": "2",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]",
+      "SecondaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sealeo",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "aa25c96c-6445-46dd-8d0d-dbbd86593648",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "crafty-shield",
+    "DisplayName": "Crafty Shield",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "crafty-shield",
+      "DisplayName": "Crafty Shield",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

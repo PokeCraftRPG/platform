@@ -1,0 +1,27 @@
+﻿{
+  "Id": "44dc482d-17a5-4521-8bf9-8528213d9c71",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ho-oh",
+    "DisplayName": "Ho-Oh",
+    "Description": null,
+    "FieldValues": {
+      "Number": "250",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ho-oh",
+      "DisplayName": "Ho-Oh",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

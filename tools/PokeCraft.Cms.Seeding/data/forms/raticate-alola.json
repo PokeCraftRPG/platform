@@ -1,0 +1,43 @@
+﻿{
+  "Id": "fc276bc2-2f5b-49f8-a689-5a5bada60688",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "raticate-alola",
+    "DisplayName": "Alolan Raticate",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"edad6d51-bb18-4dad-b874-d05881ca8ca2\"]",
+      "Height": "7",
+      "Weight": "255",
+      "YieldExperience": "145",
+      "PrimaryAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "SecondaryAbility": "[\"12b608f7-a7b7-412e-803f-28d4eaba64c8\"]",
+      "HiddenAbility": "[\"d6fa994e-7a48-48b5-9f1f-c1b84dd3225f\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "71",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "77",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "raticate-alola",
+      "DisplayName": "Alolan Raticate",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

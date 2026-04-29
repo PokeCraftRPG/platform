@@ -1,0 +1,28 @@
+﻿{
+  "Id": "3b343332-1ffe-4576-afc6-d440cffea486",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cofagrigus",
+    "DisplayName": "Cofagrigus",
+    "Description": null,
+    "FieldValues": {
+      "Number": "563",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Mineral\"]",
+      "SecondaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cofagrigus",
+      "DisplayName": "Cofagrigus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

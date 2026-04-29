@@ -1,0 +1,25 @@
+﻿{
+  "Id": "71317477-38d9-4e3d-a717-41c86287db75",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ominous-wind",
+    "DisplayName": "Ominous Wind",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ominous-wind",
+      "DisplayName": "Ominous Wind",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4f63f93c-ec04-4e94-a27d-ff9c684da556",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tangrowth",
+    "DisplayName": "Tangrowth",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5b3e14bf-c49a-41b3-a786-eedd622bebf0\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tangrowth",
+      "DisplayName": "Tangrowth",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Vine"
+      }
+    }
+  }
+}

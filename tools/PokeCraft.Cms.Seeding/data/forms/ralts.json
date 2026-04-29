@@ -1,0 +1,43 @@
+﻿{
+  "Id": "11ce6b49-7fed-41ed-883f-be6d778e6e7a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ralts",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7ce9d0f8-925f-44e6-aba5-4776a9ab33b2\"]",
+      "Height": "4",
+      "Weight": "66",
+      "YieldExperience": "40",
+      "PrimaryAbility": "[\"f5fd746b-4285-427b-ab75-928d416a5c85\"]",
+      "SecondaryAbility": "[\"187f6a3c-7975-4e72-9285-a225d83376ac\"]",
+      "HiddenAbility": "[\"f5863110-b5b9-4629-b95c-3869ed34433d\"]",
+      "BaseHP": "28",
+      "YieldHP": "0",
+      "BaseAttack": "25",
+      "YieldAttack": "0",
+      "BaseDefense": "25",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "35",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ralts",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

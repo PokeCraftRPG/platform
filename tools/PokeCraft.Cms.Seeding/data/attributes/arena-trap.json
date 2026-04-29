@@ -1,0 +1,19 @@
+﻿{
+  "Id": "880af40d-a918-43ab-913c-5280716d5f40",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arena-trap",
+    "DisplayName": "Arena Trap",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arena-trap",
+      "DisplayName": "Arena Trap",
+      "Description": "Prevents opposing Pokémon from fleeing from battle.",
+      "FieldValues": {}
+    }
+  }
+}

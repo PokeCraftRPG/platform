@@ -1,0 +1,25 @@
+﻿{
+  "Id": "0f19df96-2465-4a19-baa9-69246ba88c5a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zapdos-galar",
+    "DisplayName": "Zapdos",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c201c774-62d4-47f0-b48a-2e52ba18ebd5\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zapdos-galar",
+      "DisplayName": "Zapdos",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Electric"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "6e6eb70c-2a77-4886-b6b1-091de5710338",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stakataka",
+    "DisplayName": "Stakataka",
+    "Description": null,
+    "FieldValues": {
+      "Number": "805",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "30",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stakataka",
+      "DisplayName": "Stakataka",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

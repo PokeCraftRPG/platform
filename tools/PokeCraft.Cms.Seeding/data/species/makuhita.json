@@ -1,0 +1,27 @@
+﻿{
+  "Id": "30a04e01-da34-4516-a863-0042fd8bb375",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "makuhita",
+    "DisplayName": "Makuhita",
+    "Description": null,
+    "FieldValues": {
+      "Number": "296",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "180",
+      "GrowthRate": "[\"Fluctuating\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "makuhita",
+      "DisplayName": "Makuhita",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

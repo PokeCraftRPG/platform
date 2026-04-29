@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7c1adfe8-ec0a-4eba-b099-547d28a6c5f2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scraggy",
+    "DisplayName": "Scraggy",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4b91a117-fb05-41d4-bc73-68f84d6bde58\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scraggy",
+      "DisplayName": "Scraggy",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Shedding"
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "6a3015c0-9409-4364-bf1b-2f486f0d7452",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wimpod",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"af825db5-dfef-4548-893c-2e200767fa37\"]",
+      "Height": "5",
+      "Weight": "120",
+      "YieldExperience": "46",
+      "PrimaryAbility": "[\"21279eb8-8588-4f3b-8a92-e049fd61bc5e\"]",
+      "BaseHP": "25",
+      "YieldHP": "0",
+      "BaseAttack": "35",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "20",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "30",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wimpod",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

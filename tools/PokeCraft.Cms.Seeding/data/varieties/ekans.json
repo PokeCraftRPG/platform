@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ac8b0805-63bd-4150-b44e-6fa5ac990528",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ekans",
+    "DisplayName": "Ekans",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c0ffda85-5b8f-422d-8812-89ba45de5955\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ekans",
+      "DisplayName": "Ekans",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Snake"
+      }
+    }
+  }
+}

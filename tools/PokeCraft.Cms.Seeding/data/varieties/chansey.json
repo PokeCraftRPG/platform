@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1296c74b-b0c7-47c4-a8a3-4ecd1c261f9f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chansey",
+    "DisplayName": "Chansey",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"70bc2bb2-4d0a-45c1-9470-7bbcec62ae30\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chansey",
+      "DisplayName": "Chansey",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Egg"
+      }
+    }
+  }
+}

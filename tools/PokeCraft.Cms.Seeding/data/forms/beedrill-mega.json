@@ -1,0 +1,41 @@
+﻿{
+  "Id": "8ddc3df7-58ae-417d-8275-9522a50f3a79",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "beedrill-mega",
+    "DisplayName": "Mega Beedrill",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"41566aef-3f79-4f46-8f51-6d412d88f0eb\"]",
+      "Height": "14",
+      "Weight": "405",
+      "YieldExperience": "223",
+      "PrimaryAbility": "[\"463a60e6-bf15-4972-9934-481d443a8534\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "150",
+      "YieldAttack": "2",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "15",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "145",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "beedrill-mega",
+      "DisplayName": "Mega Beedrill",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

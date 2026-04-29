@@ -1,0 +1,41 @@
+﻿{
+  "Id": "5a1da089-701d-49da-a6fd-e320b7b94403",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hippowdon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4f5ad8b6-9fce-42a1-a871-5b9ca2ae3633\"]",
+      "Height": "20",
+      "Weight": "3000",
+      "YieldExperience": "184",
+      "PrimaryAbility": "[\"b7c00fcc-02c4-44a4-aae6-d207b07e5d37\"]",
+      "HiddenAbility": "[\"19474510-6538-4d3f-8775-1316904fe470\"]",
+      "BaseHP": "108",
+      "YieldHP": "0",
+      "BaseAttack": "112",
+      "YieldAttack": "0",
+      "BaseDefense": "118",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "68",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "72",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "47",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hippowdon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

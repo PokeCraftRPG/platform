@@ -1,0 +1,40 @@
+﻿{
+  "Id": "49282937-2abb-4da0-80c9-b81b298eeb64",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chimecho-mega",
+    "DisplayName": "Mega Chimecho",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9b4dc6ea-bfee-4281-b286-f9a2bd2efcbf\"]",
+      "Height": "12",
+      "Weight": "80",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "110",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "135",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "120",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chimecho-mega",
+      "DisplayName": "Mega Chimecho",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

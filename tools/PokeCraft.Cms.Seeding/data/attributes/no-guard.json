@@ -1,0 +1,19 @@
+﻿{
+  "Id": "9abfc5f6-0767-4c13-a4c0-dd48c54a21d3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "no-guard",
+    "DisplayName": "No Guard",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "no-guard",
+      "DisplayName": "No Guard",
+      "Description": "The Pokémon employs no-guard tactics to ensure incoming and outgoing attacks always land.",
+      "FieldValues": {}
+    }
+  }
+}

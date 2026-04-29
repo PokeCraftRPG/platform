@@ -1,0 +1,27 @@
+﻿{
+  "Id": "34ffc043-1745-42c5-818c-17609cc88644",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tsareena",
+    "DisplayName": "Tsareena",
+    "Description": null,
+    "FieldValues": {
+      "Number": "763",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tsareena",
+      "DisplayName": "Tsareena",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

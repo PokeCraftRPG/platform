@@ -1,0 +1,25 @@
+﻿{
+  "Id": "48951d80-e34c-4268-b13b-b85e5f1a863b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "retaliate",
+    "DisplayName": "Retaliate",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "70",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "retaliate",
+      "DisplayName": "Retaliate",
+      "Description": "The user takes revenge for a fainted ally. This move's power is boosted if an ally fainted in the previous turn.",
+      "FieldValues": {}
+    }
+  }
+}

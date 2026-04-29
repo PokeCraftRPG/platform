@@ -1,0 +1,41 @@
+﻿{
+  "Id": "9c2c0d3c-e75b-4ef5-bfb0-7642c2b10df0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flabebe-red",
+    "DisplayName": "Red Flabébé",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9acd5b4d-999b-40b2-88a0-794eff39df3a\"]",
+      "Height": "1",
+      "Weight": "1",
+      "YieldExperience": "61",
+      "PrimaryAbility": "[\"d1629cad-fb04-4b50-b39b-929078b3316a\"]",
+      "HiddenAbility": "[\"ded6e29e-ee40-4b93-b29f-6c4f592c79e8\"]",
+      "BaseHP": "44",
+      "YieldHP": "0",
+      "BaseAttack": "38",
+      "YieldAttack": "0",
+      "BaseDefense": "39",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "61",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "79",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "42",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flabebe-red",
+      "DisplayName": "Red Flabébé",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

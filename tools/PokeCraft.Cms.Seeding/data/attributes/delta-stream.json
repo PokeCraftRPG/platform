@@ -1,0 +1,19 @@
+﻿{
+  "Id": "4b713974-3409-4661-9832-9167decf3dbb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "delta-stream",
+    "DisplayName": "Delta Stream",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "delta-stream",
+      "DisplayName": "Delta Stream",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

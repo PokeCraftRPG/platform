@@ -1,0 +1,40 @@
+﻿{
+  "Id": "91a34d7d-aa93-4e6f-8849-f1ca1cd5293e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cherrim-sunshine",
+    "DisplayName": "Sunshine Cherrim",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9b430b4e-4a42-48a4-aa23-27af0ee39d36\"]",
+      "Height": "5",
+      "Weight": "93",
+      "YieldExperience": "158",
+      "PrimaryAbility": "[\"dfbd1ec3-1bb2-4750-af44-c876ddca99c5\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "87",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "78",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cherrim-sunshine",
+      "DisplayName": "Sunshine Cherrim",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

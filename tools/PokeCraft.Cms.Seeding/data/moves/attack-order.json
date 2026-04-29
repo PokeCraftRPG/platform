@@ -1,0 +1,25 @@
+﻿{
+  "Id": "b13b53b7-eb75-49ec-9bb4-ca025e772f1c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "attack-order",
+    "DisplayName": "Attack Order",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "attack-order",
+      "DisplayName": "Attack Order",
+      "Description": "The user calls out its underlings to pummel the target. This move has a heightened chance of landing a critical hit.",
+      "FieldValues": {}
+    }
+  }
+}

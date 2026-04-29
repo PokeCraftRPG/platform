@@ -1,0 +1,27 @@
+﻿{
+  "Id": "b66854ab-144c-4bb2-a06b-7004e0b1c4f6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "brute-bonnet",
+    "DisplayName": "Brute Bonnet",
+    "Description": null,
+    "FieldValues": {
+      "Number": "986",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "50",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "50",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "brute-bonnet",
+      "DisplayName": "Brute Bonnet",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "40099555-87c4-42e6-9e8f-ecb4a78cceff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "regigigas",
+    "DisplayName": "Regigigas",
+    "Description": null,
+    "FieldValues": {
+      "Number": "486",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "regigigas",
+      "DisplayName": "Regigigas",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "64e22d16-91bd-4827-8b8e-67a2b9280fd5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "double-team",
+    "DisplayName": "Double Team",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "double-team",
+      "DisplayName": "Double Team",
+      "Description": "By moving rapidly, the user makes illusory copies of itself to boost its evasiveness.",
+      "FieldValues": {}
+    }
+  }
+}

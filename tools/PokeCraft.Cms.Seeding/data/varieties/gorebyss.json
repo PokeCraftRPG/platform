@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7c2ad454-7531-45a4-ba09-6e51176f060e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gorebyss",
+    "DisplayName": "Gorebyss",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6b064c41-369b-4aa4-96f8-b2a2d3cdb0e2\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gorebyss",
+      "DisplayName": "Gorebyss",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "South Sea"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "b7c00fcc-02c4-44a4-aae6-d207b07e5d37",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sand-stream",
+    "DisplayName": "Sand Stream",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sand-stream",
+      "DisplayName": "Sand Stream",
+      "Description": "The Pokémon summons a sandstorm when it enters a battle.",
+      "FieldValues": {}
+    }
+  }
+}

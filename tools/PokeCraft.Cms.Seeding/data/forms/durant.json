@@ -1,0 +1,43 @@
+﻿{
+  "Id": "b63ef2cc-fc99-4db0-88d9-e9c7d808e21e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "durant",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ff7e9d56-69f1-4bc8-84b2-181915d475b5\"]",
+      "Height": "3",
+      "Weight": "330",
+      "YieldExperience": "169",
+      "PrimaryAbility": "[\"ba1b3a50-acc0-4032-bf14-6572fa26daed\"]",
+      "SecondaryAbility": "[\"12b608f7-a7b7-412e-803f-28d4eaba64c8\"]",
+      "HiddenAbility": "[\"5862cc42-bc4d-4f40-8ab8-dd42a051a125\"]",
+      "BaseHP": "58",
+      "YieldHP": "0",
+      "BaseAttack": "109",
+      "YieldAttack": "0",
+      "BaseDefense": "112",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "48",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "48",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "109",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "durant",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

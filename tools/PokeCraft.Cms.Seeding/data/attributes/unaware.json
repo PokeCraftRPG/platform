@@ -1,0 +1,19 @@
+﻿{
+  "Id": "f9f08a4a-14de-4ff0-8844-8f97068aa2a3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "unaware",
+    "DisplayName": "Unaware",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "unaware",
+      "DisplayName": "Unaware",
+      "Description": "When attacking, the Pokémon ignores the target's stat changes.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "2bef4691-8059-44c4-8025-1a66c4f33ac4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bewear",
+    "DisplayName": "Bewear",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"96e7a958-0533-439f-a1dd-48695a02a5f4\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bewear",
+      "DisplayName": "Bewear",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Strong Arm"
+      }
+    }
+  }
+}

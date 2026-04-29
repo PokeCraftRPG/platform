@@ -1,0 +1,27 @@
+﻿{
+  "Id": "3997a74f-3e30-437b-894f-477052749cf1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "koffing",
+    "DisplayName": "Koffing",
+    "Description": null,
+    "FieldValues": {
+      "Number": "109",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "koffing",
+      "DisplayName": "Koffing",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

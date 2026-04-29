@@ -1,0 +1,42 @@
+﻿{
+  "Id": "15083893-4797-41cd-91fb-32ef63520443",
+  "Invariant": {
+    "IsPublished": true,
+    "UniqueName": "decidueye",
+    "DisplayName": "Decidueye",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"81325c2a-1202-4f8a-a030-2cddda99c811\"]",
+      "Height": "16",
+      "Weight": "366",
+      "YieldExperience": "239",
+      "PrimaryAbility": "[\"f635691a-6cf0-4a55-a848-a2183d487971\"]",
+      "HiddenAbility": "[\"643fdf0d-d55d-4626-9ea6-29a486413853\"]",
+      "BaseHP": "78",
+      "YieldHP": "0",
+      "BaseAttack": "107",
+      "YieldAttack": "3",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": true,
+      "UniqueName": "decidueye",
+      "DisplayName": "Decidueye",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

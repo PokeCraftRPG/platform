@@ -1,0 +1,24 @@
+﻿{
+  "Id": "b0e94ba0-e216-40e2-9cfe-3b35af3ba744",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stun-spore",
+    "DisplayName": "Stun Spore",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "75",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stun-spore",
+      "DisplayName": "Stun Spore",
+      "Description": "The user scatters a cloud of numbing powder that paralyzes the target.",
+      "FieldValues": {}
+    }
+  }
+}

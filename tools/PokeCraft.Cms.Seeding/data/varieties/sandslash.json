@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c8ea7043-bd72-4329-94ba-bc61e08506e5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sandslash",
+    "DisplayName": "Sandslash",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"510c34d8-c02e-42ca-8723-e3fb720eaa9c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sandslash",
+      "DisplayName": "Sandslash",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mouse"
+      }
+    }
+  }
+}

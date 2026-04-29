@@ -1,0 +1,27 @@
+﻿{
+  "Id": "5b3e14bf-c49a-41b3-a786-eedd622bebf0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tangrowth",
+    "DisplayName": "Tangrowth",
+    "Description": null,
+    "FieldValues": {
+      "Number": "465",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "30",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tangrowth",
+      "DisplayName": "Tangrowth",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

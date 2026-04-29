@@ -1,0 +1,40 @@
+﻿{
+  "Id": "0c06b806-7753-43dd-b631-25a1b15027db",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "victreebel-mega",
+    "DisplayName": "Mega Victreebel",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4364ccc8-d847-4679-869a-fdf64712a503\"]",
+      "Height": "45",
+      "Weight": "1255",
+      "PrimaryAbility": "[\"aa16ecbd-2d02-4eb8-819f-2d930f54507d\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "125",
+      "YieldAttack": "0",
+      "BaseDefense": "85",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "135",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "victreebel-mega",
+      "DisplayName": "Mega Victreebel",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

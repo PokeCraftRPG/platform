@@ -1,0 +1,25 @@
+﻿{
+  "Id": "7e41d5fe-a31b-4e27-81d9-b83a9e365fef",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magnezone",
+    "DisplayName": "Magnezone",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a129bf6a-f903-471d-9368-615bc9e14f3d\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magnezone",
+      "DisplayName": "Magnezone",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Magnet Area"
+      }
+    }
+  }
+}

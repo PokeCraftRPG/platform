@@ -1,0 +1,42 @@
+﻿{
+  "Id": "3c7823a8-0f8d-4782-8145-c4f2f644cdb5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "darmanitan-galar-zen",
+    "DisplayName": "Zen Galarian Darmanitan",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"db917fa3-1477-4ef8-90b7-8b8f964e58c0\"]",
+      "Height": "17",
+      "Weight": "1200",
+      "YieldExperience": "189",
+      "PrimaryAbility": "[\"edf74466-d1c2-48d7-ab5c-4afde7124c31\"]",
+      "HiddenAbility": "[\"ab1e046d-b803-489e-9181-f5bb4f95661d\"]",
+      "BaseHP": "105",
+      "YieldHP": "0",
+      "BaseAttack": "160",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "135",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Ice\"]",
+      "SecondaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "darmanitan-galar-zen",
+      "DisplayName": "Zen Galarian Darmanitan",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

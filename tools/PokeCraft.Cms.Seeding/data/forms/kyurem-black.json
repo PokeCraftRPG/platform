@@ -1,0 +1,41 @@
+﻿{
+  "Id": "9579f97e-33e7-43d6-be48-e60fa1a9ce15",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kyurem-black",
+    "DisplayName": "Black Kyurem",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e542bb73-c1d8-4dbb-a7a4-ab62413e6e23\"]",
+      "Height": "33",
+      "Weight": "3250",
+      "YieldExperience": "350",
+      "PrimaryAbility": "[\"907d08f0-8502-4646-8ba1-b99310286997\"]",
+      "BaseHP": "125",
+      "YieldHP": "0",
+      "BaseAttack": "170",
+      "YieldAttack": "3",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "120",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kyurem-black",
+      "DisplayName": "Black Kyurem",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

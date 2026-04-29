@@ -1,0 +1,40 @@
+﻿{
+  "Id": "418517cd-b493-424b-bc95-ebf036ea10f2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "unown-g",
+    "DisplayName": "Unown G",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c940c79c-aa56-469e-9533-3eb762f2627a\"]",
+      "Height": "5",
+      "Weight": "50",
+      "YieldExperience": "118",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "BaseHP": "48",
+      "YieldHP": "0",
+      "BaseAttack": "72",
+      "YieldAttack": "1",
+      "BaseDefense": "48",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "72",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "48",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "48",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Alternative\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "unown-g",
+      "DisplayName": "Unown G",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

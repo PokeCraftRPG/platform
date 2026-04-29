@@ -1,0 +1,28 @@
+﻿{
+  "Id": "cada5e45-d801-4f65-983b-39f77d5e1387",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "popplio",
+    "DisplayName": "Popplio",
+    "Description": null,
+    "FieldValues": {
+      "Number": "728",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "popplio",
+      "DisplayName": "Popplio",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

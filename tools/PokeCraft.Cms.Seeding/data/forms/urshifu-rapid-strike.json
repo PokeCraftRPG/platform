@@ -1,0 +1,41 @@
+﻿{
+  "Id": "0c97a04a-cab2-430a-859a-4e9a965d9cf5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "urshifu-rapid-strike",
+    "DisplayName": "Rapid Strike Urshifu",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ab3e6ead-25e5-44d3-ba67-619a407bcae2\"]",
+      "Height": "19",
+      "Weight": "1050",
+      "YieldExperience": "275",
+      "PrimaryAbility": "[\"4a0019c1-3730-4b26-857b-3d0cf36d3517\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "130",
+      "YieldAttack": "3",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "63",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "97",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]",
+      "SecondaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "urshifu-rapid-strike",
+      "DisplayName": "Rapid Strike Urshifu",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "e2510fb8-0f2a-421b-8d3d-0334609c3a4d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dreepy",
+    "DisplayName": "Dreepy",
+    "Description": null,
+    "FieldValues": {
+      "Number": "885",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Amorphous\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dreepy",
+      "DisplayName": "Dreepy",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

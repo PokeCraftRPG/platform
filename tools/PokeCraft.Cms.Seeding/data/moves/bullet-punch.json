@@ -1,0 +1,25 @@
+﻿{
+  "Id": "885d58f9-3434-40db-8c2f-9eabca97e483",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bullet-punch",
+    "DisplayName": "Bullet Punch",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bullet-punch",
+      "DisplayName": "Bullet Punch",
+      "Description": "The user strikes the target with tough punches as fast as bullets. This move always goes first.",
+      "FieldValues": {}
+    }
+  }
+}

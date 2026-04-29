@@ -1,0 +1,27 @@
+﻿{
+  "Id": "6ecf0065-0631-481a-8c1b-23248d1b5aab",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "smeargle",
+    "DisplayName": "Smeargle",
+    "Description": null,
+    "FieldValues": {
+      "Number": "235",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "smeargle",
+      "DisplayName": "Smeargle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

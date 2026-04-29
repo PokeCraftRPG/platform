@@ -1,0 +1,19 @@
+﻿{
+  "Id": "8d6f1268-a7d2-44b6-9e77-1d6abc7fe828",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ripen",
+    "DisplayName": "Ripen",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ripen",
+      "DisplayName": "Ripen",
+      "Description": "Ripens Berries and doubles their effect.",
+      "FieldValues": {}
+    }
+  }
+}

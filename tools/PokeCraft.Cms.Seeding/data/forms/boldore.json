@@ -1,0 +1,42 @@
+﻿{
+  "Id": "d7817e76-de14-4451-b85c-791da4b78e6b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "boldore",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"8fa4c412-5d44-4c16-bc10-aaaf27107000\"]",
+      "Height": "9",
+      "Weight": "1020",
+      "YieldExperience": "137",
+      "PrimaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "SecondaryAbility": "[\"2b8b8cfa-e12e-43d2-b403-594ac9a1c1f7\"]",
+      "HiddenAbility": "[\"19474510-6538-4d3f-8775-1316904fe470\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "105",
+      "YieldAttack": "1",
+      "BaseDefense": "105",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "20",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "boldore",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

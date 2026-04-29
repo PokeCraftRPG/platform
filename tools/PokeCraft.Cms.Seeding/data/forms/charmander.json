@@ -1,0 +1,41 @@
+﻿{
+  "Id": "397bfe41-7be3-4484-9366-b9859742582a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "charmander",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3e1c5c7d-2047-4d54-aee4-f7a18144e940\"]",
+      "Height": "6",
+      "Weight": "85",
+      "YieldExperience": "62",
+      "PrimaryAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "HiddenAbility": "[\"6c7fc1a9-9c49-4e4f-ae09-81bb228713b0\"]",
+      "BaseHP": "39",
+      "YieldHP": "0",
+      "BaseAttack": "52",
+      "YieldAttack": "0",
+      "BaseDefense": "43",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "charmander",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "2a9eaaa2-025b-44aa-8ddf-e2590f52f107",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "avalugg",
+    "DisplayName": "Avalugg",
+    "Description": null,
+    "FieldValues": {
+      "Number": "713",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "55",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "avalugg",
+      "DisplayName": "Avalugg",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

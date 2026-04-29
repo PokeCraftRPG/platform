@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d92680df-4c88-4d25-b9aa-cff4b654f6e4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mienfoo",
+    "DisplayName": "Mienfoo",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e7623f44-9713-47fb-bb96-29250d39a085\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mienfoo",
+      "DisplayName": "Mienfoo",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Martial Arts"
+      }
+    }
+  }
+}

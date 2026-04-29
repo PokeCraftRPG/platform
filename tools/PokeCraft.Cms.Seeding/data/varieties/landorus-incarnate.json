@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3a3d8749-3375-4390-899f-ce18f454079e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "landorus-incarnate",
+    "DisplayName": "Landorus",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"fe7daf86-9dfb-4565-b0d5-1296a2ea4c66\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "landorus-incarnate",
+      "DisplayName": "Landorus",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Abundance"
+      }
+    }
+  }
+}

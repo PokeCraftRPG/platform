@@ -1,0 +1,25 @@
+﻿{
+  "Id": "af948112-2f3c-473e-aca8-03dc55b97005",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "uxie",
+    "DisplayName": "Uxie",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9296da3a-a6c8-4f11-8b1e-fa64beccf056\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "uxie",
+      "DisplayName": "Uxie",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Knowledge"
+      }
+    }
+  }
+}

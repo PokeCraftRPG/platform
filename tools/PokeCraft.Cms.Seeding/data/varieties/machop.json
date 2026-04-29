@@ -1,0 +1,26 @@
+﻿{
+  "Id": "70cdd2db-dfd5-4a4f-baca-fe2e02231ba0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "machop",
+    "DisplayName": "Machop",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"517278b2-30fb-41f0-83b0-9b9ac992cc83\"]",
+      "GenderRatio": "6",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "machop",
+      "DisplayName": "Machop",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Superpower"
+      }
+    }
+  }
+}

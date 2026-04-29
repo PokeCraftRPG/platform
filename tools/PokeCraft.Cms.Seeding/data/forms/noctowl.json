@@ -1,0 +1,43 @@
+﻿{
+  "Id": "0ee92f4f-7dd9-4c94-aee0-1d1911c4f64b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "noctowl",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1c4bff1e-87e9-42fb-afb9-b98e8d7b7187\"]",
+      "Height": "16",
+      "Weight": "408",
+      "YieldExperience": "158",
+      "PrimaryAbility": "[\"74551570-259c-470c-a9ba-64ffd0e3afad\"]",
+      "SecondaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "HiddenAbility": "[\"786cffd7-a22d-4bc0-87f2-6a9ffbbc07d2\"]",
+      "BaseHP": "100",
+      "YieldHP": "2",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "86",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "96",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "noctowl",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

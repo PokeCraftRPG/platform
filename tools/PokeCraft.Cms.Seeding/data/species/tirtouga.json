@@ -1,0 +1,28 @@
+﻿{
+  "Id": "e097bd55-790d-4b51-b342-558a9c36a9a5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tirtouga",
+    "DisplayName": "Tirtouga",
+    "Description": null,
+    "FieldValues": {
+      "Number": "564",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tirtouga",
+      "DisplayName": "Tirtouga",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

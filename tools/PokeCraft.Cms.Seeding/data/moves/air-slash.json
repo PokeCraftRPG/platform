@@ -1,0 +1,25 @@
+﻿{
+  "Id": "d5bba16c-e2ca-4e56-9bed-fd93401fcd33",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "air-slash",
+    "DisplayName": "Air Slash",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "95",
+      "Power": "75",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "air-slash",
+      "DisplayName": "Air Slash",
+      "Description": "The user attacks with a blade of air that slices even the sky. This may also make the target flinch.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1bb38381-b598-4808-8554-10069bc25d12",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "archaludon",
+    "DisplayName": "Archaludon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"dd7673ef-0dd5-4c25-bc2e-fcfaffab6f89\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "archaludon",
+      "DisplayName": "Archaludon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Alloy"
+      }
+    }
+  }
+}

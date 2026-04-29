@@ -1,0 +1,26 @@
+﻿{
+  "Id": "8f089ea8-9eec-4b98-9b45-bc5318c0b62b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sandile",
+    "DisplayName": "Sandile",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"eb7c7fd2-e6f8-4065-a474-72af7a4222a7\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sandile",
+      "DisplayName": "Sandile",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Desert Croc"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "7883fbbd-f620-465c-8e99-efc7ef068313",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mimic",
+    "DisplayName": "Mimic",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mimic",
+      "DisplayName": "Mimic",
+      "Description": "The user copies the move last used by the target. The copied move can be used until the user of Mimic leaves the battle.",
+      "FieldValues": {}
+    }
+  }
+}

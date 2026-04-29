@@ -1,0 +1,19 @@
+﻿{
+  "Id": "da21af20-a347-4583-8229-3eec8f891827",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "steely-spirit",
+    "DisplayName": "Steely Spirit",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "steely-spirit",
+      "DisplayName": "Steely Spirit",
+      "Description": "Powers up the Steel-type moves of the Pokémon and its allies.",
+      "FieldValues": {}
+    }
+  }
+}

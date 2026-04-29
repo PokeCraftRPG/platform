@@ -1,0 +1,23 @@
+﻿{
+  "Id": "2bc1f930-7b30-4670-b03f-3ebd3a798f0c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bloom-doom--special",
+    "DisplayName": "Bloom Doom",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Special\"]",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bloom-doom--special",
+      "DisplayName": "Bloom Doom",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

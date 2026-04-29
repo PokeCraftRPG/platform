@@ -1,0 +1,19 @@
+﻿{
+  "Id": "963ea42c-14da-4d3b-8eba-9fb50c76b215",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "color-change",
+    "DisplayName": "Color Change",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "color-change",
+      "DisplayName": "Color Change",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

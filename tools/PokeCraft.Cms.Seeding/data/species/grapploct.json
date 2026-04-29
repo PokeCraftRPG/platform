@@ -1,0 +1,28 @@
+﻿{
+  "Id": "4c2dc1e3-0731-42e3-8d68-56e1dfa86704",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grapploct",
+    "DisplayName": "Grapploct",
+    "Description": null,
+    "FieldValues": {
+      "Number": "853",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grapploct",
+      "DisplayName": "Grapploct",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

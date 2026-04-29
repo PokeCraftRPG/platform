@@ -1,0 +1,25 @@
+﻿{
+  "Id": "60f33ec4-0140-4b84-ae51-ceea1d90bc41",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "baddy-bad",
+    "DisplayName": "Baddy Bad",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "95",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "baddy-bad",
+      "DisplayName": "Baddy Bad",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

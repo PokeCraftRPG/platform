@@ -1,0 +1,27 @@
+﻿{
+  "Id": "8e7d21c3-b8b6-4b79-adb0-be9684687a2c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "celebi",
+    "DisplayName": "Celebi",
+    "Description": null,
+    "FieldValues": {
+      "Number": "251",
+      "Category": "[\"Mythical\"]",
+      "BaseFriendship": "100",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "celebi",
+      "DisplayName": "Celebi",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

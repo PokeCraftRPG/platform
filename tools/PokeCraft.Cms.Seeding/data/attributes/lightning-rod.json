@@ -1,0 +1,19 @@
+﻿{
+  "Id": "98bb9191-1993-4224-8922-4a4d13f534a5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lightning-rod",
+    "DisplayName": "Lightning Rod",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lightning-rod",
+      "DisplayName": "Lightning Rod",
+      "Description": "The Pokémon draws in all Electric-type moves. Instead of taking damage from them, its Sp. Atk stat is boosted.",
+      "FieldValues": {}
+    }
+  }
+}

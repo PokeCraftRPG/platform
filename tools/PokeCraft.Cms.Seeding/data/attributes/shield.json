@@ -1,0 +1,19 @@
+﻿{
+  "Id": "d06987ac-b6e0-4737-a8cc-a4b0cc360e8b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shield",
+    "DisplayName": "Shield",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shield",
+      "DisplayName": "Shield",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

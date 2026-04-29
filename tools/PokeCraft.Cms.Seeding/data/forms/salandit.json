@@ -1,0 +1,42 @@
+﻿{
+  "Id": "c93be8cf-13af-4af5-9a55-276412bfb746",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "salandit",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"06a05faf-5282-4497-a22a-9113f0d5483a\"]",
+      "Height": "6",
+      "Weight": "48",
+      "YieldExperience": "64",
+      "PrimaryAbility": "[\"4550f771-4061-4c88-bf71-92d9aaf1d6e5\"]",
+      "HiddenAbility": "[\"a720be5d-1a4e-4e14-8426-1ba0fc59a8ed\"]",
+      "BaseHP": "48",
+      "YieldHP": "0",
+      "BaseAttack": "44",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "71",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "77",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]",
+      "SecondaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "salandit",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

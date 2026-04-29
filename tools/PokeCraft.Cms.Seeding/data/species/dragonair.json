@@ -1,0 +1,28 @@
+﻿{
+  "Id": "dff1d81f-a9ef-4b37-b5bd-b43a6f62ae3e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragonair",
+    "DisplayName": "Dragonair",
+    "Description": null,
+    "FieldValues": {
+      "Number": "148",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragonair",
+      "DisplayName": "Dragonair",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

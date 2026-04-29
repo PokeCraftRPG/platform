@@ -1,0 +1,40 @@
+﻿{
+  "Id": "4de0f808-a08c-471a-a00c-5782f04a7327",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mismagius",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"954f6766-c8be-4a50-a624-cd038cb07ca3\"]",
+      "Height": "9",
+      "Weight": "44",
+      "YieldExperience": "173",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "105",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "105",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "105",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mismagius",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

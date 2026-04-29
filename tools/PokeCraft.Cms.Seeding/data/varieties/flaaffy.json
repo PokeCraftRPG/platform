@@ -1,0 +1,26 @@
+﻿{
+  "Id": "2fffa76c-31fc-4902-a7a8-17876df00cb0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flaaffy",
+    "DisplayName": "Flaaffy",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8b1d7533-3368-4b6a-a4a1-838808393790\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flaaffy",
+      "DisplayName": "Flaaffy",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Wool"
+      }
+    }
+  }
+}

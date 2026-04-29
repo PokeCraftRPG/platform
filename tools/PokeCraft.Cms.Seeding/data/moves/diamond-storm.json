@@ -1,0 +1,25 @@
+﻿{
+  "Id": "80f8dfa1-980d-4b90-b267-279b694c969a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "diamond-storm",
+    "DisplayName": "Diamond Storm",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Rock\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "95",
+      "Power": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "diamond-storm",
+      "DisplayName": "Diamond Storm",
+      "Description": "The user whips up a storm of diamonds to damage opposing Pokémon. This may also sharply boost the user's Defense stat.",
+      "FieldValues": {}
+    }
+  }
+}

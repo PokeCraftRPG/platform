@@ -1,0 +1,41 @@
+﻿{
+  "Id": "c6dfba9a-1501-44ad-83fc-fc8322e8b546",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aegislash-shield",
+    "DisplayName": "Shield Aegislash",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ba9d3704-ce99-48e9-bfbd-c510c928ec3d\"]",
+      "Height": "17",
+      "Weight": "530",
+      "YieldExperience": "234",
+      "PrimaryAbility": "[\"a85f9380-d6a7-493b-87a0-e2395eea7608\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "140",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "140",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aegislash-shield",
+      "DisplayName": "Shield Aegislash",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

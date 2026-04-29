@@ -1,0 +1,27 @@
+﻿{
+  "Id": "16374ef6-f920-4551-a7e7-e29fa0fd6a4c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tornadus",
+    "DisplayName": "Tornadus",
+    "Description": null,
+    "FieldValues": {
+      "Number": "641",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "90",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tornadus",
+      "DisplayName": "Tornadus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "99cece08-a8ee-4b41-be6b-fe552d830f1e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lechonk",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"fa8d4d81-f309-4239-a15e-a332ee6492d3\"]",
+      "Height": "5",
+      "Weight": "102",
+      "YieldExperience": "51",
+      "PrimaryAbility": "[\"56b529e6-13d3-4830-992f-f1807b22cd23\"]",
+      "SecondaryAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "HiddenAbility": "[\"d6fa994e-7a48-48b5-9f1f-c1b84dd3225f\"]",
+      "BaseHP": "54",
+      "YieldHP": "1",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lechonk",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

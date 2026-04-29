@@ -1,0 +1,27 @@
+﻿{
+  "Id": "a10144bd-1519-46e4-a026-fb4ba8277524",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "coalossal",
+    "DisplayName": "Coalossal",
+    "Description": null,
+    "FieldValues": {
+      "Number": "839",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "coalossal",
+      "DisplayName": "Coalossal",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

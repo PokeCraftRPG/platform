@@ -1,0 +1,26 @@
+﻿{
+  "Id": "bacbe1db-e21b-461b-b5a7-355940610f2d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "burmy",
+    "DisplayName": "Burmy",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e53b1290-82ed-4067-81b1-1d49ec3be971\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "burmy",
+      "DisplayName": "Burmy",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bagworm"
+      }
+    }
+  }
+}

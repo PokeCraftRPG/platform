@@ -1,0 +1,42 @@
+﻿{
+  "Id": "d14c38c5-c64d-4b85-96af-b4e7b88ffdc5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sunkern",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"86a7cb65-a884-4772-9026-fd1ae3a0f636\"]",
+      "Height": "3",
+      "Weight": "18",
+      "YieldExperience": "36",
+      "PrimaryAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "SecondaryAbility": "[\"6c7fc1a9-9c49-4e4f-ae09-81bb228713b0\"]",
+      "HiddenAbility": "[\"922cb4e0-72ea-40f7-b6c5-6fbefa939214\"]",
+      "BaseHP": "30",
+      "YieldHP": "0",
+      "BaseAttack": "30",
+      "YieldAttack": "0",
+      "BaseDefense": "30",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "30",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sunkern",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

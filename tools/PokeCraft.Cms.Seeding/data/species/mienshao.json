@@ -1,0 +1,28 @@
+﻿{
+  "Id": "93c1b88e-a29b-44dc-b1a9-8d14d9e787f0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mienshao",
+    "DisplayName": "Mienshao",
+    "Description": null,
+    "FieldValues": {
+      "Number": "620",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mienshao",
+      "DisplayName": "Mienshao",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

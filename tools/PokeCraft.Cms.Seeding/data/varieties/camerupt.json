@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e043758f-dccf-4c9e-a5d3-14bfa517d97e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "camerupt",
+    "DisplayName": "Camerupt",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6327b598-8126-4870-a8c5-18adf3aae70a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "camerupt",
+      "DisplayName": "Camerupt",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Eruption"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "4a769804-d135-4702-8709-d88c5468f7b3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "neuroforce",
+    "DisplayName": "Neuroforce",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "neuroforce",
+      "DisplayName": "Neuroforce",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

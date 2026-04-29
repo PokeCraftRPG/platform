@@ -1,0 +1,26 @@
+﻿{
+  "Id": "10ab909b-35b4-4ed5-bfe7-8d1da2a5fb1d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sobble",
+    "DisplayName": "Sobble",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"246c6b1f-b811-4a66-ab8a-1a2fef3e0866\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sobble",
+      "DisplayName": "Sobble",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Water Lizard"
+      }
+    }
+  }
+}

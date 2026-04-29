@@ -1,0 +1,43 @@
+﻿{
+  "Id": "78449771-d11c-4f77-b3ac-a247173c7eca",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wooper",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"972b9592-4035-4c35-9e40-d29c24ceb7e2\"]",
+      "Height": "4",
+      "Weight": "85",
+      "YieldExperience": "42",
+      "PrimaryAbility": "[\"ebbf0ce1-0fb1-42cd-81bf-091e737bbfd4\"]",
+      "SecondaryAbility": "[\"ce06d228-a509-444d-ab16-f046f2519e89\"]",
+      "HiddenAbility": "[\"f9f08a4a-14de-4ff0-8844-8f97068aa2a3\"]",
+      "BaseHP": "55",
+      "YieldHP": "1",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "25",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "25",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "15",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wooper",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

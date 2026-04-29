@@ -1,0 +1,25 @@
+﻿{
+  "Id": "78979fc8-d6b3-43e8-b452-9242220f8a84",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "power-whip",
+    "DisplayName": "Power Whip",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "85",
+      "Power": "120",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "power-whip",
+      "DisplayName": "Power Whip",
+      "Description": "The user violently whirls its vines, tentacles, or the like to lash the target.",
+      "FieldValues": {}
+    }
+  }
+}

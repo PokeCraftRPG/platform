@@ -1,0 +1,25 @@
+﻿{
+  "Id": "b94c06b9-fba7-49e8-83c6-a3ccaeaea754",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ditto",
+    "DisplayName": "Ditto",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f86d14df-5d21-4eaa-b48f-75241b4bad75\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ditto",
+      "DisplayName": "Ditto",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Transform"
+      }
+    }
+  }
+}

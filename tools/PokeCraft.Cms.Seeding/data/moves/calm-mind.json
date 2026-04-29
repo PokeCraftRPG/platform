@@ -1,0 +1,23 @@
+﻿{
+  "Id": "524d1856-e931-4867-bc41-9c1a812720d8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "calm-mind",
+    "DisplayName": "Calm Mind",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "calm-mind",
+      "DisplayName": "Calm Mind",
+      "Description": "The user quietly focuses its mind and calms its spirit to boost its Sp. Atk and Sp. Def stats.",
+      "FieldValues": {}
+    }
+  }
+}

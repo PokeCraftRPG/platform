@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c8a9d098-64cc-415c-8cb7-7fd1cf52ddf3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "makuhita",
+    "DisplayName": "Makuhita",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"30a04e01-da34-4516-a863-0042fd8bb375\"]",
+      "GenderRatio": "6",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "makuhita",
+      "DisplayName": "Makuhita",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Guts"
+      }
+    }
+  }
+}

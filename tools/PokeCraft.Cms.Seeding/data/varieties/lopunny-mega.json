@@ -1,0 +1,26 @@
+﻿{
+  "Id": "587c74ce-faa9-4df1-95fe-c40791793a97",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lopunny-mega",
+    "DisplayName": "Lopunny",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"fc327e39-8d9a-4bf4-9943-8cf96b243084\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lopunny-mega",
+      "DisplayName": "Lopunny",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rabbit"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "7786a7c4-aeaf-4352-8794-b363e974a1e1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "power-up-punch",
+    "DisplayName": "Power-Up Punch",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "power-up-punch",
+      "DisplayName": "Power-Up Punch",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

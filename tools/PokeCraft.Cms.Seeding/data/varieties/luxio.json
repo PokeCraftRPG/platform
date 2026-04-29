@@ -1,0 +1,26 @@
+﻿{
+  "Id": "09f5702f-f865-4e5f-9633-1dce807d79ec",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "luxio",
+    "DisplayName": "Luxio",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3cf6d1d3-209a-4deb-968e-16ece1fcd4d6\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "luxio",
+      "DisplayName": "Luxio",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Spark"
+      }
+    }
+  }
+}

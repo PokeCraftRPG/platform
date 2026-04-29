@@ -1,0 +1,19 @@
+﻿{
+  "Id": "ab1e046d-b803-489e-9181-f5bb4f95661d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zen-mode",
+    "DisplayName": "Zen Mode",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zen-mode",
+      "DisplayName": "Zen Mode",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

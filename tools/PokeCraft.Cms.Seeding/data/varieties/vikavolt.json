@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d46a1c9c-ffd7-4cd5-a1fb-3a8161d28804",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vikavolt",
+    "DisplayName": "Vikavolt",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8c010a84-e8ac-4a62-ad11-c33bf5deaeeb\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vikavolt",
+      "DisplayName": "Vikavolt",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Stag Beetle"
+      }
+    }
+  }
+}

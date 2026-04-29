@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9a267f1b-6ee7-4939-95cc-434a9d786a46",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lampent",
+    "DisplayName": "Lampent",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"31ec9534-2bb7-4e36-9b85-da9f4c314e67\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lampent",
+      "DisplayName": "Lampent",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Lamp"
+      }
+    }
+  }
+}

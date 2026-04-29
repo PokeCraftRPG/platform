@@ -1,0 +1,28 @@
+﻿{
+  "Id": "63a997a4-0602-4342-b27c-1bc1adae5fef",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swoobat",
+    "DisplayName": "Swoobat",
+    "Description": null,
+    "FieldValues": {
+      "Number": "528",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swoobat",
+      "DisplayName": "Swoobat",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

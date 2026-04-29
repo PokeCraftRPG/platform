@@ -1,0 +1,25 @@
+﻿{
+  "Id": "7ca089d0-2080-404f-b6b9-83861ec3e2b2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mega-kick",
+    "DisplayName": "Mega Kick",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "75",
+      "Power": "120",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mega-kick",
+      "DisplayName": "Mega Kick",
+      "Description": "The target is attacked by a kick launched with muscle-packed power.",
+      "FieldValues": {}
+    }
+  }
+}

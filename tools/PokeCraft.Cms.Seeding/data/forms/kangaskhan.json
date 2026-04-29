@@ -1,0 +1,42 @@
+﻿{
+  "Id": "c2d1912f-e7ab-40c0-b375-eccecc9d4b0c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kangaskhan",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"35eccbfa-19db-4e59-a6e2-de3f21e2dace\"]",
+      "Height": "22",
+      "Weight": "800",
+      "YieldExperience": "172",
+      "PrimaryAbility": "[\"922cb4e0-72ea-40f7-b6c5-6fbefa939214\"]",
+      "SecondaryAbility": "[\"fa0ae125-7b24-45a0-bf28-4b447dfa5e21\"]",
+      "HiddenAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "BaseHP": "105",
+      "YieldHP": "2",
+      "BaseAttack": "95",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kangaskhan",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

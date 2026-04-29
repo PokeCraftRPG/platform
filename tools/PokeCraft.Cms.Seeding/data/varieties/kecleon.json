@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4d2555ba-4da8-46fc-90a8-5f303c0bdc1e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kecleon",
+    "DisplayName": "Kecleon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d1cac305-73c4-46e6-a64e-fd323676602b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kecleon",
+      "DisplayName": "Kecleon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Color Swap"
+      }
+    }
+  }
+}

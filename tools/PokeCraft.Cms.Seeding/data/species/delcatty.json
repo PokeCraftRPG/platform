@@ -1,0 +1,28 @@
+﻿{
+  "Id": "37f70f83-56d7-4bc6-98bf-06f48fa2920f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "delcatty",
+    "DisplayName": "Delcatty",
+    "Description": null,
+    "FieldValues": {
+      "Number": "301",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "delcatty",
+      "DisplayName": "Delcatty",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

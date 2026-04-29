@@ -1,0 +1,28 @@
+﻿{
+  "Id": "0ebf6191-bd72-42d6-b905-1c2ea8e01849",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slowking",
+    "DisplayName": "Slowking",
+    "Description": null,
+    "FieldValues": {
+      "Number": "199",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "70",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slowking",
+      "DisplayName": "Slowking",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

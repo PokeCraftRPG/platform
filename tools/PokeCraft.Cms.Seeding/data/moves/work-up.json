@@ -1,0 +1,23 @@
+﻿{
+  "Id": "29e22240-2e63-4ed4-b1d4-4c4babbaef5c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "work-up",
+    "DisplayName": "Work Up",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "work-up",
+      "DisplayName": "Work Up",
+      "Description": "The user is roused, and its Attack and Sp. Atk stats are boosted.",
+      "FieldValues": {}
+    }
+  }
+}

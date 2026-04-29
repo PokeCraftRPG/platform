@@ -1,0 +1,41 @@
+﻿{
+  "Id": "d6b06b35-0f9c-4895-a6a7-82122d6c39ad",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sprigatito",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"83caa266-3ae0-4db8-be42-7d8ca1f1220c\"]",
+      "Height": "4",
+      "Weight": "41",
+      "YieldExperience": "62",
+      "PrimaryAbility": "[\"f635691a-6cf0-4a55-a848-a2183d487971\"]",
+      "HiddenAbility": "[\"65291225-4bca-4334-a235-9f7d9e09f7a2\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "61",
+      "YieldAttack": "0",
+      "BaseDefense": "54",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sprigatito",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

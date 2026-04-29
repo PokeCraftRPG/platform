@@ -1,0 +1,23 @@
+﻿{
+  "Id": "8ae01108-e4d0-427f-a2d9-a7caee807c39",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kings-shield",
+    "DisplayName": "King’s Shield",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kings-shield",
+      "DisplayName": "King’s Shield",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

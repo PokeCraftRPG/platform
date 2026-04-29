@@ -1,0 +1,28 @@
+﻿{
+  "Id": "112f60c7-9298-47a1-b284-12c72f36b939",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "alcremie",
+    "DisplayName": "Alcremie",
+    "Description": null,
+    "FieldValues": {
+      "Number": "869",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "100",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Fairy\"]",
+      "SecondaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "alcremie",
+      "DisplayName": "Alcremie",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "176ade1f-7793-4a4b-b887-c0e2ec5c8b89",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "togedemaru",
+    "DisplayName": "Togedemaru",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e6f4f962-5634-467b-82a6-f9b46fb5fc6e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "togedemaru",
+      "DisplayName": "Togedemaru",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Roly-Poly"
+      }
+    }
+  }
+}

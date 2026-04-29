@@ -1,0 +1,23 @@
+﻿{
+  "Id": "67bc2507-838b-4494-a175-26f084c1ee10",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rock-polish",
+    "DisplayName": "Rock Polish",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Rock\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rock-polish",
+      "DisplayName": "Rock Polish",
+      "Description": "The user polishes its body to reduce drag. This sharply boosts the user's Speed stat.",
+      "FieldValues": {}
+    }
+  }
+}

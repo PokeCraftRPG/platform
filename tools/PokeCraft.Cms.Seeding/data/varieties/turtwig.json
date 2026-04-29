@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e932ec5d-360e-46e4-95de-df3ffdf00df1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "turtwig",
+    "DisplayName": "Turtwig",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"489d598b-83bf-4f00-bf2f-3a6c218f99a9\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "turtwig",
+      "DisplayName": "Turtwig",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tiny Leaf"
+      }
+    }
+  }
+}

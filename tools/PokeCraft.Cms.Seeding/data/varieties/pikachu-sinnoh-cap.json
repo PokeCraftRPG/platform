@@ -1,0 +1,26 @@
+﻿{
+  "Id": "89258ea2-9c5d-4ba5-83a9-8738e15747f2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pikachu-sinnoh-cap",
+    "DisplayName": "Pikachu",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9b081c4f-db6c-4c9b-b4fd-ae6099e099ad\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pikachu-sinnoh-cap",
+      "DisplayName": "Pikachu",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mouse"
+      }
+    }
+  }
+}

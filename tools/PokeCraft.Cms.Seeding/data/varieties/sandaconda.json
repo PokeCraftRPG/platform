@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0dfbed9b-2440-44fc-92b4-c3b33980ff95",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sandaconda",
+    "DisplayName": "Sandaconda",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"dd48ff75-e0eb-4fb3-97e4-6c154065ddad\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sandaconda",
+      "DisplayName": "Sandaconda",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sand Snake"
+      }
+    }
+  }
+}

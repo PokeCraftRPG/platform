@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c76b8a50-0eec-490f-ab93-7a48ba1bf111",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "electivire",
+    "DisplayName": "Electivire",
+    "Description": null,
+    "FieldValues": {
+      "Number": "466",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "30",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "electivire",
+      "DisplayName": "Electivire",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

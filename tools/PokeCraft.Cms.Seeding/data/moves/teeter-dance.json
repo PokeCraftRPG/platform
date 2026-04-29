@@ -1,0 +1,24 @@
+﻿{
+  "Id": "a9350ede-093c-4ab1-845b-67c1fef58e36",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "teeter-dance",
+    "DisplayName": "Teeter Dance",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "teeter-dance",
+      "DisplayName": "Teeter Dance",
+      "Description": "The user performs a wobbly dance that confuses every Pokémon around it.",
+      "FieldValues": {}
+    }
+  }
+}

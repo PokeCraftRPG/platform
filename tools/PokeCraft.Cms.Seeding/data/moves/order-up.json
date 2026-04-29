@@ -1,0 +1,25 @@
+﻿{
+  "Id": "879f66c4-afe9-4253-8695-017d8e883257",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "order-up",
+    "DisplayName": "Order Up",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "order-up",
+      "DisplayName": "Order Up",
+      "Description": "The user attacks with elegant poise. If the user has a Tatsugiri in its mouth, this move boosts one of the user's stats based on the Tatsugiri's form.",
+      "FieldValues": {}
+    }
+  }
+}

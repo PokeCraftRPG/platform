@@ -1,0 +1,26 @@
+﻿{
+  "Id": "fcb38930-d79a-47dc-b399-0686d1da7f6b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "helioptile",
+    "DisplayName": "Helioptile",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"58bf3a61-a702-4b57-b2c8-b020ca527459\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "helioptile",
+      "DisplayName": "Helioptile",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Generator"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1c523262-993c-4d85-80cf-d9fa994823fe",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gible",
+    "DisplayName": "Gible",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"48a9c4f7-2be9-4eaf-81da-3f5b08ca257c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gible",
+      "DisplayName": "Gible",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Land Shark"
+      }
+    }
+  }
+}

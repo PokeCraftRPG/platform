@@ -1,0 +1,43 @@
+﻿{
+  "Id": "b2648498-c252-4ae3-bf0a-c7ca846227f9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sliggoo-hisui",
+    "DisplayName": "Hisuian Sliggoo",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ae22baf6-8717-4424-8c15-11717f57bfd1\"]",
+      "Height": "7",
+      "Weight": "685",
+      "YieldExperience": "158",
+      "PrimaryAbility": "[\"a471c5f9-291c-4763-b84a-9c5c666f409b\"]",
+      "SecondaryAbility": "[\"238257b2-205c-4b83-b5f1-393b8c11b2e9\"]",
+      "HiddenAbility": "[\"b26695ec-9331-4ca1-b94c-d371e8bbbb15\"]",
+      "BaseHP": "58",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "83",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "83",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "113",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sliggoo-hisui",
+      "DisplayName": "Hisuian Sliggoo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

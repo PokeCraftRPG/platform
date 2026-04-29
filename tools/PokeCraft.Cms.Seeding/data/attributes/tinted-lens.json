@@ -1,0 +1,19 @@
+﻿{
+  "Id": "786cffd7-a22d-4bc0-87f2-6a9ffbbc07d2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tinted-lens",
+    "DisplayName": "Tinted Lens",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tinted-lens",
+      "DisplayName": "Tinted Lens",
+      "Description": "The Pokémon can use “not very effective” moves to deal regular damage.",
+      "FieldValues": {}
+    }
+  }
+}

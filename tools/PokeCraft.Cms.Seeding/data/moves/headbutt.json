@@ -1,0 +1,25 @@
+﻿{
+  "Id": "3bd4302e-f69f-4cc4-afea-b4226081c274",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "headbutt",
+    "DisplayName": "Headbutt",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "70",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "headbutt",
+      "DisplayName": "Headbutt",
+      "Description": "The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.",
+      "FieldValues": {}
+    }
+  }
+}

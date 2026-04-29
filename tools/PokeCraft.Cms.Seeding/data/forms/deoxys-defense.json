@@ -1,0 +1,40 @@
+﻿{
+  "Id": "ed185cf8-33d1-477a-a05a-9d0de83919cb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "deoxys-defense",
+    "DisplayName": "Defense Deoxys",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e808c52a-a493-4c45-abb6-8057275ce890\"]",
+      "Height": "17",
+      "Weight": "608",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"04822c52-0ef2-4b5e-a4bb-176772f6c3d8\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "160",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "160",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "deoxys-defense",
+      "DisplayName": "Defense Deoxys",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

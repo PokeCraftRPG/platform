@@ -1,0 +1,26 @@
+﻿{
+  "Id": "bc9c6e31-e916-44de-8eb0-08ef7ce304d4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mr-mime",
+    "DisplayName": "Mr. Mime",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"54e96d53-737c-458f-9295-629b4ab0a0bf\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mr-mime",
+      "DisplayName": "Mr. Mime",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Barrier"
+      }
+    }
+  }
+}

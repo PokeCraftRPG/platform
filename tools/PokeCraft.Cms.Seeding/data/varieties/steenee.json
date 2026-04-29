@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5bed40bf-c76b-422d-8ec7-a8e06f1b04dc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "steenee",
+    "DisplayName": "Steenee",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0dfa5d5d-a06d-4ce9-a8d8-4b74aaf6dbd7\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "steenee",
+      "DisplayName": "Steenee",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fruit"
+      }
+    }
+  }
+}

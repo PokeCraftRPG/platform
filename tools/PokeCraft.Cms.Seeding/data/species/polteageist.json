@@ -1,0 +1,28 @@
+﻿{
+  "Id": "c391488c-66e8-4b3d-a1f9-d4662cd58c86",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "polteageist",
+    "DisplayName": "Polteageist",
+    "Description": null,
+    "FieldValues": {
+      "Number": "855",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]",
+      "SecondaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "polteageist",
+      "DisplayName": "Polteageist",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

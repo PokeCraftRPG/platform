@@ -1,0 +1,26 @@
+﻿{
+  "Id": "783511f6-babd-4d33-8512-59f4842b4036",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "serperior",
+    "DisplayName": "Serperior",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8a77fcee-3fe6-48df-b1c9-d3ee35350044\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "serperior",
+      "DisplayName": "Serperior",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Regal"
+      }
+    }
+  }
+}

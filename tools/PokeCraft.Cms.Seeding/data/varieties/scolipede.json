@@ -1,0 +1,26 @@
+﻿{
+  "Id": "93e481bf-e021-4247-9509-cbdfc540ad1a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scolipede",
+    "DisplayName": "Scolipede",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"51a2411e-4a0c-4e2a-bd8b-7c01656bc647\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scolipede",
+      "DisplayName": "Scolipede",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Megapede"
+      }
+    }
+  }
+}

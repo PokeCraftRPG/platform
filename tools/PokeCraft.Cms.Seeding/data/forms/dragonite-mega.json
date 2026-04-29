@@ -1,0 +1,40 @@
+﻿{
+  "Id": "68b5fe49-3dc7-4068-bdc7-448a1c69dc86",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragonite-mega",
+    "DisplayName": "Mega Dragonite",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9c374982-54eb-4d52-a5b3-aa4567ee587a\"]",
+      "Height": "22",
+      "Weight": "2900",
+      "PrimaryAbility": "[\"c1d5c879-ddfc-4121-a943-0a637effd5ea\"]",
+      "BaseHP": "91",
+      "YieldHP": "0",
+      "BaseAttack": "124",
+      "YieldAttack": "0",
+      "BaseDefense": "115",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "145",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "125",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragonite-mega",
+      "DisplayName": "Mega Dragonite",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

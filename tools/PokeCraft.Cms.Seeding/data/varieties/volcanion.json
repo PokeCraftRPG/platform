@@ -1,0 +1,25 @@
+﻿{
+  "Id": "5b509d95-a1dc-49f6-9252-298b96738baf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "volcanion",
+    "DisplayName": "Volcanion",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2dd3358d-37e6-44d0-a9f9-0a9f1b61ef35\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "volcanion",
+      "DisplayName": "Volcanion",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Steam"
+      }
+    }
+  }
+}

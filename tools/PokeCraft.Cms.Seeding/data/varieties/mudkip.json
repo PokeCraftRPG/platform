@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7a2906e5-5338-4733-ad9f-013a8bd43338",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mudkip",
+    "DisplayName": "Mudkip",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3798d45b-b31e-43ea-8ea4-dccbd3a5f478\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mudkip",
+      "DisplayName": "Mudkip",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mud Fish"
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "9be73751-1660-40df-b4e6-39ad82584704",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dunsparce",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"de1dc79a-09ca-4209-a211-c925862e725e\"]",
+      "Height": "15",
+      "Weight": "140",
+      "YieldExperience": "145",
+      "PrimaryAbility": "[\"f1619484-cf62-4314-a26f-a79e00b5720f\"]",
+      "SecondaryAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "HiddenAbility": "[\"9c030956-19a0-4e37-8835-0484c2fa3d91\"]",
+      "BaseHP": "100",
+      "YieldHP": "1",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dunsparce",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

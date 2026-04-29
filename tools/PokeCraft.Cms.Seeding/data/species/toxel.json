@@ -1,0 +1,27 @@
+﻿{
+  "Id": "bacc7df0-5641-4508-8287-6ea211cbc52a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toxel",
+    "DisplayName": "Toxel",
+    "Description": null,
+    "FieldValues": {
+      "Number": "848",
+      "Category": "[\"Baby\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toxel",
+      "DisplayName": "Toxel",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

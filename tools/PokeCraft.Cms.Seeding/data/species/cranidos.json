@@ -1,0 +1,27 @@
+﻿{
+  "Id": "61041594-15ca-47df-b433-fe30f07075ac",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cranidos",
+    "DisplayName": "Cranidos",
+    "Description": null,
+    "FieldValues": {
+      "Number": "408",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Monster\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cranidos",
+      "DisplayName": "Cranidos",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

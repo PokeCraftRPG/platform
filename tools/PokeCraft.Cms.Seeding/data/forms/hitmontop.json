@@ -1,0 +1,42 @@
+﻿{
+  "Id": "9ca8a2f6-2cc1-4a3f-a58c-d43754a98b7f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hitmontop",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"caa8cf9a-6653-425c-a72b-7b24b09214ef\"]",
+      "Height": "14",
+      "Weight": "480",
+      "YieldExperience": "159",
+      "PrimaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "SecondaryAbility": "[\"d20432c3-18d0-4160-a3f1-a363c9e6633d\"]",
+      "HiddenAbility": "[\"d4177038-a9c6-44e6-adb5-615b7111a2b4\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "110",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hitmontop",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

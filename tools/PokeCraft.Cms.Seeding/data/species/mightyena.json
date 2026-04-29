@@ -1,0 +1,27 @@
+﻿{
+  "Id": "3971639b-3bb5-427c-a043-87fea1eeb721",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mightyena",
+    "DisplayName": "Mightyena",
+    "Description": null,
+    "FieldValues": {
+      "Number": "262",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "127",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mightyena",
+      "DisplayName": "Mightyena",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

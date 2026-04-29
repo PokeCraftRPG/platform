@@ -1,0 +1,43 @@
+﻿{
+  "Id": "dd4067f9-741e-405f-a102-48a935326a93",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skuntank",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9f198237-ae41-4cc7-92f2-389728a0ee47\"]",
+      "Height": "10",
+      "Weight": "380",
+      "YieldExperience": "168",
+      "PrimaryAbility": "[\"7cea48e5-cd7c-41df-82f9-a91772037aff\"]",
+      "SecondaryAbility": "[\"553c341c-debe-46e1-809e-34544a36ee63\"]",
+      "HiddenAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "BaseHP": "103",
+      "YieldHP": "2",
+      "BaseAttack": "93",
+      "YieldAttack": "0",
+      "BaseDefense": "67",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "71",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "61",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "84",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skuntank",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

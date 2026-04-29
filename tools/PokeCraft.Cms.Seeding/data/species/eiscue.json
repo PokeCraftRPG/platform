@@ -1,0 +1,28 @@
+﻿{
+  "Id": "2ad8bdcd-7c1c-4e41-966f-e58090ea14ff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "eiscue",
+    "DisplayName": "Eiscue",
+    "Description": null,
+    "FieldValues": {
+      "Number": "875",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "60",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "eiscue",
+      "DisplayName": "Eiscue",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "a56545e6-76cd-44cd-8157-b60b349c37c1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mantyke",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"44a484bd-a6a8-43a1-bb05-f177ba5494b5\"]",
+      "Height": "10",
+      "Weight": "650",
+      "YieldExperience": "69",
+      "PrimaryAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "SecondaryAbility": "[\"ce06d228-a509-444d-ab16-f046f2519e89\"]",
+      "HiddenAbility": "[\"24615c56-6280-47e4-8568-73a412d83865\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "20",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "120",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mantyke",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "84ee8405-204f-41dd-8ae6-2f57d934772d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nidorina",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"90168b8f-efcc-4b54-aaba-fae49f95b04d\"]",
+      "Height": "8",
+      "Weight": "200",
+      "YieldExperience": "128",
+      "PrimaryAbility": "[\"2f1ed275-bfaf-494d-8d85-c48aee736e43\"]",
+      "SecondaryAbility": "[\"3bb432b8-b38c-4243-888c-20085e000f57\"]",
+      "HiddenAbility": "[\"12b608f7-a7b7-412e-803f-28d4eaba64c8\"]",
+      "BaseHP": "70",
+      "YieldHP": "2",
+      "BaseAttack": "62",
+      "YieldAttack": "0",
+      "BaseDefense": "67",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "56",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nidorina",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

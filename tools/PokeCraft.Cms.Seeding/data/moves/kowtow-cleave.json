@@ -1,0 +1,24 @@
+﻿{
+  "Id": "0e455512-089d-4cbf-b5ab-d73ffb26bf28",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kowtow-cleave",
+    "DisplayName": "Kowtow Cleave",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "85",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kowtow-cleave",
+      "DisplayName": "Kowtow Cleave",
+      "Description": "The user slashes at the target after kowtowing to make the target let down its guard. This attack never misses.",
+      "FieldValues": {}
+    }
+  }
+}

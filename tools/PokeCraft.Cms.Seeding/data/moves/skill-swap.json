@@ -1,0 +1,23 @@
+﻿{
+  "Id": "69eb4641-1a59-436c-bfa7-53aea184583c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skill-swap",
+    "DisplayName": "Skill Swap",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skill-swap",
+      "DisplayName": "Skill Swap",
+      "Description": "The user employs its psychic power to exchange Abilities with the target.",
+      "FieldValues": {}
+    }
+  }
+}

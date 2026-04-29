@@ -1,0 +1,26 @@
+﻿{
+  "Id": "313cf002-4bc2-4217-a672-7d910e421138",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "honchkrow",
+    "DisplayName": "Honchkrow",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d57213f1-e167-4ab6-9372-bb879ac9ef5c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "honchkrow",
+      "DisplayName": "Honchkrow",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Big Boss"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "9aaff0a1-6bc0-4d6d-ba6b-2caed2c4d870",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grumpig",
+    "DisplayName": "Grumpig",
+    "Description": null,
+    "FieldValues": {
+      "Number": "326",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grumpig",
+      "DisplayName": "Grumpig",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

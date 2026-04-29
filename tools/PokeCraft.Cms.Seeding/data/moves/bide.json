@@ -1,0 +1,23 @@
+﻿{
+  "Id": "481817c1-a6c7-422e-be40-53996a894846",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bide",
+    "DisplayName": "Bide",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bide",
+      "DisplayName": "Bide",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

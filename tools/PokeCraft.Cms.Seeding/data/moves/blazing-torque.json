@@ -1,0 +1,25 @@
+﻿{
+  "Id": "bf46f3ef-f036-42be-9438-1ef09bf33eba",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blazing-torque",
+    "DisplayName": "Blazing Torque",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blazing-torque",
+      "DisplayName": "Blazing Torque",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

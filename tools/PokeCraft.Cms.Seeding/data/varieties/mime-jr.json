@@ -1,0 +1,26 @@
+﻿{
+  "Id": "37c52b65-bff5-4d83-968f-e38f490679d4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mime-jr",
+    "DisplayName": "Mime Jr.",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f8db7850-7bae-46c3-9ea3-e9da4b96989b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mime-jr",
+      "DisplayName": "Mime Jr.",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mime"
+      }
+    }
+  }
+}

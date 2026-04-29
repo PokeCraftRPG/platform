@@ -1,0 +1,27 @@
+﻿{
+  "Id": "05cfdbd9-9387-4679-9675-d260f0f9a091",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "murkrow",
+    "DisplayName": "Murkrow",
+    "Description": null,
+    "FieldValues": {
+      "Number": "198",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "30",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "murkrow",
+      "DisplayName": "Murkrow",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

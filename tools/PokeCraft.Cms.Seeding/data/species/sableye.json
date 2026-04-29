@@ -1,0 +1,27 @@
+﻿{
+  "Id": "10339620-0a56-4e9e-a613-5410498b8b58",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sableye",
+    "DisplayName": "Sableye",
+    "Description": null,
+    "FieldValues": {
+      "Number": "302",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sableye",
+      "DisplayName": "Sableye",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

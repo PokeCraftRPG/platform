@@ -1,0 +1,27 @@
+﻿{
+  "Id": "5db75583-21cc-49bb-a2e0-999cd29c6869",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "naclstack",
+    "DisplayName": "Naclstack",
+    "Description": null,
+    "FieldValues": {
+      "Number": "933",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "naclstack",
+      "DisplayName": "Naclstack",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

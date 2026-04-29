@@ -1,0 +1,42 @@
+﻿{
+  "Id": "51fad6d2-eb56-4671-a1c0-538dc69894d2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wooloo",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"423d1c09-a3d1-47c3-a1c3-3159af3ff70e\"]",
+      "Height": "6",
+      "Weight": "60",
+      "YieldExperience": "122",
+      "PrimaryAbility": "[\"fb7066f4-554f-4f05-8921-e5198d35baf7\"]",
+      "SecondaryAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "HiddenAbility": "[\"95f8b622-ee64-42b7-be19-313365f588d5\"]",
+      "BaseHP": "42",
+      "YieldHP": "0",
+      "BaseAttack": "40",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "48",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wooloo",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

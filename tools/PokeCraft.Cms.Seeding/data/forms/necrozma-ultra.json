@@ -1,0 +1,41 @@
+﻿{
+  "Id": "4a55df55-470e-4406-8307-948a621e962d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "necrozma-ultra",
+    "DisplayName": "Ultra Necrozma",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3f19f2a6-687f-41bd-bf94-01f294d81181\"]",
+      "Height": "75",
+      "Weight": "2300",
+      "YieldExperience": "339",
+      "PrimaryAbility": "[\"4a769804-d135-4702-8709-d88c5468f7b3\"]",
+      "BaseHP": "97",
+      "YieldHP": "0",
+      "BaseAttack": "167",
+      "YieldAttack": "1",
+      "BaseDefense": "97",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "167",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "97",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "129",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "necrozma-ultra",
+      "DisplayName": "Ultra Necrozma",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

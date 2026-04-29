@@ -1,0 +1,27 @@
+﻿{
+  "Id": "12f419f1-928e-450d-9bc9-5fd1a0aa6db9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "koraidon",
+    "DisplayName": "Koraidon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "1007",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "50",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "koraidon",
+      "DisplayName": "Koraidon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

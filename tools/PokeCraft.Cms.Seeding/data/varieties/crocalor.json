@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b0e91174-173b-4384-8c7a-d7ee37d6b3bf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "crocalor",
+    "DisplayName": "Crocalor",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c3376215-3843-4120-8f8e-5d4823f6f52c\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "crocalor",
+      "DisplayName": "Crocalor",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fire Croc"
+      }
+    }
+  }
+}

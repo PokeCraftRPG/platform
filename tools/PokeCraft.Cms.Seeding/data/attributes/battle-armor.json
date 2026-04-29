@@ -1,0 +1,19 @@
+﻿{
+  "Id": "eb1618b5-7ebc-4d80-b57a-76484f0061da",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "battle-armor",
+    "DisplayName": "Battle Armor",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "battle-armor",
+      "DisplayName": "Battle Armor",
+      "Description": "Hard armor protects the Pokémon from critical hits.",
+      "FieldValues": {}
+    }
+  }
+}

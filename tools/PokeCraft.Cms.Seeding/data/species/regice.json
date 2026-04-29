@@ -1,0 +1,27 @@
+﻿{
+  "Id": "015d0fbd-5709-40e0-8e8f-17b4b9910071",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "regice",
+    "DisplayName": "Regice",
+    "Description": null,
+    "FieldValues": {
+      "Number": "378",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "80",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "regice",
+      "DisplayName": "Regice",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

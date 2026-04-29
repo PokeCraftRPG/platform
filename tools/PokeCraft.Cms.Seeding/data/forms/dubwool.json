@@ -1,0 +1,42 @@
+﻿{
+  "Id": "c479b2d4-d858-4eba-b84c-a7642fce17ce",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dubwool",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c826d730-a768-4a40-a350-74a203fab535\"]",
+      "Height": "13",
+      "Weight": "430",
+      "YieldExperience": "172",
+      "PrimaryAbility": "[\"fb7066f4-554f-4f05-8921-e5198d35baf7\"]",
+      "SecondaryAbility": "[\"d4177038-a9c6-44e6-adb5-615b7111a2b4\"]",
+      "HiddenAbility": "[\"95f8b622-ee64-42b7-be19-313365f588d5\"]",
+      "BaseHP": "72",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "88",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dubwool",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

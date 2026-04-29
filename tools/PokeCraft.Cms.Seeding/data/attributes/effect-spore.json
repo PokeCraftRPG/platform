@@ -1,0 +1,19 @@
+﻿{
+  "Id": "685f8565-bdee-4058-bd90-d7f3711f5d7d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "effect-spore",
+    "DisplayName": "Effect Spore",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "effect-spore",
+      "DisplayName": "Effect Spore",
+      "Description": "Contact with the Pokémon may inflict poison, sleep, or paralysis on the attacker.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6bf77def-291b-42b4-8fa1-3125c18ca1dc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chewtle",
+    "DisplayName": "Chewtle",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a80186f2-88fb-41f8-873d-872d3b917e3d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chewtle",
+      "DisplayName": "Chewtle",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Snapping"
+      }
+    }
+  }
+}

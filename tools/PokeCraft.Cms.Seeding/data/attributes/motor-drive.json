@@ -1,0 +1,19 @@
+﻿{
+  "Id": "1c41e2f3-b9f2-4ba5-a444-5bf018b5657e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "motor-drive",
+    "DisplayName": "Motor Drive",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "motor-drive",
+      "DisplayName": "Motor Drive",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

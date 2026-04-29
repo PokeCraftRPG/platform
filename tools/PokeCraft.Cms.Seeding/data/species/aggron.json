@@ -1,0 +1,27 @@
+﻿{
+  "Id": "2e66f791-88b6-4f1d-89c1-342dc5ceec4e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aggron",
+    "DisplayName": "Aggron",
+    "Description": null,
+    "FieldValues": {
+      "Number": "306",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "35",
+      "PrimaryEggGroup": "[\"Monster\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aggron",
+      "DisplayName": "Aggron",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

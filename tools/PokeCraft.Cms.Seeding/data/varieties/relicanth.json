@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d2006aa6-03d7-4808-8066-9d44ca913d8f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "relicanth",
+    "DisplayName": "Relicanth",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"055b589e-d263-4257-9890-5600ee70867e\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "relicanth",
+      "DisplayName": "Relicanth",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Longevity"
+      }
+    }
+  }
+}

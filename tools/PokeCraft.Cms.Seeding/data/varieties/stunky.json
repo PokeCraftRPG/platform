@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7ef71e89-7567-40a4-8d9a-05bc9df2c634",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stunky",
+    "DisplayName": "Stunky",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0c2b23df-ddcc-4f13-be9e-373da6515861\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stunky",
+      "DisplayName": "Stunky",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Skunk"
+      }
+    }
+  }
+}

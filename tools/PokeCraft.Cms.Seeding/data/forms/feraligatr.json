@@ -1,0 +1,41 @@
+﻿{
+  "Id": "f762909d-b628-4ffe-87fa-7dab0c2fc220",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "feraligatr",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"fcb98ab7-901a-41e9-b981-66afdad549bc\"]",
+      "Height": "23",
+      "Weight": "888",
+      "YieldExperience": "239",
+      "PrimaryAbility": "[\"973e0e1a-dcca-4ab1-bd25-90df209dfc63\"]",
+      "HiddenAbility": "[\"ef348627-bea1-4c87-9bf1-417ed3b66855\"]",
+      "BaseHP": "85",
+      "YieldHP": "0",
+      "BaseAttack": "105",
+      "YieldAttack": "2",
+      "BaseDefense": "100",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "79",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "83",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "78",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "feraligatr",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

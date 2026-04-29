@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a4dfcd63-499b-443b-b879-c279405358b5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "karrablast",
+    "DisplayName": "Karrablast",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b40b7fb2-c7f5-4516-9717-ddecaba63fed\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "karrablast",
+      "DisplayName": "Karrablast",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Clamping"
+      }
+    }
+  }
+}

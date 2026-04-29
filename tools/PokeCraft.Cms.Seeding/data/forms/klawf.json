@@ -1,0 +1,42 @@
+﻿{
+  "Id": "caeb62a0-c687-4953-9e4f-a39cfdff4b41",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "klawf",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"8797d6f5-56a9-470a-a810-c12cecc50c7b\"]",
+      "Height": "13",
+      "Weight": "790",
+      "YieldExperience": "158",
+      "PrimaryAbility": "[\"20d1d78d-f830-4fd9-bc3b-1f5c66fca0b0\"]",
+      "SecondaryAbility": "[\"238257b2-205c-4b83-b5f1-393b8c11b2e9\"]",
+      "HiddenAbility": "[\"3f2976c2-09ac-4c69-8b32-5d930032faba\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "115",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "75",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "klawf",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

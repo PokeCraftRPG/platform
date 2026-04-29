@@ -1,0 +1,28 @@
+﻿{
+  "Id": "e7623f44-9713-47fb-bb96-29250d39a085",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mienfoo",
+    "DisplayName": "Mienfoo",
+    "Description": null,
+    "FieldValues": {
+      "Number": "619",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "180",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mienfoo",
+      "DisplayName": "Mienfoo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

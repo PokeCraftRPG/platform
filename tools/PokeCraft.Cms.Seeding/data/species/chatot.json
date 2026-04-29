@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f5400998-4d79-4234-af7a-3d3385cbee08",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chatot",
+    "DisplayName": "Chatot",
+    "Description": null,
+    "FieldValues": {
+      "Number": "441",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "30",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chatot",
+      "DisplayName": "Chatot",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

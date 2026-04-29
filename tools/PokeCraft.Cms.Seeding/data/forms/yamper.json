@@ -1,0 +1,41 @@
+﻿{
+  "Id": "3ae9a0fa-a0ba-4a5b-82a1-21e8af5d3967",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "yamper",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5614ead0-0841-482f-947e-4f45055db867\"]",
+      "Height": "3",
+      "Weight": "135",
+      "YieldExperience": "54",
+      "PrimaryAbility": "[\"ce745a46-317f-4fe2-82cb-6f3599b14aca\"]",
+      "HiddenAbility": "[\"9c030956-19a0-4e37-8835-0484c2fa3d91\"]",
+      "BaseHP": "59",
+      "YieldHP": "1",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "26",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "yamper",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

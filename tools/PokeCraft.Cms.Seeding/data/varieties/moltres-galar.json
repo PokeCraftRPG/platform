@@ -1,0 +1,25 @@
+﻿{
+  "Id": "832e8dc8-307d-4a6f-af60-f47fdd1907da",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "moltres-galar",
+    "DisplayName": "Moltres",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d3f1b54e-fdfc-465b-a974-73cee0217dae\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "moltres-galar",
+      "DisplayName": "Moltres",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Flame"
+      }
+    }
+  }
+}

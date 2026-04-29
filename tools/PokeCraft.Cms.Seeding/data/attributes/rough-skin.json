@@ -1,0 +1,19 @@
+﻿{
+  "Id": "b48ce3db-30ec-4675-8331-7389c8cc19c6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rough-skin",
+    "DisplayName": "Rough Skin",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rough-skin",
+      "DisplayName": "Rough Skin",
+      "Description": "The Pokémon's rough skin damages attackers that make direct contact with it.",
+      "FieldValues": {}
+    }
+  }
+}

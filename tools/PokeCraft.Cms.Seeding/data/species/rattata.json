@@ -1,0 +1,27 @@
+﻿{
+  "Id": "848cfc2f-0b3b-4aca-a206-8cce08c98ed8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rattata",
+    "DisplayName": "Rattata",
+    "Description": null,
+    "FieldValues": {
+      "Number": "19",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rattata",
+      "DisplayName": "Rattata",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

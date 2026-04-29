@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f969c978-2a6f-4116-ac30-2ed8e46e41d7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stonjourner",
+    "DisplayName": "Stonjourner",
+    "Description": null,
+    "FieldValues": {
+      "Number": "874",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "60",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stonjourner",
+      "DisplayName": "Stonjourner",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

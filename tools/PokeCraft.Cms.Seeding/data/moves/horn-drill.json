@@ -1,0 +1,24 @@
+﻿{
+  "Id": "3cb6ea29-a789-40ca-aeeb-2aee1631b794",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "horn-drill",
+    "DisplayName": "Horn Drill",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "30",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "horn-drill",
+      "DisplayName": "Horn Drill",
+      "Description": "The user stabs the target with a horn that rotates like a drill. The target faints instantly if this attack hits.",
+      "FieldValues": {}
+    }
+  }
+}

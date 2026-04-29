@@ -1,0 +1,42 @@
+﻿{
+  "Id": "9fd1bf42-d9db-4df7-8ca0-42b4c884060c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nidoran-f",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6264c693-3f4b-49db-a44a-2915cd10aa1c\"]",
+      "Height": "4",
+      "Weight": "70",
+      "YieldExperience": "55",
+      "PrimaryAbility": "[\"2f1ed275-bfaf-494d-8d85-c48aee736e43\"]",
+      "SecondaryAbility": "[\"3bb432b8-b38c-4243-888c-20085e000f57\"]",
+      "HiddenAbility": "[\"12b608f7-a7b7-412e-803f-28d4eaba64c8\"]",
+      "BaseHP": "55",
+      "YieldHP": "1",
+      "BaseAttack": "47",
+      "YieldAttack": "0",
+      "BaseDefense": "52",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "41",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nidoran-f",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

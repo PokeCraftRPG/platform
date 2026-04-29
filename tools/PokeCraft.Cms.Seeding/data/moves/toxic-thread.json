@@ -1,0 +1,24 @@
+﻿{
+  "Id": "a7932820-8325-4c6c-aca4-4456291adab9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toxic-thread",
+    "DisplayName": "Toxic Thread",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toxic-thread",
+      "DisplayName": "Toxic Thread",
+      "Description": "The user shoots poisonous threads to poison the target and lower the target's Speed stat.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "330003da-f269-451b-8d88-443666cc7083",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hitmonlee",
+    "DisplayName": "Hitmonlee",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"cd665657-91ee-4566-ae71-8478f435c2e3\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hitmonlee",
+      "DisplayName": "Hitmonlee",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Kicking"
+      }
+    }
+  }
+}

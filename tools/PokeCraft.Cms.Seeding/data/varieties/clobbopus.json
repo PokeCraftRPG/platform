@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e7f714c0-88f9-4166-a5e3-ddafc92230ee",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clobbopus",
+    "DisplayName": "Clobbopus",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b6ecf3ac-1fd4-4ebb-9b89-33ec8832e288\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clobbopus",
+      "DisplayName": "Clobbopus",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tantrum"
+      }
+    }
+  }
+}

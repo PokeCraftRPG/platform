@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b47335d8-b608-420c-8f2c-b7dc7810e7a5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "noibat",
+    "DisplayName": "Noibat",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9292991f-499f-43cd-9f06-a20bc1e56013\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "noibat",
+      "DisplayName": "Noibat",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sound Wave"
+      }
+    }
+  }
+}

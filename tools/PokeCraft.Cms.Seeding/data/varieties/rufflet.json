@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ee30041c-2eaa-433e-8131-0a0160ebac4a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rufflet",
+    "DisplayName": "Rufflet",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6d56dab5-05e6-44cf-a6bd-28eebfa89b53\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rufflet",
+      "DisplayName": "Rufflet",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Eaglet"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d763169b-09bf-4c12-abb1-c23834544c39",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "samurott-hisui",
+    "DisplayName": "Samurott",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e3aa5a8e-5284-4565-949f-a49fb205e967\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "samurott-hisui",
+      "DisplayName": "Samurott",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Formidable"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f5c560a1-9bca-4a3b-9752-c721a0c498c8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "eevee-starter",
+    "DisplayName": "Eevee",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"fd7c5a57-91b0-4f7b-af9a-c5dd919a9db5\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "eevee-starter",
+      "DisplayName": "Eevee",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Evolution"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "8fb3f257-6f5d-4d11-9dfd-9cace3e138b2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flame-wheel",
+    "DisplayName": "Flame Wheel",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "25"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flame-wheel",
+      "DisplayName": "Flame Wheel",
+      "Description": "The user attacks by cloaking itself in fire and charging at the target. This may also leave the target with a burn.",
+      "FieldValues": {}
+    }
+  }
+}

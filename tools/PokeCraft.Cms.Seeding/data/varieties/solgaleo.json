@@ -1,0 +1,25 @@
+﻿{
+  "Id": "5927ca04-df1d-4206-a166-8b20e5d8d567",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "solgaleo",
+    "DisplayName": "Solgaleo",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c98856be-9658-4a78-b26e-78909fa76f12\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "solgaleo",
+      "DisplayName": "Solgaleo",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sunne"
+      }
+    }
+  }
+}

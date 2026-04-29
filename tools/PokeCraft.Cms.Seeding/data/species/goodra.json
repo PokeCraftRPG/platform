@@ -1,0 +1,27 @@
+﻿{
+  "Id": "8da0bc01-60ee-434f-8b6e-3d44f5c28876",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "goodra",
+    "DisplayName": "Goodra",
+    "Description": null,
+    "FieldValues": {
+      "Number": "706",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "goodra",
+      "DisplayName": "Goodra",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

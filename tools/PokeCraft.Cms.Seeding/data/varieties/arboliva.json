@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5c8948af-16b6-4b40-947d-26cb41c408fb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arboliva",
+    "DisplayName": "Arboliva",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d8287e87-b38a-417a-892d-d30598f6ccaa\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arboliva",
+      "DisplayName": "Arboliva",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Olive"
+      }
+    }
+  }
+}

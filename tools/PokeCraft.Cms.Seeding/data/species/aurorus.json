@@ -1,0 +1,27 @@
+﻿{
+  "Id": "5bbcfbf3-8846-4562-9914-78df36fd91e3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aurorus",
+    "DisplayName": "Aurorus",
+    "Description": null,
+    "FieldValues": {
+      "Number": "699",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Monster\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aurorus",
+      "DisplayName": "Aurorus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

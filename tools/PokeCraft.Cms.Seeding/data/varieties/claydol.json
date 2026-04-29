@@ -1,0 +1,25 @@
+﻿{
+  "Id": "3efabd88-2c58-4e54-bfd2-da9479adcb21",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "claydol",
+    "DisplayName": "Claydol",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6e5b570f-972a-4750-bf05-3c16742d2c98\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "claydol",
+      "DisplayName": "Claydol",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Clay Doll"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e3854930-b37b-4081-8fbd-50f8b5066a40",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "onix",
+    "DisplayName": "Onix",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e40450c8-8689-4ab2-9cd2-977dc070200a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "onix",
+      "DisplayName": "Onix",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rock Snake"
+      }
+    }
+  }
+}

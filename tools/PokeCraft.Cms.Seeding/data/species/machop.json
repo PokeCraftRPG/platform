@@ -1,0 +1,27 @@
+﻿{
+  "Id": "517278b2-30fb-41f0-83b0-9b9ac992cc83",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "machop",
+    "DisplayName": "Machop",
+    "Description": null,
+    "FieldValues": {
+      "Number": "66",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "180",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "machop",
+      "DisplayName": "Machop",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

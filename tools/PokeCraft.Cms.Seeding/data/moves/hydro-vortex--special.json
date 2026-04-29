@@ -1,0 +1,23 @@
+﻿{
+  "Id": "51653182-7032-4475-890d-75b9b221984e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hydro-vortex--special",
+    "DisplayName": "Hydro Vortex",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hydro-vortex--special",
+      "DisplayName": "Hydro Vortex",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

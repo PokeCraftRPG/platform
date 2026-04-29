@@ -1,0 +1,28 @@
+﻿{
+  "Id": "7a171eb5-ff81-4b37-9df5-38823d83a240",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "frigibax",
+    "DisplayName": "Frigibax",
+    "Description": null,
+    "FieldValues": {
+      "Number": "996",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Dragon\"]",
+      "SecondaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "frigibax",
+      "DisplayName": "Frigibax",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

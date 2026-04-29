@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d1cac305-73c4-46e6-a64e-fd323676602b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kecleon",
+    "DisplayName": "Kecleon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "352",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "200",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kecleon",
+      "DisplayName": "Kecleon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "20d1d78d-f830-4fd9-bc3b-1f5c66fca0b0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "anger-shell",
+    "DisplayName": "Anger Shell",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "anger-shell",
+      "DisplayName": "Anger Shell",
+      "Description": "When an attack causes its HP to drop to half or less, the Pokémon gets angry. This lowers its Defense and Sp. Def stats but boosts its Attack, Sp. Atk, and Speed stats.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "649344c9-83b4-4fad-86dd-d08a7bebc8bb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "diancie-mega",
+    "DisplayName": "Mega Diancie",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4c9ceec2-8c81-46ee-8d15-bf58b5943fb0\"]",
+      "Height": "11",
+      "Weight": "278",
+      "YieldExperience": "315",
+      "PrimaryAbility": "[\"67f51e12-608d-4075-9293-523b122271f5\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "160",
+      "YieldAttack": "0",
+      "BaseDefense": "110",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "160",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "110",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "110",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "diancie-mega",
+      "DisplayName": "Mega Diancie",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

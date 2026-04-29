@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6265ed50-6f64-4517-b32b-ce9330d73aea",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pyroar-mega",
+    "DisplayName": "Pyroar",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"be19ace4-f78c-4508-8d92-77ca596222dd\"]",
+      "GenderRatio": "1",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pyroar-mega",
+      "DisplayName": "Pyroar",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Royal"
+      }
+    }
+  }
+}

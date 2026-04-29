@@ -1,0 +1,23 @@
+﻿{
+  "Id": "d05d5653-fe7c-45cd-9a6f-53957b69f2ad",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "heal-pulse",
+    "DisplayName": "Heal Pulse",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "heal-pulse",
+      "DisplayName": "Heal Pulse",
+      "Description": "The user emits a healing pulse that restores the target's HP by up to half its max HP.",
+      "FieldValues": {}
+    }
+  }
+}

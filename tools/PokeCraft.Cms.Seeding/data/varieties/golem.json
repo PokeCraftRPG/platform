@@ -1,0 +1,26 @@
+﻿{
+  "Id": "42327168-ef23-45b6-8f86-7e195ba85a69",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "golem",
+    "DisplayName": "Golem",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2ee39d20-0083-4a14-bce5-18fec5354996\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "golem",
+      "DisplayName": "Golem",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Megaton"
+      }
+    }
+  }
+}

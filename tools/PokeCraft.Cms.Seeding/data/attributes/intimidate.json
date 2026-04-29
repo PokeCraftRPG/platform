@@ -1,0 +1,19 @@
+﻿{
+  "Id": "2a18a12a-c306-4b67-8a79-c121eb3c0118",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "intimidate",
+    "DisplayName": "Intimidate",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "intimidate",
+      "DisplayName": "Intimidate",
+      "Description": "When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
+      "FieldValues": {}
+    }
+  }
+}

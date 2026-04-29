@@ -1,0 +1,28 @@
+﻿{
+  "Id": "58bf3a61-a702-4b57-b2c8-b020ca527459",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "helioptile",
+    "DisplayName": "Helioptile",
+    "Description": null,
+    "FieldValues": {
+      "Number": "694",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "helioptile",
+      "DisplayName": "Helioptile",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

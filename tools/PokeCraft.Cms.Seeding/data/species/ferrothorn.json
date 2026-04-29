@@ -1,0 +1,28 @@
+﻿{
+  "Id": "b43a0d7d-24a4-41b6-b318-621e000f888c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ferrothorn",
+    "DisplayName": "Ferrothorn",
+    "Description": null,
+    "FieldValues": {
+      "Number": "598",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]",
+      "SecondaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ferrothorn",
+      "DisplayName": "Ferrothorn",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

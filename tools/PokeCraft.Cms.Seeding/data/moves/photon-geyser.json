@@ -1,0 +1,25 @@
+﻿{
+  "Id": "786848b6-2b6d-4b88-8618-b57661ec36d6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "photon-geyser",
+    "DisplayName": "Photon Geyser",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "photon-geyser",
+      "DisplayName": "Photon Geyser",
+      "Description": "The user attacks the target with a pillar of light. This move inflicts damage using the Attack or Sp. Atk stat—whichever is higher for the user.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "586b7e0b-b873-44f3-b1ee-9cb8611a7485",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "confide",
+    "DisplayName": "Confide",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "confide",
+      "DisplayName": "Confide",
+      "Description": "The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target's Sp. Atk stat.",
+      "FieldValues": {}
+    }
+  }
+}

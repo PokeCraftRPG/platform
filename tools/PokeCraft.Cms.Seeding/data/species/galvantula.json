@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d9ca2254-1bdf-46b5-9502-3c9e93f98671",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "galvantula",
+    "DisplayName": "Galvantula",
+    "Description": null,
+    "FieldValues": {
+      "Number": "596",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "galvantula",
+      "DisplayName": "Galvantula",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

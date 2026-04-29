@@ -1,0 +1,26 @@
+﻿{
+  "Id": "74c4a9d8-a949-4a26-bf2e-9caf759efe0a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "urshifu-single-strike-gmax",
+    "DisplayName": "Urshifu",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"29c5b4b8-bcde-45e0-bfa5-a8d04390e2af\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "urshifu-single-strike-gmax",
+      "DisplayName": "Urshifu",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Wushu"
+      }
+    }
+  }
+}

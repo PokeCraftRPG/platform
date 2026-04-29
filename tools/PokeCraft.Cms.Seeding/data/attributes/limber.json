@@ -1,0 +1,19 @@
+﻿{
+  "Id": "170e2598-7fd5-497f-9003-f9d753aadd0d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "limber",
+    "DisplayName": "Limber",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "limber",
+      "DisplayName": "Limber",
+      "Description": "The Pokémon's limber body prevents it from being paralyzed.",
+      "FieldValues": {}
+    }
+  }
+}

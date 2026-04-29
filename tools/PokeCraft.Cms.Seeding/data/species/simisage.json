@@ -1,0 +1,27 @@
+﻿{
+  "Id": "9acdfe1d-131f-47ec-9908-f6633b2de24b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "simisage",
+    "DisplayName": "Simisage",
+    "Description": null,
+    "FieldValues": {
+      "Number": "512",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "simisage",
+      "DisplayName": "Simisage",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

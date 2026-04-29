@@ -1,0 +1,25 @@
+﻿{
+  "Id": "532037b5-80a6-43de-bbe9-483cbdc9f206",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "waterfall",
+    "DisplayName": "Waterfall",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "waterfall",
+      "DisplayName": "Waterfall",
+      "Description": "The user charges at the target and may make it flinch.",
+      "FieldValues": {}
+    }
+  }
+}

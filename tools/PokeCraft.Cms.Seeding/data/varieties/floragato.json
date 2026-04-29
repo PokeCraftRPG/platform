@@ -1,0 +1,26 @@
+﻿{
+  "Id": "61e73144-d36e-4ac4-943a-5abcf289149c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "floragato",
+    "DisplayName": "Floragato",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"bf665f10-bca5-45af-b463-433e81a95250\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "floragato",
+      "DisplayName": "Floragato",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Grass Cat"
+      }
+    }
+  }
+}

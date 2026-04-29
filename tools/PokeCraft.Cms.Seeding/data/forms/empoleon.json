@@ -1,0 +1,42 @@
+﻿{
+  "Id": "386997bb-b94e-4dff-a33f-1a02e8e6de38",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "empoleon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0b6f8ab5-eb73-4675-a28e-fcee15e691c2\"]",
+      "Height": "17",
+      "Weight": "845",
+      "YieldExperience": "239",
+      "PrimaryAbility": "[\"973e0e1a-dcca-4ab1-bd25-90df209dfc63\"]",
+      "HiddenAbility": "[\"2a7439f3-bce4-4614-9969-78ec2ce46f31\"]",
+      "BaseHP": "84",
+      "YieldHP": "0",
+      "BaseAttack": "86",
+      "YieldAttack": "0",
+      "BaseDefense": "88",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "111",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "101",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "empoleon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "89c6590c-666e-4a3b-beae-bb0298ccde1d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "buneary",
+    "DisplayName": "Buneary",
+    "Description": null,
+    "FieldValues": {
+      "Number": "427",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "buneary",
+      "DisplayName": "Buneary",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

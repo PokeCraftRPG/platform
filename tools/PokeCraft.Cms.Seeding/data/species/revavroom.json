@@ -1,0 +1,27 @@
+﻿{
+  "Id": "3dd2065e-72f3-4245-a175-c08602192dc7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "revavroom",
+    "DisplayName": "Revavroom",
+    "Description": null,
+    "FieldValues": {
+      "Number": "966",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "revavroom",
+      "DisplayName": "Revavroom",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

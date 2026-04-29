@@ -1,0 +1,26 @@
+﻿{
+  "Id": "de176846-ed72-4024-a6fa-0395ad1c32ee",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vileplume",
+    "DisplayName": "Vileplume",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e15a7280-e597-42ae-83c5-0af5241a8f5c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vileplume",
+      "DisplayName": "Vileplume",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Flower"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "972b9592-4035-4c35-9e40-d29c24ceb7e2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wooper",
+    "DisplayName": "Wooper",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ba0994c2-950d-4e3f-a60b-3a15378058d2\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wooper",
+      "DisplayName": "Wooper",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Water Fish"
+      }
+    }
+  }
+}

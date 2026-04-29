@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d4e1ecaf-a207-4dc6-a2d1-42a9aa39f79a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mew",
+    "DisplayName": "Mew",
+    "Description": null,
+    "FieldValues": {
+      "Number": "151",
+      "Category": "[\"Mythical\"]",
+      "BaseFriendship": "100",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mew",
+      "DisplayName": "Mew",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

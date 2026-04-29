@@ -1,0 +1,25 @@
+﻿{
+  "Id": "24ce0d4b-3f3b-49d0-b534-b11e0f7b4d08",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "melmetal-gmax",
+    "DisplayName": "Melmetal",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ce6d861c-8144-42ae-b039-025dc86bbb00\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "melmetal-gmax",
+      "DisplayName": "Melmetal",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Hex Nut"
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "d5907e6d-b714-4c32-a870-683f06b50694",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "turtwig",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e932ec5d-360e-46e4-95de-df3ffdf00df1\"]",
+      "Height": "4",
+      "Weight": "102",
+      "YieldExperience": "64",
+      "PrimaryAbility": "[\"f635691a-6cf0-4a55-a848-a2183d487971\"]",
+      "HiddenAbility": "[\"238257b2-205c-4b83-b5f1-393b8c11b2e9\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "68",
+      "YieldAttack": "1",
+      "BaseDefense": "64",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "31",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "turtwig",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

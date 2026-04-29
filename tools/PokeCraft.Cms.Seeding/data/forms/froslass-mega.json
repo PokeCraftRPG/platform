@@ -1,0 +1,40 @@
+﻿{
+  "Id": "5bad8c65-58e0-4027-9678-e6210d5c6d11",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "froslass-mega",
+    "DisplayName": "Mega Froslass",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"132a389e-a282-4427-b891-a6e446f932f6\"]",
+      "Height": "26",
+      "Weight": "296",
+      "PrimaryAbility": "[\"94d77255-80ed-447a-8809-43dc73a72602\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "140",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "120",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Ice\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "froslass-mega",
+      "DisplayName": "Mega Froslass",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

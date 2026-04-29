@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c1c35cde-36fe-4dd7-8524-09a737360e22",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "garbodor",
+    "DisplayName": "Garbodor",
+    "Description": null,
+    "FieldValues": {
+      "Number": "569",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "garbodor",
+      "DisplayName": "Garbodor",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

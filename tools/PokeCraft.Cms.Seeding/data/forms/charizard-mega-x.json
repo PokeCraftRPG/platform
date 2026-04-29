@@ -1,0 +1,41 @@
+﻿{
+  "Id": "6c1e6f6e-e6ec-494d-87e9-72e46ad31034",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "charizard-mega-x",
+    "DisplayName": "Mega Charizard X",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9dba4bd2-adb4-4cd8-8fd5-1c50c34af6d1\"]",
+      "Height": "17",
+      "Weight": "1105",
+      "YieldExperience": "285",
+      "PrimaryAbility": "[\"97aefd91-1b08-4ac4-b2c7-d9c6cb7f555a\"]",
+      "BaseHP": "78",
+      "YieldHP": "0",
+      "BaseAttack": "130",
+      "YieldAttack": "0",
+      "BaseDefense": "111",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "130",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "charizard-mega-x",
+      "DisplayName": "Mega Charizard X",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

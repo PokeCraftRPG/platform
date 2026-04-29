@@ -1,0 +1,24 @@
+﻿{
+  "Id": "ab6147a2-3365-4b9f-9cc0-7cf081286090",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "torment",
+    "DisplayName": "Torment",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "torment",
+      "DisplayName": "Torment",
+      "Description": "The user torments and enrages the target, making it incapable of using the same move twice in a row.",
+      "FieldValues": {}
+    }
+  }
+}

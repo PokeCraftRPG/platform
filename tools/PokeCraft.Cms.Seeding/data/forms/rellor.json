@@ -1,0 +1,41 @@
+﻿{
+  "Id": "235b659a-5229-44ed-a557-61ca25d22346",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rellor",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"fa30c15a-a595-4892-8bc3-9c34b3929ec3\"]",
+      "Height": "2",
+      "Weight": "10",
+      "YieldExperience": "54",
+      "PrimaryAbility": "[\"65e44b8e-43f4-4e6f-9e4e-db99591d1061\"]",
+      "HiddenAbility": "[\"ce764204-79c4-4e66-8017-2144a4e66f3c\"]",
+      "BaseHP": "41",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "31",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "58",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rellor",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "84cf259c-4785-472e-bf32-722d7c35acce",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "eiscue-ice",
+    "DisplayName": "Eiscue",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2ad8bdcd-7c1c-4e41-966f-e58090ea14ff\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "eiscue-ice",
+      "DisplayName": "Eiscue",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Penguin"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "65291225-4bca-4334-a235-9f7d9e09f7a2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "protean",
+    "DisplayName": "Protean",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "protean",
+      "DisplayName": "Protean",
+      "Description": "Changes the Pokémon's type to the type of the move it's about to use. This works only once each time the Pokémon enters battle.",
+      "FieldValues": {}
+    }
+  }
+}

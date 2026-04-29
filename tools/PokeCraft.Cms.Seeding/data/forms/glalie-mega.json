@@ -1,0 +1,40 @@
+﻿{
+  "Id": "e8f0c7d9-20ac-4c8d-8634-9301b7d97d5f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glalie-mega",
+    "DisplayName": "Mega Glalie",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"cd0e56a9-2a32-4a2c-9f95-5773d4571c36\"]",
+      "Height": "21",
+      "Weight": "3502",
+      "YieldExperience": "203",
+      "PrimaryAbility": "[\"0315e132-cf16-4bfe-8d13-4db13a321385\"]",
+      "BaseHP": "80",
+      "YieldHP": "2",
+      "BaseAttack": "120",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "120",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glalie-mega",
+      "DisplayName": "Mega Glalie",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

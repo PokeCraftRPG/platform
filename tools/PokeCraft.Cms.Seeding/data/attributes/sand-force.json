@@ -1,0 +1,19 @@
+﻿{
+  "Id": "19474510-6538-4d3f-8775-1316904fe470",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sand-force",
+    "DisplayName": "Sand Force",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sand-force",
+      "DisplayName": "Sand Force",
+      "Description": "Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm.",
+      "FieldValues": {}
+    }
+  }
+}

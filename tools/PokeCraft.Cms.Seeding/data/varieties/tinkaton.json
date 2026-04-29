@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6d16a1a8-a747-45a8-ae7d-65cefc369888",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tinkaton",
+    "DisplayName": "Tinkaton",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c51be2ef-2dc8-4f63-b2dc-6cce2b8a0c55\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tinkaton",
+      "DisplayName": "Tinkaton",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Hammer"
+      }
+    }
+  }
+}

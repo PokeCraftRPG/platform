@@ -1,0 +1,42 @@
+﻿{
+  "Id": "099356cf-7525-4081-8ae1-c09fdb8eee19",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sentret",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e646a9c2-12e5-463b-bda6-45e4b9844e99\"]",
+      "Height": "8",
+      "Weight": "60",
+      "YieldExperience": "43",
+      "PrimaryAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "SecondaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "HiddenAbility": "[\"646cd171-4012-41af-b36f-69b1a3142f3e\"]",
+      "BaseHP": "35",
+      "YieldHP": "0",
+      "BaseAttack": "46",
+      "YieldAttack": "1",
+      "BaseDefense": "34",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "20",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sentret",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

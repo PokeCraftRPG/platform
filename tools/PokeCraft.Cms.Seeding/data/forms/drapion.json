@@ -1,0 +1,43 @@
+﻿{
+  "Id": "d3e86a24-5f7e-4b3a-abc4-c0f506205cbf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drapion",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3307efca-3ac6-4628-9326-eda0820ce1f8\"]",
+      "Height": "13",
+      "Weight": "615",
+      "YieldExperience": "175",
+      "PrimaryAbility": "[\"eb1618b5-7ebc-4d80-b57a-76484f0061da\"]",
+      "SecondaryAbility": "[\"e1b8fd69-5bf8-4889-ab24-ea30a8419d99\"]",
+      "HiddenAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "110",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drapion",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

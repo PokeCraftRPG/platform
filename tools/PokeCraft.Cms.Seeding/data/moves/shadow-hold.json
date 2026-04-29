@@ -1,0 +1,21 @@
+﻿{
+  "Id": "10645ea7-2563-4764-9a5c-99fe044f1acb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shadow-hold",
+    "DisplayName": "Shadow Hold",
+    "Description": null,
+    "FieldValues": {
+      "Category": "[\"Status\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shadow-hold",
+      "DisplayName": "Shadow Hold",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "cd087fab-87b8-4948-af81-633d1fa0cb13",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zarude-dada",
+    "DisplayName": "Zarude",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"08e5b2d9-daeb-4f44-9a11-9fde2ea0a137\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zarude-dada",
+      "DisplayName": "Zarude",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rogue Monkey"
+      }
+    }
+  }
+}

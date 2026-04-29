@@ -1,0 +1,42 @@
+﻿{
+  "Id": "563c4f80-9976-4d42-9346-af154461f363",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "frigibax",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3f5e0ab4-bb4a-49d9-9f7e-56eaf4596512\"]",
+      "Height": "5",
+      "Weight": "170",
+      "YieldExperience": "64",
+      "PrimaryAbility": "[\"1117bcee-57ac-4af9-8555-e292ee340c3e\"]",
+      "HiddenAbility": "[\"c28be462-7265-4527-a8aa-85774f7eaf7b\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "1",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "frigibax",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

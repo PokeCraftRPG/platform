@@ -1,0 +1,26 @@
+﻿{
+  "Id": "275e9d77-514a-4bee-b2ea-cd5fd828ce46",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "conkeldurr",
+    "DisplayName": "Conkeldurr",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"16646451-7076-40ee-827d-696af7598f56\"]",
+      "GenderRatio": "6",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "conkeldurr",
+      "DisplayName": "Conkeldurr",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Muscular"
+      }
+    }
+  }
+}

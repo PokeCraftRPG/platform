@@ -1,0 +1,28 @@
+﻿{
+  "Id": "4bb12fca-0d09-4dd1-ad52-e192ee34b9d8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wimpod",
+    "DisplayName": "Wimpod",
+    "Description": null,
+    "FieldValues": {
+      "Number": "767",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]",
+      "SecondaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wimpod",
+      "DisplayName": "Wimpod",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

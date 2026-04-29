@@ -1,0 +1,27 @@
+﻿{
+  "Id": "05457920-4860-4d6d-a2ef-ed3d8ed6ef3a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "donphan",
+    "DisplayName": "Donphan",
+    "Description": null,
+    "FieldValues": {
+      "Number": "232",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "donphan",
+      "DisplayName": "Donphan",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

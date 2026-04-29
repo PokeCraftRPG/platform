@@ -1,0 +1,41 @@
+﻿{
+  "Id": "326ec88d-49f5-4513-b72b-029af9b9c4c0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ampharos-mega",
+    "DisplayName": "Mega Ampharos",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"bdcb064d-fcb8-4847-aae9-e97d91213379\"]",
+      "Height": "14",
+      "Weight": "615",
+      "YieldExperience": "275",
+      "PrimaryAbility": "[\"f35847b5-de3c-4706-a9d6-010903615537\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "0",
+      "BaseDefense": "105",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "165",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "110",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ampharos-mega",
+      "DisplayName": "Mega Ampharos",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

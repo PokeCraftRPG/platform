@@ -1,0 +1,28 @@
+﻿{
+  "Id": "063cba32-6fd1-449e-aa5e-607b73387b28",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "heliolisk",
+    "DisplayName": "Heliolisk",
+    "Description": null,
+    "FieldValues": {
+      "Number": "695",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "heliolisk",
+      "DisplayName": "Heliolisk",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

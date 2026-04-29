@@ -1,0 +1,43 @@
+﻿{
+  "Id": "a2a33776-9a71-48e1-ae21-373da9615406",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "duraludon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d1ffb77d-a17f-47f0-81cf-e2f628769495\"]",
+      "Height": "18",
+      "Weight": "400",
+      "YieldExperience": "187",
+      "PrimaryAbility": "[\"a9839af2-6266-4453-a3f7-39226d90dc2e\"]",
+      "SecondaryAbility": "[\"598518b6-1116-4c2a-b768-5a90de740ff2\"]",
+      "HiddenAbility": "[\"2d79c523-5ef7-4cb9-bdab-70a71bdbdd99\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "0",
+      "BaseDefense": "115",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "120",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "duraludon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

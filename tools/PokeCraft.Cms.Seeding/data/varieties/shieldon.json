@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9aafbbdf-f638-449b-8104-51df552bb36b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shieldon",
+    "DisplayName": "Shieldon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7f311f95-af06-4548-b520-78706330cdd9\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shieldon",
+      "DisplayName": "Shieldon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Shield"
+      }
+    }
+  }
+}

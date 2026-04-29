@@ -1,0 +1,26 @@
+﻿{
+  "Id": "33908a50-a16e-41e3-859e-fec4d4a54863",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shroomish",
+    "DisplayName": "Shroomish",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"cfdcf752-29cc-462e-9b92-87ec6931a2dc\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shroomish",
+      "DisplayName": "Shroomish",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mushroom"
+      }
+    }
+  }
+}

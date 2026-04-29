@@ -1,0 +1,25 @@
+﻿{
+  "Id": "b97f3a16-38d3-4136-9152-017f8bbe24c8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thunder-punch",
+    "DisplayName": "Thunder Punch",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "75",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thunder-punch",
+      "DisplayName": "Thunder Punch",
+      "Description": "The target is attacked with an electrified punch. This may also leave the target with paralysis.",
+      "FieldValues": {}
+    }
+  }
+}

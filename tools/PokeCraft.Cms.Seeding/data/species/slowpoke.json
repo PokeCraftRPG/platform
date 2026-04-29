@@ -1,0 +1,28 @@
+﻿{
+  "Id": "2a4d1228-2cff-4b15-9a02-ea21e871ce0a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slowpoke",
+    "DisplayName": "Slowpoke",
+    "Description": null,
+    "FieldValues": {
+      "Number": "79",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slowpoke",
+      "DisplayName": "Slowpoke",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

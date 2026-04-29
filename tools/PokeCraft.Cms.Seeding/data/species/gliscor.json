@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d4f383c6-1ce4-4c0a-b582-861e1d9e5e15",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gliscor",
+    "DisplayName": "Gliscor",
+    "Description": null,
+    "FieldValues": {
+      "Number": "472",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "30",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gliscor",
+      "DisplayName": "Gliscor",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "971d8539-99fb-4e85-97e1-923d397851a9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "petilil",
+    "DisplayName": "Petilil",
+    "Description": null,
+    "FieldValues": {
+      "Number": "548",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "petilil",
+      "DisplayName": "Petilil",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

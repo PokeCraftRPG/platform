@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c70705f8-e942-4a67-b256-68829af9c867",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kommo-o",
+    "DisplayName": "Kommo-o",
+    "Description": null,
+    "FieldValues": {
+      "Number": "784",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kommo-o",
+      "DisplayName": "Kommo-o",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

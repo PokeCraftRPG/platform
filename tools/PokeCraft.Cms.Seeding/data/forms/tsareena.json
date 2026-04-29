@@ -1,0 +1,42 @@
+﻿{
+  "Id": "0407c2cd-4b2c-42ea-8fb5-c76a7a8c30d7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tsareena",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"8ab07551-3815-48d0-a872-7d360e9eaed7\"]",
+      "Height": "12",
+      "Weight": "214",
+      "YieldExperience": "230",
+      "PrimaryAbility": "[\"d724fdd9-3db1-4a76-8de7-aa696033fa20\"]",
+      "SecondaryAbility": "[\"33b8a5d3-abb6-4dd6-b3fb-8c5342f4f7bb\"]",
+      "HiddenAbility": "[\"cd664007-8bcb-4772-9253-08beb8edb12e\"]",
+      "BaseHP": "72",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "3",
+      "BaseDefense": "98",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "98",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "72",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tsareena",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

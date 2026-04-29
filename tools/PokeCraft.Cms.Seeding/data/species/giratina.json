@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e8a5b3c5-047b-4f77-bd4d-f849ec304c7e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "giratina",
+    "DisplayName": "Giratina",
+    "Description": null,
+    "FieldValues": {
+      "Number": "487",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "giratina",
+      "DisplayName": "Giratina",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

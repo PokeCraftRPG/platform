@@ -1,0 +1,27 @@
+﻿{
+  "Id": "b5a32f1d-021e-4c88-a827-c87026c25818",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "palpitoad",
+    "DisplayName": "Palpitoad",
+    "Description": null,
+    "FieldValues": {
+      "Number": "536",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "palpitoad",
+      "DisplayName": "Palpitoad",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

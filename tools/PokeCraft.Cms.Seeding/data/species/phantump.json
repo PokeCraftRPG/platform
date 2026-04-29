@@ -1,0 +1,28 @@
+﻿{
+  "Id": "8e4a88ac-3a99-4d98-8f70-deebfb6ba47e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "phantump",
+    "DisplayName": "Phantump",
+    "Description": null,
+    "FieldValues": {
+      "Number": "708",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]",
+      "SecondaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "phantump",
+      "DisplayName": "Phantump",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

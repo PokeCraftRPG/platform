@@ -1,0 +1,27 @@
+﻿{
+  "Id": "4639a250-80cf-4eca-b75a-c17a73e74710",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "elgyem",
+    "DisplayName": "Elgyem",
+    "Description": null,
+    "FieldValues": {
+      "Number": "605",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "elgyem",
+      "DisplayName": "Elgyem",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5a51b9e7-c898-46c8-aa67-cfd0401e54e9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fidough",
+    "DisplayName": "Fidough",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"29b86e0c-0f80-456d-bd7f-df610eed9f87\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fidough",
+      "DisplayName": "Fidough",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Puppy"
+      }
+    }
+  }
+}

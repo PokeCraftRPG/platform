@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e2289697-8cd3-4275-8bff-fe95f060a6aa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bronzong",
+    "DisplayName": "Bronzong",
+    "Description": null,
+    "FieldValues": {
+      "Number": "437",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bronzong",
+      "DisplayName": "Bronzong",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

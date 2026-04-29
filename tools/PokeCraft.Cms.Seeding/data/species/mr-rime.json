@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e6e18a1b-7907-4e26-b69d-f7384684a6fe",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mr-rime",
+    "DisplayName": "Mr. Rime",
+    "Description": null,
+    "FieldValues": {
+      "Number": "866",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mr-rime",
+      "DisplayName": "Mr. Rime",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "e2329d0d-1399-44f4-8839-119bcc9a0a43",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "triple-axel",
+    "DisplayName": "Triple Axel",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "20",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "triple-axel",
+      "DisplayName": "Triple Axel",
+      "Description": "A consecutive three-kick attack that becomes more powerful with each successful hit.",
+      "FieldValues": {}
+    }
+  }
+}

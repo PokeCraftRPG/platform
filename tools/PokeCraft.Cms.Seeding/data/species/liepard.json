@@ -1,0 +1,27 @@
+﻿{
+  "Id": "8d1da36f-88e9-429c-a5e1-d4cd7505def3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "liepard",
+    "DisplayName": "Liepard",
+    "Description": null,
+    "FieldValues": {
+      "Number": "510",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "liepard",
+      "DisplayName": "Liepard",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

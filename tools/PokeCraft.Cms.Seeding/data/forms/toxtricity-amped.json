@@ -1,0 +1,43 @@
+﻿{
+  "Id": "de740ac2-881c-43e4-b5cc-199eb7fbc98b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toxtricity-amped",
+    "DisplayName": "Amped Toxtricity",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b40ce2ea-3692-4236-8813-6ecaf7e6d2b0\"]",
+      "Height": "16",
+      "Weight": "400",
+      "YieldExperience": "176",
+      "PrimaryAbility": "[\"cbe8b94d-6229-4e0b-b029-1c7535d1e413\"]",
+      "SecondaryAbility": "[\"885b9c4a-a988-4730-a7dd-b11c03474e5d\"]",
+      "HiddenAbility": "[\"d20432c3-18d0-4160-a3f1-a363c9e6633d\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "98",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "114",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "75",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toxtricity-amped",
+      "DisplayName": "Amped Toxtricity",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

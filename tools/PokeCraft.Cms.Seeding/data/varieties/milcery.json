@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1cc381dc-a603-4e34-98f7-07aa34c394ff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "milcery",
+    "DisplayName": "Milcery",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e74bd788-4cf4-40b5-9db3-95d0a6234c46\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "milcery",
+      "DisplayName": "Milcery",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cream"
+      }
+    }
+  }
+}

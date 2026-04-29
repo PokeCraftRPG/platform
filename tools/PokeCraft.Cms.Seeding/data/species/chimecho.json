@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d13ac907-6dee-47af-888f-12e448fbb8a6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chimecho",
+    "DisplayName": "Chimecho",
+    "Description": null,
+    "FieldValues": {
+      "Number": "358",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chimecho",
+      "DisplayName": "Chimecho",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

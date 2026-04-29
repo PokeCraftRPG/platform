@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ee76b78f-4757-43c8-8144-b6e82dcc670c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meteor-mash",
+    "DisplayName": "Meteor Mash",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meteor-mash",
+      "DisplayName": "Meteor Mash",
+      "Description": "The target is hit with a hard punch fired like a meteor. This may also boost the user’s Attack stat.",
+      "FieldValues": {}
+    }
+  }
+}

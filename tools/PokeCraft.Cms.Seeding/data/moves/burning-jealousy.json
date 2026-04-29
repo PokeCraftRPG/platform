@@ -1,0 +1,25 @@
+﻿{
+  "Id": "27b7d0f0-bbdf-45ff-b5b5-6604bb94a29c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "burning-jealousy",
+    "DisplayName": "Burning Jealousy",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "70",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "burning-jealousy",
+      "DisplayName": "Burning Jealousy",
+      "Description": "The user attacks with energy from jealousy. This leaves all opposing Pokémon that have had their stats boosted during the turn with a burn.",
+      "FieldValues": {}
+    }
+  }
+}

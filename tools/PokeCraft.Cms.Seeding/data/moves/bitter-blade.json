@@ -1,0 +1,25 @@
+﻿{
+  "Id": "f8afe107-22f8-4699-b26b-bce4097394ee",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bitter-blade",
+    "DisplayName": "Bitter Blade",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bitter-blade",
+      "DisplayName": "Bitter Blade",
+      "Description": "The user focuses its bitter feelings toward the world of the living into a slashing attack. The user's HP is restored by up to half the damage taken by the target.",
+      "FieldValues": {}
+    }
+  }
+}

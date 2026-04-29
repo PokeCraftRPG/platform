@@ -1,0 +1,26 @@
+﻿{
+  "Id": "64814ead-1940-4183-85b2-217a04be4764",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ninjask",
+    "DisplayName": "Ninjask",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3545ff18-d0ae-4a4b-9375-a4bae958b11c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ninjask",
+      "DisplayName": "Ninjask",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ninja"
+      }
+    }
+  }
+}

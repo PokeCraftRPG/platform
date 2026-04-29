@@ -1,0 +1,43 @@
+﻿{
+  "Id": "0029e06e-f360-4718-a0c7-4983d86567c2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "oranguru",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"bd79f247-e894-4b52-92d4-a86c94745dfe\"]",
+      "Height": "15",
+      "Weight": "760",
+      "YieldExperience": "172",
+      "PrimaryAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "SecondaryAbility": "[\"f5863110-b5b9-4629-b95c-3869ed34433d\"]",
+      "HiddenAbility": "[\"ded6e29e-ee40-4b93-b29f-6c4f592c79e8\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "90",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "110",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "oranguru",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

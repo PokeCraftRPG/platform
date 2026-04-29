@@ -1,0 +1,40 @@
+﻿{
+  "Id": "30200733-c576-45dd-a3a8-803a349bbed8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drampa-mega",
+    "DisplayName": "Mega Drampa",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f99d6c06-0922-4b6e-a710-4c877f9b975a\"]",
+      "Height": "30",
+      "Weight": "2405",
+      "PrimaryAbility": "[\"06ecb525-1130-4301-ad97-f353a1b42da7\"]",
+      "BaseHP": "78",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "110",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "160",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "116",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "36",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drampa-mega",
+      "DisplayName": "Mega Drampa",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

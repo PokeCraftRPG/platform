@@ -1,0 +1,28 @@
+﻿{
+  "Id": "9fd9426a-cc0e-4415-9e85-739b6b3d3a80",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wingull",
+    "DisplayName": "Wingull",
+    "Description": null,
+    "FieldValues": {
+      "Number": "278",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wingull",
+      "DisplayName": "Wingull",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

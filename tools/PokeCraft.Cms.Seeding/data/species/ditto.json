@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f86d14df-5d21-4eaa-b48f-75241b4bad75",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ditto",
+    "DisplayName": "Ditto",
+    "Description": null,
+    "FieldValues": {
+      "Number": "132",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "35",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Ditto\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ditto",
+      "DisplayName": "Ditto",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

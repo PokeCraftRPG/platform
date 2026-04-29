@@ -1,0 +1,25 @@
+﻿{
+  "Id": "58c5cc1a-6188-419e-a227-f56cb4ccdb7a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blizzard",
+    "DisplayName": "Blizzard",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "70",
+      "Power": "110",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blizzard",
+      "DisplayName": "Blizzard",
+      "Description": "A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen.",
+      "FieldValues": {}
+    }
+  }
+}

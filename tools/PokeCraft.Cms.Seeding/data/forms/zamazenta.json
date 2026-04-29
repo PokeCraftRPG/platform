@@ -1,0 +1,40 @@
+﻿{
+  "Id": "2af5462a-6179-4edf-b3d8-badf56ee52e5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zamazenta",
+    "DisplayName": "Zamazenta",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"90394257-7ea9-47b4-90cf-472f6f14f9dd\"]",
+      "Height": "29",
+      "Weight": "2100",
+      "YieldExperience": "335",
+      "PrimaryAbility": "[\"4517cefd-8aab-459d-a22b-e6ca633b4e5e\"]",
+      "BaseHP": "92",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "0",
+      "BaseDefense": "115",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "115",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "138",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zamazenta",
+      "DisplayName": "Zamazenta",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1a120cab-ad68-44e7-b399-e0ae8b18b475",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glameow",
+    "DisplayName": "Glameow",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5ad90831-96b6-4541-9635-2648ea7232f7\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glameow",
+      "DisplayName": "Glameow",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Catty"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "54939c6d-ac91-47cf-b21e-e3e70031e831",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "corviknight",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5c6a5caf-2d96-41dc-8bdf-ed3796c07ee9\"]",
+      "Height": "22",
+      "Weight": "750",
+      "YieldExperience": "248",
+      "PrimaryAbility": "[\"04822c52-0ef2-4b5e-a4bb-176772f6c3d8\"]",
+      "SecondaryAbility": "[\"5cdb3b5f-b72c-4361-b715-922fc4cb31f9\"]",
+      "HiddenAbility": "[\"6760c98f-9002-41a8-a53e-f5b47ecf29ef\"]",
+      "BaseHP": "98",
+      "YieldHP": "0",
+      "BaseAttack": "87",
+      "YieldAttack": "0",
+      "BaseDefense": "105",
+      "YieldDefense": "3",
+      "BaseSpecialAttack": "53",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "67",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Flying\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "corviknight",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

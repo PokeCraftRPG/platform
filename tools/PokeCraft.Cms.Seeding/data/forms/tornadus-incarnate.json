@@ -1,0 +1,41 @@
+﻿{
+  "Id": "3df4399e-76f3-45da-bef0-a72dafe5fc57",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tornadus-incarnate",
+    "DisplayName": "Incarnate Tornadus",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b318309c-3fe9-4471-934f-8bcd94f2101e\"]",
+      "Height": "15",
+      "Weight": "630",
+      "YieldExperience": "261",
+      "PrimaryAbility": "[\"84a30672-4ea5-4904-84fc-d04259c936a3\"]",
+      "HiddenAbility": "[\"493ac234-5dd4-4767-9e41-8ec4cd322437\"]",
+      "BaseHP": "79",
+      "YieldHP": "0",
+      "BaseAttack": "115",
+      "YieldAttack": "3",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "125",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "111",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tornadus-incarnate",
+      "DisplayName": "Incarnate Tornadus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "a9f0f6f8-3ec5-43bb-89cb-5384726469c0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "steam-engine",
+    "DisplayName": "Steam Engine",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "steam-engine",
+      "DisplayName": "Steam Engine",
+      "Description": "Boosts the Speed stat drastically when the Pokémon is hit by a Fire- or Water-type move.",
+      "FieldValues": {}
+    }
+  }
+}

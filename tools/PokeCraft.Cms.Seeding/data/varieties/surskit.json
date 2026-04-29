@@ -1,0 +1,26 @@
+﻿{
+  "Id": "71dbb7f5-fa23-46c1-9302-093d9de6af6b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "surskit",
+    "DisplayName": "Surskit",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"93a5c580-3c3a-47e6-872e-ec2d70b56e3f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "surskit",
+      "DisplayName": "Surskit",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Pond Skater"
+      }
+    }
+  }
+}

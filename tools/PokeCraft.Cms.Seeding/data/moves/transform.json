@@ -1,0 +1,23 @@
+﻿{
+  "Id": "606cdc12-bb5b-4a60-b23d-bc303197d594",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "transform",
+    "DisplayName": "Transform",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "transform",
+      "DisplayName": "Transform",
+      "Description": "The user transforms into a copy of the target, right down to having the same move set.",
+      "FieldValues": {}
+    }
+  }
+}

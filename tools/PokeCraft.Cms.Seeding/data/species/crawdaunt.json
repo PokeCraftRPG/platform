@@ -1,0 +1,28 @@
+﻿{
+  "Id": "72ca75d4-6c51-401a-bc8d-332700daa319",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "crawdaunt",
+    "DisplayName": "Crawdaunt",
+    "Description": null,
+    "FieldValues": {
+      "Number": "342",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "155",
+      "GrowthRate": "[\"Fluctuating\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "crawdaunt",
+      "DisplayName": "Crawdaunt",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

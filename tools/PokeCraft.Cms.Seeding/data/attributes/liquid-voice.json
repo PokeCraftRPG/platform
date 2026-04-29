@@ -1,0 +1,19 @@
+﻿{
+  "Id": "443bb68b-2ce6-486b-b19e-731be14a03ab",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "liquid-voice",
+    "DisplayName": "Liquid Voice",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "liquid-voice",
+      "DisplayName": "Liquid Voice",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

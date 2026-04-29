@@ -1,0 +1,42 @@
+﻿{
+  "Id": "4e6873c2-b09a-4bf3-a8b5-20d08bd62aca",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "abomasnow",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"67d7144b-36a1-4d2b-9f5d-cd290d9b21f6\"]",
+      "Height": "22",
+      "Weight": "1355",
+      "YieldExperience": "173",
+      "PrimaryAbility": "[\"94d77255-80ed-447a-8809-43dc73a72602\"]",
+      "HiddenAbility": "[\"6df60939-ffd8-4ddb-ad1e-f4add0129eeb\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "92",
+      "YieldAttack": "1",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "92",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "abomasnow",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

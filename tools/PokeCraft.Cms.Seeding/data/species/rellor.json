@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c5645782-00c1-411b-823f-18cb49fe0675",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rellor",
+    "DisplayName": "Rellor",
+    "Description": null,
+    "FieldValues": {
+      "Number": "953",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "190",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rellor",
+      "DisplayName": "Rellor",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

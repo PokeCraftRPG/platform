@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0c35d228-d7ec-4391-a8a7-5be3670c912d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sunflora",
+    "DisplayName": "Sunflora",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"fa660477-0808-47a8-8b05-18bc1f3cab01\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sunflora",
+      "DisplayName": "Sunflora",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sun"
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "e9444f25-c801-4591-ace5-7d4e5528b139",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rockruff",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2f6d6d70-fea7-483a-8a8d-32761ec32453\"]",
+      "Height": "5",
+      "Weight": "92",
+      "YieldExperience": "56",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "SecondaryAbility": "[\"45a56091-34c8-4407-8d66-a4a64e2eb101\"]",
+      "HiddenAbility": "[\"d4177038-a9c6-44e6-adb5-615b7111a2b4\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "1",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rockruff",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

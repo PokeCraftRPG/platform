@@ -1,0 +1,25 @@
+﻿{
+  "Id": "e542bb73-c1d8-4dbb-a7a4-ab62413e6e23",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kyurem-black",
+    "DisplayName": "Kyurem",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5284f05e-5b12-4e0c-9994-241973720e24\"]",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kyurem-black",
+      "DisplayName": "Kyurem",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Boundary"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b5afbc4e-bfd7-4a9e-b790-5b8c2cd54732",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tyrogue",
+    "DisplayName": "Tyrogue",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"db5ce56b-4b38-4ed2-ae1a-dc77739de78c\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tyrogue",
+      "DisplayName": "Tyrogue",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Scuffle"
+      }
+    }
+  }
+}

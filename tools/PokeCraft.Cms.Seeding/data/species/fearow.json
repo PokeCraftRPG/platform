@@ -1,0 +1,27 @@
+﻿{
+  "Id": "5c580517-872b-4e08-994a-79d1b28c9e73",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fearow",
+    "DisplayName": "Fearow",
+    "Description": null,
+    "FieldValues": {
+      "Number": "22",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fearow",
+      "DisplayName": "Fearow",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

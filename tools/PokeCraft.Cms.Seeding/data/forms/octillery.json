@@ -1,0 +1,42 @@
+﻿{
+  "Id": "b776ba15-9728-40ff-b326-a7030e84927b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "octillery",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9886aa6c-874a-4a3b-a002-c63b5ee68f1e\"]",
+      "Height": "9",
+      "Weight": "285",
+      "YieldExperience": "168",
+      "PrimaryAbility": "[\"7f395dac-6fba-4c1f-8a37-b6772676e8c8\"]",
+      "SecondaryAbility": "[\"e1b8fd69-5bf8-4889-ab24-ea30a8419d99\"]",
+      "HiddenAbility": "[\"e54f140b-893f-4621-b7ac-44928594080e\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "105",
+      "YieldAttack": "1",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "105",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "octillery",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

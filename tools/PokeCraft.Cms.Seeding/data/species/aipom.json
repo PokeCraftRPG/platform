@@ -1,0 +1,27 @@
+﻿{
+  "Id": "edca8314-97e6-44c5-988e-65162c90b3d4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aipom",
+    "DisplayName": "Aipom",
+    "Description": null,
+    "FieldValues": {
+      "Number": "190",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aipom",
+      "DisplayName": "Aipom",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

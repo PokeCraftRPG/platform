@@ -1,0 +1,28 @@
+﻿{
+  "Id": "5a1fffde-13c7-4524-84e6-6dd21d8fa148",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tropius",
+    "DisplayName": "Tropius",
+    "Description": null,
+    "FieldValues": {
+      "Number": "357",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "200",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tropius",
+      "DisplayName": "Tropius",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

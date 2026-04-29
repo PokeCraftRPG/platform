@@ -1,0 +1,19 @@
+﻿{
+  "Id": "1fdf39c7-0d56-4eaf-9c4c-b9fe5a938d0b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "minus",
+    "DisplayName": "Minus",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "minus",
+      "DisplayName": "Minus",
+      "Description": "Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.",
+      "FieldValues": {}
+    }
+  }
+}

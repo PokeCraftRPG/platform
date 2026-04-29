@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d0d75a58-cf49-4250-9a12-456f1cfb4dc5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bunnelby",
+    "DisplayName": "Bunnelby",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"059baf09-5ad8-4400-bd61-76e0a1c3b415\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bunnelby",
+      "DisplayName": "Bunnelby",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Digging"
+      }
+    }
+  }
+}

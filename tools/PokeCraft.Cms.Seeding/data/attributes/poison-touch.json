@@ -1,0 +1,19 @@
+﻿{
+  "Id": "5e112e5b-8643-4cbf-9c15-5a0bfce0b0b2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "poison-touch",
+    "DisplayName": "Poison Touch",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "poison-touch",
+      "DisplayName": "Poison Touch",
+      "Description": "May poison a target when the Pokémon makes contact.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "8ab07551-3815-48d0-a872-7d360e9eaed7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tsareena",
+    "DisplayName": "Tsareena",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"34ffc043-1745-42c5-818c-17609cc88644\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tsareena",
+      "DisplayName": "Tsareena",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fruit"
+      }
+    }
+  }
+}

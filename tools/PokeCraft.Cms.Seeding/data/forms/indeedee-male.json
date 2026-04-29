@@ -1,0 +1,43 @@
+﻿{
+  "Id": "7b60fc45-d9ac-42b4-900e-29e48e420aa2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "indeedee-male",
+    "DisplayName": "Male Indeedee",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"691f6267-91c0-45ca-97c6-828f38315f33\"]",
+      "Height": "9",
+      "Weight": "280",
+      "YieldExperience": "166",
+      "PrimaryAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "SecondaryAbility": "[\"f5fd746b-4285-427b-ab75-928d416a5c85\"]",
+      "HiddenAbility": "[\"d4036f76-71c7-4ac6-a598-b32df0886e29\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "105",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "indeedee-male",
+      "DisplayName": "Male Indeedee",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

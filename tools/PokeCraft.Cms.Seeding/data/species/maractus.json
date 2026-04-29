@@ -1,0 +1,27 @@
+﻿{
+  "Id": "bef18283-ac63-4d9a-a9a9-de2197138b2a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "maractus",
+    "DisplayName": "Maractus",
+    "Description": null,
+    "FieldValues": {
+      "Number": "556",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "maractus",
+      "DisplayName": "Maractus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

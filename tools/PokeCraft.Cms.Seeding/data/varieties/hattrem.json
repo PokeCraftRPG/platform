@@ -1,0 +1,26 @@
+﻿{
+  "Id": "473787a6-6ba1-4f9a-960f-e3803c594652",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hattrem",
+    "DisplayName": "Hattrem",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"fc8f3c1c-2244-41cb-9cae-eb5ed056f185\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hattrem",
+      "DisplayName": "Hattrem",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Serene"
+      }
+    }
+  }
+}

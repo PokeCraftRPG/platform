@@ -1,0 +1,25 @@
+﻿{
+  "Id": "635dfcf5-c38d-4c3e-a08e-9571c9925dca",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fleur-cannon",
+    "DisplayName": "Fleur Cannon",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "90",
+      "Power": "130",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fleur-cannon",
+      "DisplayName": "Fleur Cannon",
+      "Description": "The user unleashes a strong beam. The recoil from this move harshly lowers the user's Sp. Atk stat.",
+      "FieldValues": {}
+    }
+  }
+}

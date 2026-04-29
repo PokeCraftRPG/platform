@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1c4bff1e-87e9-42fb-afb9-b98e8d7b7187",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "noctowl",
+    "DisplayName": "Noctowl",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c5e4a84a-7621-4997-a632-1a88aad3b114\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "noctowl",
+      "DisplayName": "Noctowl",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Owl"
+      }
+    }
+  }
+}

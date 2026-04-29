@@ -1,0 +1,28 @@
+﻿{
+  "Id": "87ea3a6a-2c29-4db3-81ce-9918e84dfd2b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wailord",
+    "DisplayName": "Wailord",
+    "Description": null,
+    "FieldValues": {
+      "Number": "321",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"Fluctuating\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wailord",
+      "DisplayName": "Wailord",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

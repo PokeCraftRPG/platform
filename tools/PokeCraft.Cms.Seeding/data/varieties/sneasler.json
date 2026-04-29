@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6d157dde-878e-4f87-abfa-b996419abaf3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sneasler",
+    "DisplayName": "Sneasler",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"cb815a71-ab56-4ef8-b656-599dba9cddba\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sneasler",
+      "DisplayName": "Sneasler",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Free Climb"
+      }
+    }
+  }
+}

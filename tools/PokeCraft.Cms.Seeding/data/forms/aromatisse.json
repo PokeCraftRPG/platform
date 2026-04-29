@@ -1,0 +1,41 @@
+﻿{
+  "Id": "be16b2c0-d117-47fe-a35a-97636b4f9d0a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aromatisse",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4af84275-74e7-42d4-9dc3-7814f4d4a7cd\"]",
+      "Height": "8",
+      "Weight": "155",
+      "YieldExperience": "162",
+      "PrimaryAbility": "[\"e28c42cc-a85f-4f82-89b2-e80210d5b4ef\"]",
+      "HiddenAbility": "[\"56b529e6-13d3-4830-992f-f1807b22cd23\"]",
+      "BaseHP": "101",
+      "YieldHP": "2",
+      "BaseAttack": "72",
+      "YieldAttack": "0",
+      "BaseDefense": "72",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "99",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "89",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "29",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aromatisse",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

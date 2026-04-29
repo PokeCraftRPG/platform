@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d7873694-d8c8-4968-945d-177e7a34d528",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "exeggutor",
+    "DisplayName": "Exeggutor",
+    "Description": null,
+    "FieldValues": {
+      "Number": "103",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "exeggutor",
+      "DisplayName": "Exeggutor",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

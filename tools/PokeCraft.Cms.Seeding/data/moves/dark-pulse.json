@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ed4fbb70-8a4d-47a1-8852-eabfff152d1e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dark-pulse",
+    "DisplayName": "Dark Pulse",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dark-pulse",
+      "DisplayName": "Dark Pulse",
+      "Description": "The user releases a horrible aura imbued with ill intent. This may also make the target flinch.",
+      "FieldValues": {}
+    }
+  }
+}

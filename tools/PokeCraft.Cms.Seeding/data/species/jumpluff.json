@@ -1,0 +1,28 @@
+﻿{
+  "Id": "dc1a7013-f53e-4cb5-81bd-bc7adf348866",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "jumpluff",
+    "DisplayName": "Jumpluff",
+    "Description": null,
+    "FieldValues": {
+      "Number": "189",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Fairy\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "jumpluff",
+      "DisplayName": "Jumpluff",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

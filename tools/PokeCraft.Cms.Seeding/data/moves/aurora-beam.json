@@ -1,0 +1,25 @@
+﻿{
+  "Id": "83b0c049-4371-46a4-9237-2bd184c5a6fd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aurora-beam",
+    "DisplayName": "Aurora Beam",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "65",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aurora-beam",
+      "DisplayName": "Aurora Beam",
+      "Description": "The target is hit with a rainbow-colored beam. This may also lower the target's Attack stat.",
+      "FieldValues": {}
+    }
+  }
+}

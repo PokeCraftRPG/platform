@@ -1,0 +1,43 @@
+﻿{
+  "Id": "973045ae-0108-49af-a920-50b45b3c89d7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bewear",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2bef4691-8059-44c4-8025-1a66c4f33ac4\"]",
+      "Height": "21",
+      "Weight": "1350",
+      "YieldExperience": "175",
+      "PrimaryAbility": "[\"fb7066f4-554f-4f05-8921-e5198d35baf7\"]",
+      "SecondaryAbility": "[\"0d470a82-2040-4e95-8e52-999c26f4514d\"]",
+      "HiddenAbility": "[\"5cdb3b5f-b72c-4361-b715-922fc4cb31f9\"]",
+      "BaseHP": "120",
+      "YieldHP": "0",
+      "BaseAttack": "125",
+      "YieldAttack": "2",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bewear",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

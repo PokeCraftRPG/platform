@@ -1,0 +1,26 @@
+﻿{
+  "Id": "8d969f07-cde1-412f-9291-f9bc4dc4ef78",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gourgeist-large",
+    "DisplayName": "Gourgeist",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e571a273-dfcf-46d2-98f4-7dad238f60d9\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gourgeist-large",
+      "DisplayName": "Gourgeist",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Pumpkin"
+      }
+    }
+  }
+}

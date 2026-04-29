@@ -1,0 +1,19 @@
+﻿{
+  "Id": "7cea48e5-cd7c-41df-82f9-a91772037aff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stench",
+    "DisplayName": "Stench",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stench",
+      "DisplayName": "Stench",
+      "Description": "By releasing a stench when attacking, the Pokémon may cause the target to flinch.",
+      "FieldValues": {}
+    }
+  }
+}

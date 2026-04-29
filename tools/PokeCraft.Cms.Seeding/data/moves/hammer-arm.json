@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c14fec0c-4904-4155-9d3d-ea330d6c5860",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hammer-arm",
+    "DisplayName": "Hammer Arm",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hammer-arm",
+      "DisplayName": "Hammer Arm",
+      "Description": "The user swings its strong, heavy fist at the target to inflict damage. This also lowers the user's Speed stat.",
+      "FieldValues": {}
+    }
+  }
+}

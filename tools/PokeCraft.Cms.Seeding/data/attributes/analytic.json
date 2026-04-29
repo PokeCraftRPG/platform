@@ -1,0 +1,19 @@
+﻿{
+  "Id": "46c2aea0-fa60-492b-8e7f-0d5de67c6321",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "analytic",
+    "DisplayName": "Analytic",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "analytic",
+      "DisplayName": "Analytic",
+      "Description": "Boosts the power of the Pokémon's move if it is the last to act that turn.",
+      "FieldValues": {}
+    }
+  }
+}

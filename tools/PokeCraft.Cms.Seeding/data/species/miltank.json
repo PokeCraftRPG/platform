@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f9d1c94b-771a-46e5-a22c-4846d3cb1886",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "miltank",
+    "DisplayName": "Miltank",
+    "Description": null,
+    "FieldValues": {
+      "Number": "241",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "miltank",
+      "DisplayName": "Miltank",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

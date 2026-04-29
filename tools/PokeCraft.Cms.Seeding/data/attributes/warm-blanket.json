@@ -1,0 +1,19 @@
+﻿{
+  "Id": "a2e121d5-270e-49cd-a1a5-5a116c991197",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "warm-blanket",
+    "DisplayName": "Warm Blanket",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "warm-blanket",
+      "DisplayName": "Warm Blanket",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

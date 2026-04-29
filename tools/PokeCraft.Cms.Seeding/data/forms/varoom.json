@@ -1,0 +1,42 @@
+﻿{
+  "Id": "d835ea7e-f352-40ff-a58f-6e77363d3599",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "varoom",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9aa81142-bfc6-4ba7-9a4f-6f2a88a3dbef\"]",
+      "Height": "10",
+      "Weight": "350",
+      "YieldExperience": "60",
+      "PrimaryAbility": "[\"ecf92884-7c23-4d13-9d9a-1a687fe3f447\"]",
+      "HiddenAbility": "[\"a64c19d6-190e-4714-8ee3-2b70aaa879ec\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "1",
+      "BaseDefense": "63",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "47",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "varoom",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

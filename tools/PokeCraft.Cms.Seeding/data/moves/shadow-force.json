@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ee553e16-8589-4b05-9190-0233052a12c6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shadow-force",
+    "DisplayName": "Shadow Force",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shadow-force",
+      "DisplayName": "Shadow Force",
+      "Description": "The user disappears on the first turn, then attacks on the next turn. This move hits even if the target protects itself.",
+      "FieldValues": {}
+    }
+  }
+}

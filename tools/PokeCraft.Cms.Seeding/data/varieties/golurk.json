@@ -1,0 +1,25 @@
+﻿{
+  "Id": "d2699930-c408-453d-aa6b-988e11bfaf81",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "golurk",
+    "DisplayName": "Golurk",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9ebeb7ba-6c28-420b-9d81-bbb929377cf0\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "golurk",
+      "DisplayName": "Golurk",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Automaton"
+      }
+    }
+  }
+}

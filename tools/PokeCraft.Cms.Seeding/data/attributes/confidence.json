@@ -1,0 +1,19 @@
+﻿{
+  "Id": "e30793f7-49ef-419b-9585-541831631765",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "confidence",
+    "DisplayName": "Confidence",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "confidence",
+      "DisplayName": "Confidence",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "3e51477f-e996-4b14-ad98-700b47237d1f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meteor-beam",
+    "DisplayName": "Meteor Beam",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Rock\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "90",
+      "Power": "120",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meteor-beam",
+      "DisplayName": "Meteor Beam",
+      "Description": "The user gathers energy from space and boosts its Sp. Atk stat on the first turn, then attacks on the next turn.",
+      "FieldValues": {}
+    }
+  }
+}

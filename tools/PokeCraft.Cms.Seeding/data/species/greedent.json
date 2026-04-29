@@ -1,0 +1,27 @@
+﻿{
+  "Id": "7ed6516b-6972-4fc4-8211-ff9fc26ec785",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "greedent",
+    "DisplayName": "Greedent",
+    "Description": null,
+    "FieldValues": {
+      "Number": "820",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "greedent",
+      "DisplayName": "Greedent",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

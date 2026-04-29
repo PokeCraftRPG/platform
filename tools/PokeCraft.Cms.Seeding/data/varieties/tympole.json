@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7405c8b1-72db-4b5b-a6c3-9b9d87a34723",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tympole",
+    "DisplayName": "Tympole",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"cb308a55-3809-46b7-ab77-ac591646cc99\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tympole",
+      "DisplayName": "Tympole",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tadpole"
+      }
+    }
+  }
+}

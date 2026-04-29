@@ -1,0 +1,24 @@
+﻿{
+  "Id": "9b031e64-3f6c-496f-8490-55a8dbd72337",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "beat-up",
+    "DisplayName": "Beat Up",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "beat-up",
+      "DisplayName": "Beat Up",
+      "Description": "The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.",
+      "FieldValues": {}
+    }
+  }
+}

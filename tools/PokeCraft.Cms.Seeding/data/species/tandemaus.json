@@ -1,0 +1,28 @@
+﻿{
+  "Id": "88de720c-58df-473b-a821-c91c9509c623",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tandemaus",
+    "DisplayName": "Tandemaus",
+    "Description": null,
+    "FieldValues": {
+      "Number": "924",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "150",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tandemaus",
+      "DisplayName": "Tandemaus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

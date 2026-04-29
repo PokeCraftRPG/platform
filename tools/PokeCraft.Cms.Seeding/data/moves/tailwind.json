@@ -1,0 +1,23 @@
+﻿{
+  "Id": "ebe7abc6-9b72-4658-a015-bac2273fd6f7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tailwind",
+    "DisplayName": "Tailwind",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tailwind",
+      "DisplayName": "Tailwind",
+      "Description": "The user whips up a turbulent whirlwind that boosts the Speed stats of itself and its allies for four turns.",
+      "FieldValues": {}
+    }
+  }
+}

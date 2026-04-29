@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0accdfbe-a018-47d9-8c0f-59ffb40777df",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clefable-mega",
+    "DisplayName": "Clefable",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"62fb66a2-f1a3-4a9e-a79c-62e5aef80e0f\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clefable-mega",
+      "DisplayName": "Clefable",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fairy"
+      }
+    }
+  }
+}

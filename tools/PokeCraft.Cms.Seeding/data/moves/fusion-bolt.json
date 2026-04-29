@@ -1,0 +1,25 @@
+﻿{
+  "Id": "90a0494d-3f89-43ab-9229-11a442ad8863",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fusion-bolt",
+    "DisplayName": "Fusion Bolt",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fusion-bolt",
+      "DisplayName": "Fusion Bolt",
+      "Description": "The user throws down a giant lightning bolt. This move's power is boosted when influenced by an enormous flame.",
+      "FieldValues": {}
+    }
+  }
+}

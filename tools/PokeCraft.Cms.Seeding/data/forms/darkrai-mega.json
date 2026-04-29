@@ -1,0 +1,38 @@
+﻿{
+  "Id": "dd322afa-f8fd-42c9-990c-787be5d2667a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "darkrai-mega",
+    "DisplayName": "Mega Darkrai",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"44488162-c0d7-44fc-b3e5-638f62a6465e\"]",
+      "Height": "30",
+      "Weight": "2400",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "0",
+      "BaseDefense": "130",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "165",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "130",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "darkrai-mega",
+      "DisplayName": "Mega Darkrai",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

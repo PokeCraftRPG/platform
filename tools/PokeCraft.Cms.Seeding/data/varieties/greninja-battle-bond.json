@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c1921bdb-a8d1-4f6e-a6b3-19335823a177",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "greninja-battle-bond",
+    "DisplayName": "Greninja",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"35c0fedb-bd34-45a6-97e8-c67856c35104\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "greninja-battle-bond",
+      "DisplayName": "Greninja",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ninja"
+      }
+    }
+  }
+}

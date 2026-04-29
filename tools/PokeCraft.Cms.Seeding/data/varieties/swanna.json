@@ -1,0 +1,26 @@
+﻿{
+  "Id": "87fc79f1-1792-4b0e-95b8-3f8b0ddcb433",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swanna",
+    "DisplayName": "Swanna",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"44ec8847-59b6-4db0-b435-38d4d0830287\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swanna",
+      "DisplayName": "Swanna",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "White Bird"
+      }
+    }
+  }
+}

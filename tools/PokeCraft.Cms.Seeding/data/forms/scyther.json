@@ -1,0 +1,43 @@
+﻿{
+  "Id": "a83068ce-9e1c-41dc-b87f-9b6e8e8fb0ff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scyther",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"49f76bf1-d147-40eb-9586-2b4eaa1a5b43\"]",
+      "Height": "15",
+      "Weight": "560",
+      "YieldExperience": "100",
+      "PrimaryAbility": "[\"ba1b3a50-acc0-4032-bf14-6572fa26daed\"]",
+      "SecondaryAbility": "[\"d20432c3-18d0-4160-a3f1-a363c9e6633d\"]",
+      "HiddenAbility": "[\"d4177038-a9c6-44e6-adb5-615b7111a2b4\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "110",
+      "YieldAttack": "1",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "105",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scyther",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

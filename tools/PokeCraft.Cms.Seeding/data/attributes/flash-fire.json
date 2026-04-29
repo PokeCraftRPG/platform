@@ -1,0 +1,19 @@
+﻿{
+  "Id": "956efecf-ecf7-4731-9df1-25171033ad13",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flash-fire",
+    "DisplayName": "Flash Fire",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flash-fire",
+      "DisplayName": "Flash Fire",
+      "Description": "If hit by a Fire-type move, the Pokémon absorbs the flames and uses them to power up its own Fire-type moves.",
+      "FieldValues": {}
+    }
+  }
+}

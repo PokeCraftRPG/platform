@@ -1,0 +1,26 @@
+﻿{
+  "Id": "76ae172d-15c6-4f72-ba5f-b2507bcd18b5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pincurchin",
+    "DisplayName": "Pincurchin",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a8820e1a-e5d7-4e6c-bf0f-0da90250116d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pincurchin",
+      "DisplayName": "Pincurchin",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sea Urchin"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿{
+  "Id": "b77bfb6e-c34b-4686-91eb-6fae2e78c33d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fillet-away",
+    "DisplayName": "Fillet Away",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "Power": "0",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fillet-away",
+      "DisplayName": "Fillet Away",
+      "Description": "The user sharply boosts its Attack, Sp. Atk, and Speed stats by using its own HP.",
+      "FieldValues": {}
+    }
+  }
+}

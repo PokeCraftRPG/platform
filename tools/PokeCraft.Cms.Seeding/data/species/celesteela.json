@@ -1,0 +1,27 @@
+﻿{
+  "Id": "979f6fc4-2902-4c27-9a80-0a6f2c6e3d42",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "celesteela",
+    "DisplayName": "Celesteela",
+    "Description": null,
+    "FieldValues": {
+      "Number": "797",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "celesteela",
+      "DisplayName": "Celesteela",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

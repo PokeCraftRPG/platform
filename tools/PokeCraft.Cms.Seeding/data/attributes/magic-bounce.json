@@ -1,0 +1,19 @@
+﻿{
+  "Id": "67f51e12-608d-4075-9293-523b122271f5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magic-bounce",
+    "DisplayName": "Magic Bounce",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magic-bounce",
+      "DisplayName": "Magic Bounce",
+      "Description": "The Pokémon reflects status moves instead of getting hit by them.",
+      "FieldValues": {}
+    }
+  }
+}

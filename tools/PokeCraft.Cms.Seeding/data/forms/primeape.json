@@ -1,0 +1,42 @@
+﻿{
+  "Id": "ce6f4be2-568f-4f56-abb8-580cfc74f96d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "primeape",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"acc44095-c14f-4f9f-8df5-89b3d334ab25\"]",
+      "Height": "10",
+      "Weight": "320",
+      "YieldExperience": "159",
+      "PrimaryAbility": "[\"45a56091-34c8-4407-8d66-a4a64e2eb101\"]",
+      "SecondaryAbility": "[\"35627a6f-38f0-4832-b663-c5ba955aa328\"]",
+      "HiddenAbility": "[\"493ac234-5dd4-4767-9e41-8ec4cd322437\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "105",
+      "YieldAttack": "2",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "primeape",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

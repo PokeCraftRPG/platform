@@ -1,0 +1,25 @@
+﻿{
+  "Id": "d01facb3-56e6-4c3e-bd4d-ce0199b397a9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "comeuppance",
+    "DisplayName": "Comeuppance",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "1",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "comeuppance",
+      "DisplayName": "Comeuppance",
+      "Description": "The user retaliates with much greater force against the opponent that last inflicted damage on it.",
+      "FieldValues": {}
+    }
+  }
+}

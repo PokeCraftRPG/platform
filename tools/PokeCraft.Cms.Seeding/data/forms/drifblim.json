@@ -1,0 +1,43 @@
+﻿{
+  "Id": "f1d64481-7054-45b1-9c51-32473f0dc8b6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drifblim",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"24cdc5a7-0a20-41f0-8e1e-6cbf762c5ede\"]",
+      "Height": "12",
+      "Weight": "150",
+      "YieldExperience": "174",
+      "PrimaryAbility": "[\"553c341c-debe-46e1-809e-34544a36ee63\"]",
+      "SecondaryAbility": "[\"d74f9f1b-dd57-4258-875f-46ec6bc83d99\"]",
+      "HiddenAbility": "[\"1aa9cb31-abd6-4b41-a110-927254226ed1\"]",
+      "BaseHP": "150",
+      "YieldHP": "2",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "44",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "90",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "54",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drifblim",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

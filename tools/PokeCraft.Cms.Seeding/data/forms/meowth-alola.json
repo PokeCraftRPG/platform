@@ -1,0 +1,42 @@
+﻿{
+  "Id": "854cb5ef-9e1b-4d74-90f1-2682e9edc53b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meowth-alola",
+    "DisplayName": "Alolan Meowth",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"47b18bb9-3ca6-4afe-9109-10e02ce10798\"]",
+      "Height": "4",
+      "Weight": "42",
+      "YieldExperience": "58",
+      "PrimaryAbility": "[\"071551b8-ee73-4742-85e8-264e82a49f57\"]",
+      "SecondaryAbility": "[\"d20432c3-18d0-4160-a3f1-a363c9e6633d\"]",
+      "HiddenAbility": "[\"9c030956-19a0-4e37-8835-0484c2fa3d91\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "35",
+      "YieldAttack": "0",
+      "BaseDefense": "35",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meowth-alola",
+      "DisplayName": "Alolan Meowth",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

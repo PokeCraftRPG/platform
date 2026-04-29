@@ -1,0 +1,19 @@
+﻿{
+  "Id": "4fd91d5d-e10d-4fa0-a68d-71ecaf53fddb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "supersweet-syrup",
+    "DisplayName": "Supersweet Syrup",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "supersweet-syrup",
+      "DisplayName": "Supersweet Syrup",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

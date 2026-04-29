@@ -1,0 +1,26 @@
+﻿{
+  "Id": "658bb1ca-7f63-4b86-80bb-b182c1363928",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hydrapple",
+    "DisplayName": "Hydrapple",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"74b93e0f-bf39-43db-b7ed-4f59d7b830fd\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hydrapple",
+      "DisplayName": "Hydrapple",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Apple Hydra"
+      }
+    }
+  }
+}

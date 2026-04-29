@@ -1,0 +1,19 @@
+﻿{
+  "Id": "03584da0-cafd-4ebe-94c3-14f134eba6af",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sturdy",
+    "DisplayName": "Sturdy",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sturdy",
+      "DisplayName": "Sturdy",
+      "Description": "The Pokémon cannot be knocked out by a single hit as long as its HP is full. One-hit KO moves will also fail to knock it out.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "3f2976c2-09ac-4c69-8b32-5d930032faba",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "regenerator",
+    "DisplayName": "Regenerator",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "regenerator",
+      "DisplayName": "Regenerator",
+      "Description": "The Pokémon has a little of its HP restored when withdrawn from battle.",
+      "FieldValues": {}
+    }
+  }
+}

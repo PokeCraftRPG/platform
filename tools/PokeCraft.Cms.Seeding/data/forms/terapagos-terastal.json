@@ -1,0 +1,40 @@
+﻿{
+  "Id": "4b14851c-bb79-441c-9efd-8c86a730e91c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "terapagos-terastal",
+    "DisplayName": "Terastal Form Terapagos",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"fd3fdd66-47f3-4edc-978b-dcaff684a715\"]",
+      "Height": "3",
+      "Weight": "160",
+      "YieldExperience": "90",
+      "PrimaryAbility": "[\"daeed558-fb4a-411b-aa9e-aa9885e06ddd\"]",
+      "BaseHP": "95",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "0",
+      "BaseDefense": "110",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "105",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "110",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "terapagos-terastal",
+      "DisplayName": "Terastal Form Terapagos",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c13e1f72-543a-4946-94c2-1dc71dbc069a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tyranitar",
+    "DisplayName": "Tyranitar",
+    "Description": null,
+    "FieldValues": {
+      "Number": "248",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Monster\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tyranitar",
+      "DisplayName": "Tyranitar",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

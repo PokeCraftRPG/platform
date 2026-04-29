@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d5dc3398-0e95-4220-be2b-3f923425c26e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "orthworm",
+    "DisplayName": "Orthworm",
+    "Description": null,
+    "FieldValues": {
+      "Number": "968",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "25",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "35",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "orthworm",
+      "DisplayName": "Orthworm",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

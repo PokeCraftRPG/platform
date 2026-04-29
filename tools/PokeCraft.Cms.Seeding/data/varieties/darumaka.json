@@ -1,0 +1,26 @@
+﻿{
+  "Id": "66e37770-05ea-4efb-811f-94379121858a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "darumaka",
+    "DisplayName": "Darumaka",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7634c931-53a6-4215-98b5-6d7679542f53\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "darumaka",
+      "DisplayName": "Darumaka",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Zen Charm"
+      }
+    }
+  }
+}

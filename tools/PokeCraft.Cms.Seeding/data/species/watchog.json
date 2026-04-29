@@ -1,0 +1,27 @@
+﻿{
+  "Id": "635f92f3-06e9-4982-a94f-caf23d8a045f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "watchog",
+    "DisplayName": "Watchog",
+    "Description": null,
+    "FieldValues": {
+      "Number": "505",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "watchog",
+      "DisplayName": "Watchog",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

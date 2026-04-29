@@ -1,0 +1,42 @@
+﻿{
+  "Id": "071a9ce0-9110-45ca-a37e-237a6a094a07",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thundurus-incarnate",
+    "DisplayName": "Incarnate Thundurus",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"808cb1eb-1747-479f-b0ec-078933266a2a\"]",
+      "Height": "15",
+      "Weight": "610",
+      "YieldExperience": "261",
+      "PrimaryAbility": "[\"84a30672-4ea5-4904-84fc-d04259c936a3\"]",
+      "HiddenAbility": "[\"493ac234-5dd4-4767-9e41-8ec4cd322437\"]",
+      "BaseHP": "79",
+      "YieldHP": "0",
+      "BaseAttack": "115",
+      "YieldAttack": "3",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "125",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "111",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thundurus-incarnate",
+      "DisplayName": "Incarnate Thundurus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

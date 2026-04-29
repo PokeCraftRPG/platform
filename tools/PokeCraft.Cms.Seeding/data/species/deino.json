@@ -1,0 +1,27 @@
+﻿{
+  "Id": "cb379023-fd92-4c07-916a-2af30833337f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "deino",
+    "DisplayName": "Deino",
+    "Description": null,
+    "FieldValues": {
+      "Number": "633",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "deino",
+      "DisplayName": "Deino",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

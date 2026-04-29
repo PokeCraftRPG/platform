@@ -1,0 +1,24 @@
+﻿{
+  "Id": "5065e7b9-0b6e-4ca6-bcd9-423a37a90ac0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "switcheroo",
+    "DisplayName": "Switcheroo",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "switcheroo",
+      "DisplayName": "Switcheroo",
+      "Description": "The user trades held items with the target faster than the eye can follow.",
+      "FieldValues": {}
+    }
+  }
+}

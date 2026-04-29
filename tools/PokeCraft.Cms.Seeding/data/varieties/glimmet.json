@@ -1,0 +1,26 @@
+﻿{
+  "Id": "03200bc9-fbc8-42a5-9252-cea32a568fed",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glimmet",
+    "DisplayName": "Glimmet",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"119d3d50-f1ef-4e2a-9949-6693f058207a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glimmet",
+      "DisplayName": "Glimmet",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ore"
+      }
+    }
+  }
+}

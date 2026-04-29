@@ -1,0 +1,41 @@
+﻿{
+  "Id": "c82aa55c-f0da-441c-9e0f-e79acc00f5eb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "honedge",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"bfc32918-69e1-4a91-9356-b0731a9b6f10\"]",
+      "Height": "8",
+      "Weight": "20",
+      "YieldExperience": "65",
+      "PrimaryAbility": "[\"9abfc5f6-0767-4c13-a4c0-dd48c54a21d3\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "37",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "28",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "honedge",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

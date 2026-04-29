@@ -1,0 +1,24 @@
+﻿{
+  "Id": "d6bf2c72-6053-4b1d-ab12-e365fac930d0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "string-shot",
+    "DisplayName": "String Shot",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "95",
+      "PowerPoints": "40"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "string-shot",
+      "DisplayName": "String Shot",
+      "Description": "The user blows silk from its mouth that binds opposing Pokémon and harshly lowers their Speed stats.",
+      "FieldValues": {}
+    }
+  }
+}

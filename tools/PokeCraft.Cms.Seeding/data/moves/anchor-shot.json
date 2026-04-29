@@ -1,0 +1,25 @@
+﻿{
+  "Id": "876a9292-0357-4099-af4e-0cfa2314facb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "anchor-shot",
+    "DisplayName": "Anchor Shot",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "anchor-shot",
+      "DisplayName": "Anchor Shot",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

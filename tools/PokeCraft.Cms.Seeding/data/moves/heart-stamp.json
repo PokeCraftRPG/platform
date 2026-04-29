@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6b2d90bb-8c0b-4dca-bd21-cf00b1ad5b0c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "heart-stamp",
+    "DisplayName": "Heart Stamp",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "25"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "heart-stamp",
+      "DisplayName": "Heart Stamp",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

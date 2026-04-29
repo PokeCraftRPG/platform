@@ -1,0 +1,21 @@
+﻿{
+  "Id": "d84638a5-ce58-49c7-9333-dace3d3cd3b5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shadow-shed",
+    "DisplayName": "Shadow Shed",
+    "Description": null,
+    "FieldValues": {
+      "Category": "[\"Status\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shadow-shed",
+      "DisplayName": "Shadow Shed",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6b1ac90c-2106-43eb-93ab-3122314e801c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ampharos",
+    "DisplayName": "Ampharos",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e6fd6439-fc60-48a8-87b6-fd3bcaad5630\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ampharos",
+      "DisplayName": "Ampharos",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Light"
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "3348965c-1cc6-4ae8-8310-9304b188c6bc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pancham",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"26fcf79c-eb30-4907-8539-b6ba4d5108bf\"]",
+      "Height": "6",
+      "Weight": "80",
+      "YieldExperience": "70",
+      "PrimaryAbility": "[\"e3b961ab-87de-40fc-9d8d-95dda45c14df\"]",
+      "SecondaryAbility": "[\"f35847b5-de3c-4706-a9d6-010903615537\"]",
+      "HiddenAbility": "[\"fa0ae125-7b24-45a0-bf28-4b447dfa5e21\"]",
+      "BaseHP": "67",
+      "YieldHP": "0",
+      "BaseAttack": "82",
+      "YieldAttack": "1",
+      "BaseDefense": "62",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "46",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "48",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "43",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pancham",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

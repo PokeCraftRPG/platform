@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e2523254-5c7f-4b63-beb9-6824533adf80",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "miraidon",
+    "DisplayName": "Miraidon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "1008",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "50",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "miraidon",
+      "DisplayName": "Miraidon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

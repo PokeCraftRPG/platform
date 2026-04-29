@@ -1,0 +1,28 @@
+﻿{
+  "Id": "dd3c0c06-983b-412d-b71a-66ac130083f9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "quaquaval",
+    "DisplayName": "Quaquaval",
+    "Description": null,
+    "FieldValues": {
+      "Number": "914",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Flying\"]",
+      "SecondaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "quaquaval",
+      "DisplayName": "Quaquaval",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

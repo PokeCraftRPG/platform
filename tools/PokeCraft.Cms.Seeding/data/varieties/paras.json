@@ -1,0 +1,26 @@
+﻿{
+  "Id": "baf3a745-71cc-43d9-b746-0be0f95b1b79",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "paras",
+    "DisplayName": "Paras",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"69555326-8510-49b6-96af-97ce91fb33fa\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "paras",
+      "DisplayName": "Paras",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mushroom"
+      }
+    }
+  }
+}

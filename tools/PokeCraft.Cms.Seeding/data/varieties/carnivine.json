@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ac9a2677-7279-4d82-9dce-aa7169cfa9ce",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "carnivine",
+    "DisplayName": "Carnivine",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d4aa1646-4f09-46d5-a755-8803f8cabdd1\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "carnivine",
+      "DisplayName": "Carnivine",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bug Catcher"
+      }
+    }
+  }
+}

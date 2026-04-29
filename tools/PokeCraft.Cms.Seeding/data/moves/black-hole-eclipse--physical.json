@@ -1,0 +1,23 @@
+﻿{
+  "Id": "2c1d9777-83e9-45e6-8de2-25c7b5604afa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "black-hole-eclipse--physical",
+    "DisplayName": "Black Hole Eclipse",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "black-hole-eclipse--physical",
+      "DisplayName": "Black Hole Eclipse",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

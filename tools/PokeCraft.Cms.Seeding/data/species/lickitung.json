@@ -1,0 +1,27 @@
+﻿{
+  "Id": "99cf470f-a8ab-4512-9143-f907a45c3006",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lickitung",
+    "DisplayName": "Lickitung",
+    "Description": null,
+    "FieldValues": {
+      "Number": "108",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lickitung",
+      "DisplayName": "Lickitung",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

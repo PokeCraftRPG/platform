@@ -1,0 +1,27 @@
+﻿{
+  "Id": "15522633-83dd-480f-bfc8-01bf8bc35058",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arceus",
+    "DisplayName": "Arceus",
+    "Description": null,
+    "FieldValues": {
+      "Number": "493",
+      "Category": "[\"Mythical\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arceus",
+      "DisplayName": "Arceus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ac3fa4cb-ef3c-4fff-8a79-1e80102b18a6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wicked-blow",
+    "DisplayName": "Wicked Blow",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "75",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wicked-blow",
+      "DisplayName": "Wicked Blow",
+      "Description": "The user, having mastered the Dark style, strikes the target with a fierce blow. This move always lands a critical hit.",
+      "FieldValues": {}
+    }
+  }
+}

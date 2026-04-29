@@ -1,0 +1,26 @@
+﻿{
+  "Id": "403b2657-5a1e-4e8f-830a-97ccd9981c15",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "froslass",
+    "DisplayName": "Froslass",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8a2fd465-45f2-40ed-a556-2831ecfde4bd\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "froslass",
+      "DisplayName": "Froslass",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Snow Land"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "bcbb554e-18d9-46ff-a6ed-a7df577d118b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kricketot",
+    "DisplayName": "Kricketot",
+    "Description": null,
+    "FieldValues": {
+      "Number": "401",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kricketot",
+      "DisplayName": "Kricketot",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

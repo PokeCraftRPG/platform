@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0009d781-e941-4342-b3de-92b1219d1f79",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "espurr",
+    "DisplayName": "Espurr",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"fdf0858d-2d6d-46af-b4a0-dec860f5e6db\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "espurr",
+      "DisplayName": "Espurr",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Restraint"
+      }
+    }
+  }
+}

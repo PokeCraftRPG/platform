@@ -1,0 +1,27 @@
+﻿{
+  "Id": "5ad97cf7-69d6-42d0-9f10-b7942ba5b50a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "incineroar",
+    "DisplayName": "Incineroar",
+    "Description": null,
+    "FieldValues": {
+      "Number": "727",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "incineroar",
+      "DisplayName": "Incineroar",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

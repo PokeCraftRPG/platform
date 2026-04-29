@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d1ffb77d-a17f-47f0-81cf-e2f628769495",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "duraludon",
+    "DisplayName": "Duraludon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c0a322a7-f280-4c78-8478-0cc6bf1c8177\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "duraludon",
+      "DisplayName": "Duraludon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Alloy"
+      }
+    }
+  }
+}

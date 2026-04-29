@@ -1,0 +1,26 @@
+﻿{
+  "Id": "aff56702-3c41-481a-a4a2-4884d35d2e52",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bergmite",
+    "DisplayName": "Bergmite",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"748d0fe4-291d-46e1-a98c-0ca2689ddd54\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bergmite",
+      "DisplayName": "Bergmite",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ice Chunk"
+      }
+    }
+  }
+}

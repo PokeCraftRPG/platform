@@ -1,0 +1,25 @@
+﻿{
+  "Id": "cee4e9b8-9864-4853-b6ba-f8c546350a77",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "charge-beam",
+    "DisplayName": "Charge Beam",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "90",
+      "Power": "50",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "charge-beam",
+      "DisplayName": "Charge Beam",
+      "Description": "The user attacks the target with an electric charge. The residual electricity may also boost the user's Sp. Atk stat.",
+      "FieldValues": {}
+    }
+  }
+}

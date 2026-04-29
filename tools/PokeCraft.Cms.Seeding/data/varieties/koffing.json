@@ -1,0 +1,26 @@
+﻿{
+  "Id": "2c424b5d-c056-4312-a892-b9c9f8400c4a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "koffing",
+    "DisplayName": "Koffing",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3997a74f-3e30-437b-894f-477052749cf1\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "koffing",
+      "DisplayName": "Koffing",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Poison Gas"
+      }
+    }
+  }
+}

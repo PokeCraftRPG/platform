@@ -1,0 +1,28 @@
+﻿{
+  "Id": "c0ffda85-5b8f-422d-8812-89ba45de5955",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ekans",
+    "DisplayName": "Ekans",
+    "Description": null,
+    "FieldValues": {
+      "Number": "23",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ekans",
+      "DisplayName": "Ekans",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

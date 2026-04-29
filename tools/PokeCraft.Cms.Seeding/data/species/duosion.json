@@ -1,0 +1,27 @@
+﻿{
+  "Id": "1f4158b0-8bb4-4b6a-aa2d-06af8f75d7a5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "duosion",
+    "DisplayName": "Duosion",
+    "Description": null,
+    "FieldValues": {
+      "Number": "578",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "100",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "duosion",
+      "DisplayName": "Duosion",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

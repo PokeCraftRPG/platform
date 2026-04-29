@@ -1,0 +1,23 @@
+﻿{
+  "Id": "e31bcba9-c4ba-459b-a665-fb8efc2e1e21",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mean-look",
+    "DisplayName": "Mean Look",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mean-look",
+      "DisplayName": "Mean Look",
+      "Description": "The user pins the target with a dark, arresting look. The target becomes unable to flee.",
+      "FieldValues": {}
+    }
+  }
+}

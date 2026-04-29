@@ -1,0 +1,26 @@
+﻿{
+  "Id": "99ff0ac2-eedf-40aa-8cea-6d3a7aa0fc24",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "malamar-mega",
+    "DisplayName": "Malamar",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"090082ff-df8c-45b2-9209-800d5a452a7a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "malamar-mega",
+      "DisplayName": "Malamar",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Overturning"
+      }
+    }
+  }
+}

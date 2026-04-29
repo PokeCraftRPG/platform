@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0cade872-9ea3-4d9e-a5af-d65da1d41603",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spewpa",
+    "DisplayName": "Spewpa",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"11ba9554-4cfa-45e3-a16b-b567d45d24ff\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spewpa",
+      "DisplayName": "Spewpa",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Scatterdust"
+      }
+    }
+  }
+}

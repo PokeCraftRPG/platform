@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c163d379-8e00-4916-9b2f-d650670a8851",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sucker-punch",
+    "DisplayName": "Sucker Punch",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "70",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sucker-punch",
+      "DisplayName": "Sucker Punch",
+      "Description": "This move enables the user to attack first. This move fails if the target is not readying an attack.",
+      "FieldValues": {}
+    }
+  }
+}

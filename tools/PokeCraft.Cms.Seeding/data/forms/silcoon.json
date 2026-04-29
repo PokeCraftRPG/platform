@@ -1,0 +1,40 @@
+﻿{
+  "Id": "a5b353c2-c28d-44f9-9b19-0ef07d3642a4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "silcoon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"57de53f7-f631-493f-9c0a-788dfd1dc116\"]",
+      "Height": "6",
+      "Weight": "100",
+      "YieldExperience": "72",
+      "PrimaryAbility": "[\"ce764204-79c4-4e66-8017-2144a4e66f3c\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "35",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "25",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "25",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "15",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "silcoon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

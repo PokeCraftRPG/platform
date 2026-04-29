@@ -1,0 +1,26 @@
+﻿{
+  "Id": "44a484bd-a6a8-43a1-bb05-f177ba5494b5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mantyke",
+    "DisplayName": "Mantyke",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7578cae9-cdae-4fa9-9757-919730d84715\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mantyke",
+      "DisplayName": "Mantyke",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Kite"
+      }
+    }
+  }
+}

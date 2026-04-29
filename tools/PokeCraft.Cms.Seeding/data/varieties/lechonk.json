@@ -1,0 +1,26 @@
+﻿{
+  "Id": "fa8d4d81-f309-4239-a15e-a332ee6492d3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lechonk",
+    "DisplayName": "Lechonk",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"712ecdf4-f46e-44c2-8003-8a61e43ed15e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lechonk",
+      "DisplayName": "Lechonk",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Hog"
+      }
+    }
+  }
+}

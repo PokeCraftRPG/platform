@@ -1,0 +1,27 @@
+﻿{
+  "Id": "0531c12d-32ab-4079-8c6b-4f2653c1d84b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cyclizar",
+    "DisplayName": "Cyclizar",
+    "Description": null,
+    "FieldValues": {
+      "Number": "967",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cyclizar",
+      "DisplayName": "Cyclizar",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

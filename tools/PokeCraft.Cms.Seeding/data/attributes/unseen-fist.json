@@ -1,0 +1,19 @@
+﻿{
+  "Id": "4a0019c1-3730-4b26-857b-3d0cf36d3517",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "unseen-fist",
+    "DisplayName": "Unseen Fist",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "unseen-fist",
+      "DisplayName": "Unseen Fist",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

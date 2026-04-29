@@ -1,0 +1,41 @@
+﻿{
+  "Id": "0b6145db-b85e-47a0-ab09-a6482a70b64a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zygarde-10-power-construct",
+    "DisplayName": "10% Zygarde",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9c86691e-f2cd-4e06-a9ca-a3476a56c747\"]",
+      "Height": "12",
+      "Weight": "335",
+      "YieldExperience": "243",
+      "PrimaryAbility": "[\"6ddb17ba-dbb1-433c-88aa-3ab1376766ff\"]",
+      "BaseHP": "54",
+      "YieldHP": "3",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "71",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "61",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "115",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zygarde-10-power-construct",
+      "DisplayName": "10% Zygarde",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

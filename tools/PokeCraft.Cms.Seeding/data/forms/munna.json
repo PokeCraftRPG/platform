@@ -1,0 +1,42 @@
+﻿{
+  "Id": "62164922-e6e9-4723-9296-7b9cb3512a38",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "munna",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d1b11ce8-9e80-4020-827a-e9a1698b18c2\"]",
+      "Height": "6",
+      "Weight": "233",
+      "YieldExperience": "58",
+      "PrimaryAbility": "[\"9f4b7030-9dea-4566-93c8-f82b81ca2f53\"]",
+      "SecondaryAbility": "[\"f5fd746b-4285-427b-ab75-928d416a5c85\"]",
+      "HiddenAbility": "[\"f5863110-b5b9-4629-b95c-3869ed34433d\"]",
+      "BaseHP": "76",
+      "YieldHP": "1",
+      "BaseAttack": "25",
+      "YieldAttack": "0",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "67",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "24",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "munna",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "f35847b5-de3c-4706-a9d6-010903615537",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mold-breaker",
+    "DisplayName": "Mold Breaker",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mold-breaker",
+      "DisplayName": "Mold Breaker",
+      "Description": "The Pokémon's moves are unimpeded by the Ability of the target.",
+      "FieldValues": {}
+    }
+  }
+}

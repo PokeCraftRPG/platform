@@ -1,0 +1,25 @@
+﻿{
+  "Id": "fddd5cf8-bcff-4279-8431-7d5f0e895e5a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "false-swipe",
+    "DisplayName": "False Swipe",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "40"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "false-swipe",
+      "DisplayName": "False Swipe",
+      "Description": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.",
+      "FieldValues": {}
+    }
+  }
+}

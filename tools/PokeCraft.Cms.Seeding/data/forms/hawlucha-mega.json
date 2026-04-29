@@ -1,0 +1,40 @@
+﻿{
+  "Id": "742657b9-07a9-4fb6-9a16-f6d92c157a26",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hawlucha-mega",
+    "DisplayName": "Mega Hawlucha",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"40d8e01a-a33b-4209-9452-c4d70b43b085\"]",
+      "Height": "10",
+      "Weight": "250",
+      "PrimaryAbility": "[\"9abfc5f6-0767-4c13-a4c0-dd48c54a21d3\"]",
+      "BaseHP": "78",
+      "YieldHP": "0",
+      "BaseAttack": "137",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "74",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "93",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "118",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Fighting\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hawlucha-mega",
+      "DisplayName": "Mega Hawlucha",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

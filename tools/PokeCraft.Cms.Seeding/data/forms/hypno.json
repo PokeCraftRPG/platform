@@ -1,0 +1,42 @@
+﻿{
+  "Id": "305429a7-cbe7-44a4-8de0-e1d927547d5a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hypno",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c3289636-7ca5-41aa-936c-bc2236639ef1\"]",
+      "Height": "16",
+      "Weight": "756",
+      "YieldExperience": "169",
+      "PrimaryAbility": "[\"74551570-259c-470c-a9ba-64ffd0e3afad\"]",
+      "SecondaryAbility": "[\"9f4b7030-9dea-4566-93c8-f82b81ca2f53\"]",
+      "HiddenAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "BaseHP": "85",
+      "YieldHP": "0",
+      "BaseAttack": "73",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "73",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "115",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "67",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hypno",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

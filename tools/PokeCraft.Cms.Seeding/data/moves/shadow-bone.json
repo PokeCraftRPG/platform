@@ -1,0 +1,25 @@
+﻿{
+  "Id": "7942afa4-a38f-4118-bf99-0f94e07745c4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shadow-bone",
+    "DisplayName": "Shadow Bone",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "85",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shadow-bone",
+      "DisplayName": "Shadow Bone",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

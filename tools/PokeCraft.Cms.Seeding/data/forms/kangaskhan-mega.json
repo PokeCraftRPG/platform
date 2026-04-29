@@ -1,0 +1,40 @@
+﻿{
+  "Id": "43371cbe-3364-456e-98cb-c390d8b206d6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kangaskhan-mega",
+    "DisplayName": "Mega Kangaskhan",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c0be33ad-0b98-4408-b948-6078768970ee\"]",
+      "Height": "22",
+      "Weight": "1000",
+      "YieldExperience": "207",
+      "PrimaryAbility": "[\"d22ac7a6-63b3-4aee-9cf2-ba61a97e3dc3\"]",
+      "BaseHP": "105",
+      "YieldHP": "2",
+      "BaseAttack": "125",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kangaskhan-mega",
+      "DisplayName": "Mega Kangaskhan",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

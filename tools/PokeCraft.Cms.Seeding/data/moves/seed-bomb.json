@@ -1,0 +1,25 @@
+﻿{
+  "Id": "d105cb2e-9428-4377-9ca4-eeb2893d6b58",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "seed-bomb",
+    "DisplayName": "Seed Bomb",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "seed-bomb",
+      "DisplayName": "Seed Bomb",
+      "Description": "The user attacks by slamming a barrage of hard-shelled seeds down on the target from above.",
+      "FieldValues": {}
+    }
+  }
+}

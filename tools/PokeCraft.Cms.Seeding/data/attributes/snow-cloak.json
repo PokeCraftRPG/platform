@@ -1,0 +1,19 @@
+﻿{
+  "Id": "6397856d-ee55-409a-a0aa-3657039b20c4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snow-cloak",
+    "DisplayName": "Snow Cloak",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snow-cloak",
+      "DisplayName": "Snow Cloak",
+      "Description": "Boosts the Pokémon's evasiveness in snow.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "94a88cb5-77f1-44d4-bbd4-98b44937f92c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "omnipotent",
+    "DisplayName": "Omnipotent",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "omnipotent",
+      "DisplayName": "Omnipotent",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

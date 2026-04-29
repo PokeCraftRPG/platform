@@ -1,0 +1,23 @@
+﻿{
+  "Id": "71fef443-e6f0-4ed2-9180-3605347fffdc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "coil",
+    "DisplayName": "Coil",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "coil",
+      "DisplayName": "Coil",
+      "Description": "The user coils up and concentrates. This boosts its Attack and Defense stats as well as its accuracy.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿{
+  "Id": "87edbbcb-d215-4c5e-9762-156850188eea",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "endeavor",
+    "DisplayName": "Endeavor",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "endeavor",
+      "DisplayName": "Endeavor",
+      "Description": "The user inflicts damage by cutting down the target's HP to roughly equal the user's HP.",
+      "FieldValues": {}
+    }
+  }
+}

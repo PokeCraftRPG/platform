@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b29ac83f-0dd6-490b-b36f-0266eb9659ac",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sigilyph",
+    "DisplayName": "Sigilyph",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d03698e3-1f8d-4707-8de4-fb4f5a11c253\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sigilyph",
+      "DisplayName": "Sigilyph",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Avianoid"
+      }
+    }
+  }
+}

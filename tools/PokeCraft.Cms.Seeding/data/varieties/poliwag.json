@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d216a630-24e6-4c9c-9b22-4404c8f18638",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "poliwag",
+    "DisplayName": "Poliwag",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d6c036b1-7a13-4b7a-bd4c-fbe36a98ef3c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "poliwag",
+      "DisplayName": "Poliwag",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tadpole"
+      }
+    }
+  }
+}

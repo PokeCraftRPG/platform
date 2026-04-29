@@ -1,0 +1,41 @@
+﻿{
+  "Id": "6e817499-8390-498c-b984-fbea258697ec",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tyranitar-mega",
+    "DisplayName": "Mega Tyranitar",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"30f2d482-aa37-4cc7-9651-c82b4b3b6d3d\"]",
+      "Height": "25",
+      "Weight": "2550",
+      "YieldExperience": "315",
+      "PrimaryAbility": "[\"b7c00fcc-02c4-44a4-aae6-d207b07e5d37\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "164",
+      "YieldAttack": "3",
+      "BaseDefense": "150",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "120",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "71",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tyranitar-mega",
+      "DisplayName": "Mega Tyranitar",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

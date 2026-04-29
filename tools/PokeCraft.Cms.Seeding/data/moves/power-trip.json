@@ -1,0 +1,25 @@
+﻿{
+  "Id": "1966761f-83ed-42c0-9597-9ec58be51e7c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "power-trip",
+    "DisplayName": "Power Trip",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "20",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "power-trip",
+      "DisplayName": "Power Trip",
+      "Description": "The user boasts its strength and attacks the target. The more the user's stats are boosted, the greater the move's power.",
+      "FieldValues": {}
+    }
+  }
+}

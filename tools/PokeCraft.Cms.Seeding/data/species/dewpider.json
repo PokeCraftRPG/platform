@@ -1,0 +1,28 @@
+﻿{
+  "Id": "3e6e41ac-de8f-4f1a-9e48-3465aa3e3cd7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dewpider",
+    "DisplayName": "Dewpider",
+    "Description": null,
+    "FieldValues": {
+      "Number": "751",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "200",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dewpider",
+      "DisplayName": "Dewpider",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

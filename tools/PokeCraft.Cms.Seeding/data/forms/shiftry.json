@@ -1,0 +1,43 @@
+﻿{
+  "Id": "91a2fae8-c8b1-4cfe-896f-ddcd2b3d7f91",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shiftry",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"31786267-39a1-4b8d-99e3-526d94f96e8a\"]",
+      "Height": "13",
+      "Weight": "596",
+      "YieldExperience": "216",
+      "PrimaryAbility": "[\"badd5419-2c79-487b-b923-244b120f3fa8\"]",
+      "SecondaryAbility": "[\"f440465e-0c15-46e4-9b0b-85aa434439e3\"]",
+      "HiddenAbility": "[\"03108b44-e57b-442a-ba0e-b6de95a975c1\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "3",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "90",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shiftry",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

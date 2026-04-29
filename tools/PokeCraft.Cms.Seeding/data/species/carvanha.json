@@ -1,0 +1,27 @@
+﻿{
+  "Id": "68c390f6-ed69-4c48-a672-e4ce9c2886a1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "carvanha",
+    "DisplayName": "Carvanha",
+    "Description": null,
+    "FieldValues": {
+      "Number": "318",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "225",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "carvanha",
+      "DisplayName": "Carvanha",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "30ec8934-2118-4f0f-948f-226eb95192f1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "camerupt-mega",
+    "DisplayName": "Mega Camerupt",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b831a069-b1e3-4f66-87a9-bc5b4bca06d8\"]",
+      "Height": "25",
+      "Weight": "3205",
+      "YieldExperience": "196",
+      "PrimaryAbility": "[\"ef348627-bea1-4c87-9bf1-417ed3b66855\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "1",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "145",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "105",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "20",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "camerupt-mega",
+      "DisplayName": "Mega Camerupt",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

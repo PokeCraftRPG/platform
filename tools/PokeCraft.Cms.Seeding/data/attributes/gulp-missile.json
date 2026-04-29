@@ -1,0 +1,19 @@
+﻿{
+  "Id": "2e48ab3b-2657-4b9f-96b8-8614cc22877a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gulp-missile",
+    "DisplayName": "Gulp Missile",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gulp-missile",
+      "DisplayName": "Gulp Missile",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

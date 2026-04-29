@@ -1,0 +1,26 @@
+﻿{
+  "Id": "8fa4c412-5d44-4c16-bc10-aaaf27107000",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "boldore",
+    "DisplayName": "Boldore",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"54231640-db2a-4ce9-9884-700a5f7da052\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "boldore",
+      "DisplayName": "Boldore",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ore"
+      }
+    }
+  }
+}

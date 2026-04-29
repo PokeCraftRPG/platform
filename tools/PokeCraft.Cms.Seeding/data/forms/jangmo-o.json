@@ -1,0 +1,42 @@
+﻿{
+  "Id": "efda0994-9513-4143-909f-e620013f74af",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "jangmo-o",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f2a7c64d-5557-4446-aa10-43cce5b04a66\"]",
+      "Height": "6",
+      "Weight": "297",
+      "YieldExperience": "60",
+      "PrimaryAbility": "[\"95f8b622-ee64-42b7-be19-313365f588d5\"]",
+      "SecondaryAbility": "[\"6df60939-ffd8-4ddb-ad1e-f4add0129eeb\"]",
+      "HiddenAbility": "[\"ecf92884-7c23-4d13-9d9a-1a687fe3f447\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "65",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "jangmo-o",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

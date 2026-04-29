@@ -1,0 +1,23 @@
+﻿{
+  "Id": "e0059788-888c-4c79-977b-869bca1ccc45",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "agility",
+    "DisplayName": "Agility",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "agility",
+      "DisplayName": "Agility",
+      "Description": "The user relaxes and lightens its body to move faster. This sharply boosts its Speed stat.",
+      "FieldValues": {}
+    }
+  }
+}

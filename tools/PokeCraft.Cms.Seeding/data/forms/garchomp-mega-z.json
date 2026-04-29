@@ -1,0 +1,38 @@
+﻿{
+  "Id": "74726c2b-34f2-4ffb-a466-34d345138f52",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "garchomp-mega-z",
+    "DisplayName": "Mega Garchomp Z",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"033c5cfb-bc50-42ae-9636-de1c3d0ab152\"]",
+      "Height": "19",
+      "Weight": "990",
+      "BaseHP": "108",
+      "YieldHP": "0",
+      "BaseAttack": "130",
+      "YieldAttack": "0",
+      "BaseDefense": "85",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "141",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "151",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "garchomp-mega-z",
+      "DisplayName": "Mega Garchomp Z",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

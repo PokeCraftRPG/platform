@@ -1,0 +1,25 @@
+﻿{
+  "Id": "96171d94-5165-49d5-97aa-d4908924d9f5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-moth",
+    "DisplayName": "Iron Moth",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"34282fbb-9127-44a6-90c9-82f141e1d8d7\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-moth",
+      "DisplayName": "Iron Moth",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

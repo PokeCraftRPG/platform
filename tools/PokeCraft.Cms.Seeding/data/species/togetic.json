@@ -1,0 +1,28 @@
+﻿{
+  "Id": "1e5194ca-6d7e-4923-b590-19d71d8d00a1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "togetic",
+    "DisplayName": "Togetic",
+    "Description": null,
+    "FieldValues": {
+      "Number": "176",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"Flying\"]",
+      "SecondaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "togetic",
+      "DisplayName": "Togetic",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

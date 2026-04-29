@@ -1,0 +1,24 @@
+﻿{
+  "Id": "541db8a5-c1f0-45df-8eff-941a3e9a577f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "strength-sap",
+    "DisplayName": "Strength Sap",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "strength-sap",
+      "DisplayName": "Strength Sap",
+      "Description": "The user restores its own HP by the same amount as the target's Attack stat. It then lowers the target's Attack stat.",
+      "FieldValues": {}
+    }
+  }
+}

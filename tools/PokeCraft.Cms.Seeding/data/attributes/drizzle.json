@@ -1,0 +1,19 @@
+﻿{
+  "Id": "4e10a4cc-0c01-4d26-82fa-8d912b60647b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drizzle",
+    "DisplayName": "Drizzle",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drizzle",
+      "DisplayName": "Drizzle",
+      "Description": "The Pokémon makes it rain when it enters a battle.",
+      "FieldValues": {}
+    }
+  }
+}

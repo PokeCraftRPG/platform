@@ -1,0 +1,26 @@
+﻿{
+  "Id": "73681f7a-9eac-4c8a-a4b3-9196ed9e4780",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vaporeon",
+    "DisplayName": "Vaporeon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"684caa11-319f-473c-855b-973c30d63264\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vaporeon",
+      "DisplayName": "Vaporeon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bubble Jet"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "5e98fa04-84d5-475b-83ac-7bf2aa3f4470",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bronzor",
+    "DisplayName": "Bronzor",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"465338f1-55a7-4039-a8dc-75739e593f26\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bronzor",
+      "DisplayName": "Bronzor",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bronze"
+      }
+    }
+  }
+}

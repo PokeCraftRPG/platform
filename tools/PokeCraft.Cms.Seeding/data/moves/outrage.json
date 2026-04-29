@@ -1,0 +1,25 @@
+﻿{
+  "Id": "8f7b40d6-82b2-4de5-af88-5465da45e279",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "outrage",
+    "DisplayName": "Outrage",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "outrage",
+      "DisplayName": "Outrage",
+      "Description": "The user rampages and attacks for two to three turns. The user then becomes confused.",
+      "FieldValues": {}
+    }
+  }
+}

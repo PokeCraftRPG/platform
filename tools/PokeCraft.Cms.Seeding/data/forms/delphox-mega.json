@@ -1,0 +1,40 @@
+﻿{
+  "Id": "37b08ffe-d026-4970-94df-9fcd4c580cff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "delphox-mega",
+    "DisplayName": "Mega Delphox",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"cc99d3bf-e6c3-4592-9ee6-939725622bd6\"]",
+      "Height": "15",
+      "Weight": "390",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "69",
+      "YieldAttack": "0",
+      "BaseDefense": "72",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "159",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "125",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "134",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "delphox-mega",
+      "DisplayName": "Mega Delphox",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

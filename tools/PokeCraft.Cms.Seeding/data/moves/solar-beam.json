@@ -1,0 +1,25 @@
+﻿{
+  "Id": "cda74ff1-9a5c-4bd4-92e5-d932e3145312",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "solar-beam",
+    "DisplayName": "Solar Beam",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "solar-beam",
+      "DisplayName": "Solar Beam",
+      "Description": "The user gathers light on the first turn, then blasts a bundled beam on the next turn.",
+      "FieldValues": {}
+    }
+  }
+}

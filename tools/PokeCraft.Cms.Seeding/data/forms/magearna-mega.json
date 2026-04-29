@@ -1,0 +1,39 @@
+﻿{
+  "Id": "15d9da77-d9b9-41d8-8346-df39b5999232",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magearna-mega",
+    "DisplayName": "Mega Magearna",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0cbedc74-a1fa-486a-905e-4613ca0ae13b\"]",
+      "Height": "13",
+      "Weight": "2481",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "125",
+      "YieldAttack": "0",
+      "BaseDefense": "115",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "170",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "115",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magearna-mega",
+      "DisplayName": "Mega Magearna",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

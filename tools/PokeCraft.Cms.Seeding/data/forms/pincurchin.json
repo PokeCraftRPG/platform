@@ -1,0 +1,41 @@
+﻿{
+  "Id": "bd51d271-9266-42d6-87e1-a69100466e2d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pincurchin",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"76ae172d-15c6-4f72-ba5f-b2507bcd18b5\"]",
+      "Height": "3",
+      "Weight": "10",
+      "YieldExperience": "152",
+      "PrimaryAbility": "[\"98bb9191-1993-4224-8922-4a4d13f534a5\"]",
+      "HiddenAbility": "[\"737464ea-cf63-4eef-a01d-2285d42b18fd\"]",
+      "BaseHP": "48",
+      "YieldHP": "0",
+      "BaseAttack": "101",
+      "YieldAttack": "2",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "91",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "15",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pincurchin",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

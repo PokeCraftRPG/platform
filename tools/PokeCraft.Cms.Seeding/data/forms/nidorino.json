@@ -1,0 +1,42 @@
+﻿{
+  "Id": "10a7ac19-f314-42d8-8c22-011930915fa7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nidorino",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"19985812-d11b-48e7-8635-82b0b3282d18\"]",
+      "Height": "9",
+      "Weight": "195",
+      "YieldExperience": "128",
+      "PrimaryAbility": "[\"2f1ed275-bfaf-494d-8d85-c48aee736e43\"]",
+      "SecondaryAbility": "[\"3bb432b8-b38c-4243-888c-20085e000f57\"]",
+      "HiddenAbility": "[\"12b608f7-a7b7-412e-803f-28d4eaba64c8\"]",
+      "BaseHP": "61",
+      "YieldHP": "0",
+      "BaseAttack": "72",
+      "YieldAttack": "2",
+      "BaseDefense": "57",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "55",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nidorino",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

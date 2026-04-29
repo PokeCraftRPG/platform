@@ -1,0 +1,25 @@
+﻿{
+  "Id": "474c04b1-6a1d-4c79-8c09-b6fd5857636d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sunsteel-strike",
+    "DisplayName": "Sunsteel Strike",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sunsteel-strike",
+      "DisplayName": "Sunsteel Strike",
+      "Description": "The user slams into the target with the force of a meteor. This move can be used on the target regardless of its Ability.",
+      "FieldValues": {}
+    }
+  }
+}

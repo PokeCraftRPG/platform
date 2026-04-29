@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3c663a99-43e6-4ab6-8101-eac9714b28ad",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sawk",
+    "DisplayName": "Sawk",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"59b4b209-2f6b-48a8-bb0a-9fc726422b5a\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sawk",
+      "DisplayName": "Sawk",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Karate"
+      }
+    }
+  }
+}

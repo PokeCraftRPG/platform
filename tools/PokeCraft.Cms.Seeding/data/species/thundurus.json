@@ -1,0 +1,27 @@
+﻿{
+  "Id": "277d99c4-4982-445d-9881-53737e6dedff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thundurus",
+    "DisplayName": "Thundurus",
+    "Description": null,
+    "FieldValues": {
+      "Number": "642",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "90",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thundurus",
+      "DisplayName": "Thundurus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

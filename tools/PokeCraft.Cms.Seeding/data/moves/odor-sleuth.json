@@ -1,0 +1,23 @@
+﻿{
+  "Id": "9e90425f-0831-4dff-bfdb-4e9896e625ac",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "odor-sleuth",
+    "DisplayName": "Odor Sleuth",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "40"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "odor-sleuth",
+      "DisplayName": "Odor Sleuth",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

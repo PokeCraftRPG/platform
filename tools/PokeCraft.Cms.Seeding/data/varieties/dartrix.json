@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3a9879b6-94bb-4239-bd14-fabe8e754095",
+  "Invariant": {
+    "IsPublished": true,
+    "UniqueName": "dartrix",
+    "DisplayName": "Dartrix",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ee17dd01-e014-4e33-8276-21fb077ed235\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": true,
+      "UniqueName": "dartrix",
+      "DisplayName": "Dartrix",
+      "Description": "A meticulous clean freak, it obsessively preens its plumage. It attacks with razor-sharp blade quills, striking foes with remarkable precision.",
+      "FieldValues": {
+        "Genus": "Blade Quill"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "312b28d4-d305-4b48-8031-940ddeb299ff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magcargo",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d027aae7-b3de-44ae-bfdb-b884f78490a8\"]",
+      "Height": "8",
+      "Weight": "550",
+      "YieldExperience": "151",
+      "PrimaryAbility": "[\"e3688f9d-2100-4913-89ea-a1e8e38eb841\"]",
+      "SecondaryAbility": "[\"61541bb6-568e-4dd0-b07a-56233b9fe96f\"]",
+      "HiddenAbility": "[\"2b8b8cfa-e12e-43d2-b403-594ac9a1c1f7\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "120",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "90",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magcargo",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

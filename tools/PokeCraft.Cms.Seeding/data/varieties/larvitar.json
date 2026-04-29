@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e2c87fce-ca52-4cd8-9771-7b00d016fabc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "larvitar",
+    "DisplayName": "Larvitar",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8faefa5e-c48a-44ea-a36e-ad5f7371b9b5\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "larvitar",
+      "DisplayName": "Larvitar",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rock Skin"
+      }
+    }
+  }
+}

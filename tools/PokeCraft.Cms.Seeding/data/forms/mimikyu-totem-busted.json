@@ -1,0 +1,41 @@
+﻿{
+  "Id": "4f25c37c-53a9-4d88-a3c9-f0ec30de4c11",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mimikyu-totem-busted",
+    "DisplayName": "Totem Busted Mimikyu",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5760dc26-6865-44e9-8166-87bfc62034a2\"]",
+      "Height": "4",
+      "Weight": "28",
+      "YieldExperience": "167",
+      "PrimaryAbility": "[\"ce5e54a6-1529-4c02-9cc8-c09d305617a1\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "105",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "96",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Ghost\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mimikyu-totem-busted",
+      "DisplayName": "Totem Busted Mimikyu",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

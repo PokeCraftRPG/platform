@@ -1,0 +1,24 @@
+﻿{
+  "Id": "f9e75ac2-2c15-4681-8be2-bd366f715975",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shed-tail",
+    "DisplayName": "Shed Tail",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "Power": "0",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shed-tail",
+      "DisplayName": "Shed Tail",
+      "Description": "The user creates a substitute for itself using its own HP before switching places with a party Pokémon in waiting.",
+      "FieldValues": {}
+    }
+  }
+}

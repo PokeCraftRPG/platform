@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c461849f-f69b-4151-8184-5fe073c4ad40",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tirtouga",
+    "DisplayName": "Tirtouga",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e097bd55-790d-4b51-b342-558a9c36a9a5\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tirtouga",
+      "DisplayName": "Tirtouga",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Prototurtle"
+      }
+    }
+  }
+}

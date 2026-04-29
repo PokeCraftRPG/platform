@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6ddc8be9-91a5-4b6f-a7b6-c0a9becc499a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ducklett",
+    "DisplayName": "Ducklett",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d01a3e7a-7eb5-4b10-aa1c-139ed20461e5\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ducklett",
+      "DisplayName": "Ducklett",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Water Bird"
+      }
+    }
+  }
+}

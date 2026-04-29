@@ -1,0 +1,25 @@
+﻿{
+  "Id": "b347dd92-6621-4426-a8f5-d487b9bf5f88",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "deoxys-speed",
+    "DisplayName": "Deoxys",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"db6b9a4c-eb0e-439c-a6ee-fd6b57b39e91\"]",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "deoxys-speed",
+      "DisplayName": "Deoxys",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "DNA"
+      }
+    }
+  }
+}

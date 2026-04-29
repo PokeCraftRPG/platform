@@ -1,0 +1,19 @@
+﻿{
+  "Id": "763a0f3d-5beb-432e-90e0-bdb41296fdb0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hot-blooded",
+    "DisplayName": "Hot Blooded",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hot-blooded",
+      "DisplayName": "Hot Blooded",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

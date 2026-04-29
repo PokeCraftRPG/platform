@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0a0dc5ab-0406-429b-9eeb-c870b3a66b73",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stoutland",
+    "DisplayName": "Stoutland",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"16ff36bb-d7dc-4822-9c90-1525cf2982a8\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stoutland",
+      "DisplayName": "Stoutland",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Big-Hearted"
+      }
+    }
+  }
+}

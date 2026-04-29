@@ -1,0 +1,26 @@
+﻿{
+  "Id": "13f43ea1-d0c9-4c8f-8102-764bf06454ee",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "electabuzz",
+    "DisplayName": "Electabuzz",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"69702f4d-8a84-46c4-b506-a678d4b0b740\"]",
+      "GenderRatio": "6",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "electabuzz",
+      "DisplayName": "Electabuzz",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Electric"
+      }
+    }
+  }
+}

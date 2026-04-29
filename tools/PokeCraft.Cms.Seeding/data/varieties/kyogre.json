@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ea14ea9d-cbd4-41f1-9d8b-1aa3a1c08e44",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kyogre",
+    "DisplayName": "Kyogre",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a66568c5-a44a-4267-8607-dc6d17e82491\"]",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kyogre",
+      "DisplayName": "Kyogre",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sea Basin"
+      }
+    }
+  }
+}

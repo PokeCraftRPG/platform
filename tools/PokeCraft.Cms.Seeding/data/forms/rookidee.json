@@ -1,0 +1,42 @@
+﻿{
+  "Id": "06634ba7-b15f-4429-8f64-b4adbfd0165d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rookidee",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b96cac80-ef3c-4a53-a367-93504b503e58\"]",
+      "Height": "2",
+      "Weight": "18",
+      "YieldExperience": "49",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "SecondaryAbility": "[\"5cdb3b5f-b72c-4361-b715-922fc4cb31f9\"]",
+      "HiddenAbility": "[\"15e51a3f-bb28-4ca8-abdf-27130d9930b4\"]",
+      "BaseHP": "38",
+      "YieldHP": "0",
+      "BaseAttack": "47",
+      "YieldAttack": "0",
+      "BaseDefense": "35",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "33",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "35",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "57",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rookidee",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

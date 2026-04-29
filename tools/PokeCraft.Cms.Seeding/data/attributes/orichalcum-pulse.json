@@ -1,0 +1,19 @@
+﻿{
+  "Id": "e790019c-c127-4ffc-9263-8913243abfe6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "orichalcum-pulse",
+    "DisplayName": "Orichalcum Pulse",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "orichalcum-pulse",
+      "DisplayName": "Orichalcum Pulse",
+      "Description": "Turns the sunlight harsh when the Pokémon enters a battle. The ancient pulse thrumming through the Pokémon also boosts its Attack stat in harsh sunlight.",
+      "FieldValues": {}
+    }
+  }
+}

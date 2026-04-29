@@ -1,0 +1,28 @@
+﻿{
+  "Id": "3b36bf52-48cd-474f-930d-0975b0254df8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spinda",
+    "DisplayName": "Spinda",
+    "Description": null,
+    "FieldValues": {
+      "Number": "327",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spinda",
+      "DisplayName": "Spinda",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

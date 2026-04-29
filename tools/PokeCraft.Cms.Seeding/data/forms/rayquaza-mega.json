@@ -1,0 +1,41 @@
+﻿{
+  "Id": "0aaca3c0-9ef7-457e-92a5-6ebbcd53d5be",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rayquaza-mega",
+    "DisplayName": "Mega Rayquaza",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2db538b2-fc9c-4e04-be62-bad067374b42\"]",
+      "Height": "108",
+      "Weight": "3920",
+      "YieldExperience": "351",
+      "PrimaryAbility": "[\"4b713974-3409-4661-9832-9167decf3dbb\"]",
+      "BaseHP": "105",
+      "YieldHP": "0",
+      "BaseAttack": "180",
+      "YieldAttack": "2",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "180",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "115",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rayquaza-mega",
+      "DisplayName": "Mega Rayquaza",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

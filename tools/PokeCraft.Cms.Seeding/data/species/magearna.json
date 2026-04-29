@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d2c0aa50-510f-4929-b467-62436dfddca9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magearna",
+    "DisplayName": "Magearna",
+    "Description": null,
+    "FieldValues": {
+      "Number": "801",
+      "Category": "[\"Mythical\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magearna",
+      "DisplayName": "Magearna",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

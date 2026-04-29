@@ -1,0 +1,24 @@
+﻿{
+  "Id": "a98e9210-13a5-40df-9585-18e72d0a9ed8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "max-ooze",
+    "DisplayName": "Max Ooze",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "10",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "max-ooze",
+      "DisplayName": "Max Ooze",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

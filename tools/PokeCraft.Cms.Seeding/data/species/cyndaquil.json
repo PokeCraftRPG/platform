@@ -1,0 +1,27 @@
+﻿{
+  "Id": "146fad23-4d4f-4f08-a0cd-052df4716d3d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cyndaquil",
+    "DisplayName": "Cyndaquil",
+    "Description": null,
+    "FieldValues": {
+      "Number": "155",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cyndaquil",
+      "DisplayName": "Cyndaquil",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

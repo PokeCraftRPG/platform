@@ -1,0 +1,27 @@
+﻿{
+  "Id": "2e3fdd4d-d992-4c1c-8de2-5da673d0784e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arctozolt",
+    "DisplayName": "Arctozolt",
+    "Description": null,
+    "FieldValues": {
+      "Number": "881",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "35",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arctozolt",
+      "DisplayName": "Arctozolt",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

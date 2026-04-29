@@ -1,0 +1,42 @@
+﻿{
+  "Id": "5c3116ad-572c-4ac0-b3c8-c77ebe3eeec9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sliggoo",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"cb9301a3-1dab-4bd9-a54b-6544befa8b23\"]",
+      "Height": "8",
+      "Weight": "175",
+      "YieldExperience": "158",
+      "PrimaryAbility": "[\"a471c5f9-291c-4763-b84a-9c5c666f409b\"]",
+      "SecondaryAbility": "[\"14243d95-6028-489e-acf7-18592c5695c2\"]",
+      "HiddenAbility": "[\"b26695ec-9331-4ca1-b94c-d371e8bbbb15\"]",
+      "BaseHP": "68",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "53",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "83",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "113",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sliggoo",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

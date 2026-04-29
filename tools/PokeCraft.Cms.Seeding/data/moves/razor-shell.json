@@ -1,0 +1,25 @@
+﻿{
+  "Id": "fdc3e50d-a9d2-4373-a74b-d14145ca3ff8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "razor-shell",
+    "DisplayName": "Razor Shell",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "95",
+      "Power": "75",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "razor-shell",
+      "DisplayName": "Razor Shell",
+      "Description": "The user cuts the target with sharp shells to inflict damage. This may also lower the target's Defense stat.",
+      "FieldValues": {}
+    }
+  }
+}

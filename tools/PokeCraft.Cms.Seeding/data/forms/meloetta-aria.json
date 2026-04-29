@@ -1,0 +1,41 @@
+﻿{
+  "Id": "144802e0-e6f3-4bb1-950c-caf59bc6ef9b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meloetta-aria",
+    "DisplayName": "Aria Meloetta",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"8315d0b1-c2f7-479a-b8d4-89cc27776cc7\"]",
+      "Height": "6",
+      "Weight": "65",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"f1619484-cf62-4314-a26f-a79e00b5720f\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "77",
+      "YieldAttack": "0",
+      "BaseDefense": "77",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "128",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "128",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "90",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meloetta-aria",
+      "DisplayName": "Aria Meloetta",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

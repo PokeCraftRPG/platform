@@ -1,0 +1,19 @@
+﻿{
+  "Id": "87d19fcd-9364-4f75-ba5c-cc9f55b081b8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "immunity",
+    "DisplayName": "Immunity",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "immunity",
+      "DisplayName": "Immunity",
+      "Description": "The Pokémon's immune system prevents it from being poisoned.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "c2b03f74-9b5b-4cd4-a302-ddc056e1c0b6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mountaineer",
+    "DisplayName": "Mountaineer",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mountaineer",
+      "DisplayName": "Mountaineer",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

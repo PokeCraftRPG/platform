@@ -1,0 +1,25 @@
+﻿{
+  "Id": "37cda208-e755-4e69-9736-7a5cd2d72a98",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "genesect",
+    "DisplayName": "Genesect",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"12de8963-9ebd-42ae-97b9-dce647127005\"]",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "genesect",
+      "DisplayName": "Genesect",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paleozoic"
+      }
+    }
+  }
+}

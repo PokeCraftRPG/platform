@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3d63afad-e23a-43f5-9c8a-912e91cb12de",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hitmonchan",
+    "DisplayName": "Hitmonchan",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7649c41d-c321-4a49-9aec-7ded8a2b5524\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hitmonchan",
+      "DisplayName": "Hitmonchan",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Punching"
+      }
+    }
+  }
+}

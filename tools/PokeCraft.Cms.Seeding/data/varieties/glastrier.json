@@ -1,0 +1,25 @@
+﻿{
+  "Id": "2b175696-6f71-4cdd-84ea-860c14ea66a6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glastrier",
+    "DisplayName": "Glastrier",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f86109e3-49d9-4bc5-b1cf-5c99fc7ae3e1\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glastrier",
+      "DisplayName": "Glastrier",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Wild Horse"
+      }
+    }
+  }
+}

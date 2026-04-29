@@ -1,0 +1,23 @@
+﻿{
+  "Id": "a6c44f22-ee3a-4b35-9dea-b821e9e78aaa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "moonlight",
+    "DisplayName": "Moonlight",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "moonlight",
+      "DisplayName": "Moonlight",
+      "Description": "The user restores its own HP. The amount of HP regained varies with the weather.",
+      "FieldValues": {}
+    }
+  }
+}

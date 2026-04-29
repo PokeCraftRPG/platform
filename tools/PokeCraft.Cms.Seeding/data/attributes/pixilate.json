@@ -1,0 +1,19 @@
+﻿{
+  "Id": "d8e2ca66-487f-43bb-97f3-4d8b5e14b5f2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pixilate",
+    "DisplayName": "Pixilate",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pixilate",
+      "DisplayName": "Pixilate",
+      "Description": "Normal-type moves become Fairy-type moves. The power of those moves is boosted a little.",
+      "FieldValues": {}
+    }
+  }
+}

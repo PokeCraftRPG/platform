@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3e1c5c7d-2047-4d54-aee4-f7a18144e940",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "charmander",
+    "DisplayName": "Charmander",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"60567581-8d61-43fa-9fe9-703f473d20cc\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "charmander",
+      "DisplayName": "Charmander",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Lizard"
+      }
+    }
+  }
+}

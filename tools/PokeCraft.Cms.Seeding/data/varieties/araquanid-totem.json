@@ -1,0 +1,26 @@
+﻿{
+  "Id": "bcecfa67-1bba-45bb-9a2b-342e966187ef",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "araquanid-totem",
+    "DisplayName": "Araquanid",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0304b5fe-fa3d-432a-b14b-b867d4acb58d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "araquanid-totem",
+      "DisplayName": "Araquanid",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Water Bubble"
+      }
+    }
+  }
+}

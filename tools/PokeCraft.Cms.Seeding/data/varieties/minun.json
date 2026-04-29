@@ -1,0 +1,26 @@
+﻿{
+  "Id": "576890ea-e10f-4464-a30f-a8140fb7b579",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "minun",
+    "DisplayName": "Minun",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5e3f954a-2200-40b9-93f1-6120fb7349e4\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "minun",
+      "DisplayName": "Minun",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cheering"
+      }
+    }
+  }
+}

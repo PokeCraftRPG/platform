@@ -1,0 +1,24 @@
+﻿{
+  "Id": "e05e4e15-c79d-462e-86e5-b2b7aa8f38de",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "court-change",
+    "DisplayName": "Court Change",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "court-change",
+      "DisplayName": "Court Change",
+      "Description": "With its mysterious power, the user swaps the effects on either side of the field.",
+      "FieldValues": {}
+    }
+  }
+}

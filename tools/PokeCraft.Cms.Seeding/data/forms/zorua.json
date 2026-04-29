@@ -1,0 +1,40 @@
+﻿{
+  "Id": "f83630eb-0485-4267-8fdc-06fd0da5b99c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zorua",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7a6e9b4f-d993-4929-8a68-30daf7909b15\"]",
+      "Height": "7",
+      "Weight": "125",
+      "YieldExperience": "66",
+      "PrimaryAbility": "[\"cceea85b-ae3f-41c2-9547-cb15703bb8a8\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zorua",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

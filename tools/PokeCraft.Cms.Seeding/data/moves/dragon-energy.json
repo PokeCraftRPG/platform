@@ -1,0 +1,25 @@
+﻿{
+  "Id": "7e13118a-da11-433e-86d1-ab4548796b77",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragon-energy",
+    "DisplayName": "Dragon Energy",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "150",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragon-energy",
+      "DisplayName": "Dragon Energy",
+      "Description": "Converting its life-force into power, the user attacks opposing Pokémon. The lower the user's HP, the lower the move's power.",
+      "FieldValues": {}
+    }
+  }
+}

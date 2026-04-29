@@ -1,0 +1,19 @@
+﻿{
+  "Id": "a39b3d5c-a615-47e7-a24f-2d5c7c3e3de7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "normalize",
+    "DisplayName": "Normalize",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "normalize",
+      "DisplayName": "Normalize",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

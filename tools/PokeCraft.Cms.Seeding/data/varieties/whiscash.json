@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b2ed0fd5-1e47-406f-99ce-d2d43f4c0579",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "whiscash",
+    "DisplayName": "Whiscash",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"300b30bd-9c10-4155-a54e-368ff7d0a75c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "whiscash",
+      "DisplayName": "Whiscash",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Whiskers"
+      }
+    }
+  }
+}

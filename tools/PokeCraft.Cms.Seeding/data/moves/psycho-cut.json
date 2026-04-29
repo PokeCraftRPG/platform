@@ -1,0 +1,25 @@
+﻿{
+  "Id": "e6b1a94f-821a-4f68-a3f0-c322829d47cd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "psycho-cut",
+    "DisplayName": "Psycho Cut",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "70",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "psycho-cut",
+      "DisplayName": "Psycho Cut",
+      "Description": "The user tears at the target with blades formed by psychic power. This move has a heightened chance of landing a critical hit.",
+      "FieldValues": {}
+    }
+  }
+}

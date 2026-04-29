@@ -1,0 +1,41 @@
+﻿{
+  "Id": "0be4c7ba-ea1d-4ef7-b396-a45a60375921",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ferroseed",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"64f842fc-31db-4e52-8ceb-5c7eff93f99c\"]",
+      "Height": "6",
+      "Weight": "188",
+      "YieldExperience": "61",
+      "PrimaryAbility": "[\"889ae121-b252-4176-9acd-146583e36c72\"]",
+      "BaseHP": "44",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "91",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "24",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "86",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "10",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ferroseed",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "2ee2cc28-06b8-44ac-97a7-5129f9b410a9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wrap",
+    "DisplayName": "Wrap",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "15",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wrap",
+      "DisplayName": "Wrap",
+      "Description": "A long body, vines, or the like are used to wrap and squeeze the target for four to five turns.",
+      "FieldValues": {}
+    }
+  }
+}

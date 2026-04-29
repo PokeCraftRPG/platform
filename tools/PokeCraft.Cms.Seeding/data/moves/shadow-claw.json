@@ -1,0 +1,25 @@
+﻿{
+  "Id": "237a244f-ac3c-4bc5-bcee-42c818e442f7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shadow-claw",
+    "DisplayName": "Shadow Claw",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "70",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shadow-claw",
+      "DisplayName": "Shadow Claw",
+      "Description": "The user attacks by slashing the target with a sharp claw made from shadows. This move has a heightened chance of landing a critical hit.",
+      "FieldValues": {}
+    }
+  }
+}

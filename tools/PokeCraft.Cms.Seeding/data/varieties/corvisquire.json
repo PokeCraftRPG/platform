@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b296cff9-56a3-451d-9f3c-31419644a8d5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "corvisquire",
+    "DisplayName": "Corvisquire",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"01331f84-733d-46d1-9369-1de5fdcd3e32\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "corvisquire",
+      "DisplayName": "Corvisquire",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Raven"
+      }
+    }
+  }
+}

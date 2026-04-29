@@ -1,0 +1,27 @@
+﻿{
+  "Id": "1a5ff8b8-1024-495e-906b-341bc26336d3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "virizion",
+    "DisplayName": "Virizion",
+    "Description": null,
+    "FieldValues": {
+      "Number": "640",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "80",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "virizion",
+      "DisplayName": "Virizion",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

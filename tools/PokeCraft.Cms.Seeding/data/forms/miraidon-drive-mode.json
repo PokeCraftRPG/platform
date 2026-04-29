@@ -1,0 +1,41 @@
+﻿{
+  "Id": "598d0433-755b-4df1-a016-47279cede7a6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "miraidon-drive-mode",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"89cc5740-8955-4e3d-a201-b51e41746440\"]",
+      "Height": "28",
+      "Weight": "2400",
+      "YieldExperience": "335",
+      "PrimaryAbility": "[\"4308a253-e69c-43c7-a381-3bc7dff7874e\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "135",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "115",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "135",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Alternative\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "miraidon-drive-mode",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

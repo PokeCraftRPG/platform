@@ -1,0 +1,41 @@
+﻿{
+  "Id": "edc941ba-dc10-4d5c-bcd8-ca6e419e4d82",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "raging-bolt",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"8796ff29-1c41-4fff-92de-040ebc5529ef\"]",
+      "Height": "52",
+      "Weight": "4800",
+      "YieldExperience": "295",
+      "PrimaryAbility": "[\"fd80fd8e-dbd4-4b54-bfef-8ed47d35c99e\"]",
+      "BaseHP": "125",
+      "YieldHP": "0",
+      "BaseAttack": "73",
+      "YieldAttack": "0",
+      "BaseDefense": "91",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "137",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "89",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "75",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "raging-bolt",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

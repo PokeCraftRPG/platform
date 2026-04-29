@@ -1,0 +1,24 @@
+﻿{
+  "Id": "a7f6a4ff-770f-459c-97d1-7788ceb0ef01",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lovely-kiss",
+    "DisplayName": "Lovely Kiss",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "75",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lovely-kiss",
+      "DisplayName": "Lovely Kiss",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

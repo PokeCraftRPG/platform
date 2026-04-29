@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1bea86cd-45a5-4355-b5be-1ec22ea37526",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tangela",
+    "DisplayName": "Tangela",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"450271ff-2025-4393-9787-d48756a475d3\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tangela",
+      "DisplayName": "Tangela",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Vine"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿{
+  "Id": "2b303082-b7d1-46b5-a127-e36ee3ef6de5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spite",
+    "DisplayName": "Spite",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spite",
+      "DisplayName": "Spite",
+      "Description": "The user unleashes its grudge on the move last used by the target by cutting 4 PP from it.",
+      "FieldValues": {}
+    }
+  }
+}

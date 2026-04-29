@@ -1,0 +1,27 @@
+﻿{
+  "Id": "9db1eebd-0ab3-45dd-b950-947d56a11246",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "haunter",
+    "DisplayName": "Haunter",
+    "Description": null,
+    "FieldValues": {
+      "Number": "93",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "haunter",
+      "DisplayName": "Haunter",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

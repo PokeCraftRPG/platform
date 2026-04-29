@@ -1,0 +1,25 @@
+﻿{
+  "Id": "9e20d38a-1964-47c9-8f2f-6918cbdf9df6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cosmoem",
+    "DisplayName": "Cosmoem",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3808bad9-678e-4e17-a33b-e4810c49dac8\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cosmoem",
+      "DisplayName": "Cosmoem",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Protostar"
+      }
+    }
+  }
+}

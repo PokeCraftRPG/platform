@@ -1,0 +1,23 @@
+﻿{
+  "Id": "026400ef-f76d-4947-8c98-d098f22a894f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "charge",
+    "DisplayName": "Charge",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "charge",
+      "DisplayName": "Charge",
+      "Description": "The user becomes charged, boosting the power of the next Electric-type move it uses. This also boosts the user's Sp. Def stat.",
+      "FieldValues": {}
+    }
+  }
+}

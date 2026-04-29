@@ -1,0 +1,27 @@
+﻿{
+  "Id": "671975c0-915e-4d00-ad55-be2a6d838244",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toxtricity",
+    "DisplayName": "Toxtricity",
+    "Description": null,
+    "FieldValues": {
+      "Number": "849",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toxtricity",
+      "DisplayName": "Toxtricity",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

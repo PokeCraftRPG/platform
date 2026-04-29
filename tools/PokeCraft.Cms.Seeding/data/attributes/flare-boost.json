@@ -1,0 +1,19 @@
+﻿{
+  "Id": "1aa9cb31-abd6-4b41-a110-927254226ed1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flare-boost",
+    "DisplayName": "Flare Boost",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flare-boost",
+      "DisplayName": "Flare Boost",
+      "Description": "Powers up special moves when the Pokémon is burned.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "ea3b43f4-ae4e-48f1-88b7-5596be81221e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dratini",
+    "DisplayName": "Dratini",
+    "Description": null,
+    "FieldValues": {
+      "Number": "147",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dratini",
+      "DisplayName": "Dratini",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

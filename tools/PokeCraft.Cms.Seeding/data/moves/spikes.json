@@ -1,0 +1,23 @@
+﻿{
+  "Id": "3265b78b-3401-435e-9fd9-cef3469dd9a2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spikes",
+    "DisplayName": "Spikes",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spikes",
+      "DisplayName": "Spikes",
+      "Description": "The user lays a trap of spikes at the feet of the opposing team. The spikes will damage opposing Pokémon that switch into battle.",
+      "FieldValues": {}
+    }
+  }
+}

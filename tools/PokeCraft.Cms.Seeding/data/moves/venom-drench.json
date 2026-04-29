@@ -1,0 +1,24 @@
+﻿{
+  "Id": "f3bd5bf2-4683-4fd9-bc14-c4078d970a6e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "venom-drench",
+    "DisplayName": "Venom Drench",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "venom-drench",
+      "DisplayName": "Venom Drench",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

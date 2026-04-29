@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7ecb93a5-9823-4b93-9355-f3da8cf1830a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "muk-alola",
+    "DisplayName": "Muk",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6098954c-7b84-4f1f-8785-6f6ca1c367d9\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "muk-alola",
+      "DisplayName": "Muk",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sludge"
+      }
+    }
+  }
+}

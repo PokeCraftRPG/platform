@@ -1,0 +1,40 @@
+﻿{
+  "Id": "57db94b3-01e4-4d43-b128-7d0f3788381e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arceus-ground",
+    "DisplayName": "Ground Arceus",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"36bdccba-c20b-4900-ba70-785d17ccec56\"]",
+      "Height": "32",
+      "Weight": "3200",
+      "YieldExperience": "324",
+      "PrimaryAbility": "[\"bd92770c-a08a-4e39-b31d-d2ed64b9c204\"]",
+      "BaseHP": "120",
+      "YieldHP": "3",
+      "BaseAttack": "120",
+      "YieldAttack": "0",
+      "BaseDefense": "120",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "120",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "120",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "120",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Alternative\"]",
+      "PrimaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arceus-ground",
+      "DisplayName": "Ground Arceus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

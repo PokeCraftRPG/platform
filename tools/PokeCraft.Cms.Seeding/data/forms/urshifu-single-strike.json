@@ -1,0 +1,41 @@
+﻿{
+  "Id": "0ea41227-9b45-4413-ad1c-a25ca94b6d70",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "urshifu-single-strike",
+    "DisplayName": "Single Strike Urshifu",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"66a91321-98a9-4d05-9d9c-3049842d4603\"]",
+      "Height": "19",
+      "Weight": "1050",
+      "YieldExperience": "275",
+      "PrimaryAbility": "[\"4a0019c1-3730-4b26-857b-3d0cf36d3517\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "130",
+      "YieldAttack": "3",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "63",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "97",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "urshifu-single-strike",
+      "DisplayName": "Single Strike Urshifu",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

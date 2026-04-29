@@ -1,0 +1,26 @@
+﻿{
+  "Id": "91003d83-86c9-4489-8f08-164d9c49a404",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "impidimp",
+    "DisplayName": "Impidimp",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"36f8ae4b-d3f3-45b8-87aa-f041f7d788bf\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "impidimp",
+      "DisplayName": "Impidimp",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Wily"
+      }
+    }
+  }
+}

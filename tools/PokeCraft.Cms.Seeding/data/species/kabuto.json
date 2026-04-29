@@ -1,0 +1,28 @@
+﻿{
+  "Id": "5c1b740c-b1e8-4583-8cbb-8453b66183c9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kabuto",
+    "DisplayName": "Kabuto",
+    "Description": null,
+    "FieldValues": {
+      "Number": "140",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kabuto",
+      "DisplayName": "Kabuto",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

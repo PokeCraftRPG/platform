@@ -1,0 +1,38 @@
+﻿{
+  "Id": "33f36640-8054-42fc-85b7-88d7747d7e2e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "raichu-mega-x",
+    "DisplayName": "Mega Raichu X",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"94467a70-0b00-4425-82b4-975343f36741\"]",
+      "Height": "12",
+      "Weight": "380",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "135",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "90",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "110",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "raichu-mega-x",
+      "DisplayName": "Mega Raichu X",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

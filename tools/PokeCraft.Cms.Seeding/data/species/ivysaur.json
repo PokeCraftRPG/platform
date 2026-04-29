@@ -1,0 +1,28 @@
+﻿{
+  "Id": "067d228f-38bb-49f8-a547-91c4d1363e52",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ivysaur",
+    "DisplayName": "Ivysaur",
+    "Description": null,
+    "FieldValues": {
+      "Number": "2",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ivysaur",
+      "DisplayName": "Ivysaur",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c13c7eb0-5423-45c6-8450-9759ec4b25e0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ribombee",
+    "DisplayName": "Ribombee",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"35051f36-ab0b-4720-85bc-58d491d90de1\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ribombee",
+      "DisplayName": "Ribombee",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bee Fly"
+      }
+    }
+  }
+}

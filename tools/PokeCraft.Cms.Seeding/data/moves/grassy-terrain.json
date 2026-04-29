@@ -1,0 +1,23 @@
+﻿{
+  "Id": "91c22b3c-5867-463c-bfa4-08a1781d30d8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grassy-terrain",
+    "DisplayName": "Grassy Terrain",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grassy-terrain",
+      "DisplayName": "Grassy Terrain",
+      "Description": "The user turns the ground into Grassy Terrain for five turns. This restores the HP of Pokémon on the ground a little every turn and powers up Grass-type moves.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "1faedd11-0406-4b26-9c37-952974515130",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cursola",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"675da68e-5ca8-4c34-a8c7-d1210aaf9426\"]",
+      "Height": "10",
+      "Weight": "4",
+      "YieldExperience": "179",
+      "PrimaryAbility": "[\"2b8b8cfa-e12e-43d2-b403-594ac9a1c1f7\"]",
+      "HiddenAbility": "[\"fa056f25-ee2c-43b9-bb48-b5228106c14b\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "145",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "130",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cursola",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

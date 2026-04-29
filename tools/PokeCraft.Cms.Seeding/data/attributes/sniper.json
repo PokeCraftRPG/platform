@@ -1,0 +1,19 @@
+﻿{
+  "Id": "e1b8fd69-5bf8-4889-ab24-ea30a8419d99",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sniper",
+    "DisplayName": "Sniper",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sniper",
+      "DisplayName": "Sniper",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

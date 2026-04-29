@@ -1,0 +1,26 @@
+﻿{
+  "Id": "67d9e425-9126-4729-9f7e-634de5b8c0fb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "morgrem",
+    "DisplayName": "Morgrem",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"eefeb616-a90d-4710-a423-d5a9b9ecf947\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "morgrem",
+      "DisplayName": "Morgrem",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Devious"
+      }
+    }
+  }
+}

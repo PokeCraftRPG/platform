@@ -1,0 +1,28 @@
+﻿{
+  "Id": "4becb6c0-39f0-4472-8345-172597166fe2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "delibird",
+    "DisplayName": "Delibird",
+    "Description": null,
+    "FieldValues": {
+      "Number": "225",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "delibird",
+      "DisplayName": "Delibird",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

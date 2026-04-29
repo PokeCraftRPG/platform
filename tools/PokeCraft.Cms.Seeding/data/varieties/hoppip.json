@@ -1,0 +1,26 @@
+﻿{
+  "Id": "45db1e76-cebf-4893-95a9-616b31867751",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hoppip",
+    "DisplayName": "Hoppip",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b22c6a86-a5a4-4fae-9d2d-ff9ec2494b63\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hoppip",
+      "DisplayName": "Hoppip",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cottonweed"
+      }
+    }
+  }
+}

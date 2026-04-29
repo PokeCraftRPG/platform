@@ -1,0 +1,26 @@
+﻿{
+  "Id": "acf9f7d2-34be-47a2-8084-fefeb9352206",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "eevee-gmax",
+    "DisplayName": "Eevee",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"fd7c5a57-91b0-4f7b-af9a-c5dd919a9db5\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "eevee-gmax",
+      "DisplayName": "Eevee",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Evolution"
+      }
+    }
+  }
+}

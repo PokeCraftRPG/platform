@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d896d875-7e11-470f-8935-906da8b65d5c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "regirock",
+    "DisplayName": "Regirock",
+    "Description": null,
+    "FieldValues": {
+      "Number": "377",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "80",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "regirock",
+      "DisplayName": "Regirock",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

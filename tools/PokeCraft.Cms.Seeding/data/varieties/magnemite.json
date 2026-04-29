@@ -1,0 +1,25 @@
+﻿{
+  "Id": "d0f2e5aa-fe79-41e5-8551-993c794a963a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magnemite",
+    "DisplayName": "Magnemite",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c0d47f02-5295-4653-a797-47567d054ea1\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magnemite",
+      "DisplayName": "Magnemite",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Magnet"
+      }
+    }
+  }
+}

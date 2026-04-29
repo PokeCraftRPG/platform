@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9fce5854-66a9-4a5f-9d9e-1dafb0d35701",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wynaut",
+    "DisplayName": "Wynaut",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"335f6431-4126-489e-a21b-4b5fff5b89d6\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wynaut",
+      "DisplayName": "Wynaut",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bright"
+      }
+    }
+  }
+}

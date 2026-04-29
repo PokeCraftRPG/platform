@@ -1,0 +1,25 @@
+﻿{
+  "Id": "472f27e3-a460-43e4-9d1a-b5a2af87895c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rock-blast",
+    "DisplayName": "Rock Blast",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Rock\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "25",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rock-blast",
+      "DisplayName": "Rock Blast",
+      "Description": "The user attacks by hurling hard rocks at the target. This move hits two to five times in a row.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "297ba1b6-2802-4c72-a88f-9c29c8558a62",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lucario",
+    "DisplayName": "Lucario",
+    "Description": null,
+    "FieldValues": {
+      "Number": "448",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lucario",
+      "DisplayName": "Lucario",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

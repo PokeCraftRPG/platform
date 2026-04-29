@@ -1,0 +1,25 @@
+﻿{
+  "Id": "421ce0f7-6b26-44e3-ba7b-6bfcef812ebd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magical-torque",
+    "DisplayName": "Magical Torque",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magical-torque",
+      "DisplayName": "Magical Torque",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

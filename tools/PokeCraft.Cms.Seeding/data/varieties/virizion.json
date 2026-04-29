@@ -1,0 +1,25 @@
+﻿{
+  "Id": "1d9e5942-1c71-4e83-a9f5-edf5efc6164c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "virizion",
+    "DisplayName": "Virizion",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1a5ff8b8-1024-495e-906b-341bc26336d3\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "virizion",
+      "DisplayName": "Virizion",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Grassland"
+      }
+    }
+  }
+}

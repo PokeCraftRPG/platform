@@ -1,0 +1,28 @@
+﻿{
+  "Id": "9ee4e927-3eb3-4423-9924-cb22e1a31f5e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gyarados",
+    "DisplayName": "Gyarados",
+    "Description": null,
+    "FieldValues": {
+      "Number": "130",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "5",
+      "PrimaryEggGroup": "[\"Water2\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gyarados",
+      "DisplayName": "Gyarados",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

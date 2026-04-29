@@ -1,0 +1,25 @@
+﻿{
+  "Id": "68376546-e96f-4fa1-9347-b53bb4ec3f3d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "psyshield-bash",
+    "DisplayName": "Psyshield Bash",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "70",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "psyshield-bash",
+      "DisplayName": "Psyshield Bash",
+      "Description": "Cloaking itself in psychic energy, the user slams into the target. This also boosts the user’s Defense stat.",
+      "FieldValues": {}
+    }
+  }
+}

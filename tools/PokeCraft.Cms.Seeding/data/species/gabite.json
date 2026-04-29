@@ -1,0 +1,28 @@
+﻿{
+  "Id": "fa678801-6339-494a-9864-48d07849aa32",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gabite",
+    "DisplayName": "Gabite",
+    "Description": null,
+    "FieldValues": {
+      "Number": "444",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gabite",
+      "DisplayName": "Gabite",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

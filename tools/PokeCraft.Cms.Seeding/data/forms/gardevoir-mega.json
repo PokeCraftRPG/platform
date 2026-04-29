@@ -1,0 +1,41 @@
+﻿{
+  "Id": "e9474c2a-24fe-451a-882e-1d59a0ba4757",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gardevoir-mega",
+    "DisplayName": "Mega Gardevoir",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e509cf1c-1056-452c-95a9-1b02890047de\"]",
+      "Height": "16",
+      "Weight": "484",
+      "YieldExperience": "278",
+      "PrimaryAbility": "[\"d8e2ca66-487f-43bb-97f3-4d8b5e14b5f2\"]",
+      "BaseHP": "68",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "165",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "135",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gardevoir-mega",
+      "DisplayName": "Mega Gardevoir",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

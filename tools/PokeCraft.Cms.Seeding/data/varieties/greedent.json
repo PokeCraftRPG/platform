@@ -1,0 +1,26 @@
+﻿{
+  "Id": "82e7b5c2-cd1b-4941-a4cc-a904df8e3ba2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "greedent",
+    "DisplayName": "Greedent",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7ed6516b-6972-4fc4-8211-ff9fc26ec785\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "greedent",
+      "DisplayName": "Greedent",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Greedy"
+      }
+    }
+  }
+}

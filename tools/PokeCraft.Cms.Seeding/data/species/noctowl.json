@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c5e4a84a-7621-4997-a632-1a88aad3b114",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "noctowl",
+    "DisplayName": "Noctowl",
+    "Description": null,
+    "FieldValues": {
+      "Number": "164",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "noctowl",
+      "DisplayName": "Noctowl",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

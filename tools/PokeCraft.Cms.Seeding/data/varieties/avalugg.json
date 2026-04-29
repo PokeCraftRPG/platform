@@ -1,0 +1,26 @@
+﻿{
+  "Id": "303440ef-1886-4433-b286-e256a3e51c5b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "avalugg",
+    "DisplayName": "Avalugg",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2a9eaaa2-025b-44aa-8ddf-e2590f52f107\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "avalugg",
+      "DisplayName": "Avalugg",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Iceberg"
+      }
+    }
+  }
+}

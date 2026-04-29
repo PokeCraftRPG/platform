@@ -1,0 +1,25 @@
+﻿{
+  "Id": "86f37310-9c13-4e07-9aa0-fb12fad0f7b4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ice-fang",
+    "DisplayName": "Ice Fang",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "95",
+      "Power": "65",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ice-fang",
+      "DisplayName": "Ice Fang",
+      "Description": "The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen.",
+      "FieldValues": {}
+    }
+  }
+}

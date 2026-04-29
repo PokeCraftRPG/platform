@@ -1,0 +1,41 @@
+﻿{
+  "Id": "6a131617-7f94-4d32-b64a-dbb84797f1bf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "landorus-therian",
+    "DisplayName": "Therian Landorus",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"42b74558-800f-44ab-8eee-b3863c4915dc\"]",
+      "Height": "13",
+      "Weight": "680",
+      "YieldExperience": "300",
+      "PrimaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "BaseHP": "89",
+      "YieldHP": "0",
+      "BaseAttack": "145",
+      "YieldAttack": "3",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "105",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "91",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "landorus-therian",
+      "DisplayName": "Therian Landorus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

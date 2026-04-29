@@ -1,0 +1,24 @@
+﻿{
+  "Id": "cb18a23d-a208-46ac-a477-1ad04132afec",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "corrosive-gas",
+    "DisplayName": "Corrosive Gas",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "40"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "corrosive-gas",
+      "DisplayName": "Corrosive Gas",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

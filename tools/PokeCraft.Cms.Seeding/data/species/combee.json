@@ -1,0 +1,27 @@
+﻿{
+  "Id": "96bf1604-805e-43b5-99e4-89027bf4ce9f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "combee",
+    "DisplayName": "Combee",
+    "Description": null,
+    "FieldValues": {
+      "Number": "415",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "combee",
+      "DisplayName": "Combee",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

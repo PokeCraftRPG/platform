@@ -1,0 +1,27 @@
+﻿{
+  "Id": "4dce78e5-2d13-429e-b37e-646e086d8859",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "volcarona",
+    "DisplayName": "Volcarona",
+    "Description": null,
+    "FieldValues": {
+      "Number": "637",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "15",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "volcarona",
+      "DisplayName": "Volcarona",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

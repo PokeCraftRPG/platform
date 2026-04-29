@@ -1,0 +1,19 @@
+﻿{
+  "Id": "d74f9f1b-dd57-4258-875f-46ec6bc83d99",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "unburden",
+    "DisplayName": "Unburden",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "unburden",
+      "DisplayName": "Unburden",
+      "Description": "Boosts the Speed stat if the Pokémon's held item is used or lost.",
+      "FieldValues": {}
+    }
+  }
+}

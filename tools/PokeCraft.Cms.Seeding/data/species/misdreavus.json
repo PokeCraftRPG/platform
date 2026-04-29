@@ -1,0 +1,27 @@
+﻿{
+  "Id": "912b5149-ed95-43d0-9b0c-3ce7ac2cabf2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "misdreavus",
+    "DisplayName": "Misdreavus",
+    "Description": null,
+    "FieldValues": {
+      "Number": "200",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "misdreavus",
+      "DisplayName": "Misdreavus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

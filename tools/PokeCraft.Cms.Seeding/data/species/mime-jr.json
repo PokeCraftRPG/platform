@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f8db7850-7bae-46c3-9ea3-e9da4b96989b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mime-jr",
+    "DisplayName": "Mime Jr.",
+    "Description": null,
+    "FieldValues": {
+      "Number": "439",
+      "Category": "[\"Baby\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "145",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mime-jr",
+      "DisplayName": "Mime Jr.",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

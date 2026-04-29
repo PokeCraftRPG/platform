@@ -1,0 +1,19 @@
+﻿{
+  "Id": "b6f4cb6f-0ada-4cc2-9831-18a37bbe68e7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "propeller-tail",
+    "DisplayName": "Propeller Tail",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "propeller-tail",
+      "DisplayName": "Propeller Tail",
+      "Description": "Ignores the effects of opposing Pokémon's Abilities and moves that draw in moves.",
+      "FieldValues": {}
+    }
+  }
+}

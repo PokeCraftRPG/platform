@@ -1,0 +1,40 @@
+﻿{
+  "Id": "ccd06086-5816-402b-9241-4ac5f3065bf0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "metapod",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6eee33e2-bcfa-4d98-bbf8-30b8e844cc18\"]",
+      "Height": "7",
+      "Weight": "99",
+      "YieldExperience": "72",
+      "PrimaryAbility": "[\"ce764204-79c4-4e66-8017-2144a4e66f3c\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "20",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "25",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "25",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "metapod",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "711bf125-dba3-4c53-bacf-c125e703a2f3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "metang",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d772ed26-0a94-47c7-b6ac-7260bfa37444\"]",
+      "Height": "12",
+      "Weight": "2025",
+      "YieldExperience": "147",
+      "PrimaryAbility": "[\"eac52537-4006-4999-9072-1b3e1a92910c\"]",
+      "HiddenAbility": "[\"a9839af2-6266-4453-a3f7-39226d90dc2e\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "metang",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

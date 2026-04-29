@@ -1,0 +1,26 @@
+﻿{
+  "Id": "da7557aa-de34-4c0e-b663-42843f5fe26a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blaziken-mega",
+    "DisplayName": "Blaziken",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"550a47f7-96bf-4def-a9e6-783d0f41de67\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blaziken-mega",
+      "DisplayName": "Blaziken",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Blaze"
+      }
+    }
+  }
+}

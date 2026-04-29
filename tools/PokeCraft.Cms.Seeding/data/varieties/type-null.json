@@ -1,0 +1,25 @@
+﻿{
+  "Id": "1470078b-b31f-4c0b-a4b5-098ac3cd5845",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "type-null",
+    "DisplayName": "Type: Null",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7f3ced90-0f93-4bce-96eb-417670c74936\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "type-null",
+      "DisplayName": "Type: Null",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Synthetic"
+      }
+    }
+  }
+}

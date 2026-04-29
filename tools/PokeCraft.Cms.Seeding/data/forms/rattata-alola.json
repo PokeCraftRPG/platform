@@ -1,0 +1,43 @@
+﻿{
+  "Id": "78161cb0-01d3-4300-91c5-5f496d8521df",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rattata-alola",
+    "DisplayName": "Alolan Rattata",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"968f4d8d-4fc3-4438-8f7d-c4246be706ab\"]",
+      "Height": "3",
+      "Weight": "38",
+      "YieldExperience": "51",
+      "PrimaryAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "SecondaryAbility": "[\"12b608f7-a7b7-412e-803f-28d4eaba64c8\"]",
+      "HiddenAbility": "[\"d6fa994e-7a48-48b5-9f1f-c1b84dd3225f\"]",
+      "BaseHP": "30",
+      "YieldHP": "0",
+      "BaseAttack": "56",
+      "YieldAttack": "0",
+      "BaseDefense": "35",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "25",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "35",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "72",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rattata-alola",
+      "DisplayName": "Alolan Rattata",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

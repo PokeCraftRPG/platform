@@ -1,0 +1,26 @@
+﻿{
+  "Id": "383c3a47-c48b-4ea0-8639-372530213ae5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "salamence",
+    "DisplayName": "Salamence",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9b12e3f4-6dea-4847-b4ff-029e40d69253\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "salamence",
+      "DisplayName": "Salamence",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Dragon"
+      }
+    }
+  }
+}

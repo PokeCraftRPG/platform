@@ -1,0 +1,26 @@
+﻿{
+  "Id": "30f1f369-54bb-4044-b9b0-eb2c5d696c4f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gogoat",
+    "DisplayName": "Gogoat",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"fd81b18c-05e6-4501-97c1-a9d5ed32c9fc\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gogoat",
+      "DisplayName": "Gogoat",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mount"
+      }
+    }
+  }
+}

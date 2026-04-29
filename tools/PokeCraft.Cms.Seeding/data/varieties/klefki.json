@@ -1,0 +1,26 @@
+﻿{
+  "Id": "32528126-5d01-4a80-a24a-844f87c87e38",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "klefki",
+    "DisplayName": "Klefki",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6c07793d-a741-40d8-a773-4b3a62135aee\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "klefki",
+      "DisplayName": "Klefki",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Key Ring"
+      }
+    }
+  }
+}

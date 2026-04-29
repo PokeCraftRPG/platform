@@ -1,0 +1,42 @@
+﻿{
+  "Id": "adb60b6e-d683-48af-9df5-9a096a1ef4ca",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arbok",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"cce63785-2ac5-4b36-ba73-95dcd7cdd82a\"]",
+      "Height": "35",
+      "Weight": "650",
+      "YieldExperience": "157",
+      "PrimaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "SecondaryAbility": "[\"ce764204-79c4-4e66-8017-2144a4e66f3c\"]",
+      "HiddenAbility": "[\"5cdb3b5f-b72c-4361-b715-922fc4cb31f9\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "95",
+      "YieldAttack": "2",
+      "BaseDefense": "69",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "79",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arbok",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

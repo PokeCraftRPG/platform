@@ -1,0 +1,25 @@
+﻿{
+  "Id": "007547dc-326c-448c-9ca5-fa7074cad4f6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rock-climb",
+    "DisplayName": "Rock Climb",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "85",
+      "Power": "90",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rock-climb",
+      "DisplayName": "Rock Climb",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

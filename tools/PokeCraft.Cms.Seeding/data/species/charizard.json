@@ -1,0 +1,28 @@
+﻿{
+  "Id": "75f394dd-d8ab-4969-ad85-5567c1133b43",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "charizard",
+    "DisplayName": "Charizard",
+    "Description": null,
+    "FieldValues": {
+      "Number": "6",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "charizard",
+      "DisplayName": "Charizard",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

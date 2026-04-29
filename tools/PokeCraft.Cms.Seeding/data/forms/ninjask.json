@@ -1,0 +1,42 @@
+﻿{
+  "Id": "846586df-2cc7-4e2d-b532-2eece304b924",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ninjask",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"64814ead-1940-4183-85b2-217a04be4764\"]",
+      "Height": "8",
+      "Weight": "120",
+      "YieldExperience": "160",
+      "PrimaryAbility": "[\"c34cae01-916e-44ec-8e58-1cc63029592f\"]",
+      "HiddenAbility": "[\"0a9fa785-a966-4ed6-8ab9-a33aecd0847c\"]",
+      "BaseHP": "61",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "160",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ninjask",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

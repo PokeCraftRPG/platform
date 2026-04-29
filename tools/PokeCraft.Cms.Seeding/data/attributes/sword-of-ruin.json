@@ -1,0 +1,19 @@
+﻿{
+  "Id": "5e485c54-c31e-47e5-a83b-fca808e9c060",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sword-of-ruin",
+    "DisplayName": "Sword of Ruin",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sword-of-ruin",
+      "DisplayName": "Sword of Ruin",
+      "Description": "The power of the Pokémon's ruinous sword lowers the Defense stats of all Pokémon except itself.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "13d89a05-c5ab-4648-9b2b-0316d1943f3b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gothita",
+    "DisplayName": "Gothita",
+    "Description": null,
+    "FieldValues": {
+      "Number": "574",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "200",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gothita",
+      "DisplayName": "Gothita",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

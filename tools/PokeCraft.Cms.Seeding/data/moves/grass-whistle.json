@@ -1,0 +1,24 @@
+﻿{
+  "Id": "3fc6855b-98b1-46c2-9d91-25588f59e56d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grass-whistle",
+    "DisplayName": "Grass Whistle",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "55",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grass-whistle",
+      "DisplayName": "Grass Whistle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

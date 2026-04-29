@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5432daab-99a2-4c75-9334-28e05647df51",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sawsbuck",
+    "DisplayName": "Sawsbuck",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"af1e1c22-8677-4f24-80e8-93205ab3ea06\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sawsbuck",
+      "DisplayName": "Sawsbuck",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Season"
+      }
+    }
+  }
+}

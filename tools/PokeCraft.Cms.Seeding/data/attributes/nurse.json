@@ -1,0 +1,19 @@
+﻿{
+  "Id": "bc3d3cb2-b73d-4199-9f03-8d42079471af",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nurse",
+    "DisplayName": "Nurse",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nurse",
+      "DisplayName": "Nurse",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

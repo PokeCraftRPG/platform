@@ -1,0 +1,23 @@
+﻿{
+  "Id": "2081258f-74d9-4af6-acac-f2954d3ead91",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "guard-split",
+    "DisplayName": "Guard Split",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "guard-split",
+      "DisplayName": "Guard Split",
+      "Description": "The user employs its psychic power to average its Defense and Sp. Def stats with those of the target.",
+      "FieldValues": {}
+    }
+  }
+}

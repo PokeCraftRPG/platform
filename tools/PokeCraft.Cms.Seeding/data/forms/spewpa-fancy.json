@@ -1,0 +1,41 @@
+﻿{
+  "Id": "d7764a5d-ec49-4e7a-b829-6a5e0ba734f4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spewpa-fancy",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0cade872-9ea3-4d9e-a5af-d65da1d41603\"]",
+      "Height": "3",
+      "Weight": "84",
+      "YieldExperience": "75",
+      "PrimaryAbility": "[\"ce764204-79c4-4e66-8017-2144a4e66f3c\"]",
+      "HiddenAbility": "[\"47068609-b1c5-409b-a6c0-abb9e56e4c44\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "22",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "27",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "30",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "29",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Alternative\"]",
+      "PrimaryType": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spewpa-fancy",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

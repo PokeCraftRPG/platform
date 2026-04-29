@@ -1,0 +1,25 @@
+﻿{
+  "Id": "f2a13c37-6ca8-411d-958b-9ad88a47f9b0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "knock-off",
+    "DisplayName": "Knock Off",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "65",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "knock-off",
+      "DisplayName": "Knock Off",
+      "Description": "The user slaps down the target's held item, making it unusable for that battle. This move does more damage if the target has a held item.",
+      "FieldValues": {}
+    }
+  }
+}

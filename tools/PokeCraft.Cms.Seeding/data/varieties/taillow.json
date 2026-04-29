@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e175c09e-7414-45cc-b3ef-445f1ab373a4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "taillow",
+    "DisplayName": "Taillow",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"de4dfb92-83a1-48ec-9e8c-8cbfa7a75c9e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "taillow",
+      "DisplayName": "Taillow",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tiny Swallow"
+      }
+    }
+  }
+}

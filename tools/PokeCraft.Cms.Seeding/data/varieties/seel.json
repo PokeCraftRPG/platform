@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e067159a-ea6a-4d4e-9df9-3943362da2d1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "seel",
+    "DisplayName": "Seel",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d9b22084-3cad-4f76-a56c-b0d3bb71a91f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "seel",
+      "DisplayName": "Seel",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sea Lion"
+      }
+    }
+  }
+}

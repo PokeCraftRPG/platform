@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ab88d825-2de7-44dc-9fb8-ff6282a4cf51",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stomping-tantrum",
+    "DisplayName": "Stomping Tantrum",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "75",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stomping-tantrum",
+      "DisplayName": "Stomping Tantrum",
+      "Description": "Driven by frustration, the user attacks the target. This move's power is doubled if the user's previous move failed.",
+      "FieldValues": {}
+    }
+  }
+}

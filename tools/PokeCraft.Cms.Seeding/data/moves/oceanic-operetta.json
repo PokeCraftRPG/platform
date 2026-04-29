@@ -1,0 +1,24 @@
+﻿{
+  "Id": "b1f6753a-a6c4-45ff-9729-63d4ce2b8a77",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "oceanic-operetta",
+    "DisplayName": "Oceanic Operetta",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "Power": "195",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "oceanic-operetta",
+      "DisplayName": "Oceanic Operetta",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

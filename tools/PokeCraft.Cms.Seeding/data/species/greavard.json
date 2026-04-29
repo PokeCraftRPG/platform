@@ -1,0 +1,27 @@
+﻿{
+  "Id": "11d620ed-e9d5-48fd-a388-01ccccdc623a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "greavard",
+    "DisplayName": "Greavard",
+    "Description": null,
+    "FieldValues": {
+      "Number": "971",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "greavard",
+      "DisplayName": "Greavard",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

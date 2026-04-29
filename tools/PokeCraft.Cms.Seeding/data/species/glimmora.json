@@ -1,0 +1,27 @@
+﻿{
+  "Id": "6a8a2e85-56ac-4633-90b0-1b1300099e11",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glimmora",
+    "DisplayName": "Glimmora",
+    "Description": null,
+    "FieldValues": {
+      "Number": "970",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "25",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glimmora",
+      "DisplayName": "Glimmora",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

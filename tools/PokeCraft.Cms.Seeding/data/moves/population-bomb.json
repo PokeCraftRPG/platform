@@ -1,0 +1,25 @@
+﻿{
+  "Id": "1231f365-a457-4e8e-8c5c-98411b44631e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "population-bomb",
+    "DisplayName": "Population Bomb",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "20",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "population-bomb",
+      "DisplayName": "Population Bomb",
+      "Description": "The user’s fellows gather in droves to perform a combo attack that hits the target one to ten times in a row.",
+      "FieldValues": {}
+    }
+  }
+}

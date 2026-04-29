@@ -1,0 +1,26 @@
+﻿{
+  "Id": "fe9d5541-4206-4599-84f4-d6c909d0fd27",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kilowattrel",
+    "DisplayName": "Kilowattrel",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d4d957d2-1cde-41a0-ad0b-5a8ab03fdff9\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kilowattrel",
+      "DisplayName": "Kilowattrel",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Frigatebird"
+      }
+    }
+  }
+}

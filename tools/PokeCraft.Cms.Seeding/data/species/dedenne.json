@@ -1,0 +1,28 @@
+﻿{
+  "Id": "0eb4d0f1-ee2e-431c-8db9-cd91fee417ee",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dedenne",
+    "DisplayName": "Dedenne",
+    "Description": null,
+    "FieldValues": {
+      "Number": "702",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "180",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dedenne",
+      "DisplayName": "Dedenne",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

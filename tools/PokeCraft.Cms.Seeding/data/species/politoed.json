@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f5cb21d1-a553-4dc0-ae39-ea348cfebd3e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "politoed",
+    "DisplayName": "Politoed",
+    "Description": null,
+    "FieldValues": {
+      "Number": "186",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "politoed",
+      "DisplayName": "Politoed",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

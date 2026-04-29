@@ -1,0 +1,25 @@
+﻿{
+  "Id": "83eee68e-4da0-4057-85fc-89d5ebe768f3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mystical-power",
+    "DisplayName": "Mystical Power",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "90",
+      "Power": "70",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mystical-power",
+      "DisplayName": "Mystical Power",
+      "Description": "The user attacks by emitting a mysterious power. This also boosts the user’s Sp. Atk stat.",
+      "FieldValues": {}
+    }
+  }
+}

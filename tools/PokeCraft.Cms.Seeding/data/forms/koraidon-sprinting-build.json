@@ -1,0 +1,41 @@
+﻿{
+  "Id": "75d96afa-2bb4-453f-a4d8-ecb17668d9ac",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "koraidon-sprinting-build",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2e3cedbc-371c-4d5d-b2bc-a1b71dc24bfe\"]",
+      "Height": "35",
+      "Weight": "3030",
+      "YieldExperience": "335",
+      "PrimaryAbility": "[\"e790019c-c127-4ffc-9263-8913243abfe6\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "135",
+      "YieldAttack": "3",
+      "BaseDefense": "115",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "135",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Alternative\"]",
+      "PrimaryType": "[\"Fighting\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "koraidon-sprinting-build",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

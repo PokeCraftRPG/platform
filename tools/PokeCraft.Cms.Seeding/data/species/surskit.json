@@ -1,0 +1,28 @@
+﻿{
+  "Id": "93a5c580-3c3a-47e6-872e-ec2d70b56e3f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "surskit",
+    "DisplayName": "Surskit",
+    "Description": null,
+    "FieldValues": {
+      "Number": "283",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "200",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "surskit",
+      "DisplayName": "Surskit",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

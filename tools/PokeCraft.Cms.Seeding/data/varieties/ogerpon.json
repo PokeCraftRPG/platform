@@ -1,0 +1,26 @@
+﻿{
+  "Id": "67a9e8e7-3a30-437d-a4f3-e5a5865b626d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ogerpon",
+    "DisplayName": "Ogerpon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f1f69fb1-13d8-497e-a705-3716dd9c72c5\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ogerpon",
+      "DisplayName": "Ogerpon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mask"
+      }
+    }
+  }
+}

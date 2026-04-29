@@ -1,0 +1,23 @@
+﻿{
+  "Id": "c36cc7a7-f515-420f-8f05-e736d856b376",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aromatic-mist",
+    "DisplayName": "Aromatic Mist",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aromatic-mist",
+      "DisplayName": "Aromatic Mist",
+      "Description": "The user boosts the Sp. Def stat of an ally Pokémon by using a mysterious aroma.",
+      "FieldValues": {}
+    }
+  }
+}

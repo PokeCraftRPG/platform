@@ -1,0 +1,41 @@
+﻿{
+  "Id": "d88fe2ab-c7e8-4740-a8f6-f746a5cfbf0f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ogerpon-cornerstone-mask",
+    "DisplayName": "Cornerstone Mask Ogerpon",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"81ea81ad-a079-4aba-92bf-3c76c3c571f1\"]",
+      "Height": "12",
+      "Weight": "398",
+      "YieldExperience": "275",
+      "PrimaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "3",
+      "BaseDefense": "84",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "96",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "110",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ogerpon-cornerstone-mask",
+      "DisplayName": "Cornerstone Mask Ogerpon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

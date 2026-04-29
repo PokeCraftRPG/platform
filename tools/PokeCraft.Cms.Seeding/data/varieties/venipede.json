@@ -1,0 +1,26 @@
+﻿{
+  "Id": "998490d1-57bc-4ba5-a139-5b71c250079e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "venipede",
+    "DisplayName": "Venipede",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4131c40d-a334-4ec9-9ed8-f294f8d93b34\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "venipede",
+      "DisplayName": "Venipede",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Centipede"
+      }
+    }
+  }
+}

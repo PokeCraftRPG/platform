@@ -1,0 +1,41 @@
+﻿{
+  "Id": "214f1f05-17b5-4fab-b4ab-fb57b7e115b0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swirlix",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"dc83cb04-923a-4fef-9a41-bb649b677b95\"]",
+      "Height": "4",
+      "Weight": "35",
+      "YieldExperience": "68",
+      "PrimaryAbility": "[\"cd664007-8bcb-4772-9253-08beb8edb12e\"]",
+      "HiddenAbility": "[\"d74f9f1b-dd57-4258-875f-46ec6bc83d99\"]",
+      "BaseHP": "62",
+      "YieldHP": "0",
+      "BaseAttack": "48",
+      "YieldAttack": "0",
+      "BaseDefense": "66",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "59",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "57",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "49",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swirlix",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

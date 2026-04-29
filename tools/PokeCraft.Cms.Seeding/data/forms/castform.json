@@ -1,0 +1,40 @@
+﻿{
+  "Id": "78f785e2-caac-4eaf-83d6-259d33708cf6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "castform",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c4b00be2-6065-40d2-8274-25b880fb191f\"]",
+      "Height": "3",
+      "Weight": "8",
+      "YieldExperience": "147",
+      "PrimaryAbility": "[\"7fe7cc68-1824-4102-8424-454921c8de9b\"]",
+      "BaseHP": "70",
+      "YieldHP": "1",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "castform",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1a356e65-a6c0-44c6-b91d-9e96123af44d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "croconaw",
+    "DisplayName": "Croconaw",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1cb180bb-8ddb-4279-8e5b-b830dad47cb8\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "croconaw",
+      "DisplayName": "Croconaw",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Big Jaw"
+      }
+    }
+  }
+}

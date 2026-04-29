@@ -1,0 +1,26 @@
+﻿{
+  "Id": "8d02f753-77b0-4f7d-91fe-f1c8b04f5e27",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grafaiai",
+    "DisplayName": "Grafaiai",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"40d0aba8-ffa2-4f0a-8bd9-c01a8a28fe62\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grafaiai",
+      "DisplayName": "Grafaiai",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Toxic Monkey"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "fa512e11-b89c-4e4c-aba1-2e0718832f48",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rototiller",
+    "DisplayName": "Rototiller",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rototiller",
+      "DisplayName": "Rototiller",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

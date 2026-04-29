@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4506ad75-f25a-4694-aff5-8ba6d256e085",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "florges",
+    "DisplayName": "Florges",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0f91a1b3-a831-4d11-b610-8cf5d052dd41\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "florges",
+      "DisplayName": "Florges",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Garden"
+      }
+    }
+  }
+}

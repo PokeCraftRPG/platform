@@ -1,0 +1,25 @@
+﻿{
+  "Id": "30bc26b0-d16a-4934-aaf8-34fd1d62c346",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "electrode-hisui",
+    "DisplayName": "Electrode",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2ee56fc5-a188-4a5d-8831-b5a50db69c63\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "electrode-hisui",
+      "DisplayName": "Electrode",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ball"
+      }
+    }
+  }
+}

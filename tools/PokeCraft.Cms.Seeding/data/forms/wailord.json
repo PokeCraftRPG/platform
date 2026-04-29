@@ -1,0 +1,42 @@
+﻿{
+  "Id": "cce749fa-0ef8-4947-b0dd-0a9e45f5279f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wailord",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c63b9454-257e-4643-812a-1077f0317a55\"]",
+      "Height": "145",
+      "Weight": "3980",
+      "YieldExperience": "175",
+      "PrimaryAbility": "[\"24615c56-6280-47e4-8568-73a412d83865\"]",
+      "SecondaryAbility": "[\"a720be5d-1a4e-4e14-8426-1ba0fc59a8ed\"]",
+      "HiddenAbility": "[\"04822c52-0ef2-4b5e-a4bb-176772f6c3d8\"]",
+      "BaseHP": "170",
+      "YieldHP": "2",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "90",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wailord",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

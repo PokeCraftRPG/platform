@@ -1,0 +1,27 @@
+﻿{
+  "Id": "01fa3929-f9d2-4979-95dc-de3e299fb029",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pignite",
+    "DisplayName": "Pignite",
+    "Description": null,
+    "FieldValues": {
+      "Number": "499",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pignite",
+      "DisplayName": "Pignite",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

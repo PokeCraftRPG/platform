@@ -1,0 +1,43 @@
+﻿{
+  "Id": "3d5649ee-4c99-4172-9697-aed0022988c9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "basculegion-female",
+    "DisplayName": "Female Basculegion",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"62aaf9b9-87ed-43ee-ae5d-39aba8f2bc63\"]",
+      "Height": "30",
+      "Weight": "1100",
+      "YieldExperience": "265",
+      "PrimaryAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "SecondaryAbility": "[\"463a60e6-bf15-4972-9934-481d443a8534\"]",
+      "HiddenAbility": "[\"f35847b5-de3c-4706-a9d6-010903615537\"]",
+      "BaseHP": "120",
+      "YieldHP": "3",
+      "BaseAttack": "92",
+      "YieldAttack": "0",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "78",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "basculegion-female",
+      "DisplayName": "Female Basculegion",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

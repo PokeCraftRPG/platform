@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e1971587-4827-4e41-ac57-f77951c1a22f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "staryu",
+    "DisplayName": "Staryu",
+    "Description": null,
+    "FieldValues": {
+      "Number": "120",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "225",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "staryu",
+      "DisplayName": "Staryu",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

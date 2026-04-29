@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c0f5b684-af68-4156-b621-0aa529448186",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magby",
+    "DisplayName": "Magby",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"cf7907cc-61a2-4179-9b43-4bd03a0efbda\"]",
+      "GenderRatio": "6",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magby",
+      "DisplayName": "Magby",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Live Coal"
+      }
+    }
+  }
+}

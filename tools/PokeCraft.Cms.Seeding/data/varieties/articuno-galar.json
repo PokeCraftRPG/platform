@@ -1,0 +1,25 @@
+﻿{
+  "Id": "e9d27c05-5097-4abd-bf72-12789932be8a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "articuno-galar",
+    "DisplayName": "Articuno",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3aa68f4d-d088-498f-81b4-adb2e7caa2f8\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "articuno-galar",
+      "DisplayName": "Articuno",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Freeze"
+      }
+    }
+  }
+}

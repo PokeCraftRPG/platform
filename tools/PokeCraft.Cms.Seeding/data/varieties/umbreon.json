@@ -1,0 +1,26 @@
+﻿{
+  "Id": "13d8a46f-fa3f-477e-a95d-4058f8b55825",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "umbreon",
+    "DisplayName": "Umbreon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6bb0b100-614c-4346-ad82-86562e342f5c\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "umbreon",
+      "DisplayName": "Umbreon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Moonlight"
+      }
+    }
+  }
+}

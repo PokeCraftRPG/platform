@@ -1,0 +1,27 @@
+﻿{
+  "Id": "a1a20b27-24a0-48af-b219-a6e1863969da",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "squawkabilly",
+    "DisplayName": "Squawkabilly",
+    "Description": null,
+    "FieldValues": {
+      "Number": "931",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "190",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "squawkabilly",
+      "DisplayName": "Squawkabilly",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

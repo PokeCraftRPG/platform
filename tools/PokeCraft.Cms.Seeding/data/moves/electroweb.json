@@ -1,0 +1,25 @@
+﻿{
+  "Id": "74595ac8-9969-4dfd-b4fc-177c29ebbe83",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "electroweb",
+    "DisplayName": "Electroweb",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "95",
+      "Power": "55",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "electroweb",
+      "DisplayName": "Electroweb",
+      "Description": "The user captures opposing Pokémon in an electric net to inflict damage. This also lowers their Speed stats.",
+      "FieldValues": {}
+    }
+  }
+}

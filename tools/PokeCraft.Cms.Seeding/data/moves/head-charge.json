@@ -1,0 +1,25 @@
+﻿{
+  "Id": "5aa00a9c-930e-4361-84e5-1e8004cd1f7f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "head-charge",
+    "DisplayName": "Head Charge",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "head-charge",
+      "DisplayName": "Head Charge",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

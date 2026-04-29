@@ -1,0 +1,27 @@
+﻿{
+  "Id": "4ec8d252-22bc-49b2-adb2-18400d09a74d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sandshrew",
+    "DisplayName": "Sandshrew",
+    "Description": null,
+    "FieldValues": {
+      "Number": "27",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sandshrew",
+      "DisplayName": "Sandshrew",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0ec40eab-ca65-4980-bb4b-b0ad63a231ab",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skwovet",
+    "DisplayName": "Skwovet",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b60423ac-0184-4942-a136-dadf44ebc58f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skwovet",
+      "DisplayName": "Skwovet",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cheeky"
+      }
+    }
+  }
+}

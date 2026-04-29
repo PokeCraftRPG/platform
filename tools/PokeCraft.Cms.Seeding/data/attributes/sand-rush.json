@@ -1,0 +1,19 @@
+﻿{
+  "Id": "1f97dbb4-7d22-4d79-b63a-492151e1f04a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sand-rush",
+    "DisplayName": "Sand Rush",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sand-rush",
+      "DisplayName": "Sand Rush",
+      "Description": "Boosts the Pokémon's Speed stat in a sandstorm.",
+      "FieldValues": {}
+    }
+  }
+}

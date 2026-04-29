@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ec860fb8-38e3-47e9-86cc-3cc347b29d59",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "riolu",
+    "DisplayName": "Riolu",
+    "Description": null,
+    "FieldValues": {
+      "Number": "447",
+      "Category": "[\"Baby\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "riolu",
+      "DisplayName": "Riolu",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3885c545-dc5e-442e-9a11-0ba282e2f46b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "buneary",
+    "DisplayName": "Buneary",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"89c6590c-666e-4a3b-beae-bb0298ccde1d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "buneary",
+      "DisplayName": "Buneary",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rabbit"
+      }
+    }
+  }
+}

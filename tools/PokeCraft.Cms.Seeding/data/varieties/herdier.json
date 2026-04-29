@@ -1,0 +1,26 @@
+﻿{
+  "Id": "2c492bdb-c936-45e4-853e-369bb6d8fd3b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "herdier",
+    "DisplayName": "Herdier",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1a71ceb8-67fd-48d3-95be-aaa47ebe5a50\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "herdier",
+      "DisplayName": "Herdier",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Loyal Dog"
+      }
+    }
+  }
+}

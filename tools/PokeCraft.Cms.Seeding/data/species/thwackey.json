@@ -1,0 +1,28 @@
+﻿{
+  "Id": "7fa8057a-634e-40b8-83f9-7903dcea3ae8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thwackey",
+    "DisplayName": "Thwackey",
+    "Description": null,
+    "FieldValues": {
+      "Number": "811",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thwackey",
+      "DisplayName": "Thwackey",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

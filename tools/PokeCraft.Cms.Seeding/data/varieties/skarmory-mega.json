@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f9e9754c-41d7-47fe-bc39-64ae380a6022",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skarmory-mega",
+    "DisplayName": "Skarmory",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"09270278-c9d6-41ce-adb7-07eb9f08bece\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skarmory-mega",
+      "DisplayName": "Skarmory",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Armor Bird"
+      }
+    }
+  }
+}

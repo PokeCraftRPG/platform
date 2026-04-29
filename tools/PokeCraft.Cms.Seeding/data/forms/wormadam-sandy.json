@@ -1,0 +1,42 @@
+﻿{
+  "Id": "530d0b25-047d-4001-9155-099a2ecaa7bd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wormadam-sandy",
+    "DisplayName": "Sandy Wormadam",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b2106552-3331-446e-a603-258f2dc04b57\"]",
+      "Height": "5",
+      "Weight": "65",
+      "YieldExperience": "148",
+      "PrimaryAbility": "[\"6eea2506-c8b3-44c8-9082-76bec64e5880\"]",
+      "HiddenAbility": "[\"ecf92884-7c23-4d13-9d9a-1a687fe3f447\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "79",
+      "YieldAttack": "0",
+      "BaseDefense": "105",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "59",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "36",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wormadam-sandy",
+      "DisplayName": "Sandy Wormadam",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

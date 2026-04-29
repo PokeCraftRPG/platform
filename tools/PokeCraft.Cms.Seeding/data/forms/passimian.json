@@ -1,0 +1,41 @@
+﻿{
+  "Id": "c0aa36af-91e1-4c5b-90f4-a2fa3b9de789",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "passimian",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7c637573-97b6-45ad-b3d0-d73b54ad703a\"]",
+      "Height": "20",
+      "Weight": "828",
+      "YieldExperience": "172",
+      "PrimaryAbility": "[\"66da286e-234e-4789-ac39-fa8972bfe636\"]",
+      "HiddenAbility": "[\"493ac234-5dd4-4767-9e41-8ec4cd322437\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "2",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "passimian",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

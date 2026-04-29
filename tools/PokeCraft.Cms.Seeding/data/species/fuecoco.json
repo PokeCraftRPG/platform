@@ -1,0 +1,27 @@
+﻿{
+  "Id": "3fad5c4c-b2d7-48ce-a91e-d5612efe85b3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fuecoco",
+    "DisplayName": "Fuecoco",
+    "Description": null,
+    "FieldValues": {
+      "Number": "909",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fuecoco",
+      "DisplayName": "Fuecoco",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

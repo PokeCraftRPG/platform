@@ -1,0 +1,27 @@
+﻿{
+  "Id": "a474bb12-ba1b-4937-a713-2c25834295a6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spidops",
+    "DisplayName": "Spidops",
+    "Description": null,
+    "FieldValues": {
+      "Number": "918",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "120",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spidops",
+      "DisplayName": "Spidops",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

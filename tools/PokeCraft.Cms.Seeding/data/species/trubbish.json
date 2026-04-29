@@ -1,0 +1,27 @@
+﻿{
+  "Id": "5e4f8128-0f3f-4703-ac6f-566e4d1bd8c6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "trubbish",
+    "DisplayName": "Trubbish",
+    "Description": null,
+    "FieldValues": {
+      "Number": "568",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "trubbish",
+      "DisplayName": "Trubbish",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

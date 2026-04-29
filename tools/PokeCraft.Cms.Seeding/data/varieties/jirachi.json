@@ -1,0 +1,25 @@
+﻿{
+  "Id": "918ca3c6-5e04-4810-9043-0afd4b857f46",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "jirachi",
+    "DisplayName": "Jirachi",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"828d9190-dee6-4927-ba45-ce7fef71397a\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "jirachi",
+      "DisplayName": "Jirachi",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Wish"
+      }
+    }
+  }
+}

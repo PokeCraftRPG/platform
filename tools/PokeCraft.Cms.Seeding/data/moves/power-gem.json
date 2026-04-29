@@ -1,0 +1,25 @@
+﻿{
+  "Id": "90dfc178-8ee2-4b6a-b91d-42bfdb3738c4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "power-gem",
+    "DisplayName": "Power Gem",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Rock\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "power-gem",
+      "DisplayName": "Power Gem",
+      "Description": "The user attacks with a ray of light that sparkles as if it were made of gemstones.",
+      "FieldValues": {}
+    }
+  }
+}

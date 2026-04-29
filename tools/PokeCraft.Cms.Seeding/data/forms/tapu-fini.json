@@ -1,0 +1,42 @@
+﻿{
+  "Id": "8cc4e5c9-4fe9-410b-8175-9bea7da67993",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tapu-fini",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"dc613a56-3d3b-4bfa-99db-bbd6f1d8372d\"]",
+      "Height": "13",
+      "Weight": "212",
+      "YieldExperience": "257",
+      "PrimaryAbility": "[\"bfda1b8f-c888-4c4c-af70-c49733be5b08\"]",
+      "HiddenAbility": "[\"f5863110-b5b9-4629-b95c-3869ed34433d\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "0",
+      "BaseDefense": "115",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "130",
+      "YieldSpecialDefense": "3",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tapu-fini",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

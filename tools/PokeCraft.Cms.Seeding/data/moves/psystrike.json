@@ -1,0 +1,25 @@
+﻿{
+  "Id": "03ed17a9-7e9a-498b-ab69-972ffd410a38",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "psystrike",
+    "DisplayName": "Psystrike",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "psystrike",
+      "DisplayName": "Psystrike",
+      "Description": "The user materializes an odd psychic wave to attack the target. This move deals physical damage.",
+      "FieldValues": {}
+    }
+  }
+}

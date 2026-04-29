@@ -1,0 +1,26 @@
+﻿{
+  "Id": "448d9a4e-cdc1-4c38-9abc-97ff8fa5ebc6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "seaking",
+    "DisplayName": "Seaking",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"838bde7b-5a73-4b3c-81c1-bc9129264b1a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "seaking",
+      "DisplayName": "Seaking",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Goldfish"
+      }
+    }
+  }
+}

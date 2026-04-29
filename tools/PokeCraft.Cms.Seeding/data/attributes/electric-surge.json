@@ -1,0 +1,19 @@
+﻿{
+  "Id": "737464ea-cf63-4eef-a01d-2285d42b18fd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "electric-surge",
+    "DisplayName": "Electric Surge",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "electric-surge",
+      "DisplayName": "Electric Surge",
+      "Description": "Turns the ground into Electric Terrain when the Pokémon enters a battle.",
+      "FieldValues": {}
+    }
+  }
+}

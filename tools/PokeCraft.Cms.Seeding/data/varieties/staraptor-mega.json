@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9dc92af0-eb70-4634-bf4f-96104ac58bd6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "staraptor-mega",
+    "DisplayName": "Staraptor",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"cd0686b0-7297-432f-9abe-e4752b784efd\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "staraptor-mega",
+      "DisplayName": "Staraptor",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Predator"
+      }
+    }
+  }
+}

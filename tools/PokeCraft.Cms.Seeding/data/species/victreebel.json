@@ -1,0 +1,27 @@
+﻿{
+  "Id": "307bf5ec-6f70-4e7e-88db-f94988d1150c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "victreebel",
+    "DisplayName": "Victreebel",
+    "Description": null,
+    "FieldValues": {
+      "Number": "71",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "victreebel",
+      "DisplayName": "Victreebel",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

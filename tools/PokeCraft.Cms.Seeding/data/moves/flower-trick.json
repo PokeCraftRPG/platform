@@ -1,0 +1,24 @@
+﻿{
+  "Id": "c0c68dce-633f-4c54-86f0-2f7d18ae4429",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flower-trick",
+    "DisplayName": "Flower Trick",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "70",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flower-trick",
+      "DisplayName": "Flower Trick",
+      "Description": "The user throws a rigged bouquet of flowers at the target. This attack never misses and always lands a critical hit.",
+      "FieldValues": {}
+    }
+  }
+}

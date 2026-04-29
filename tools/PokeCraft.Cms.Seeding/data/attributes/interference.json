@@ -1,0 +1,19 @@
+﻿{
+  "Id": "110738b8-440e-4fbf-8605-36c54336f0fc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "interference",
+    "DisplayName": "Interference",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "interference",
+      "DisplayName": "Interference",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "0d50aa0a-38cc-4695-bd9b-85e149ec9ea9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chatot",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"36af867c-2f1b-49a4-aa0c-14a5b5a2a00a\"]",
+      "Height": "5",
+      "Weight": "19",
+      "YieldExperience": "144",
+      "PrimaryAbility": "[\"9c5c7a66-db94-4468-b345-8e9ce6001cd6\"]",
+      "SecondaryAbility": "[\"15d2abba-2012-411a-9b8f-92ed5b04e17d\"]",
+      "HiddenAbility": "[\"15e51a3f-bb28-4ca8-abdf-27130d9930b4\"]",
+      "BaseHP": "76",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "1",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "92",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "42",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "91",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chatot",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

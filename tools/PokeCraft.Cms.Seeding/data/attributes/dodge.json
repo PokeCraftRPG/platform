@@ -1,0 +1,19 @@
+﻿{
+  "Id": "17b6c7cc-d3c9-475b-a72e-c79b6756c0e3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dodge",
+    "DisplayName": "Dodge",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dodge",
+      "DisplayName": "Dodge",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

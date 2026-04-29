@@ -1,0 +1,25 @@
+﻿{
+  "Id": "07992ebf-0bd9-4c48-9ff9-ce9fe00b3b84",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "psycho-boost",
+    "DisplayName": "Psycho Boost",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "90",
+      "Power": "140",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "psycho-boost",
+      "DisplayName": "Psycho Boost",
+      "Description": "This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.",
+      "FieldValues": {}
+    }
+  }
+}

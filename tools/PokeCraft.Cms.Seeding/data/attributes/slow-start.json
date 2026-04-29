@@ -1,0 +1,19 @@
+﻿{
+  "Id": "a64c19d6-190e-4714-8ee3-2b70aaa879ec",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slow-start",
+    "DisplayName": "Slow Start",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slow-start",
+      "DisplayName": "Slow Start",
+      "Description": "For five turns, the Pokémon's Attack and Speed stats are halved.",
+      "FieldValues": {}
+    }
+  }
+}

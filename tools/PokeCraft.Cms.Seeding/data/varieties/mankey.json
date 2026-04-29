@@ -1,0 +1,26 @@
+﻿{
+  "Id": "89d29521-30d6-40f0-97fd-aa87da9039ac",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mankey",
+    "DisplayName": "Mankey",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"365ef9b8-682f-441c-8321-23c1781f76bf\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mankey",
+      "DisplayName": "Mankey",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Pig Monkey"
+      }
+    }
+  }
+}

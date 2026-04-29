@@ -1,0 +1,41 @@
+﻿{
+  "Id": "7d8e74f4-90da-4a3f-ae52-904926130917",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lopunny-mega",
+    "DisplayName": "Mega Lopunny",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"587c74ce-faa9-4df1-95fe-c40791793a97\"]",
+      "Height": "13",
+      "Weight": "283",
+      "YieldExperience": "203",
+      "PrimaryAbility": "[\"fa0ae125-7b24-45a0-bf28-4b447dfa5e21\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "136",
+      "YieldAttack": "0",
+      "BaseDefense": "94",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "54",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "96",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "135",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lopunny-mega",
+      "DisplayName": "Mega Lopunny",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

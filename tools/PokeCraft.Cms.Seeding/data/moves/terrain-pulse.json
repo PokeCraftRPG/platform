@@ -1,0 +1,25 @@
+﻿{
+  "Id": "44ff8dd9-e579-424d-9aaf-cf47d9eb577a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "terrain-pulse",
+    "DisplayName": "Terrain Pulse",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "50",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "terrain-pulse",
+      "DisplayName": "Terrain Pulse",
+      "Description": "The user utilizes the energy of the terrain to attack. This move’s type and power change depending on the terrain at the time the move is used.",
+      "FieldValues": {}
+    }
+  }
+}

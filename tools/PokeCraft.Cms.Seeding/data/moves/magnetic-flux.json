@@ -1,0 +1,23 @@
+﻿{
+  "Id": "bd57dee7-c4ff-499d-95e6-273831e1ff0a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magnetic-flux",
+    "DisplayName": "Magnetic Flux",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magnetic-flux",
+      "DisplayName": "Magnetic Flux",
+      "Description": "The user manipulates magnetic fields, which boosts the Defense and Sp. Def stats of ally Pokémon with the Plus Ability or the Minus Ability.",
+      "FieldValues": {}
+    }
+  }
+}

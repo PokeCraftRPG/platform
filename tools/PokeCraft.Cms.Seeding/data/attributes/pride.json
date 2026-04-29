@@ -1,0 +1,19 @@
+﻿{
+  "Id": "8e9f88ed-b24a-44f9-9667-06d9347619a3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pride",
+    "DisplayName": "Pride",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pride",
+      "DisplayName": "Pride",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

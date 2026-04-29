@@ -1,0 +1,27 @@
+﻿{
+  "Id": "7f18e6a3-bad0-40d7-b9e4-1b8e8fb1e68e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hippopotas",
+    "DisplayName": "Hippopotas",
+    "Description": null,
+    "FieldValues": {
+      "Number": "449",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "140",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hippopotas",
+      "DisplayName": "Hippopotas",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

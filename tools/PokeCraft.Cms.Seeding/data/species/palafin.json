@@ -1,0 +1,28 @@
+﻿{
+  "Id": "0c7180c4-04b4-4dcf-94aa-fc984b091166",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "palafin",
+    "DisplayName": "Palafin",
+    "Description": null,
+    "FieldValues": {
+      "Number": "964",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "palafin",
+      "DisplayName": "Palafin",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

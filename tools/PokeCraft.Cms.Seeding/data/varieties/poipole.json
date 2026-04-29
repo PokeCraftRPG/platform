@@ -1,0 +1,25 @@
+﻿{
+  "Id": "a55f39fe-5ec3-4ae9-ab87-76196900f7a1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "poipole",
+    "DisplayName": "Poipole",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9647f1a6-ba8a-4525-a0ac-31c7f75c50c2\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "poipole",
+      "DisplayName": "Poipole",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Poison Pin"
+      }
+    }
+  }
+}

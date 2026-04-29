@@ -1,0 +1,28 @@
+﻿{
+  "Id": "9098a2ac-6a16-424a-99af-97b7f4434e6e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragonite",
+    "DisplayName": "Dragonite",
+    "Description": null,
+    "FieldValues": {
+      "Number": "149",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragonite",
+      "DisplayName": "Dragonite",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

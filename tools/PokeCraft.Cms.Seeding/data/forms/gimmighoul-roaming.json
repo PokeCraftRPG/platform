@@ -1,0 +1,40 @@
+﻿{
+  "Id": "6510e598-62ef-492b-8f3c-64f010e2d0be",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gimmighoul-roaming",
+    "DisplayName": "Roaming Form Gimmighoul",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0dd7df00-fd7a-4d12-8ffd-ef95e7e0867a\"]",
+      "Height": "1",
+      "Weight": "10",
+      "YieldExperience": "60",
+      "PrimaryAbility": "[\"9b5a222b-9051-4266-9b84-aa99f6326cf1\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "30",
+      "YieldAttack": "0",
+      "BaseDefense": "25",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gimmighoul-roaming",
+      "DisplayName": "Roaming Form Gimmighoul",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

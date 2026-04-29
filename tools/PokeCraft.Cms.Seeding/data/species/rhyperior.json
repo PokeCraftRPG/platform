@@ -1,0 +1,28 @@
+﻿{
+  "Id": "25705eaf-1461-4b9f-8dca-78218e9d995f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rhyperior",
+    "DisplayName": "Rhyperior",
+    "Description": null,
+    "FieldValues": {
+      "Number": "464",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "30",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rhyperior",
+      "DisplayName": "Rhyperior",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

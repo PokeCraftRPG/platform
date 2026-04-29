@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c28a4589-31b2-445f-80c6-6c0fbe791bba",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "druddigon",
+    "DisplayName": "Druddigon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"082454ad-ba78-4d42-b71e-c539d60d269c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "druddigon",
+      "DisplayName": "Druddigon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cave"
+      }
+    }
+  }
+}

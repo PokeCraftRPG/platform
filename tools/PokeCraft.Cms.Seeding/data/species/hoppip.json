@@ -1,0 +1,28 @@
+﻿{
+  "Id": "b22c6a86-a5a4-4fae-9d2d-ff9ec2494b63",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hoppip",
+    "DisplayName": "Hoppip",
+    "Description": null,
+    "FieldValues": {
+      "Number": "187",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Fairy\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hoppip",
+      "DisplayName": "Hoppip",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

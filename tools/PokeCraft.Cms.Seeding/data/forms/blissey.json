@@ -1,0 +1,42 @@
+﻿{
+  "Id": "5884735f-c900-47ec-8b42-41057e2b2dd3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blissey",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9a9e5c36-872c-45ff-bb22-0af4d4ad1b87\"]",
+      "Height": "15",
+      "Weight": "468",
+      "YieldExperience": "608",
+      "PrimaryAbility": "[\"aaaf5fa0-672a-4904-8e65-dc6c8ffe01b7\"]",
+      "SecondaryAbility": "[\"f1619484-cf62-4314-a26f-a79e00b5720f\"]",
+      "HiddenAbility": "[\"e28c42cc-a85f-4f82-89b2-e80210d5b4ef\"]",
+      "BaseHP": "255",
+      "YieldHP": "3",
+      "BaseAttack": "10",
+      "YieldAttack": "0",
+      "BaseDefense": "10",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "75",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "135",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blissey",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

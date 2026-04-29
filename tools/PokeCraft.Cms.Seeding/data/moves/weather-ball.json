@@ -1,0 +1,25 @@
+﻿{
+  "Id": "45bcf9c1-00cf-499a-8e70-9dbab6eb5d63",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "weather-ball",
+    "DisplayName": "Weather Ball",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "50",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "weather-ball",
+      "DisplayName": "Weather Ball",
+      "Description": "This move's type and power change depending on the weather at the time the move is used.",
+      "FieldValues": {}
+    }
+  }
+}

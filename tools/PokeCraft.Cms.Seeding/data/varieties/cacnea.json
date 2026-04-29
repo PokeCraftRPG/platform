@@ -1,0 +1,26 @@
+﻿{
+  "Id": "807e3708-b20b-4cce-94ce-f88f931a67a5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cacnea",
+    "DisplayName": "Cacnea",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9b2f9c32-3a6e-4a50-8397-45d199f4dc28\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cacnea",
+      "DisplayName": "Cacnea",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cactus"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "04fe3d82-8aaf-4c08-9300-df013833f72d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spinarak",
+    "DisplayName": "Spinarak",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"dcd0c241-4f4e-4557-b3c3-c995aeb89e07\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spinarak",
+      "DisplayName": "Spinarak",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "String Spit"
+      }
+    }
+  }
+}

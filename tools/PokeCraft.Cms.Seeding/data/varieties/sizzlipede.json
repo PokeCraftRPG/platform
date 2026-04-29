@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ccb04d69-5a16-4148-9e15-82be776d9644",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sizzlipede",
+    "DisplayName": "Sizzlipede",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4cd1396d-e43e-4d7e-a97c-cd7acc1585d5\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sizzlipede",
+      "DisplayName": "Sizzlipede",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Radiator"
+      }
+    }
+  }
+}

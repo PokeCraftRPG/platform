@@ -1,0 +1,42 @@
+﻿{
+  "Id": "45895e52-891c-45ca-b82c-199ac7e34c34",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "haxorus",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a7eb18bd-31a4-4996-abd8-6b02ef3e3c54\"]",
+      "Height": "18",
+      "Weight": "1055",
+      "YieldExperience": "243",
+      "PrimaryAbility": "[\"3bb432b8-b38c-4243-888c-20085e000f57\"]",
+      "SecondaryAbility": "[\"f35847b5-de3c-4706-a9d6-010903615537\"]",
+      "HiddenAbility": "[\"5cdb3b5f-b72c-4361-b715-922fc4cb31f9\"]",
+      "BaseHP": "76",
+      "YieldHP": "0",
+      "BaseAttack": "147",
+      "YieldAttack": "3",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "97",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "haxorus",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

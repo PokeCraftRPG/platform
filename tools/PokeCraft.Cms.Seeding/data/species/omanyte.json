@@ -1,0 +1,28 @@
+﻿{
+  "Id": "47be29bd-1c65-48ac-aaa3-88f2a56bc29f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "omanyte",
+    "DisplayName": "Omanyte",
+    "Description": null,
+    "FieldValues": {
+      "Number": "138",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "omanyte",
+      "DisplayName": "Omanyte",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "e7f99fdb-dc24-45e3-b8f7-8f6f5a296a47",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shadow-ball",
+    "DisplayName": "Shadow Ball",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shadow-ball",
+      "DisplayName": "Shadow Ball",
+      "Description": "The user attacks by hurling a shadowy blob at the target. This may also lower the target’s Sp. Def stat.",
+      "FieldValues": {}
+    }
+  }
+}

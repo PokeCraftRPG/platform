@@ -1,0 +1,24 @@
+﻿{
+  "Id": "f66e6ebc-e7a0-4aa1-9136-98858b3a1e43",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wring-out",
+    "DisplayName": "Wring Out",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wring-out",
+      "DisplayName": "Wring Out",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

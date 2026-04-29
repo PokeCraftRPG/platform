@@ -1,0 +1,26 @@
+﻿{
+  "Id": "20b8b110-e81c-4e1e-93b9-715df4e629c6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tyrunt",
+    "DisplayName": "Tyrunt",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"65881163-b887-49c3-bf18-228aed27257c\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tyrunt",
+      "DisplayName": "Tyrunt",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Royal Heir"
+      }
+    }
+  }
+}

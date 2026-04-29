@@ -1,0 +1,27 @@
+﻿{
+  "Id": "0f7b9e61-f619-4758-851c-151c8860bc59",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "diggersby",
+    "DisplayName": "Diggersby",
+    "Description": null,
+    "FieldValues": {
+      "Number": "660",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "127",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "diggersby",
+      "DisplayName": "Diggersby",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

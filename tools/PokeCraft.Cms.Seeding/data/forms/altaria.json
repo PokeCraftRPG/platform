@@ -1,0 +1,42 @@
+﻿{
+  "Id": "6b901e58-0f81-402c-b3cb-dd6a52c1db8b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "altaria",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"61679baf-94a3-4135-92bb-3ef47bd0d96d\"]",
+      "Height": "11",
+      "Weight": "206",
+      "YieldExperience": "172",
+      "PrimaryAbility": "[\"aaaf5fa0-672a-4904-8e65-dc6c8ffe01b7\"]",
+      "HiddenAbility": "[\"dd70f7cd-9d7f-407f-9222-682c011480db\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "105",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "altaria",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

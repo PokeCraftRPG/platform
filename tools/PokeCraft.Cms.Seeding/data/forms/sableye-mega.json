@@ -1,0 +1,41 @@
+﻿{
+  "Id": "269686a0-f5ba-4ecb-9c71-d1284ebf1702",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sableye-mega",
+    "DisplayName": "Mega Sableye",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f5579434-3143-4dfb-9694-7fd64a307429\"]",
+      "Height": "5",
+      "Weight": "1610",
+      "YieldExperience": "168",
+      "PrimaryAbility": "[\"67f51e12-608d-4075-9293-523b122271f5\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "1",
+      "BaseDefense": "125",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "115",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "20",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sableye-mega",
+      "DisplayName": "Mega Sableye",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

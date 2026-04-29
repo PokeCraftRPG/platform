@@ -1,0 +1,39 @@
+﻿{
+  "Id": "3611578d-fe4d-4c0d-84ed-3497293c7984",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "malamar-mega",
+    "DisplayName": "Mega Malamar",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"99ff0ac2-eedf-40aa-8cea-6d3a7aa0fc24\"]",
+      "Height": "29",
+      "Weight": "698",
+      "BaseHP": "86",
+      "YieldHP": "0",
+      "BaseAttack": "102",
+      "YieldAttack": "0",
+      "BaseDefense": "88",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "98",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "120",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "88",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "malamar-mega",
+      "DisplayName": "Mega Malamar",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

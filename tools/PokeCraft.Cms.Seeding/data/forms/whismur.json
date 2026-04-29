@@ -1,0 +1,41 @@
+﻿{
+  "Id": "24f18e00-4757-435c-ae8a-f5431ca2c0d6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "whismur",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e4623863-075f-4381-a365-5aa08a33e833\"]",
+      "Height": "6",
+      "Weight": "163",
+      "YieldExperience": "48",
+      "PrimaryAbility": "[\"6df60939-ffd8-4ddb-ad1e-f4add0129eeb\"]",
+      "HiddenAbility": "[\"9c030956-19a0-4e37-8835-0484c2fa3d91\"]",
+      "BaseHP": "64",
+      "YieldHP": "1",
+      "BaseAttack": "51",
+      "YieldAttack": "0",
+      "BaseDefense": "23",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "51",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "23",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "28",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "whismur",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

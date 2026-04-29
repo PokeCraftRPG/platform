@@ -1,0 +1,26 @@
+﻿{
+  "Id": "cfb36de9-94ba-41fe-b204-f2dda9443c30",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vulpix",
+    "DisplayName": "Vulpix",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"24bd9cfe-fe0a-41e5-9966-a6b530b42e9f\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vulpix",
+      "DisplayName": "Vulpix",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fox"
+      }
+    }
+  }
+}

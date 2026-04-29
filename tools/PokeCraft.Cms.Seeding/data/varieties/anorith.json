@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4d7c203e-0a8f-4d94-a0c6-e936dc136971",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "anorith",
+    "DisplayName": "Anorith",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"32751f34-0aa7-4cf7-b812-3cce1c17537c\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "anorith",
+      "DisplayName": "Anorith",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Old Shrimp"
+      }
+    }
+  }
+}

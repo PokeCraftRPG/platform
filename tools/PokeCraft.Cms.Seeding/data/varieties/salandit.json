@@ -1,0 +1,26 @@
+﻿{
+  "Id": "06a05faf-5282-4497-a22a-9113f0d5483a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "salandit",
+    "DisplayName": "Salandit",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5f691958-68f4-4f63-bcb8-fa17fd47d426\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "salandit",
+      "DisplayName": "Salandit",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Toxic Lizard"
+      }
+    }
+  }
+}

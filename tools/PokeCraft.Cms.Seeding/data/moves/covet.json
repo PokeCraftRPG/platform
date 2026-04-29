@@ -1,0 +1,25 @@
+﻿{
+  "Id": "90bc66d3-0bae-481b-9e80-1ff534499124",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "covet",
+    "DisplayName": "Covet",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "25"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "covet",
+      "DisplayName": "Covet",
+      "Description": "The user endearingly approaches the target, then steals the target's held item.",
+      "FieldValues": {}
+    }
+  }
+}

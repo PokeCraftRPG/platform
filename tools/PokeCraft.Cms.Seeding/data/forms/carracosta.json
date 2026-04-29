@@ -1,0 +1,43 @@
+﻿{
+  "Id": "5e51d9bb-7139-4af6-b4ab-a64f49c6cf2d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "carracosta",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2ef97a2a-6159-4d11-b4cd-9579a6ee522d\"]",
+      "Height": "12",
+      "Weight": "810",
+      "YieldExperience": "173",
+      "PrimaryAbility": "[\"374028f4-f9d7-4171-9322-47ca228e20ce\"]",
+      "SecondaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "HiddenAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "BaseHP": "74",
+      "YieldHP": "0",
+      "BaseAttack": "108",
+      "YieldAttack": "0",
+      "BaseDefense": "133",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "83",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "32",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "carracosta",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

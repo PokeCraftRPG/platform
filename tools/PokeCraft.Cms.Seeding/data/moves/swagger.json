@@ -1,0 +1,24 @@
+﻿{
+  "Id": "74ef80f4-ef47-4e98-b2da-129007a4ae66",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swagger",
+    "DisplayName": "Swagger",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "85",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swagger",
+      "DisplayName": "Swagger",
+      "Description": "The user enrages and confuses the target. However, this also sharply boosts the target's Attack stat.",
+      "FieldValues": {}
+    }
+  }
+}

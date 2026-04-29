@@ -1,0 +1,25 @@
+﻿{
+  "Id": "882c26f5-67cb-4788-9ad3-4938efbc7b77",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "malignant-chain",
+    "DisplayName": "Malignant Chain",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "malignant-chain",
+      "DisplayName": "Malignant Chain",
+      "Description": "The user pours toxins into the target by wrapping them in a toxic, corrosive chain. This may also leave the target badly poisoned.",
+      "FieldValues": {}
+    }
+  }
+}

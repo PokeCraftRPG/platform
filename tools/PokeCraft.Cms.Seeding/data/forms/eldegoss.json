@@ -1,0 +1,42 @@
+﻿{
+  "Id": "056cd356-a46f-4cb9-815d-de1701eac97e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "eldegoss",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f9d221da-f750-46df-8622-6e41c235f2aa\"]",
+      "Height": "5",
+      "Weight": "25",
+      "YieldExperience": "161",
+      "PrimaryAbility": "[\"79d39dee-7018-4c7d-a6ef-e925d6874424\"]",
+      "SecondaryAbility": "[\"3f2976c2-09ac-4c69-8b32-5d930032faba\"]",
+      "HiddenAbility": "[\"685f8565-bdee-4058-bd90-d7f3711f5d7d\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "120",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "eldegoss",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

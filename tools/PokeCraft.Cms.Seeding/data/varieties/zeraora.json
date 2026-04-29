@@ -1,0 +1,25 @@
+﻿{
+  "Id": "4fe8bd0d-d59c-4245-9691-962f2ad51604",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zeraora",
+    "DisplayName": "Zeraora",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c8a89d7b-c253-4782-b152-8b29b80db206\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zeraora",
+      "DisplayName": "Zeraora",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Thunderclap"
+      }
+    }
+  }
+}

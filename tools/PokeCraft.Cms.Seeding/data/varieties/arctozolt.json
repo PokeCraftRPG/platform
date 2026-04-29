@@ -1,0 +1,25 @@
+﻿{
+  "Id": "641e4506-c7d2-4558-9fdf-cc72c2118d85",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arctozolt",
+    "DisplayName": "Arctozolt",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2e3fdd4d-d992-4c1c-8de2-5da673d0784e\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arctozolt",
+      "DisplayName": "Arctozolt",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fossil"
+      }
+    }
+  }
+}

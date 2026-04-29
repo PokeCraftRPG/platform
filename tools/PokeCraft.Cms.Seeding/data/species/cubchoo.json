@@ -1,0 +1,27 @@
+﻿{
+  "Id": "7066a478-cc8d-4c57-a40c-2a469c50a2ff",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cubchoo",
+    "DisplayName": "Cubchoo",
+    "Description": null,
+    "FieldValues": {
+      "Number": "613",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cubchoo",
+      "DisplayName": "Cubchoo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

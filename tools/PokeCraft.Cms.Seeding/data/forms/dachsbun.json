@@ -1,0 +1,41 @@
+﻿{
+  "Id": "ca6ea282-234a-4524-866e-26b29792a746",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dachsbun",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"3f93d48a-a551-4c38-a5c8-11fc9b61d18c\"]",
+      "Height": "5",
+      "Weight": "149",
+      "YieldExperience": "167",
+      "PrimaryAbility": "[\"226a6934-1e2e-4f98-989f-38ca3013296d\"]",
+      "HiddenAbility": "[\"56b529e6-13d3-4830-992f-f1807b22cd23\"]",
+      "BaseHP": "57",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "115",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dachsbun",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

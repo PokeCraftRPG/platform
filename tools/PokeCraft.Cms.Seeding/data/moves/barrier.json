@@ -1,0 +1,23 @@
+﻿{
+  "Id": "bb86c8c6-88c4-46b3-80d7-2822ead74bc3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "barrier",
+    "DisplayName": "Barrier",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "barrier",
+      "DisplayName": "Barrier",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

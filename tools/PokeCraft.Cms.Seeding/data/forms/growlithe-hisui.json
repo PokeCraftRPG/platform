@@ -1,0 +1,43 @@
+﻿{
+  "Id": "eb87eb3e-d471-47e0-97a8-056bbbc38a04",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "growlithe-hisui",
+    "DisplayName": "Hisuian Growlithe",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"25d10dcc-1001-4019-a044-d8f383fc9d26\"]",
+      "Height": "8",
+      "Weight": "227",
+      "YieldExperience": "70",
+      "PrimaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "SecondaryAbility": "[\"956efecf-ecf7-4731-9df1-25171033ad13\"]",
+      "HiddenAbility": "[\"98ae35ae-b156-4c2e-b4a7-8af42a8b0ef6\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "75",
+      "YieldAttack": "1",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "growlithe-hisui",
+      "DisplayName": "Hisuian Growlithe",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

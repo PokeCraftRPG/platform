@@ -1,0 +1,26 @@
+﻿{
+  "Id": "af825db5-dfef-4548-893c-2e200767fa37",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wimpod",
+    "DisplayName": "Wimpod",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4bb12fca-0d09-4dd1-ad52-e192ee34b9d8\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wimpod",
+      "DisplayName": "Wimpod",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Turn Tail"
+      }
+    }
+  }
+}

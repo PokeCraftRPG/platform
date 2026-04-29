@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e072b485-5dfa-460e-afe9-4866d085f048",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flittle",
+    "DisplayName": "Flittle",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f67aad23-7f14-4a72-b24c-2b1858e70185\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flittle",
+      "DisplayName": "Flittle",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Frill"
+      }
+    }
+  }
+}

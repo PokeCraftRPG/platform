@@ -1,0 +1,27 @@
+﻿{
+  "Id": "fdbc28f2-b6a4-4ee1-bb54-6f6154b2ba7b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "basculegion",
+    "DisplayName": "Basculegion",
+    "Description": null,
+    "FieldValues": {
+      "Number": "902",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "135",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "basculegion",
+      "DisplayName": "Basculegion",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

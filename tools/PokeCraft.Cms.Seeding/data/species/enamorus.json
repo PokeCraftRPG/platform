@@ -1,0 +1,27 @@
+﻿{
+  "Id": "db6efaea-4723-41ee-a19a-e22a8b708764",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "enamorus",
+    "DisplayName": "Enamorus",
+    "Description": null,
+    "FieldValues": {
+      "Number": "905",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "enamorus",
+      "DisplayName": "Enamorus",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

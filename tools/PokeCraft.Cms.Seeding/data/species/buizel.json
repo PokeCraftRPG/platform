@@ -1,0 +1,28 @@
+﻿{
+  "Id": "f2d8e1cd-3dea-444c-bdab-b17ddda3f44b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "buizel",
+    "DisplayName": "Buizel",
+    "Description": null,
+    "FieldValues": {
+      "Number": "418",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "buizel",
+      "DisplayName": "Buizel",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

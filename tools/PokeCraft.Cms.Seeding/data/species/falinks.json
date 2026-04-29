@@ -1,0 +1,28 @@
+﻿{
+  "Id": "020940e8-dec0-4b16-adfa-e855e595b38c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "falinks",
+    "DisplayName": "Falinks",
+    "Description": null,
+    "FieldValues": {
+      "Number": "870",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Fairy\"]",
+      "SecondaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "falinks",
+      "DisplayName": "Falinks",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1fd38bc4-9815-41f9-a658-18f6b4e8f258",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pumpkaboo-large",
+    "DisplayName": "Pumpkaboo",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e838fc57-04e3-42e2-9940-ca5a548965ac\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pumpkaboo-large",
+      "DisplayName": "Pumpkaboo",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Pumpkin"
+      }
+    }
+  }
+}

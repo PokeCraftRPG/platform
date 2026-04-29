@@ -1,0 +1,27 @@
+﻿{
+  "Id": "eb7c7fd2-e6f8-4065-a474-72af7a4222a7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sandile",
+    "DisplayName": "Sandile",
+    "Description": null,
+    "FieldValues": {
+      "Number": "551",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "180",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sandile",
+      "DisplayName": "Sandile",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

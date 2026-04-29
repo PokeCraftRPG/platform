@@ -1,0 +1,26 @@
+﻿{
+  "Id": "03fb8933-189c-4ac1-af49-6c6625c223a4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grovyle",
+    "DisplayName": "Grovyle",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"76dd193b-c7de-4f8b-9657-7e97f12201f0\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grovyle",
+      "DisplayName": "Grovyle",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Wood Gecko"
+      }
+    }
+  }
+}

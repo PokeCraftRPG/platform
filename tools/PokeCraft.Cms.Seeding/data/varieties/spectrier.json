@@ -1,0 +1,25 @@
+﻿{
+  "Id": "b245211e-f839-4d1a-9b86-a63786f1d69b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spectrier",
+    "DisplayName": "Spectrier",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3c5e0182-7087-402c-951e-687431649bb2\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spectrier",
+      "DisplayName": "Spectrier",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Swift Horse"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "0115286e-9002-4acf-81aa-de39bedbd083",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mud-slap",
+    "DisplayName": "Mud-Slap",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "20",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mud-slap",
+      "DisplayName": "Mud-Slap",
+      "Description": "The user hurls mud in the target's face to inflict damage and lower its accuracy.",
+      "FieldValues": {}
+    }
+  }
+}

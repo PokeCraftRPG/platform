@@ -1,0 +1,25 @@
+﻿{
+  "Id": "a17ecc9d-3f85-467e-af4c-b07e8b588717",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rising-voltage",
+    "DisplayName": "Rising Voltage",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "70",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rising-voltage",
+      "DisplayName": "Rising Voltage",
+      "Description": "The user attacks with electricity rising from the ground. This move's power is doubled if the target is on Electric Terrain.",
+      "FieldValues": {}
+    }
+  }
+}

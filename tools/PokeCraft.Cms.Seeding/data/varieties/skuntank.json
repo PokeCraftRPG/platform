@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9f198237-ae41-4cc7-92f2-389728a0ee47",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skuntank",
+    "DisplayName": "Skuntank",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b06fe63b-a62e-4645-9064-7f8e85508ba5\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skuntank",
+      "DisplayName": "Skuntank",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Skunk"
+      }
+    }
+  }
+}

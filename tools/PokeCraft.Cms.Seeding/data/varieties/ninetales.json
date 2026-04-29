@@ -1,0 +1,26 @@
+﻿{
+  "Id": "556c92ae-2dab-4f1e-bf60-7998373ea7c0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ninetales",
+    "DisplayName": "Ninetales",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"bf3f7cb4-6eb3-469d-9ffc-2fcc405e6e7b\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ninetales",
+      "DisplayName": "Ninetales",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fox"
+      }
+    }
+  }
+}

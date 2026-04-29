@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f2fefe6a-f9cd-448f-93ef-1fc371e45ad2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hydreigon",
+    "DisplayName": "Hydreigon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "635",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hydreigon",
+      "DisplayName": "Hydreigon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

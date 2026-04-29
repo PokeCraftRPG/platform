@@ -1,0 +1,27 @@
+﻿{
+  "Id": "35c0fedb-bd34-45a6-97e8-c67856c35104",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "greninja",
+    "DisplayName": "Greninja",
+    "Description": null,
+    "FieldValues": {
+      "Number": "658",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "greninja",
+      "DisplayName": "Greninja",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

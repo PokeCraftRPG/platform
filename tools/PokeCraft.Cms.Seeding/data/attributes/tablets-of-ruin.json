@@ -1,0 +1,19 @@
+﻿{
+  "Id": "20ef4d48-ef68-40ff-b3b9-d05e30aae97d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tablets-of-ruin",
+    "DisplayName": "Tablets of Ruin",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tablets-of-ruin",
+      "DisplayName": "Tablets of Ruin",
+      "Description": "The power of the Pokémon's ruinous wooden tablets lowers the Attack stats of all Pokémon except itself.",
+      "FieldValues": {}
+    }
+  }
+}

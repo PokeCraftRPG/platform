@@ -1,0 +1,28 @@
+﻿{
+  "Id": "040f7196-f338-496f-ba85-86c58ee651e7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "exploud",
+    "DisplayName": "Exploud",
+    "Description": null,
+    "FieldValues": {
+      "Number": "295",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "exploud",
+      "DisplayName": "Exploud",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

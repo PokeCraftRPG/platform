@@ -1,0 +1,42 @@
+﻿{
+  "Id": "b4f4fcb8-75f1-4263-baee-e7fccc024b04",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clefable",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"56bf890e-73d4-42e7-94f1-dd3a0a6f633b\"]",
+      "Height": "13",
+      "Weight": "400",
+      "YieldExperience": "217",
+      "PrimaryAbility": "[\"1547f00e-f05d-4d0c-98c7-9a77e75e1bf5\"]",
+      "SecondaryAbility": "[\"69c09e48-92e7-44ba-99ac-01ed04423dd6\"]",
+      "HiddenAbility": "[\"f9f08a4a-14de-4ff0-8844-8f97068aa2a3\"]",
+      "BaseHP": "95",
+      "YieldHP": "3",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "73",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clefable",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

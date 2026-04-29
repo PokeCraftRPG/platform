@@ -1,0 +1,23 @@
+﻿{
+  "Id": "9c70f696-f078-4442-b627-8fe5abe8c902",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aqua-ring",
+    "DisplayName": "Aqua Ring",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aqua-ring",
+      "DisplayName": "Aqua Ring",
+      "Description": "The user envelops itself in a veil made of water. It regains some HP every turn.",
+      "FieldValues": {}
+    }
+  }
+}

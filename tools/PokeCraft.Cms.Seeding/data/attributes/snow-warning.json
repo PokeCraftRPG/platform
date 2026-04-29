@@ -1,0 +1,19 @@
+﻿{
+  "Id": "94d77255-80ed-447a-8809-43dc73a72602",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snow-warning",
+    "DisplayName": "Snow Warning",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snow-warning",
+      "DisplayName": "Snow Warning",
+      "Description": "The Pokémon makes it snow when it enters a battle.",
+      "FieldValues": {}
+    }
+  }
+}

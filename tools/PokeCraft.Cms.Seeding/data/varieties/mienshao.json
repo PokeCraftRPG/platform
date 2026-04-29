@@ -1,0 +1,26 @@
+﻿{
+  "Id": "dd652559-1047-4c2f-92d3-12b824618107",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mienshao",
+    "DisplayName": "Mienshao",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"93c1b88e-a29b-44dc-b1a9-8d14d9e787f0\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mienshao",
+      "DisplayName": "Mienshao",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Martial Arts"
+      }
+    }
+  }
+}

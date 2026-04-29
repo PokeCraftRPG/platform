@@ -1,0 +1,26 @@
+﻿{
+  "Id": "882aa721-5466-41f0-b9ae-d685ae15cfe3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mandibuzz",
+    "DisplayName": "Mandibuzz",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3c159fbb-90b9-4d80-9bee-34ca0f052b44\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mandibuzz",
+      "DisplayName": "Mandibuzz",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bone Vulture"
+      }
+    }
+  }
+}

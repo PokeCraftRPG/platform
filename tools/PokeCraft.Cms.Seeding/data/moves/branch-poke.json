@@ -1,0 +1,25 @@
+﻿{
+  "Id": "a168e4ef-14d2-49f7-a233-7852e85949a4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "branch-poke",
+    "DisplayName": "Branch Poke",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "40"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "branch-poke",
+      "DisplayName": "Branch Poke",
+      "Description": "The user attacks the target by poking it with a sharply pointed branch.",
+      "FieldValues": {}
+    }
+  }
+}

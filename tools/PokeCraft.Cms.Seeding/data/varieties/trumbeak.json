@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0a48778a-b3d5-4c42-9c1e-77195bca218a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "trumbeak",
+    "DisplayName": "Trumbeak",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"86aed9ed-cc0a-4e03-acf3-462c82ff28b2\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "trumbeak",
+      "DisplayName": "Trumbeak",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bugle Beak"
+      }
+    }
+  }
+}

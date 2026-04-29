@@ -1,0 +1,23 @@
+﻿{
+  "Id": "7d711fff-5bef-4fa6-bb90-b4dededdf4e0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "psych-up",
+    "DisplayName": "Psych Up",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "psych-up",
+      "DisplayName": "Psych Up",
+      "Description": "The user hypnotizes itself into copying any stat change made by the target.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ca47ea94-33b5-4af0-ad0f-72d32b12a54b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "buzzy-buzz",
+    "DisplayName": "Buzzy Buzz",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "buzzy-buzz",
+      "DisplayName": "Buzzy Buzz",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

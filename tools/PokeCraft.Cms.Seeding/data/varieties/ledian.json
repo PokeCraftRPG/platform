@@ -1,0 +1,26 @@
+﻿{
+  "Id": "92999a27-e3a1-4ec4-8ef3-6d1294ddd408",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ledian",
+    "DisplayName": "Ledian",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"fb516e00-cf90-445f-9b8c-fe86f823909b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ledian",
+      "DisplayName": "Ledian",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Five Star"
+      }
+    }
+  }
+}

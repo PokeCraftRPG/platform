@@ -1,0 +1,27 @@
+﻿{
+  "Id": "124d7507-ceb8-46be-9357-3a81537d2d5d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "klinklang",
+    "DisplayName": "Klinklang",
+    "Description": null,
+    "FieldValues": {
+      "Number": "601",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "30",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "klinklang",
+      "DisplayName": "Klinklang",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

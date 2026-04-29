@@ -1,0 +1,26 @@
+﻿{
+  "Id": "24cdc5a7-0a20-41f0-8e1e-6cbf762c5ede",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drifblim",
+    "DisplayName": "Drifblim",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a758629d-0bf0-4369-a35e-fc8932108690\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drifblim",
+      "DisplayName": "Drifblim",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Blimp"
+      }
+    }
+  }
+}

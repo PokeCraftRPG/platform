@@ -1,0 +1,19 @@
+﻿{
+  "Id": "4d7b11f8-7834-42b5-885a-ae0d4c3d991e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "desolate-land",
+    "DisplayName": "Desolate Land",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "desolate-land",
+      "DisplayName": "Desolate Land",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "a40d8515-c0d6-4ceb-bbe6-eb2ffa5bc768",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bayleef",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7573f7d2-67c8-45d4-8709-08cd72275b48\"]",
+      "Height": "12",
+      "Weight": "158",
+      "YieldExperience": "142",
+      "PrimaryAbility": "[\"f635691a-6cf0-4a55-a848-a2183d487971\"]",
+      "HiddenAbility": "[\"d724fdd9-3db1-4a76-8de7-aa696033fa20\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "62",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "63",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bayleef",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

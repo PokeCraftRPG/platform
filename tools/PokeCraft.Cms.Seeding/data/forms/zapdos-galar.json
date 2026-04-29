@@ -1,0 +1,41 @@
+﻿{
+  "Id": "ff3975b6-a53f-4952-8903-49bcda9a6131",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zapdos-galar",
+    "DisplayName": "Galarian Zapdos",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0f19df96-2465-4a19-baa9-69246ba88c5a\"]",
+      "Height": "16",
+      "Weight": "582",
+      "YieldExperience": "290",
+      "PrimaryAbility": "[\"493ac234-5dd4-4767-9e41-8ec4cd322437\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "125",
+      "YieldAttack": "3",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zapdos-galar",
+      "DisplayName": "Galarian Zapdos",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

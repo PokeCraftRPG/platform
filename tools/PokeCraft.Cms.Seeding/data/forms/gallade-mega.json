@@ -1,0 +1,41 @@
+﻿{
+  "Id": "50b24823-4d2d-4c10-8289-0dcd8e4defeb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gallade-mega",
+    "DisplayName": "Mega Gallade",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7ed6d459-cd9b-49e8-9ada-834cc1b004f4\"]",
+      "Height": "16",
+      "Weight": "564",
+      "YieldExperience": "278",
+      "PrimaryAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "BaseHP": "68",
+      "YieldHP": "0",
+      "BaseAttack": "165",
+      "YieldAttack": "3",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "115",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "110",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gallade-mega",
+      "DisplayName": "Mega Gallade",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

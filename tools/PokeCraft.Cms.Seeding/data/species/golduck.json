@@ -1,0 +1,28 @@
+﻿{
+  "Id": "d4764f4a-3f5c-482e-b563-43379914bd82",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "golduck",
+    "DisplayName": "Golduck",
+    "Description": null,
+    "FieldValues": {
+      "Number": "55",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "golduck",
+      "DisplayName": "Golduck",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

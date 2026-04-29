@@ -1,0 +1,40 @@
+﻿{
+  "Id": "3b104d3c-d69a-45d5-a068-7f1dfb887674",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "crabominable-mega",
+    "DisplayName": "Mega Crabominable",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"19bd97b9-150c-4a4a-ab2a-d40995843442\"]",
+      "Height": "26",
+      "Weight": "2528",
+      "PrimaryAbility": "[\"e3b961ab-87de-40fc-9d8d-95dda45c14df\"]",
+      "BaseHP": "97",
+      "YieldHP": "0",
+      "BaseAttack": "157",
+      "YieldAttack": "0",
+      "BaseDefense": "122",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "62",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "107",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "33",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Fighting\"]",
+      "SecondaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "crabominable-mega",
+      "DisplayName": "Mega Crabominable",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

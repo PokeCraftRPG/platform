@@ -1,0 +1,26 @@
+﻿{
+  "Id": "840385d2-8a62-4578-a822-2b6f3c5a5251",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "woobat",
+    "DisplayName": "Woobat",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e14f9372-0acc-4be4-843d-b04081032979\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "woobat",
+      "DisplayName": "Woobat",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bat"
+      }
+    }
+  }
+}

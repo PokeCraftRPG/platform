@@ -1,0 +1,26 @@
+﻿{
+  "Id": "2ffa6131-5d9c-4652-9b9c-adb9e8b0ea2a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "boltund",
+    "DisplayName": "Boltund",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"669cfb0c-40ea-4a78-810d-cd499a6a116c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "boltund",
+      "DisplayName": "Boltund",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Dog"
+      }
+    }
+  }
+}

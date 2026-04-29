@@ -1,0 +1,19 @@
+﻿{
+  "Id": "66da286e-234e-4789-ac39-fa8972bfe636",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "receiver",
+    "DisplayName": "Receiver",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "receiver",
+      "DisplayName": "Receiver",
+      "Description": "The Pokémon copies the Ability of a defeated ally.",
+      "FieldValues": {}
+    }
+  }
+}

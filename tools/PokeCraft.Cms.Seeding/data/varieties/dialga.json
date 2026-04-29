@@ -1,0 +1,25 @@
+﻿{
+  "Id": "542dc304-954e-4f3d-9a91-664d6f680857",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dialga",
+    "DisplayName": "Dialga",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b4e4994e-6907-4786-a62c-ff43a82c4ab3\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dialga",
+      "DisplayName": "Dialga",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Temporal"
+      }
+    }
+  }
+}

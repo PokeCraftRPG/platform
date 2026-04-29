@@ -1,0 +1,23 @@
+﻿{
+  "Id": "6b059799-9e83-41c1-b373-145b1909ef98",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "recycle",
+    "DisplayName": "Recycle",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "recycle",
+      "DisplayName": "Recycle",
+      "Description": "The user recycles a held item that has been used in battle so it can be used again.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "4d82b95b-21ec-4e68-8cdd-798a9f7183d0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "twister",
+    "DisplayName": "Twister",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "twister",
+      "DisplayName": "Twister",
+      "Description": "The user whips up a vicious tornado to tear at opposing Pokémon. This may also make them flinch.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "cb308a55-3809-46b7-ab77-ac591646cc99",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tympole",
+    "DisplayName": "Tympole",
+    "Description": null,
+    "FieldValues": {
+      "Number": "535",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tympole",
+      "DisplayName": "Tympole",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

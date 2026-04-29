@@ -1,0 +1,19 @@
+﻿{
+  "Id": "15e51a3f-bb28-4ca8-abdf-27130d9930b4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "big-pecks",
+    "DisplayName": "Big Pecks",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "big-pecks",
+      "DisplayName": "Big Pecks",
+      "Description": "Prevents the Pokémon from having its Defense stat lowered.",
+      "FieldValues": {}
+    }
+  }
+}

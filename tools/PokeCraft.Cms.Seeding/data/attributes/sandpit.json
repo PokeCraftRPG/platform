@@ -1,0 +1,19 @@
+﻿{
+  "Id": "b86ea07a-1f23-4655-b7ce-c33d6d4340fa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sandpit",
+    "DisplayName": "Sandpit",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sandpit",
+      "DisplayName": "Sandpit",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

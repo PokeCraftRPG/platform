@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7ec4c30a-2ad8-4a7d-8182-3268b846d06d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "espathra",
+    "DisplayName": "Espathra",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d4495757-0ede-45ab-b39d-9eab13f30b3e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "espathra",
+      "DisplayName": "Espathra",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ostrich"
+      }
+    }
+  }
+}

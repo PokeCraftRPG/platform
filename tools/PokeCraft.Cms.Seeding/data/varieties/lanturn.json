@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e88b9a20-2cab-4468-b571-baaa0c7afd86",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lanturn",
+    "DisplayName": "Lanturn",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f925fdf3-c828-4c24-9719-f02b41fba8fe\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lanturn",
+      "DisplayName": "Lanturn",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Light"
+      }
+    }
+  }
+}

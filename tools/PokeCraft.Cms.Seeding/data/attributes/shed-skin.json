@@ -1,0 +1,19 @@
+﻿{
+  "Id": "ce764204-79c4-4e66-8017-2144a4e66f3c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shed-skin",
+    "DisplayName": "Shed Skin",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shed-skin",
+      "DisplayName": "Shed Skin",
+      "Description": "The Pokémon may cure its own status conditions by shedding its skin.",
+      "FieldValues": {}
+    }
+  }
+}

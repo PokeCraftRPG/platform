@@ -1,0 +1,28 @@
+﻿{
+  "Id": "5a259f08-4780-427c-bec2-e80ab33fb38f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pelipper",
+    "DisplayName": "Pelipper",
+    "Description": null,
+    "FieldValues": {
+      "Number": "279",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pelipper",
+      "DisplayName": "Pelipper",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "227a1680-56d1-4378-af12-f2d080f801c6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pinsir-mega",
+    "DisplayName": "Pinsir",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f08a9df6-6781-4160-bf41-3290e8c02f04\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pinsir-mega",
+      "DisplayName": "Pinsir",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Stag Beetle"
+      }
+    }
+  }
+}

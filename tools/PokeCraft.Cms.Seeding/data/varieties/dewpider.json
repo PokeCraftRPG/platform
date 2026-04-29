@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e4fb4ccd-5631-42f7-a68f-cc68478b6f40",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dewpider",
+    "DisplayName": "Dewpider",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3e6e41ac-de8f-4f1a-9e48-3465aa3e3cd7\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dewpider",
+      "DisplayName": "Dewpider",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Water Bubble"
+      }
+    }
+  }
+}

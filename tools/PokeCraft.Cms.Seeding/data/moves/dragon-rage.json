@@ -1,0 +1,24 @@
+﻿{
+  "Id": "856c047b-ca40-4006-9e49-0d7b8d904fd4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragon-rage",
+    "DisplayName": "Dragon Rage",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragon-rage",
+      "DisplayName": "Dragon Rage",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

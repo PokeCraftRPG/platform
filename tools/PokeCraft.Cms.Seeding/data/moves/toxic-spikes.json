@@ -1,0 +1,23 @@
+﻿{
+  "Id": "5227ee9e-daab-43b1-9d98-7ccb4dfcdc0c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toxic-spikes",
+    "DisplayName": "Toxic Spikes",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toxic-spikes",
+      "DisplayName": "Toxic Spikes",
+      "Description": "The user lays a trap of poison spikes at the feet of the opposing team. The spikes will poison opposing Pokémon that switch into battle.",
+      "FieldValues": {}
+    }
+  }
+}

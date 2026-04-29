@@ -1,0 +1,42 @@
+﻿{
+  "Id": "c3b707e7-ae24-49da-bbd2-07f8a58b02ac",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gumshoos",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ac74e72a-5755-4289-9035-bed57abacee4\"]",
+      "Height": "7",
+      "Weight": "142",
+      "YieldExperience": "146",
+      "PrimaryAbility": "[\"df0d1b67-be4a-45c3-9aee-f183bc1e0edd\"]",
+      "SecondaryAbility": "[\"fe62f3be-1b3d-461f-bb4c-963e988d426f\"]",
+      "HiddenAbility": "[\"463a60e6-bf15-4972-9934-481d443a8534\"]",
+      "BaseHP": "88",
+      "YieldHP": "0",
+      "BaseAttack": "110",
+      "YieldAttack": "2",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gumshoos",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

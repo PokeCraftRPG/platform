@@ -1,0 +1,27 @@
+﻿{
+  "Id": "83c4c333-d073-48a8-92b8-29f8ba2b2b5f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-hands",
+    "DisplayName": "Iron Hands",
+    "Description": null,
+    "FieldValues": {
+      "Number": "992",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "50",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "50",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-hands",
+      "DisplayName": "Iron Hands",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

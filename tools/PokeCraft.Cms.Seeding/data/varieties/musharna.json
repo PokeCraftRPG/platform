@@ -1,0 +1,26 @@
+﻿{
+  "Id": "bd554eba-2ca3-4a5b-aafa-0717acf74273",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "musharna",
+    "DisplayName": "Musharna",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"18ac4d24-249b-493f-b3c1-18ae58b10364\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "musharna",
+      "DisplayName": "Musharna",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Drowsing"
+      }
+    }
+  }
+}

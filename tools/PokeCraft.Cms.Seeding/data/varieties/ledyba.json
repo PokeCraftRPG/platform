@@ -1,0 +1,26 @@
+﻿{
+  "Id": "34458d41-3dfe-4925-9d7c-4a592ec9267a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ledyba",
+    "DisplayName": "Ledyba",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"97f6a7b1-7f4b-48b3-8fc6-c16421fe3efa\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ledyba",
+      "DisplayName": "Ledyba",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Five Star"
+      }
+    }
+  }
+}

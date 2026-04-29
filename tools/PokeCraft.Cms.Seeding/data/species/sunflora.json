@@ -1,0 +1,27 @@
+﻿{
+  "Id": "fa660477-0808-47a8-8b05-18bc1f3cab01",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sunflora",
+    "DisplayName": "Sunflora",
+    "Description": null,
+    "FieldValues": {
+      "Number": "192",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sunflora",
+      "DisplayName": "Sunflora",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "8874974a-1c04-49f2-9023-4768c163a46b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "night-daze",
+    "DisplayName": "Night Daze",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "95",
+      "Power": "85",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "night-daze",
+      "DisplayName": "Night Daze",
+      "Description": "The user looses a pitch-black shock wave at the target to inflict damage. This may also lower the target's accuracy.",
+      "FieldValues": {}
+    }
+  }
+}

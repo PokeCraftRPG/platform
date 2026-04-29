@@ -1,0 +1,26 @@
+﻿{
+  "Id": "808cb1eb-1747-479f-b0ec-078933266a2a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thundurus-incarnate",
+    "DisplayName": "Thundurus",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"277d99c4-4982-445d-9881-53737e6dedff\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thundurus-incarnate",
+      "DisplayName": "Thundurus",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bolt Strike"
+      }
+    }
+  }
+}

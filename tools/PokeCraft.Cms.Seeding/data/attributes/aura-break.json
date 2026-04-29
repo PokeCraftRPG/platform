@@ -1,0 +1,19 @@
+﻿{
+  "Id": "180c32f3-fd5e-4bc7-bece-49338e11b670",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aura-break",
+    "DisplayName": "Aura Break",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aura-break",
+      "DisplayName": "Aura Break",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

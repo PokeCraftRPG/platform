@@ -1,0 +1,42 @@
+﻿{
+  "Id": "2ca0a118-136c-45d2-a4ea-85970764b51c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "machop",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"70cdd2db-dfd5-4a4f-baca-fe2e02231ba0\"]",
+      "Height": "8",
+      "Weight": "195",
+      "YieldExperience": "61",
+      "PrimaryAbility": "[\"1c326e45-7c1a-4f8a-a55c-751b60f62f10\"]",
+      "SecondaryAbility": "[\"9abfc5f6-0767-4c13-a4c0-dd48c54a21d3\"]",
+      "HiddenAbility": "[\"d4177038-a9c6-44e6-adb5-615b7111a2b4\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "1",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "35",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "machop",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

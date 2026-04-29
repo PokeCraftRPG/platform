@@ -1,0 +1,23 @@
+﻿{
+  "Id": "d58e8b26-f484-4e5f-a72c-8318aa3dcf13",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "focus-energy",
+    "DisplayName": "Focus Energy",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "focus-energy",
+      "DisplayName": "Focus Energy",
+      "Description": "The user takes a deep breath and focuses so that its future attacks have a heightened chance of landing critical hits.",
+      "FieldValues": {}
+    }
+  }
+}

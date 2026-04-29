@@ -1,0 +1,28 @@
+﻿{
+  "Id": "072d9fff-1210-443f-9bad-2b5910afe996",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "roserade",
+    "DisplayName": "Roserade",
+    "Description": null,
+    "FieldValues": {
+      "Number": "407",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Fairy\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "roserade",
+      "DisplayName": "Roserade",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

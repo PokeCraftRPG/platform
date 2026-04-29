@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6de96ad7-8a56-4d55-bab6-bcc1bfdafd33",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "poison-tail",
+    "DisplayName": "Poison Tail",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "50",
+      "PowerPoints": "25"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "poison-tail",
+      "DisplayName": "Poison Tail",
+      "Description": "The user hits the target with its tail. This move has a heightened chance of landing a critical hit and may also poison the target.",
+      "FieldValues": {}
+    }
+  }
+}

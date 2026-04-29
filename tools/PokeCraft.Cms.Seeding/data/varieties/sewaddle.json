@@ -1,0 +1,26 @@
+﻿{
+  "Id": "cc2c0d53-cbd7-4045-bba1-3c2b01392c22",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sewaddle",
+    "DisplayName": "Sewaddle",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b88a1d7f-a9b0-49ce-a899-770e235affae\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sewaddle",
+      "DisplayName": "Sewaddle",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sewing"
+      }
+    }
+  }
+}

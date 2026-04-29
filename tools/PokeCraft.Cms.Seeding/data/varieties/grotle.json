@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7e4dc75c-c96f-4276-8c4a-f19db6b729b2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grotle",
+    "DisplayName": "Grotle",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8619eeec-efc0-4ebb-b0f2-cb3260706be6\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grotle",
+      "DisplayName": "Grotle",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Grove"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "5d5cedcc-a0f7-4a24-8d44-be97c3f59e9b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "marshtomp",
+    "DisplayName": "Marshtomp",
+    "Description": null,
+    "FieldValues": {
+      "Number": "259",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "marshtomp",
+      "DisplayName": "Marshtomp",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

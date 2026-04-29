@@ -1,0 +1,41 @@
+﻿{
+  "Id": "3d958de3-ebf3-473a-9d7c-3f32d5b976f4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cinderace",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d9a3a3c3-ab4f-42c4-963d-dcf177c04550\"]",
+      "Height": "14",
+      "Weight": "330",
+      "YieldExperience": "265",
+      "PrimaryAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "HiddenAbility": "[\"b887d663-0d40-467d-bc3a-b39e4c496300\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "116",
+      "YieldAttack": "0",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "119",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cinderace",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

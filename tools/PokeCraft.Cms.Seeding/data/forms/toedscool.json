@@ -1,0 +1,41 @@
+﻿{
+  "Id": "9a1aab88-f0b8-4148-b55e-356f6935b787",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toedscool",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"93bcfc5e-f780-4df6-a81d-a4d0dfc98290\"]",
+      "Height": "9",
+      "Weight": "330",
+      "YieldExperience": "67",
+      "PrimaryAbility": "[\"83522335-1c9a-4d9f-a292-8b9fad34d6b8\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "40",
+      "YieldAttack": "0",
+      "BaseDefense": "35",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toedscool",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

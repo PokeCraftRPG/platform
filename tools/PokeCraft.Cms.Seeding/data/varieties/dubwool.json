@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c826d730-a768-4a40-a350-74a203fab535",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dubwool",
+    "DisplayName": "Dubwool",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f4dbd689-6ba1-43cf-96de-0b140f5d50a9\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dubwool",
+      "DisplayName": "Dubwool",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sheep"
+      }
+    }
+  }
+}

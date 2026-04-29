@@ -1,0 +1,26 @@
+﻿{
+  "Id": "64072e76-289e-445e-86fb-3de1a458186d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cloyster",
+    "DisplayName": "Cloyster",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a6db31be-a6f5-412a-b7cf-7f54975547c3\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cloyster",
+      "DisplayName": "Cloyster",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bivalve"
+      }
+    }
+  }
+}

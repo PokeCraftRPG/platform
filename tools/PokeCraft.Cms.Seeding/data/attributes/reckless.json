@@ -1,0 +1,19 @@
+﻿{
+  "Id": "3e4191ac-398f-48f3-a3ce-106d5ddd1742",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "reckless",
+    "DisplayName": "Reckless",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "reckless",
+      "DisplayName": "Reckless",
+      "Description": "Powers up moves that have recoil damage.",
+      "FieldValues": {}
+    }
+  }
+}

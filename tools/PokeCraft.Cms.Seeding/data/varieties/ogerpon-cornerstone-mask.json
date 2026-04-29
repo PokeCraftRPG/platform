@@ -1,0 +1,26 @@
+﻿{
+  "Id": "81ea81ad-a079-4aba-92bf-3c76c3c571f1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ogerpon-cornerstone-mask",
+    "DisplayName": "Ogerpon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f1f69fb1-13d8-497e-a705-3716dd9c72c5\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ogerpon-cornerstone-mask",
+      "DisplayName": "Ogerpon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mask"
+      }
+    }
+  }
+}

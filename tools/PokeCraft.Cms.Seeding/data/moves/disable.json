@@ -1,0 +1,24 @@
+﻿{
+  "Id": "336cd831-d267-4b60-a4a7-375c84cb0f20",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "disable",
+    "DisplayName": "Disable",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "disable",
+      "DisplayName": "Disable",
+      "Description": "For four turns, the target will be unable to use whichever move it last used.",
+      "FieldValues": {}
+    }
+  }
+}

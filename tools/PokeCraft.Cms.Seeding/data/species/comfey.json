@@ -1,0 +1,27 @@
+﻿{
+  "Id": "a71e934e-ef8a-409e-a964-9d00b36b5077",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "comfey",
+    "DisplayName": "Comfey",
+    "Description": null,
+    "FieldValues": {
+      "Number": "764",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "comfey",
+      "DisplayName": "Comfey",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

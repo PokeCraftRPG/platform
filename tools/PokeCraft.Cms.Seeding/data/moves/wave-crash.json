@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ef4a06ac-53df-4d7d-b8e2-7628e8df604d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wave-crash",
+    "DisplayName": "Wave Crash",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wave-crash",
+      "DisplayName": "Wave Crash",
+      "Description": "The user shrouds itself in water and slams into the target with its whole body to inflict damage. This also damages the user quite a lot.",
+      "FieldValues": {}
+    }
+  }
+}

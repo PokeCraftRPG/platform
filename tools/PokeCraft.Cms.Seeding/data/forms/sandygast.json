@@ -1,0 +1,42 @@
+﻿{
+  "Id": "2107d352-1972-41a2-a9b6-ae7995f84e8e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sandygast",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a584e53b-26da-4c6d-b9b0-ff1b37bf6890\"]",
+      "Height": "5",
+      "Weight": "700",
+      "YieldExperience": "64",
+      "PrimaryAbility": "[\"e314c045-070d-4856-afd9-0bece2bd1b8a\"]",
+      "HiddenAbility": "[\"2298dae8-5c1f-423f-960d-8cf61b19c897\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "15",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sandygast",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

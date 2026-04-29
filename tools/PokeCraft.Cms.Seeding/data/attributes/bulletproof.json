@@ -1,0 +1,19 @@
+﻿{
+  "Id": "95f8b622-ee64-42b7-be19-313365f588d5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bulletproof",
+    "DisplayName": "Bulletproof",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bulletproof",
+      "DisplayName": "Bulletproof",
+      "Description": "Protects the Pokémon from ball and bomb moves.",
+      "FieldValues": {}
+    }
+  }
+}

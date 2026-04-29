@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f1f7fa01-fe32-4cd9-aa3d-0937e975e30f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "jellicent-male",
+    "DisplayName": "Jellicent",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f94c9628-18d5-47ea-b429-8d91e770f9c6\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "jellicent-male",
+      "DisplayName": "Jellicent",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Floating"
+      }
+    }
+  }
+}

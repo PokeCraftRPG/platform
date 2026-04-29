@@ -1,0 +1,25 @@
+﻿{
+  "Id": "1dce68fa-0787-47e1-9545-648799485ef8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "frost-breath",
+    "DisplayName": "Frost Breath",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "90",
+      "Power": "60",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "frost-breath",
+      "DisplayName": "Frost Breath",
+      "Description": "The user attacks by blowing its cold breath on the target. This move always lands a critical hit.",
+      "FieldValues": {}
+    }
+  }
+}

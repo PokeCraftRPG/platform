@@ -1,0 +1,19 @@
+﻿{
+  "Id": "6c7fc1a9-9c49-4e4f-ae09-81bb228713b0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "solar-power",
+    "DisplayName": "Solar Power",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "solar-power",
+      "DisplayName": "Solar Power",
+      "Description": "In harsh sunlight, the Pokémon's Sp. Atk stat is boosted, but its HP decreases every turn.",
+      "FieldValues": {}
+    }
+  }
+}

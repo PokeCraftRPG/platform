@@ -1,0 +1,28 @@
+﻿{
+  "Id": "98f13b33-0232-4ca0-be70-92dc72978fdf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "feebas",
+    "DisplayName": "Feebas",
+    "Description": null,
+    "FieldValues": {
+      "Number": "349",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "feebas",
+      "DisplayName": "Feebas",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

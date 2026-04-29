@@ -1,0 +1,26 @@
+﻿{
+  "Id": "11f9b0e9-a5d7-4387-b6ab-5eb6de12c8a1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pidgeotto",
+    "DisplayName": "Pidgeotto",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4f330cc8-9939-4658-bc96-ea3431378516\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pidgeotto",
+      "DisplayName": "Pidgeotto",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Bird"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "81ad49ab-8238-4ad0-a9ba-207f959895fd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pidove",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c5232ac2-0ac0-45b4-87af-edd146d7b258\"]",
+      "Height": "3",
+      "Weight": "21",
+      "YieldExperience": "53",
+      "PrimaryAbility": "[\"15e51a3f-bb28-4ca8-abdf-27130d9930b4\"]",
+      "SecondaryAbility": "[\"c1dc8f0f-7de1-4657-b135-5bd8efc74e80\"]",
+      "HiddenAbility": "[\"3bb432b8-b38c-4243-888c-20085e000f57\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "1",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "36",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "30",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "43",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Normal\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pidove",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

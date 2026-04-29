@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7961423e-eb00-44fe-be9d-1dc121b620d9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "graveler",
+    "DisplayName": "Graveler",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e9d7ee85-9089-4b7d-af4f-6528785416a5\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "graveler",
+      "DisplayName": "Graveler",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rock"
+      }
+    }
+  }
+}

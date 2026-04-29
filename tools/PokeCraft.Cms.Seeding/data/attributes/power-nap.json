@@ -1,0 +1,19 @@
+﻿{
+  "Id": "d0953879-5a6c-40d7-b76e-b02d71077a6f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "power-nap",
+    "DisplayName": "Power Nap",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "power-nap",
+      "DisplayName": "Power Nap",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

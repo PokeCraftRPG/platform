@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1aadecf9-d859-4ad7-bcfd-9a89ded1b0e7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "venusaur",
+    "DisplayName": "Venusaur",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"37ca7051-d8a8-42fa-ba26-53237375115e\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "venusaur",
+      "DisplayName": "Venusaur",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Seed"
+      }
+    }
+  }
+}

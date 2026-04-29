@@ -1,0 +1,25 @@
+﻿{
+  "Id": "446abe80-421c-476d-af16-dd0e12b2f599",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cryogonal",
+    "DisplayName": "Cryogonal",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7e52010a-a78f-4dd2-a3b8-385b7f52c804\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cryogonal",
+      "DisplayName": "Cryogonal",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Crystallizing"
+      }
+    }
+  }
+}

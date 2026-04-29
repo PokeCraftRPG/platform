@@ -1,0 +1,26 @@
+﻿{
+  "Id": "145d458d-3707-4215-bde5-30fd552a996c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "palossand",
+    "DisplayName": "Palossand",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"37fba65c-9a3c-44d8-ad95-9e043fd6b675\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "palossand",
+      "DisplayName": "Palossand",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Sand Castle"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f336313c-d6d8-45cc-8baa-ca9312caf1f5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snover",
+    "DisplayName": "Snover",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c75b9d8b-2bea-4dad-a0d4-0d412479b9ed\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snover",
+      "DisplayName": "Snover",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Frost Tree"
+      }
+    }
+  }
+}

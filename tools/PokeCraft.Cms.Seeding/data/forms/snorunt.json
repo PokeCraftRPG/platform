@@ -1,0 +1,42 @@
+﻿{
+  "Id": "32503ce5-c5a7-47d1-aac1-356bbd898db7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snorunt",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"10372e03-c494-4492-ba6c-a02330582e59\"]",
+      "Height": "7",
+      "Weight": "168",
+      "YieldExperience": "60",
+      "PrimaryAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "SecondaryAbility": "[\"c28be462-7265-4527-a8aa-85774f7eaf7b\"]",
+      "HiddenAbility": "[\"e54f140b-893f-4621-b7ac-44928594080e\"]",
+      "BaseHP": "50",
+      "YieldHP": "1",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snorunt",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "9202448e-1d8d-4013-b86c-d5bb99f5c458",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lunar-dance",
+    "DisplayName": "Lunar Dance",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lunar-dance",
+      "DisplayName": "Lunar Dance",
+      "Description": "The user faints. In return, the Pokémon taking its place will have its HP and PP restored and its status conditions cured.",
+      "FieldValues": {}
+    }
+  }
+}

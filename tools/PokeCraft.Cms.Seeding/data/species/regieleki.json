@@ -1,0 +1,27 @@
+﻿{
+  "Id": "8a76456f-1f30-458b-a80a-8766db09ed61",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "regieleki",
+    "DisplayName": "Regieleki",
+    "Description": null,
+    "FieldValues": {
+      "Number": "894",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "regieleki",
+      "DisplayName": "Regieleki",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

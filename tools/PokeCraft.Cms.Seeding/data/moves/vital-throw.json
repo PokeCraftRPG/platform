@@ -1,0 +1,24 @@
+﻿{
+  "Id": "21cecf9e-3515-41aa-8bb3-c02db0aae169",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vital-throw",
+    "DisplayName": "Vital Throw",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "70",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vital-throw",
+      "DisplayName": "Vital Throw",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0d97e4a0-2a43-4e01-a56f-0027d9c6463d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meditite",
+    "DisplayName": "Meditite",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b7b6ce1f-d193-4d53-9568-a5d585295488\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meditite",
+      "DisplayName": "Meditite",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Meditate"
+      }
+    }
+  }
+}

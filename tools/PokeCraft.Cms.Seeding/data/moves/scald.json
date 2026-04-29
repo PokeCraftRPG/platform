@@ -1,0 +1,25 @@
+﻿{
+  "Id": "2301b61a-5a20-44f1-8313-d2bf1ed5b496",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scald",
+    "DisplayName": "Scald",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scald",
+      "DisplayName": "Scald",
+      "Description": "The user attacks by shooting boiling hot water at the target. This may also leave the target with a burn.",
+      "FieldValues": {}
+    }
+  }
+}

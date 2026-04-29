@@ -1,0 +1,27 @@
+﻿{
+  "Id": "29c5b4b8-bcde-45e0-bfa5-a8d04390e2af",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "urshifu",
+    "DisplayName": "Urshifu",
+    "Description": null,
+    "FieldValues": {
+      "Number": "892",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "urshifu",
+      "DisplayName": "Urshifu",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

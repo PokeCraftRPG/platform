@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3307efca-3ac6-4628-9326-eda0820ce1f8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drapion",
+    "DisplayName": "Drapion",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1dbcb55b-ee48-48da-81c0-922a80a577e8\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drapion",
+      "DisplayName": "Drapion",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ogre Scorpion"
+      }
+    }
+  }
+}

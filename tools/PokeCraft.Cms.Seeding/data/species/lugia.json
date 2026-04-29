@@ -1,0 +1,27 @@
+﻿{
+  "Id": "38bd4bb0-9940-4f23-9fa7-d54055a92bd0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lugia",
+    "DisplayName": "Lugia",
+    "Description": null,
+    "FieldValues": {
+      "Number": "249",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lugia",
+      "DisplayName": "Lugia",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

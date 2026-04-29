@@ -1,0 +1,19 @@
+﻿{
+  "Id": "cca07116-593d-4ff3-8bd7-f25a9256c3c6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "high-rise",
+    "DisplayName": "High-rise",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "high-rise",
+      "DisplayName": "High-rise",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

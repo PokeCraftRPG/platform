@@ -1,0 +1,25 @@
+﻿{
+  "Id": "64a4af2b-15ae-4bd3-af11-1eb380e7ca83",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "silver-wind",
+    "DisplayName": "Silver Wind",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "silver-wind",
+      "DisplayName": "Silver Wind",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

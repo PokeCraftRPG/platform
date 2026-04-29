@@ -1,0 +1,25 @@
+﻿{
+  "Id": "075c30b4-ee84-489f-a3d4-4b9c52073fe6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "double-edge",
+    "DisplayName": "Double-Edge",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "double-edge",
+      "DisplayName": "Double-Edge",
+      "Description": "A reckless life-risking tackle in which the user rushes the target. This also damages the user quite a lot.",
+      "FieldValues": {}
+    }
+  }
+}

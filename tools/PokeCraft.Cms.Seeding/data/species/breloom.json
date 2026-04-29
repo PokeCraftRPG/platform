@@ -1,0 +1,28 @@
+﻿{
+  "Id": "8da776fb-cf85-41bf-a693-f1feb32d7039",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "breloom",
+    "DisplayName": "Breloom",
+    "Description": null,
+    "FieldValues": {
+      "Number": "286",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"Fluctuating\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Fairy\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "breloom",
+      "DisplayName": "Breloom",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

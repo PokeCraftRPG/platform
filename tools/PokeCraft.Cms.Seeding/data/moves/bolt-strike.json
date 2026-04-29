@@ -1,0 +1,25 @@
+﻿{
+  "Id": "dc5470e2-19fd-4143-b525-95844c90c142",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bolt-strike",
+    "DisplayName": "Bolt Strike",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "85",
+      "Power": "130",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bolt-strike",
+      "DisplayName": "Bolt Strike",
+      "Description": "The user surrounds itself with a great amount of electricity and charges the target. This may also leave the target with paralysis.",
+      "FieldValues": {}
+    }
+  }
+}

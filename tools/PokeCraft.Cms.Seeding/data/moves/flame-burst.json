@@ -1,0 +1,25 @@
+﻿{
+  "Id": "7e466dbe-3465-4e45-a975-9b13f46280c5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flame-burst",
+    "DisplayName": "Flame Burst",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "70",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flame-burst",
+      "DisplayName": "Flame Burst",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

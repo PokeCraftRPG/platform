@@ -1,0 +1,19 @@
+﻿{
+  "Id": "e28c42cc-a85f-4f82-89b2-e80210d5b4ef",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "healer",
+    "DisplayName": "Healer",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "healer",
+      "DisplayName": "Healer",
+      "Description": "Sometimes cures the status conditions of the Pokémon's allies.",
+      "FieldValues": {}
+    }
+  }
+}

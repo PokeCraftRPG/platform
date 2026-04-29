@@ -1,0 +1,25 @@
+﻿{
+  "Id": "a81cce4c-3207-448c-b7c3-3a7cc1b23e88",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shaymin-land",
+    "DisplayName": "Shaymin",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ca9195d5-05e2-43b9-9aee-f025aef3f7d3\"]",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shaymin-land",
+      "DisplayName": "Shaymin",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Gratitude"
+      }
+    }
+  }
+}

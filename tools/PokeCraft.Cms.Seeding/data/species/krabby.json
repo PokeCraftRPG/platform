@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ea00699a-45c3-4c78-a072-8080c45acfcb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "krabby",
+    "DisplayName": "Krabby",
+    "Description": null,
+    "FieldValues": {
+      "Number": "98",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "225",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water3\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "krabby",
+      "DisplayName": "Krabby",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

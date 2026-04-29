@@ -1,0 +1,19 @@
+﻿{
+  "Id": "64ea43f2-fa75-4887-8ab1-b15bbc315fcc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dark-aura",
+    "DisplayName": "Dark Aura",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dark-aura",
+      "DisplayName": "Dark Aura",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

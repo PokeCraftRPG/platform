@@ -1,0 +1,25 @@
+﻿{
+  "Id": "59bc5c3b-6670-4858-87c1-e6fbd449fe4f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "maushold-family-of-three",
+    "DisplayName": "Maushold",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"438aae75-b766-4a1e-97c8-45deef09323f\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "maushold-family-of-three",
+      "DisplayName": "Maushold",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Family"
+      }
+    }
+  }
+}

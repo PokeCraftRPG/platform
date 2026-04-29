@@ -1,0 +1,40 @@
+﻿{
+  "Id": "0ae7d2ae-a9bb-4fc5-a3d7-eb8dbeeaa1d9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "deoxys-attack",
+    "DisplayName": "Attack Deoxys",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"36dc2b41-1d37-4b77-b868-4249902545de\"]",
+      "Height": "17",
+      "Weight": "608",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"04822c52-0ef2-4b5e-a4bb-176772f6c3d8\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "180",
+      "YieldAttack": "2",
+      "BaseDefense": "20",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "180",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "20",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "150",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "deoxys-attack",
+      "DisplayName": "Attack Deoxys",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

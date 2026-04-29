@@ -1,0 +1,19 @@
+﻿{
+  "Id": "aae83cb9-bd69-4c8e-9bd4-f80c8557a1db",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "quick-draw",
+    "DisplayName": "Quick Draw",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "quick-draw",
+      "DisplayName": "Quick Draw",
+      "Description": "Enables the Pokémon to move first occasionally.",
+      "FieldValues": {}
+    }
+  }
+}

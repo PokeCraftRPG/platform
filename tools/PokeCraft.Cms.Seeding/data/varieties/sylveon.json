@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0f4d1041-b4d9-4968-b007-91aa79be6ffb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sylveon",
+    "DisplayName": "Sylveon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ca8f3386-3d83-4509-8e7b-7bceec6e5ef9\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sylveon",
+      "DisplayName": "Sylveon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Intertwining"
+      }
+    }
+  }
+}

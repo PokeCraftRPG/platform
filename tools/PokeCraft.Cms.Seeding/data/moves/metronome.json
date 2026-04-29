@@ -1,0 +1,23 @@
+﻿{
+  "Id": "f7495859-ee01-4b27-be34-2708d24808d4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "metronome",
+    "DisplayName": "Metronome",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "metronome",
+      "DisplayName": "Metronome",
+      "Description": "The user waggles a finger and stimulates its brain into randomly using nearly any move.",
+      "FieldValues": {}
+    }
+  }
+}

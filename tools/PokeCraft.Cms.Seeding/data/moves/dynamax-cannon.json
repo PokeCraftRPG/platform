@@ -1,0 +1,25 @@
+﻿{
+  "Id": "0872a74c-8bdb-4b02-9129-70b4d48fedbd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dynamax-cannon",
+    "DisplayName": "Dynamax Cannon",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dynamax-cannon",
+      "DisplayName": "Dynamax Cannon",
+      "Description": "The user condenses energy within its body and unleashes that energy from its core to inflict damage.",
+      "FieldValues": {}
+    }
+  }
+}

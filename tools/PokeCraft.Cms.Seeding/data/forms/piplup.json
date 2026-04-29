@@ -1,0 +1,41 @@
+﻿{
+  "Id": "85bd53a3-3e97-47c6-9bfa-5afa7d354f35",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "piplup",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"cb9a85c8-0acd-4756-ba35-ace76ca4ea0a\"]",
+      "Height": "4",
+      "Weight": "52",
+      "YieldExperience": "63",
+      "PrimaryAbility": "[\"973e0e1a-dcca-4ab1-bd25-90df209dfc63\"]",
+      "HiddenAbility": "[\"2a7439f3-bce4-4614-9969-78ec2ce46f31\"]",
+      "BaseHP": "53",
+      "YieldHP": "0",
+      "BaseAttack": "51",
+      "YieldAttack": "0",
+      "BaseDefense": "53",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "61",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "56",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "piplup",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

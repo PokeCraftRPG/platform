@@ -1,0 +1,26 @@
+﻿{
+  "Id": "abdce8c5-e774-48b7-8d49-8fa9950d114d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slakoth",
+    "DisplayName": "Slakoth",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"dc09d92d-394f-4821-a846-068242e59578\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slakoth",
+      "DisplayName": "Slakoth",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Slacker"
+      }
+    }
+  }
+}

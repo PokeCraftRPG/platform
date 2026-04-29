@@ -1,0 +1,41 @@
+﻿{
+  "Id": "98f66c61-b5e3-4cc4-8586-b05ab3238788",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "walking-wake",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6b80aecb-b681-4aa2-8646-cde5278f2352\"]",
+      "Height": "35",
+      "Weight": "2800",
+      "YieldExperience": "295",
+      "PrimaryAbility": "[\"fd80fd8e-dbd4-4b54-bfef-8ed47d35c99e\"]",
+      "BaseHP": "99",
+      "YieldHP": "0",
+      "BaseAttack": "83",
+      "YieldAttack": "0",
+      "BaseDefense": "91",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "125",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "83",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "109",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "walking-wake",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "97f6a7b1-7f4b-48b3-8fc6-c16421fe3efa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ledyba",
+    "DisplayName": "Ledyba",
+    "Description": null,
+    "FieldValues": {
+      "Number": "165",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ledyba",
+      "DisplayName": "Ledyba",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

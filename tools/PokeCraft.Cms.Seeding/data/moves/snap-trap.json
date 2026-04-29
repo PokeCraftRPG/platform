@@ -1,0 +1,25 @@
+﻿{
+  "Id": "031eeff9-4886-4754-95b4-ce5e1b4d6176",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snap-trap",
+    "DisplayName": "Snap Trap",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "35",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snap-trap",
+      "DisplayName": "Snap Trap",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

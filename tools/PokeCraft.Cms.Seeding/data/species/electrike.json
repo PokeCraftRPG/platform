@@ -1,0 +1,27 @@
+﻿{
+  "Id": "a601b5f2-08da-4ca5-816c-088b0ab2f64d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "electrike",
+    "DisplayName": "Electrike",
+    "Description": null,
+    "FieldValues": {
+      "Number": "309",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "electrike",
+      "DisplayName": "Electrike",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

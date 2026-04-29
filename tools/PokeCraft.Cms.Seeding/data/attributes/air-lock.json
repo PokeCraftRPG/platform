@@ -1,0 +1,19 @@
+﻿{
+  "Id": "4bd2f68c-bc75-450c-816a-74899d39db77",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "air-lock",
+    "DisplayName": "Air Lock",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "air-lock",
+      "DisplayName": "Air Lock",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

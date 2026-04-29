@@ -1,0 +1,23 @@
+﻿{
+  "Id": "a6591e13-1103-48fb-ba73-16c26fd38404",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "role-play",
+    "DisplayName": "Role Play",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "role-play",
+      "DisplayName": "Role Play",
+      "Description": "The user mimics the target completely, copying the target's Ability.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "18ac4d24-249b-493f-b3c1-18ae58b10364",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "musharna",
+    "DisplayName": "Musharna",
+    "Description": null,
+    "FieldValues": {
+      "Number": "518",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "musharna",
+      "DisplayName": "Musharna",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

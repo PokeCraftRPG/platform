@@ -1,0 +1,43 @@
+﻿{
+  "Id": "5fbda35a-f7c9-4f66-8d4c-b152155a8f67",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "inkay",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1bf07b5a-49dd-4049-a296-a8d0e82011e1\"]",
+      "Height": "4",
+      "Weight": "35",
+      "YieldExperience": "58",
+      "PrimaryAbility": "[\"db725f43-cf10-4966-83cf-8f61405f506f\"]",
+      "SecondaryAbility": "[\"7f395dac-6fba-4c1f-8a37-b6772676e8c8\"]",
+      "HiddenAbility": "[\"0a9fa785-a966-4ed6-8ab9-a33aecd0847c\"]",
+      "BaseHP": "53",
+      "YieldHP": "0",
+      "BaseAttack": "54",
+      "YieldAttack": "1",
+      "BaseDefense": "53",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "37",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "46",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "45",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "inkay",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

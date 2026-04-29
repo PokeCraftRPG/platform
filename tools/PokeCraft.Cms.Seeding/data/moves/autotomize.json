@@ -1,0 +1,23 @@
+﻿{
+  "Id": "0cf78a01-5859-476a-8555-ecef6124da35",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "autotomize",
+    "DisplayName": "Autotomize",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "autotomize",
+      "DisplayName": "Autotomize",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,39 @@
+﻿{
+  "Id": "8af2a762-8aa5-4726-bc29-e42287789a9a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scrafty-mega",
+    "DisplayName": "Mega Scrafty",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0d236b1a-3aac-4268-a5ae-9f9233dd3863\"]",
+      "Height": "11",
+      "Weight": "310",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "130",
+      "YieldAttack": "0",
+      "BaseDefense": "135",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "135",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "68",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Dark\"]",
+      "SecondaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scrafty-mega",
+      "DisplayName": "Mega Scrafty",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,39 @@
+﻿{
+  "Id": "f840c6e9-09ea-46d5-8546-686e3c56722d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "floette-mega",
+    "DisplayName": "Mega Floette",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"69166c5b-9d76-4a13-946d-8255b430a892\"]",
+      "Height": "2",
+      "Weight": "1008",
+      "PrimaryAbility": "[\"18fae078-c83d-4365-962c-5a2b67bb2b72\"]",
+      "BaseHP": "74",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "87",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "155",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "148",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "102",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "floette-mega",
+      "DisplayName": "Mega Floette",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

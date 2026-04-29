@@ -1,0 +1,25 @@
+﻿{
+  "Id": "e19c5d43-7017-4b3d-b232-03ba61937bd4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flare-blitz",
+    "DisplayName": "Flare Blitz",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flare-blitz",
+      "DisplayName": "Flare Blitz",
+      "Description": "The user cloaks itself in fire and charges the target to inflict damage. This also damages the user quite a lot and may leave the target with a burn.",
+      "FieldValues": {}
+    }
+  }
+}

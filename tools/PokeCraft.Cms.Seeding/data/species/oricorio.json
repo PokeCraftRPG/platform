@@ -1,0 +1,27 @@
+﻿{
+  "Id": "dd13811e-759c-40d2-998b-d022f5284529",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "oricorio",
+    "DisplayName": "Oricorio",
+    "Description": null,
+    "FieldValues": {
+      "Number": "741",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "oricorio",
+      "DisplayName": "Oricorio",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

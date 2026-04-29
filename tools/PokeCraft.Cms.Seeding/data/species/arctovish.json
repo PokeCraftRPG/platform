@@ -1,0 +1,27 @@
+﻿{
+  "Id": "a532c60f-ad62-42d2-be51-0564521ed70a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arctovish",
+    "DisplayName": "Arctovish",
+    "Description": null,
+    "FieldValues": {
+      "Number": "883",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "35",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arctovish",
+      "DisplayName": "Arctovish",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

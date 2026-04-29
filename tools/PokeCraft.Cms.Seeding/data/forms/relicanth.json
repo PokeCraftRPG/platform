@@ -1,0 +1,43 @@
+﻿{
+  "Id": "f08933a3-ae16-45ee-97f4-f4851fb20f7a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "relicanth",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d2006aa6-03d7-4808-8066-9d44ca913d8f\"]",
+      "Height": "10",
+      "Weight": "234",
+      "YieldExperience": "170",
+      "PrimaryAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "SecondaryAbility": "[\"98ae35ae-b156-4c2e-b4a7-8af42a8b0ef6\"]",
+      "HiddenAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "BaseHP": "100",
+      "YieldHP": "1",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "130",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "relicanth",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

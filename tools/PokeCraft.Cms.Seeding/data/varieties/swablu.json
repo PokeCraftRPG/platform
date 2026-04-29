@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b6aa1b03-32cd-473d-955d-a8706a88987c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swablu",
+    "DisplayName": "Swablu",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"d69a7042-97f0-49ee-8f48-cc672777713f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swablu",
+      "DisplayName": "Swablu",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cotton Bird"
+      }
+    }
+  }
+}

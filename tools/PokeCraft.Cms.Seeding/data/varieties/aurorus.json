@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4b2ff617-78e8-4b37-a83a-e8fe60117ea1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aurorus",
+    "DisplayName": "Aurorus",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5bbcfbf3-8846-4562-9914-78df36fd91e3\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aurorus",
+      "DisplayName": "Aurorus",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tundra"
+      }
+    }
+  }
+}

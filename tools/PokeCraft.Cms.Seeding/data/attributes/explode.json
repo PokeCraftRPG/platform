@@ -1,0 +1,19 @@
+﻿{
+  "Id": "66804fee-d08f-48fe-858f-2718944ae841",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "explode",
+    "DisplayName": "Explode",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "explode",
+      "DisplayName": "Explode",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

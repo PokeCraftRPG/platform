@@ -1,0 +1,26 @@
+﻿{
+  "Id": "00b7120d-5446-4863-8078-b0505540f1c1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drampa",
+    "DisplayName": "Drampa",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"361e9a68-6b0f-44c8-9f76-df7edbbd1a9c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drampa",
+      "DisplayName": "Drampa",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Placid"
+      }
+    }
+  }
+}

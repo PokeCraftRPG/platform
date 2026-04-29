@@ -1,0 +1,27 @@
+﻿{
+  "Id": "7a80000d-5528-4f4d-8811-6d50cdc19bfe",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hatenna",
+    "DisplayName": "Hatenna",
+    "Description": null,
+    "FieldValues": {
+      "Number": "856",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "235",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hatenna",
+      "DisplayName": "Hatenna",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

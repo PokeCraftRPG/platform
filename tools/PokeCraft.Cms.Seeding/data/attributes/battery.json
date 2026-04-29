@@ -1,0 +1,19 @@
+﻿{
+  "Id": "a9491dfd-2dee-4924-8f90-137f818c18e0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "battery",
+    "DisplayName": "Battery",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "battery",
+      "DisplayName": "Battery",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

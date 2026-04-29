@@ -1,0 +1,27 @@
+﻿{
+  "Id": "4e88d72c-5f2b-440f-a2ee-e7a93bc1d649",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "drowzee",
+    "DisplayName": "Drowzee",
+    "Description": null,
+    "FieldValues": {
+      "Number": "96",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "drowzee",
+      "DisplayName": "Drowzee",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

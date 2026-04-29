@@ -1,0 +1,25 @@
+﻿{
+  "Id": "6e05584a-f578-4e27-a78f-6f501b4b52af",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "extrasensory",
+    "DisplayName": "Extrasensory",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "extrasensory",
+      "DisplayName": "Extrasensory",
+      "Description": "The user attacks with an odd, unseeable power. This may also make the target flinch.",
+      "FieldValues": {}
+    }
+  }
+}

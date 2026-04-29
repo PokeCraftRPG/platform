@@ -1,0 +1,19 @@
+﻿{
+  "Id": "d2eec3d8-2cfa-4df2-b317-b07503f4ccb2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "full-metal-body",
+    "DisplayName": "Full Metal Body",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "full-metal-body",
+      "DisplayName": "Full Metal Body",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

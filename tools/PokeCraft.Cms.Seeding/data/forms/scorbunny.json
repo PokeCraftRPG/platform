@@ -1,0 +1,41 @@
+﻿{
+  "Id": "d6bf5fa5-40ec-4da6-87c0-bfaddc277d90",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scorbunny",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5ed7061a-a299-4cdc-b965-791fda9d7b82\"]",
+      "Height": "3",
+      "Weight": "45",
+      "YieldExperience": "62",
+      "PrimaryAbility": "[\"dbc12aae-cfae-4b59-9a3e-690d18b17d4e\"]",
+      "HiddenAbility": "[\"b887d663-0d40-467d-bc3a-b39e4c496300\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "71",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "69",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scorbunny",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

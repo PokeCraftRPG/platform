@@ -1,0 +1,26 @@
+﻿{
+  "Id": "86a7cb65-a884-4772-9026-fd1ae3a0f636",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sunkern",
+    "DisplayName": "Sunkern",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c878bb3d-08a0-4e1d-bde3-d827ea45beb9\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sunkern",
+      "DisplayName": "Sunkern",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Seed"
+      }
+    }
+  }
+}

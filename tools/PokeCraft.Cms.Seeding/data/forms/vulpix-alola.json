@@ -1,0 +1,41 @@
+﻿{
+  "Id": "bf9c44cd-6f11-4088-9fd3-d02fe2b1b9c7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vulpix-alola",
+    "DisplayName": "Alolan Vulpix",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"dfe9ba5e-0b83-45fc-a337-6aa906b072ba\"]",
+      "Height": "6",
+      "Weight": "99",
+      "YieldExperience": "60",
+      "PrimaryAbility": "[\"6397856d-ee55-409a-a0aa-3657039b20c4\"]",
+      "HiddenAbility": "[\"94d77255-80ed-447a-8809-43dc73a72602\"]",
+      "BaseHP": "38",
+      "YieldHP": "0",
+      "BaseAttack": "41",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ice\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vulpix-alola",
+      "DisplayName": "Alolan Vulpix",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

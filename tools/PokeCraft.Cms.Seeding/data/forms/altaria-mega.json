@@ -1,0 +1,41 @@
+﻿{
+  "Id": "5e704094-a0c3-4f78-a078-c9917cc1e417",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "altaria-mega",
+    "DisplayName": "Mega Altaria",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a513da46-9408-4ad8-9e57-a00fd59e1a2b\"]",
+      "Height": "15",
+      "Weight": "206",
+      "YieldExperience": "207",
+      "PrimaryAbility": "[\"d8e2ca66-487f-43bb-97f3-4d8b5e14b5f2\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "110",
+      "YieldAttack": "0",
+      "BaseDefense": "110",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "110",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "105",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "80",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "altaria-mega",
+      "DisplayName": "Mega Altaria",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

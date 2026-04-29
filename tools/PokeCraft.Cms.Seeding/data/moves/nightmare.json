@@ -1,0 +1,24 @@
+﻿{
+  "Id": "522c1cbc-8441-4572-abe4-0b7ae9182f8e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nightmare",
+    "DisplayName": "Nightmare",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nightmare",
+      "DisplayName": "Nightmare",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

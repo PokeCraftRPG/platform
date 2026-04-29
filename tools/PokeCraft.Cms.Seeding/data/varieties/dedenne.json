@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b8031262-7707-40d3-abfd-8a99a5aaa90f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dedenne",
+    "DisplayName": "Dedenne",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0eb4d0f1-ee2e-431c-8db9-cd91fee417ee\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dedenne",
+      "DisplayName": "Dedenne",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Antenna"
+      }
+    }
+  }
+}

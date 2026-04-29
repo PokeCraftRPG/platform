@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d9109217-4751-4da6-b47b-6e382a77bd72",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "perrserker",
+    "DisplayName": "Perrserker",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0eb1011e-8075-4cca-881f-1c910224ce85\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "perrserker",
+      "DisplayName": "Perrserker",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Viking"
+      }
+    }
+  }
+}

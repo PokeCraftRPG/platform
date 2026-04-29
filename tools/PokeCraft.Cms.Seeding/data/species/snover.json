@@ -1,0 +1,28 @@
+﻿{
+  "Id": "c75b9d8b-2bea-4dad-a0d4-0d412479b9ed",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snover",
+    "DisplayName": "Snover",
+    "Description": null,
+    "FieldValues": {
+      "Number": "459",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snover",
+      "DisplayName": "Snover",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

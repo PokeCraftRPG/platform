@@ -1,0 +1,25 @@
+﻿{
+  "Id": "f090a1f1-c5ce-4279-a580-c242f23488e3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thunderbolt",
+    "DisplayName": "Thunderbolt",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thunderbolt",
+      "DisplayName": "Thunderbolt",
+      "Description": "The user attacks the target with a strong electric blast. This may also leave the target with paralysis.",
+      "FieldValues": {}
+    }
+  }
+}

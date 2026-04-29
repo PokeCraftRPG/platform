@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c84747aa-f450-465e-bcab-0a2dbfa55d8b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spacial-rend",
+    "DisplayName": "Spacial Rend",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "95",
+      "Power": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spacial-rend",
+      "DisplayName": "Spacial Rend",
+      "Description": "The user tears the target along with the space around it. This move has a heightened chance of landing a critical hit.",
+      "FieldValues": {}
+    }
+  }
+}

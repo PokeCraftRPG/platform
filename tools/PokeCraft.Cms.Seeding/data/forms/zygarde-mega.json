@@ -1,0 +1,39 @@
+﻿{
+  "Id": "86f4fe88-bc6c-4596-b561-b71602f7849b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zygarde-mega",
+    "DisplayName": "Mega Zygarde",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"dbd212c8-739f-43cb-bbf2-c07d5a7f0de9\"]",
+      "Height": "77",
+      "Weight": "6100",
+      "BaseHP": "216",
+      "YieldHP": "0",
+      "BaseAttack": "70",
+      "YieldAttack": "0",
+      "BaseDefense": "91",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "216",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zygarde-mega",
+      "DisplayName": "Mega Zygarde",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

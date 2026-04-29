@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c423ea97-05e3-4408-bde2-f979b4967a6d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cetoddle",
+    "DisplayName": "Cetoddle",
+    "Description": null,
+    "FieldValues": {
+      "Number": "974",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "150",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cetoddle",
+      "DisplayName": "Cetoddle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

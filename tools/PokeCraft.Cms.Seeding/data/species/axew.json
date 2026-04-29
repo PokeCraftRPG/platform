@@ -1,0 +1,28 @@
+﻿{
+  "Id": "8ad27055-d212-4311-8c77-3d40f0594fbc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "axew",
+    "DisplayName": "Axew",
+    "Description": null,
+    "FieldValues": {
+      "Number": "610",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "75",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "axew",
+      "DisplayName": "Axew",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

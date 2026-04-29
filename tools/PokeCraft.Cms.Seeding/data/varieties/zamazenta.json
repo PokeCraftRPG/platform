@@ -1,0 +1,25 @@
+﻿{
+  "Id": "90394257-7ea9-47b4-90cf-472f6f14f9dd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zamazenta",
+    "DisplayName": "Zamazenta",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ef828100-4845-4fe4-a094-0bf184203ef1\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zamazenta",
+      "DisplayName": "Zamazenta",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Warrior"
+      }
+    }
+  }
+}

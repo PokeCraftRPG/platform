@@ -1,0 +1,19 @@
+﻿{
+  "Id": "2b8b8cfa-e12e-43d2-b403-594ac9a1c1f7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "weak-armor",
+    "DisplayName": "Weak Armor",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "weak-armor",
+      "DisplayName": "Weak Armor",
+      "Description": "The Pokémon's Defense stat is lowered when it takes damage from physical moves, but its Speed stat is sharply boosted.",
+      "FieldValues": {}
+    }
+  }
+}

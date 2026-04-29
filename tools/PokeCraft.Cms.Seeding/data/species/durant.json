@@ -1,0 +1,27 @@
+﻿{
+  "Id": "0c6be452-afc8-41aa-9c33-e805f158ce7a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "durant",
+    "DisplayName": "Durant",
+    "Description": null,
+    "FieldValues": {
+      "Number": "632",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "durant",
+      "DisplayName": "Durant",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

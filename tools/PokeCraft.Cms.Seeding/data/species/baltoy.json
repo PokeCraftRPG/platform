@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c509b6b7-9559-4603-9c3b-82bc58d27ef8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "baltoy",
+    "DisplayName": "Baltoy",
+    "Description": null,
+    "FieldValues": {
+      "Number": "343",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "baltoy",
+      "DisplayName": "Baltoy",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "6622dd88-f1df-4ffd-8fea-3e647ba215b4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "qwilfish",
+    "DisplayName": "Qwilfish",
+    "Description": null,
+    "FieldValues": {
+      "Number": "211",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "qwilfish",
+      "DisplayName": "Qwilfish",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c3811d51-ef00-4d98-b262-ca4774f39ad0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toxicroak",
+    "DisplayName": "Toxicroak",
+    "Description": null,
+    "FieldValues": {
+      "Number": "454",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toxicroak",
+      "DisplayName": "Toxicroak",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

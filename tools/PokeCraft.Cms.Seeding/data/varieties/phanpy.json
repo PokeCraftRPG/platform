@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9605c334-a17f-4eee-9a6c-5a0a4f4d9337",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "phanpy",
+    "DisplayName": "Phanpy",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4562ef17-a09d-46e6-9e3b-fdef854e6043\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "phanpy",
+      "DisplayName": "Phanpy",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Long Nose"
+      }
+    }
+  }
+}

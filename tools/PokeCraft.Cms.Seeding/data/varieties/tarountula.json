@@ -1,0 +1,26 @@
+﻿{
+  "Id": "2b54eea6-24b0-4fcf-8ffe-91916a433ac7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tarountula",
+    "DisplayName": "Tarountula",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c00056d3-4e2c-4291-aa4c-fdd4ade0a61c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tarountula",
+      "DisplayName": "Tarountula",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "String Ball"
+      }
+    }
+  }
+}

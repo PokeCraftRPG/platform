@@ -1,0 +1,26 @@
+﻿{
+  "Id": "173f0664-dbf8-4e68-b82d-f014e8e53f96",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vikavolt-totem",
+    "DisplayName": "Vikavolt",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8c010a84-e8ac-4a62-ad11-c33bf5deaeeb\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vikavolt-totem",
+      "DisplayName": "Vikavolt",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Stag Beetle"
+      }
+    }
+  }
+}

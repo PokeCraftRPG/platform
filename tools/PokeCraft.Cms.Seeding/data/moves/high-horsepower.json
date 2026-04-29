@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c58ac695-5147-4d69-9ef9-a80bdd5126a9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "high-horsepower",
+    "DisplayName": "High Horsepower",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "95",
+      "Power": "95",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "high-horsepower",
+      "DisplayName": "High Horsepower",
+      "Description": "The user fiercely attacks the target using its entire body.",
+      "FieldValues": {}
+    }
+  }
+}

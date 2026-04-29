@@ -1,0 +1,42 @@
+﻿{
+  "Id": "faa07d0d-22c1-422d-aeca-c33ae04ce65d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "darmanitan-zen",
+    "DisplayName": "Zen Darmanitan",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1f61bf34-e1e6-4d42-9c06-ff40b5ed5432\"]",
+      "Height": "13",
+      "Weight": "929",
+      "YieldExperience": "189",
+      "PrimaryAbility": "[\"ef348627-bea1-4c87-9bf1-417ed3b66855\"]",
+      "HiddenAbility": "[\"ab1e046d-b803-489e-9181-f5bb4f95661d\"]",
+      "BaseHP": "105",
+      "YieldHP": "0",
+      "BaseAttack": "30",
+      "YieldAttack": "0",
+      "BaseDefense": "105",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "140",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "105",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "55",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"BattleOnly\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "darmanitan-zen",
+      "DisplayName": "Zen Darmanitan",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

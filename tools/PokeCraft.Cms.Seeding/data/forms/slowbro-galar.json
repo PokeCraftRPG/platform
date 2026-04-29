@@ -1,0 +1,43 @@
+﻿{
+  "Id": "dd43a995-e832-4f3c-b856-7127adddc6e1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slowbro-galar",
+    "DisplayName": "Galarian Slowbro",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"bae911e5-094c-4d40-8e0f-6c637c81053d\"]",
+      "Height": "16",
+      "Weight": "705",
+      "YieldExperience": "172",
+      "PrimaryAbility": "[\"aae83cb9-bd69-4c8e-9bd4-f80c8557a1db\"]",
+      "SecondaryAbility": "[\"1d2b3915-c19d-4017-baac-19e24cc4b20a\"]",
+      "HiddenAbility": "[\"3f2976c2-09ac-4c69-8b32-5d930032faba\"]",
+      "BaseHP": "95",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "2",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slowbro-galar",
+      "DisplayName": "Galarian Slowbro",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

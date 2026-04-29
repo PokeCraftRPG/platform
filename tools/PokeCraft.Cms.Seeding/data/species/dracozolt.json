@@ -1,0 +1,27 @@
+﻿{
+  "Id": "1f71f0ec-029f-4ae7-8870-1165478277b1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dracozolt",
+    "DisplayName": "Dracozolt",
+    "Description": null,
+    "FieldValues": {
+      "Number": "880",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "35",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dracozolt",
+      "DisplayName": "Dracozolt",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

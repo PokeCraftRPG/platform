@@ -1,0 +1,27 @@
+﻿{
+  "Id": "2926640e-e7ff-42c6-bc25-462084aa8e16",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "basculin",
+    "DisplayName": "Basculin",
+    "Description": null,
+    "FieldValues": {
+      "Number": "550",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "25",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "basculin",
+      "DisplayName": "Basculin",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

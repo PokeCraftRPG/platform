@@ -1,0 +1,41 @@
+﻿{
+  "Id": "50e781cb-bad7-43c5-b198-5cf74848d155",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "prinplup",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"bb1b229b-918e-4b1c-9ffd-45d6119fde33\"]",
+      "Height": "8",
+      "Weight": "230",
+      "YieldExperience": "142",
+      "PrimaryAbility": "[\"973e0e1a-dcca-4ab1-bd25-90df209dfc63\"]",
+      "HiddenAbility": "[\"2a7439f3-bce4-4614-9969-78ec2ce46f31\"]",
+      "BaseHP": "64",
+      "YieldHP": "0",
+      "BaseAttack": "66",
+      "YieldAttack": "0",
+      "BaseDefense": "68",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "81",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "76",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "prinplup",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

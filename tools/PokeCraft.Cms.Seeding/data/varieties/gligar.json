@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9b9ebd2e-70ef-4019-8d98-a268a1f8dd1e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gligar",
+    "DisplayName": "Gligar",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"68bd2513-f1e4-4e22-b2fa-a56f35d7ac80\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gligar",
+      "DisplayName": "Gligar",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fly Scorpion"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "57d53590-9d08-4107-85eb-f605d5211d7f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "beartic",
+    "DisplayName": "Beartic",
+    "Description": null,
+    "FieldValues": {
+      "Number": "614",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "beartic",
+      "DisplayName": "Beartic",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

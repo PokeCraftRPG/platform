@@ -1,0 +1,23 @@
+﻿{
+  "Id": "660ddceb-0af6-469e-a56d-fcdba57c080d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "withdraw",
+    "DisplayName": "Withdraw",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "40"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "withdraw",
+      "DisplayName": "Withdraw",
+      "Description": "The user withdraws its body into its hard shell, boosting its Defense stat.",
+      "FieldValues": {}
+    }
+  }
+}

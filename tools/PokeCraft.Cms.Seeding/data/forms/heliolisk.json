@@ -1,0 +1,43 @@
+﻿{
+  "Id": "ec520783-e728-4692-8e1a-5400735fcf6c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "heliolisk",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"32e9cea5-fa49-42a8-badc-d5bfe0ed1d34\"]",
+      "Height": "10",
+      "Weight": "210",
+      "YieldExperience": "168",
+      "PrimaryAbility": "[\"84683ae8-8715-4053-addd-c63f5522a649\"]",
+      "SecondaryAbility": "[\"2298dae8-5c1f-423f-960d-8cf61b19c897\"]",
+      "HiddenAbility": "[\"6c7fc1a9-9c49-4e4f-ae09-81bb228713b0\"]",
+      "BaseHP": "62",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "52",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "109",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "94",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "109",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "heliolisk",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

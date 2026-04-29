@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c51be2ef-2dc8-4f63-b2dc-6cce2b8a0c55",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tinkaton",
+    "DisplayName": "Tinkaton",
+    "Description": null,
+    "FieldValues": {
+      "Number": "959",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tinkaton",
+      "DisplayName": "Tinkaton",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "4d944ca3-093e-4dc1-9650-75829ab11ccf",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "victory-star",
+    "DisplayName": "Victory Star",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "victory-star",
+      "DisplayName": "Victory Star",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

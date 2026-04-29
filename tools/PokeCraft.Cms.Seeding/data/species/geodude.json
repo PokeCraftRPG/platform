@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ab4f4595-30d3-490c-9bf2-dc61d3e82702",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "geodude",
+    "DisplayName": "Geodude",
+    "Description": null,
+    "FieldValues": {
+      "Number": "74",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "geodude",
+      "DisplayName": "Geodude",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

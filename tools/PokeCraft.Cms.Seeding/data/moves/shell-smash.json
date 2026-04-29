@@ -1,0 +1,23 @@
+﻿{
+  "Id": "5c6b67a3-2d87-47f7-b4ff-a45dcc598442",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shell-smash",
+    "DisplayName": "Shell Smash",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shell-smash",
+      "DisplayName": "Shell Smash",
+      "Description": "The user breaks its shell, which lowers its Defense and Sp. Def stats but sharply boosts its Attack, Sp. Atk, and Speed stats.",
+      "FieldValues": {}
+    }
+  }
+}

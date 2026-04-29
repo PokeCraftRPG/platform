@@ -1,0 +1,27 @@
+﻿{
+  "Id": "97774bb3-3615-468d-b035-524e1405f2e4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snorlax",
+    "DisplayName": "Snorlax",
+    "Description": null,
+    "FieldValues": {
+      "Number": "143",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "25",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Monster\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snorlax",
+      "DisplayName": "Snorlax",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

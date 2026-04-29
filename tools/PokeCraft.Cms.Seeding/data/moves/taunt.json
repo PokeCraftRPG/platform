@@ -1,0 +1,24 @@
+﻿{
+  "Id": "72b76521-da5b-463b-a135-e50eab43811c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "taunt",
+    "DisplayName": "Taunt",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "taunt",
+      "DisplayName": "Taunt",
+      "Description": "The target is taunted into a rage that allows it to use only attack moves for three turns.",
+      "FieldValues": {}
+    }
+  }
+}

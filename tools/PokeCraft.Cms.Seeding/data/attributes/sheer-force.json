@@ -1,0 +1,19 @@
+﻿{
+  "Id": "ef348627-bea1-4c87-9bf1-417ed3b66855",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sheer-force",
+    "DisplayName": "Sheer Force",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sheer-force",
+      "DisplayName": "Sheer Force",
+      "Description": "Removes any additional effects from the Pokémon's moves, but increases the moves' power.",
+      "FieldValues": {}
+    }
+  }
+}

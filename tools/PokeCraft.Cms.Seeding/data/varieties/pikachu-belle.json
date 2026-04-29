@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f991155a-a6db-4c70-b31f-1cab3cb637ea",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pikachu-belle",
+    "DisplayName": "Pikachu",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9b081c4f-db6c-4c9b-b4fd-ae6099e099ad\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pikachu-belle",
+      "DisplayName": "Pikachu",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mouse"
+      }
+    }
+  }
+}

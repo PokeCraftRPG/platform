@@ -1,0 +1,41 @@
+﻿{
+  "Id": "16c5d67f-84ce-4d68-8e56-76972dbdf0e3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cramorant",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"43387506-1aae-456b-8c6c-5ce8292fc12f\"]",
+      "Height": "8",
+      "Weight": "180",
+      "YieldExperience": "166",
+      "PrimaryAbility": "[\"2e48ab3b-2657-4b9f-96b8-8614cc22877a\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "55",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Flying\"]",
+      "SecondaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cramorant",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

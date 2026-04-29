@@ -1,0 +1,25 @@
+﻿{
+  "Id": "864770f8-5e1a-4e82-9f5b-c8cc667e1e60",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "steel-wing",
+    "DisplayName": "Steel Wing",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "70",
+      "PowerPoints": "25"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "steel-wing",
+      "DisplayName": "Steel Wing",
+      "Description": "The target is hit with wings of steel. This may also boost the user's Defense stat.",
+      "FieldValues": {}
+    }
+  }
+}

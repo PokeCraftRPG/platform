@@ -1,0 +1,39 @@
+﻿{
+  "Id": "65e53d06-517a-4f3d-a758-d40b9610b30d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "golisopod-mega",
+    "DisplayName": "Mega Golisopod",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"f5ed2ce5-7c03-4f36-9b9d-b069318d10e9\"]",
+      "Height": "23",
+      "Weight": "1480",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "150",
+      "YieldAttack": "0",
+      "BaseDefense": "175",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "120",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "golisopod-mega",
+      "DisplayName": "Mega Golisopod",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

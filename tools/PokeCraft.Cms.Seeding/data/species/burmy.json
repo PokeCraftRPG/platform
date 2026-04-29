@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e53b1290-82ed-4067-81b1-1d49ec3be971",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "burmy",
+    "DisplayName": "Burmy",
+    "Description": null,
+    "FieldValues": {
+      "Number": "412",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "burmy",
+      "DisplayName": "Burmy",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

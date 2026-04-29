@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e242cc92-a09c-483f-9541-05cce6d49a91",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pikachu-pop-star",
+    "DisplayName": "Pikachu",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9b081c4f-db6c-4c9b-b4fd-ae6099e099ad\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pikachu-pop-star",
+      "DisplayName": "Pikachu",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mouse"
+      }
+    }
+  }
+}

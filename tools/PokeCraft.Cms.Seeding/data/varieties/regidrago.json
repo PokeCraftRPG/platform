@@ -1,0 +1,25 @@
+﻿{
+  "Id": "77d19888-7739-47b9-9e3f-9f8c6fa969dd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "regidrago",
+    "DisplayName": "Regidrago",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b2e94eec-2cf4-457c-a40b-7b78a5da8ace\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "regidrago",
+      "DisplayName": "Regidrago",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Dragon Orb"
+      }
+    }
+  }
+}

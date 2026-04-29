@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d57213f1-e167-4ab6-9372-bb879ac9ef5c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "honchkrow",
+    "DisplayName": "Honchkrow",
+    "Description": null,
+    "FieldValues": {
+      "Number": "430",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "30",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "honchkrow",
+      "DisplayName": "Honchkrow",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

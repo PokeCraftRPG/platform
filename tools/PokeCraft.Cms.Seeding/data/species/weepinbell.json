@@ -1,0 +1,27 @@
+﻿{
+  "Id": "4c4f4dd7-4180-4bb9-b565-133cadae16d7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "weepinbell",
+    "DisplayName": "Weepinbell",
+    "Description": null,
+    "FieldValues": {
+      "Number": "70",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "weepinbell",
+      "DisplayName": "Weepinbell",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "316cfd25-41c7-4fb5-ad7b-167a6db0c686",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sentret",
+    "DisplayName": "Sentret",
+    "Description": null,
+    "FieldValues": {
+      "Number": "161",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sentret",
+      "DisplayName": "Sentret",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

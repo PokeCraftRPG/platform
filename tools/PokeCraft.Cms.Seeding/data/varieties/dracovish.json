@@ -1,0 +1,25 @@
+﻿{
+  "Id": "3c3a99fc-5055-43b9-a043-57215c89c8c0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dracovish",
+    "DisplayName": "Dracovish",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b9a3d315-9894-4186-8a9f-37586a0ffee1\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dracovish",
+      "DisplayName": "Dracovish",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fossil"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "c34cae01-916e-44ec-8e58-1cc63029592f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "speed-boost",
+    "DisplayName": "Speed Boost",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "speed-boost",
+      "DisplayName": "Speed Boost",
+      "Description": "The Pokémon's Speed stat is boosted every turn.",
+      "FieldValues": {}
+    }
+  }
+}

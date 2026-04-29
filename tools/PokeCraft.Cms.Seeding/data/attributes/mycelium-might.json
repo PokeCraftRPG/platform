@@ -1,0 +1,19 @@
+﻿{
+  "Id": "83522335-1c9a-4d9f-a292-8b9fad34d6b8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mycelium-might",
+    "DisplayName": "Mycelium Might",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mycelium-might",
+      "DisplayName": "Mycelium Might",
+      "Description": "The Pokémon will always act more slowly when using status moves, but these moves will be unimpeded by the Ability of the target.",
+      "FieldValues": {}
+    }
+  }
+}

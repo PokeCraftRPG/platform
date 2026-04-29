@@ -1,0 +1,19 @@
+﻿{
+  "Id": "b90785a0-8303-4bb7-9c65-60956b510467",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "schooling",
+    "DisplayName": "Schooling",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "schooling",
+      "DisplayName": "Schooling",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

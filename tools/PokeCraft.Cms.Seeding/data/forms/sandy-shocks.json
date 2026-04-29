@@ -1,0 +1,41 @@
+﻿{
+  "Id": "e066759c-5ff0-429d-821f-24db6c92a1d8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sandy-shocks",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"26b8b13c-0524-4f0b-a8e8-8dda73ae6138\"]",
+      "Height": "23",
+      "Weight": "600",
+      "YieldExperience": "285",
+      "PrimaryAbility": "[\"fd80fd8e-dbd4-4b54-bfef-8ed47d35c99e\"]",
+      "BaseHP": "85",
+      "YieldHP": "0",
+      "BaseAttack": "81",
+      "YieldAttack": "0",
+      "BaseDefense": "97",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "121",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "101",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sandy-shocks",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

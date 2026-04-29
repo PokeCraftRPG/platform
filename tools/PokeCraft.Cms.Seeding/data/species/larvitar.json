@@ -1,0 +1,27 @@
+﻿{
+  "Id": "8faefa5e-c48a-44ea-a36e-ad5f7371b9b5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "larvitar",
+    "DisplayName": "Larvitar",
+    "Description": null,
+    "FieldValues": {
+      "Number": "246",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "40",
+      "PrimaryEggGroup": "[\"Monster\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "larvitar",
+      "DisplayName": "Larvitar",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

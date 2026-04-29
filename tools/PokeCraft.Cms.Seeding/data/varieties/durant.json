@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ff7e9d56-69f1-4bc8-84b2-181915d475b5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "durant",
+    "DisplayName": "Durant",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0c6be452-afc8-41aa-9c33-e805f158ce7a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "durant",
+      "DisplayName": "Durant",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Iron Ant"
+      }
+    }
+  }
+}

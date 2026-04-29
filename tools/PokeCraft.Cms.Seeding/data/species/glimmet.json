@@ -1,0 +1,27 @@
+﻿{
+  "Id": "119d3d50-f1ef-4e2a-9949-6693f058207a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glimmet",
+    "DisplayName": "Glimmet",
+    "Description": null,
+    "FieldValues": {
+      "Number": "969",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "70",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glimmet",
+      "DisplayName": "Glimmet",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

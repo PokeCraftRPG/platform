@@ -1,0 +1,27 @@
+﻿{
+  "Id": "fa9e45d1-1cbe-4589-bf46-7ae47742fd8d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swadloon",
+    "DisplayName": "Swadloon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "541",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swadloon",
+      "DisplayName": "Swadloon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

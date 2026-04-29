@@ -1,0 +1,26 @@
+﻿{
+  "Id": "2e63684e-b71b-4dc1-b1a8-acd37c674666",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stonjourner",
+    "DisplayName": "Stonjourner",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f969c978-2a6f-4116-ac30-2ed8e46e41d7\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stonjourner",
+      "DisplayName": "Stonjourner",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Big Rock"
+      }
+    }
+  }
+}

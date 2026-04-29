@@ -1,0 +1,43 @@
+﻿{
+  "Id": "d5b61be4-1831-4438-9620-c66c8e78ebe1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lucario",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"24e66afa-67eb-45f9-8955-008abfff2ae7\"]",
+      "Height": "12",
+      "Weight": "540",
+      "YieldExperience": "184",
+      "PrimaryAbility": "[\"d4177038-a9c6-44e6-adb5-615b7111a2b4\"]",
+      "SecondaryAbility": "[\"c84742ae-85a5-42c1-bee6-6c085faedc9b\"]",
+      "HiddenAbility": "[\"a1454a00-6731-4df8-b5b9-51b8ec1979e8\"]",
+      "BaseHP": "70",
+      "YieldHP": "0",
+      "BaseAttack": "110",
+      "YieldAttack": "1",
+      "BaseDefense": "70",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "115",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lucario",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

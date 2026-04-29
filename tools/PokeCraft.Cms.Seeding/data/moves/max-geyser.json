@@ -1,0 +1,24 @@
+﻿{
+  "Id": "1eb5ed7c-0ef1-4405-9af0-7ed0c2374d1c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "max-geyser",
+    "DisplayName": "Max Geyser",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "10",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "max-geyser",
+      "DisplayName": "Max Geyser",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "cde2e18f-9223-4c5e-a54c-201de8f8dece",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pidgey",
+    "DisplayName": "Pidgey",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3e43fb4c-01fb-492e-b351-7154a01aee59\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pidgey",
+      "DisplayName": "Pidgey",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tiny Bird"
+      }
+    }
+  }
+}

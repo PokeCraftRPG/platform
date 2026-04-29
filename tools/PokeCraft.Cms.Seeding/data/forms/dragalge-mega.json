@@ -1,0 +1,39 @@
+﻿{
+  "Id": "6a66698f-3c11-49e9-b08e-73a373057a11",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragalge-mega",
+    "DisplayName": "Mega Dragalge",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b7549557-0353-4198-bed1-5df74f22f137\"]",
+      "Height": "21",
+      "Weight": "1003",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "105",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "132",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "163",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "44",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Poison\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragalge-mega",
+      "DisplayName": "Mega Dragalge",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

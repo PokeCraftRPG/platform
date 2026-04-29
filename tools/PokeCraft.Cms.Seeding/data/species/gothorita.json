@@ -1,0 +1,27 @@
+﻿{
+  "Id": "16959ec2-1d61-44a7-8840-2e245df69f08",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gothorita",
+    "DisplayName": "Gothorita",
+    "Description": null,
+    "FieldValues": {
+      "Number": "575",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "100",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gothorita",
+      "DisplayName": "Gothorita",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "31b648d3-da92-48de-8488-118437b1d425",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "oinkologne-male",
+    "DisplayName": "Oinkologne",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"86a77bf8-234d-412b-8e85-5fbc8eca7304\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "oinkologne-male",
+      "DisplayName": "Oinkologne",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Hog"
+      }
+    }
+  }
+}

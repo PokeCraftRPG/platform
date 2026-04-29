@@ -1,0 +1,23 @@
+﻿{
+  "Id": "f9cfe57d-f372-4319-8d5a-6ae8c56a3240",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gigavolt-havoc--physical",
+    "DisplayName": "Gigavolt Havoc",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Physical\"]",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gigavolt-havoc--physical",
+      "DisplayName": "Gigavolt Havoc",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

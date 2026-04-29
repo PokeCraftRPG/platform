@@ -1,0 +1,27 @@
+﻿{
+  "Id": "48577726-26a6-48e6-99a7-ee2c01d6c67b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "magmortar",
+    "DisplayName": "Magmortar",
+    "Description": null,
+    "FieldValues": {
+      "Number": "467",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "30",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "magmortar",
+      "DisplayName": "Magmortar",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

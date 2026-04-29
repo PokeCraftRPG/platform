@@ -1,0 +1,25 @@
+﻿{
+  "Id": "b3a8d7f9-3cb7-4da9-af2c-22414e7982b2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragon-cheer",
+    "DisplayName": "Dragon Cheer",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "0",
+      "Power": "0",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragon-cheer",
+      "DisplayName": "Dragon Cheer",
+      "Description": "The user raises its allies’ morale with a draconic cry so that their future attacks have a heightened chance of landing critical hits. This rouses Dragon types more.",
+      "FieldValues": {}
+    }
+  }
+}

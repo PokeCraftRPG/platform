@@ -1,0 +1,23 @@
+﻿{
+  "Id": "1dd4d5bc-3263-431f-9072-8cc9226c0c30",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "foresight",
+    "DisplayName": "Foresight",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "40"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "foresight",
+      "DisplayName": "Foresight",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

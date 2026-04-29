@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c6ef76d5-1285-4030-bcdf-a8430ad03fa0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "victini",
+    "DisplayName": "Victini",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a9385367-6130-48dd-8445-d044086fc728\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "victini",
+      "DisplayName": "Victini",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Victory"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "91e60780-e412-4591-9de3-4919279e4434",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wildbolt-storm",
+    "DisplayName": "Wildbolt Storm",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "80",
+      "Power": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wildbolt-storm",
+      "DisplayName": "Wildbolt Storm",
+      "Description": "The user summons a thunderous tempest and savagely attacks with lightning and wind. This may also leave opposing Pokémon with paralysis.",
+      "FieldValues": {}
+    }
+  }
+}

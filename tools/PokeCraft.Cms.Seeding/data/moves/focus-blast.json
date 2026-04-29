@@ -1,0 +1,25 @@
+﻿{
+  "Id": "f4b0b99b-807b-4c03-8e7a-242480733196",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "focus-blast",
+    "DisplayName": "Focus Blast",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "70",
+      "Power": "120",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "focus-blast",
+      "DisplayName": "Focus Blast",
+      "Description": "The user heightens its mental focus and unleashes its power. This may also lower the target's Sp. Def stat.",
+      "FieldValues": {}
+    }
+  }
+}

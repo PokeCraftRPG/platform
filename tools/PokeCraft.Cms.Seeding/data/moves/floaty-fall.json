@@ -1,0 +1,25 @@
+﻿{
+  "Id": "73bdc9a9-72e1-4653-83a0-9c2ea39da693",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "floaty-fall",
+    "DisplayName": "Floaty Fall",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "95",
+      "Power": "90",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "floaty-fall",
+      "DisplayName": "Floaty Fall",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

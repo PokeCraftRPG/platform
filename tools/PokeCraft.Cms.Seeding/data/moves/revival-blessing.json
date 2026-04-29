@@ -1,0 +1,24 @@
+﻿{
+  "Id": "7acd174e-3e1e-4bce-a2a9-db4652a95828",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "revival-blessing",
+    "DisplayName": "Revival Blessing",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "Power": "0",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "revival-blessing",
+      "DisplayName": "Revival Blessing",
+      "Description": "The user bestows a loving blessing, reviving a party Pokémon that has fainted and restoring half that Pokémon's max HP.",
+      "FieldValues": {}
+    }
+  }
+}

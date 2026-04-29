@@ -1,0 +1,26 @@
+﻿{
+  "Id": "abbe42c5-2433-4c42-8e67-aa7142e174c1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shelgon",
+    "DisplayName": "Shelgon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"bb9263d6-8281-4216-aa15-6654c693f9c2\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shelgon",
+      "DisplayName": "Shelgon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Endurance"
+      }
+    }
+  }
+}

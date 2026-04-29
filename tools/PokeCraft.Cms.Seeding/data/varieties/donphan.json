@@ -1,0 +1,26 @@
+﻿{
+  "Id": "95a53223-e471-4462-9274-73dbe8b425f1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "donphan",
+    "DisplayName": "Donphan",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"05457920-4860-4d6d-a2ef-ed3d8ed6ef3a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "donphan",
+      "DisplayName": "Donphan",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Armor"
+      }
+    }
+  }
+}

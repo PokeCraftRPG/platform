@@ -1,0 +1,26 @@
+﻿{
+  "Id": "47b18bb9-3ca6-4afe-9109-10e02ce10798",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meowth-alola",
+    "DisplayName": "Meowth",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e6e3ae3e-7d4e-4d62-b7c6-92875274dd54\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meowth-alola",
+      "DisplayName": "Meowth",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Scratch Cat"
+      }
+    }
+  }
+}

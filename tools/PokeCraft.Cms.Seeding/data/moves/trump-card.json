@@ -1,0 +1,23 @@
+﻿{
+  "Id": "50bc5d9f-59ac-43af-934c-d74f5a2936f3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "trump-card",
+    "DisplayName": "Trump Card",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Special\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "trump-card",
+      "DisplayName": "Trump Card",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

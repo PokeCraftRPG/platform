@@ -1,0 +1,25 @@
+﻿{
+  "Id": "eab93a7f-7b5f-4430-b63f-576fb704000f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bullet-seed",
+    "DisplayName": "Bullet Seed",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "25",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bullet-seed",
+      "DisplayName": "Bullet Seed",
+      "Description": "The user attacks by forcefully shooting seeds at the target. This move hits two to five times in a row.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "4a699abf-2e4a-4984-9b1c-b230e30816f8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meltan",
+    "DisplayName": "Meltan",
+    "Description": null,
+    "FieldValues": {
+      "Number": "808",
+      "Category": "[\"Mythical\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meltan",
+      "DisplayName": "Meltan",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

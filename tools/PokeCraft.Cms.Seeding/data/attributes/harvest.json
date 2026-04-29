@@ -1,0 +1,19 @@
+﻿{
+  "Id": "173ca115-de73-4599-a301-8ac567198f12",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "harvest",
+    "DisplayName": "Harvest",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "harvest",
+      "DisplayName": "Harvest",
+      "Description": "May create another Berry after one is used.",
+      "FieldValues": {}
+    }
+  }
+}

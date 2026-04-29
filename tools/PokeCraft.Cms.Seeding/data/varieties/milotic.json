@@ -1,0 +1,26 @@
+﻿{
+  "Id": "2f0dd7dc-a239-4264-b5bf-f463ad786897",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "milotic",
+    "DisplayName": "Milotic",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"32336ccd-c979-4c45-ae4a-9a9499236ee2\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "milotic",
+      "DisplayName": "Milotic",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tender"
+      }
+    }
+  }
+}

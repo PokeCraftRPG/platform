@@ -1,0 +1,25 @@
+﻿{
+  "Id": "48f79529-10dc-424b-948e-2053385c4ad5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "thunder-fang",
+    "DisplayName": "Thunder Fang",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "95",
+      "Power": "65",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "thunder-fang",
+      "DisplayName": "Thunder Fang",
+      "Description": "The user bites with electrified fangs. This may also make the target flinch or leave it with paralysis.",
+      "FieldValues": {}
+    }
+  }
+}

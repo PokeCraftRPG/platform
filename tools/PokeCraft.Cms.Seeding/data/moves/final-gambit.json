@@ -1,0 +1,24 @@
+﻿{
+  "Id": "ee1c0d7b-95c9-41a0-a35d-73c546e752e9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "final-gambit",
+    "DisplayName": "Final Gambit",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "final-gambit",
+      "DisplayName": "Final Gambit",
+      "Description": "The user risks everything to attack the target. The user faints but inflicts damage equal to its own HP.",
+      "FieldValues": {}
+    }
+  }
+}

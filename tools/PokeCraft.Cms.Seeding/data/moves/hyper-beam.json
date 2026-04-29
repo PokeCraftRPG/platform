@@ -1,0 +1,25 @@
+﻿{
+  "Id": "3bbc158b-fbad-4893-aaa8-b912b12af7af",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hyper-beam",
+    "DisplayName": "Hyper Beam",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "90",
+      "Power": "150",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hyper-beam",
+      "DisplayName": "Hyper Beam",
+      "Description": "The target is attacked with a powerful beam. The user can't move on the next turn.",
+      "FieldValues": {}
+    }
+  }
+}

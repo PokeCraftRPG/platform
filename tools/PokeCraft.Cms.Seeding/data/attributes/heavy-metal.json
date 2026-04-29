@@ -1,0 +1,19 @@
+﻿{
+  "Id": "598518b6-1116-4c2a-b768-5a90de740ff2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "heavy-metal",
+    "DisplayName": "Heavy Metal",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "heavy-metal",
+      "DisplayName": "Heavy Metal",
+      "Description": "Doubles the Pokémon's weight.",
+      "FieldValues": {}
+    }
+  }
+}

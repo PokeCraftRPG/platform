@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ffc74806-4214-41d9-b629-eeb681632053",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lunala",
+    "DisplayName": "Lunala",
+    "Description": null,
+    "FieldValues": {
+      "Number": "792",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lunala",
+      "DisplayName": "Lunala",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "30b6819c-e3d2-41fc-af99-6aa864eb34f2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lick",
+    "DisplayName": "Lick",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ghost\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "30",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lick",
+      "DisplayName": "Lick",
+      "Description": "The user licks the target with a long tongue to inflict damage. This may also leave the target with paralysis.",
+      "FieldValues": {}
+    }
+  }
+}

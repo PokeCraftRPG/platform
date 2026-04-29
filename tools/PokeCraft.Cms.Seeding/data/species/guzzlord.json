@@ -1,0 +1,27 @@
+﻿{
+  "Id": "9cccecfc-d524-4c1b-9f89-f6534c4b6c92",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "guzzlord",
+    "DisplayName": "Guzzlord",
+    "Description": null,
+    "FieldValues": {
+      "Number": "799",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "guzzlord",
+      "DisplayName": "Guzzlord",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

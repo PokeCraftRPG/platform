@@ -1,0 +1,24 @@
+﻿{
+  "Id": "f9c1d6a8-3cfb-4b26-8389-7baee220844e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "frustration",
+    "DisplayName": "Frustration",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "frustration",
+      "DisplayName": "Frustration",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

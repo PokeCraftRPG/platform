@@ -1,0 +1,28 @@
+﻿{
+  "Id": "78b6c1bb-1184-41b4-94d2-87ccfbb7598d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pancham",
+    "DisplayName": "Pancham",
+    "Description": null,
+    "FieldValues": {
+      "Number": "674",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "220",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pancham",
+      "DisplayName": "Pancham",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

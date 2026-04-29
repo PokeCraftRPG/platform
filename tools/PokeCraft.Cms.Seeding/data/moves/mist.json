@@ -1,0 +1,23 @@
+﻿{
+  "Id": "505c456f-468e-4d3d-b89e-7364ff287d09",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mist",
+    "DisplayName": "Mist",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mist",
+      "DisplayName": "Mist",
+      "Description": "The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns.",
+      "FieldValues": {}
+    }
+  }
+}

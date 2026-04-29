@@ -1,0 +1,25 @@
+﻿{
+  "Id": "0ab0b747-d60a-44d6-bfdf-6f10dcd3a813",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "body-press",
+    "DisplayName": "Body Press",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "body-press",
+      "DisplayName": "Body Press",
+      "Description": "The user attacks by slamming its body into the target. The higher the user's Defense stat, the greater the damage this move deals.",
+      "FieldValues": {}
+    }
+  }
+}

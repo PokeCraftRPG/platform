@@ -1,0 +1,25 @@
+﻿{
+  "Id": "9798e05f-bddb-4402-b21e-89db0ef3b46f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dragon-darts",
+    "DisplayName": "Dragon Darts",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dragon\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "50",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dragon-darts",
+      "DisplayName": "Dragon Darts",
+      "Description": "The user attacks twice using Dreepy. If there are two opposing Pokémon, this move hits each of them once.",
+      "FieldValues": {}
+    }
+  }
+}

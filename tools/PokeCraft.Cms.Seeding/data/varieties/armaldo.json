@@ -1,0 +1,26 @@
+﻿{
+  "Id": "64088898-440e-486e-9547-22fa2a3f178b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "armaldo",
+    "DisplayName": "Armaldo",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a2730bce-c1ea-4c75-9389-266e512d61d1\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "armaldo",
+      "DisplayName": "Armaldo",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Plate"
+      }
+    }
+  }
+}

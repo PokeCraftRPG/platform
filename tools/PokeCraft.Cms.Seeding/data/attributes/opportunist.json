@@ -1,0 +1,19 @@
+﻿{
+  "Id": "e69a8386-2c7b-4d0a-946a-5a9a2b9a01bc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "opportunist",
+    "DisplayName": "Opportunist",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "opportunist",
+      "DisplayName": "Opportunist",
+      "Description": "If an opponent's stat is boosted, the Pokémon seizes the opportunity to boost the same stat for itself.",
+      "FieldValues": {}
+    }
+  }
+}

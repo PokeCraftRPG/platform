@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6eb9fb55-bd93-4cfb-b23c-21dfc00d7723",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "diggersby",
+    "DisplayName": "Diggersby",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0f7b9e61-f619-4758-851c-151c8860bc59\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "diggersby",
+      "DisplayName": "Diggersby",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Digging"
+      }
+    }
+  }
+}

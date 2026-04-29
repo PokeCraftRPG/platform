@@ -1,0 +1,19 @@
+﻿{
+  "Id": "c3ea18cc-a675-468c-9ca6-524d5c60d91d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toxic-boost",
+    "DisplayName": "Toxic Boost",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toxic-boost",
+      "DisplayName": "Toxic Boost",
+      "Description": "Powers up physical moves when the Pokémon is poisoned.",
+      "FieldValues": {}
+    }
+  }
+}

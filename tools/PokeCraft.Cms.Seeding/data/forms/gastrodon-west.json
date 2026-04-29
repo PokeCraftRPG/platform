@@ -1,0 +1,43 @@
+﻿{
+  "Id": "6e6d56d0-f5cd-447a-ae93-f77c3b1af33a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gastrodon-west",
+    "DisplayName": "West Gastrodon",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"108bec3c-afcc-4b37-8e3f-d5ec43d78036\"]",
+      "Height": "9",
+      "Weight": "299",
+      "YieldExperience": "166",
+      "PrimaryAbility": "[\"c6f1b814-650e-4b1f-a482-7ed07ca1c7af\"]",
+      "SecondaryAbility": "[\"f863cc47-85a0-4a65-bb10-a51733957719\"]",
+      "HiddenAbility": "[\"19474510-6538-4d3f-8775-1316904fe470\"]",
+      "BaseHP": "111",
+      "YieldHP": "2",
+      "BaseAttack": "83",
+      "YieldAttack": "0",
+      "BaseDefense": "68",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "92",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "82",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "39",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Ground\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gastrodon-west",
+      "DisplayName": "West Gastrodon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

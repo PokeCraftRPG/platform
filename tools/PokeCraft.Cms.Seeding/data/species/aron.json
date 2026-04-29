@@ -1,0 +1,27 @@
+﻿{
+  "Id": "62876b3b-ac3f-4f93-bf70-173005fd0295",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aron",
+    "DisplayName": "Aron",
+    "Description": null,
+    "FieldValues": {
+      "Number": "304",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "180",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "35",
+      "PrimaryEggGroup": "[\"Monster\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aron",
+      "DisplayName": "Aron",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

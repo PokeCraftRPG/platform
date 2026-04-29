@@ -1,0 +1,19 @@
+﻿{
+  "Id": "9c5c7a66-db94-4468-b345-8e9ce6001cd6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "keen-eye",
+    "DisplayName": "Keen Eye",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "keen-eye",
+      "DisplayName": "Keen Eye",
+      "Description": "The Pokémon's keen eyes prevent its accuracy from being lowered.",
+      "FieldValues": {}
+    }
+  }
+}

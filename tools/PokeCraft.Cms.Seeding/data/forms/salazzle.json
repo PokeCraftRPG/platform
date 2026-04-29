@@ -1,0 +1,42 @@
+﻿{
+  "Id": "f287dec1-fbba-46d5-a73e-e9ef90bdadfb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "salazzle",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ee68d9aa-7c7c-4490-bfa2-db8bc25a311e\"]",
+      "Height": "12",
+      "Weight": "222",
+      "YieldExperience": "168",
+      "PrimaryAbility": "[\"4550f771-4061-4c88-bf71-92d9aaf1d6e5\"]",
+      "HiddenAbility": "[\"a720be5d-1a4e-4e14-8426-1ba0fc59a8ed\"]",
+      "BaseHP": "68",
+      "YieldHP": "0",
+      "BaseAttack": "64",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "111",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "60",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "117",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]",
+      "SecondaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "salazzle",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

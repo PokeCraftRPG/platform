@@ -1,0 +1,25 @@
+﻿{
+  "Id": "e36d7e2b-c536-454a-8ea1-e9c924124214",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fiery-wrath",
+    "DisplayName": "Fiery Wrath",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fiery-wrath",
+      "DisplayName": "Fiery Wrath",
+      "Description": "The user transforms its wrath into a fire-like aura to attack. This may also make opposing Pokémon flinch.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+﻿{
+  "Id": "ecfe9ea1-bd11-4ca6-a29f-620bb23f0274",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zeraora-mega",
+    "DisplayName": "Mega Zeraora",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"880b3683-ea11-4c3b-9402-c52000b84b70\"]",
+      "Height": "15",
+      "Weight": "445",
+      "BaseHP": "88",
+      "YieldHP": "0",
+      "BaseAttack": "157",
+      "YieldAttack": "0",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "147",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "153",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zeraora-mega",
+      "DisplayName": "Mega Zeraora",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

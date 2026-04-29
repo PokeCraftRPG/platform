@@ -1,0 +1,28 @@
+﻿{
+  "Id": "a80186f2-88fb-41f8-873d-872d3b917e3d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chewtle",
+    "DisplayName": "Chewtle",
+    "Description": null,
+    "FieldValues": {
+      "Number": "833",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chewtle",
+      "DisplayName": "Chewtle",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿{
+  "Id": "e4702ade-6c74-41a6-a285-acb7549ea40f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "natural-gift",
+    "DisplayName": "Natural Gift",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "natural-gift",
+      "DisplayName": "Natural Gift",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

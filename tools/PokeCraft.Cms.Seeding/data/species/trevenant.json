@@ -1,0 +1,28 @@
+﻿{
+  "Id": "ffc1eab7-1b8c-43cd-b9fb-a0fa4a39e3f1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "trevenant",
+    "DisplayName": "Trevenant",
+    "Description": null,
+    "FieldValues": {
+      "Number": "709",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]",
+      "SecondaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "trevenant",
+      "DisplayName": "Trevenant",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

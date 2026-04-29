@@ -1,0 +1,41 @@
+﻿{
+  "Id": "d9999e39-0caa-4c5c-be55-0426bc1f7d24",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pikachu-kalos-cap",
+    "DisplayName": "Kalos Cap Pikachu",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1375216e-473e-43aa-b163-e3b72d6e86c7\"]",
+      "Height": "4",
+      "Weight": "60",
+      "YieldExperience": "112",
+      "PrimaryAbility": "[\"4d8cefa4-dbcc-4c78-b5f5-0a1c30bdb019\"]",
+      "HiddenAbility": "[\"98bb9191-1993-4224-8922-4a4d13f534a5\"]",
+      "BaseHP": "35",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pikachu-kalos-cap",
+      "DisplayName": "Kalos Cap Pikachu",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

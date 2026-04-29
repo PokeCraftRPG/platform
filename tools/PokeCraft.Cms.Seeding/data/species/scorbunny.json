@@ -1,0 +1,28 @@
+﻿{
+  "Id": "db20d030-2fdd-41a5-9cb6-3b86ba25d250",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scorbunny",
+    "DisplayName": "Scorbunny",
+    "Description": null,
+    "FieldValues": {
+      "Number": "813",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scorbunny",
+      "DisplayName": "Scorbunny",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

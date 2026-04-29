@@ -1,0 +1,28 @@
+﻿{
+  "Id": "60e1a76b-8153-42e8-878f-0cce9e52a571",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swampert",
+    "DisplayName": "Swampert",
+    "Description": null,
+    "FieldValues": {
+      "Number": "260",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swampert",
+      "DisplayName": "Swampert",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

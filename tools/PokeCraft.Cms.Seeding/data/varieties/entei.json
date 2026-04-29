@@ -1,0 +1,25 @@
+﻿{
+  "Id": "a8a1abaf-c534-4ba8-85d2-ce350dcffae2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "entei",
+    "DisplayName": "Entei",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"758f39f3-cef8-4bd1-8667-b927e4932382\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "entei",
+      "DisplayName": "Entei",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Volcano"
+      }
+    }
+  }
+}

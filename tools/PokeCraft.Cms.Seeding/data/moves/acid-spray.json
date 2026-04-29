@@ -1,0 +1,25 @@
+﻿{
+  "Id": "41866c20-d9f2-44a2-b124-af9ed507ef6f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "acid-spray",
+    "DisplayName": "Acid Spray",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "acid-spray",
+      "DisplayName": "Acid Spray",
+      "Description": "The user attacks by spitting fluid that works to melt the target. This also harshly lowers the target's Sp. Def stat.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "27149594-6e90-462e-b429-cde55e2f1320",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "forretress",
+    "DisplayName": "Forretress",
+    "Description": null,
+    "FieldValues": {
+      "Number": "205",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "forretress",
+      "DisplayName": "Forretress",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

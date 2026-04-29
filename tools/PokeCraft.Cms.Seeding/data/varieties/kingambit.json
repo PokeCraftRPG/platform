@@ -1,0 +1,26 @@
+﻿{
+  "Id": "bc315cb3-9b6e-4f6b-9b39-9a4d6aebaf2e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kingambit",
+    "DisplayName": "Kingambit",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4c0edba3-0307-4bbc-982d-5b1f518c8583\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kingambit",
+      "DisplayName": "Kingambit",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Big Blade"
+      }
+    }
+  }
+}

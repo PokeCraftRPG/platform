@@ -1,0 +1,27 @@
+﻿{
+  "Id": "8053a9fb-7f61-4025-9e84-984ccd5819a0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spritzee",
+    "DisplayName": "Spritzee",
+    "Description": null,
+    "FieldValues": {
+      "Number": "682",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "200",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spritzee",
+      "DisplayName": "Spritzee",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

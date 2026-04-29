@@ -1,0 +1,24 @@
+﻿{
+  "Id": "ffd92978-13fc-4d1e-bb91-143d48774119",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spore",
+    "DisplayName": "Spore",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spore",
+      "DisplayName": "Spore",
+      "Description": "The user scatters bursts of spores that induce sleep.",
+      "FieldValues": {}
+    }
+  }
+}

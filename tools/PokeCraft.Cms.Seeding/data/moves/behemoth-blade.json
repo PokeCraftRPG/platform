@@ -1,0 +1,25 @@
+﻿{
+  "Id": "4de5f39b-3224-44c9-831c-f52964558072",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "behemoth-blade",
+    "DisplayName": "Behemoth Blade",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "100",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "behemoth-blade",
+      "DisplayName": "Behemoth Blade",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

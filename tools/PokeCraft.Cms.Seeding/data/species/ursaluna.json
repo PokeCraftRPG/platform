@@ -1,0 +1,27 @@
+﻿{
+  "Id": "bed4ff00-b997-4b23-9dc0-bb739ac8e1da",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ursaluna",
+    "DisplayName": "Ursaluna",
+    "Description": null,
+    "FieldValues": {
+      "Number": "901",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ursaluna",
+      "DisplayName": "Ursaluna",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

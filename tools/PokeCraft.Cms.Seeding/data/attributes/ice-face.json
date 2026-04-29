@@ -1,0 +1,19 @@
+﻿{
+  "Id": "51739fb0-6121-4a56-ad9d-c2b85228c951",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ice-face",
+    "DisplayName": "Ice Face",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ice-face",
+      "DisplayName": "Ice Face",
+      "Description": "The Pokémon's ice head can take a physical attack as a substitute, but the attack also changes the Pokémon's appearance. The ice will be restored when it snows.",
+      "FieldValues": {}
+    }
+  }
+}

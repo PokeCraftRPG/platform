@@ -1,0 +1,42 @@
+﻿{
+  "Id": "f5604d37-75d2-4233-9a87-d158363cacba",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "garganacl",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b9c48510-f756-420a-9830-80c4f75940d4\"]",
+      "Height": "23",
+      "Weight": "2400",
+      "YieldExperience": "250",
+      "PrimaryAbility": "[\"8ef9b5eb-2285-42f9-adc2-6eed78788223\"]",
+      "SecondaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "HiddenAbility": "[\"eac52537-4006-4999-9072-1b3e1a92910c\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "130",
+      "YieldDefense": "3",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "garganacl",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

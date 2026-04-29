@@ -1,0 +1,23 @@
+﻿{
+  "Id": "f7a06b2f-8f85-4397-bf3d-41ec76ce2c49",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "acupressure",
+    "DisplayName": "Acupressure",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "acupressure",
+      "DisplayName": "Acupressure",
+      "Description": "The user applies pressure to stress points, sharply boosting one of its or its allies' stats.",
+      "FieldValues": {}
+    }
+  }
+}

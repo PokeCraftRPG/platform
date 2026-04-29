@@ -1,0 +1,43 @@
+﻿{
+  "Id": "28ceec7e-6260-45bc-9d2b-2471e7d74744",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "geodude-alola",
+    "DisplayName": "Alolan Geodude",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"8a7a2f8d-0a71-442f-8670-1b341c6bc7ce\"]",
+      "Height": "4",
+      "Weight": "203",
+      "YieldExperience": "60",
+      "PrimaryAbility": "[\"fbeddbd6-52d8-452c-97cc-0564133113a1\"]",
+      "SecondaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "HiddenAbility": "[\"25689f9a-42d4-4d84-8210-b4841575e186\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "30",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "30",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "20",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "geodude-alola",
+      "DisplayName": "Alolan Geodude",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

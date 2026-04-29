@@ -1,0 +1,25 @@
+﻿{
+  "Id": "0eb3083b-abaa-4c2e-a6ec-1b49e3605c29",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "steamroller",
+    "DisplayName": "Steamroller",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "65",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "steamroller",
+      "DisplayName": "Steamroller",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

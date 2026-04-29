@@ -1,0 +1,28 @@
+﻿{
+  "Id": "5e526e2d-2aa9-452c-89b4-81877c3f4cca",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snorunt",
+    "DisplayName": "Snorunt",
+    "Description": null,
+    "FieldValues": {
+      "Number": "361",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Fairy\"]",
+      "SecondaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snorunt",
+      "DisplayName": "Snorunt",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

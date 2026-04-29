@@ -1,0 +1,27 @@
+﻿{
+  "Id": "6701eb6c-ca2c-4111-9423-51d6bb3f99c8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "leavanny",
+    "DisplayName": "Leavanny",
+    "Description": null,
+    "FieldValues": {
+      "Number": "542",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "leavanny",
+      "DisplayName": "Leavanny",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

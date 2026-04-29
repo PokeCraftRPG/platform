@@ -1,0 +1,19 @@
+﻿{
+  "Id": "e71f7001-43a5-4f6f-9a3c-8c6c614952ce",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rocky-payload",
+    "DisplayName": "Rocky Payload",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rocky-payload",
+      "DisplayName": "Rocky Payload",
+      "Description": "Powers up Rock-type moves.",
+      "FieldValues": {}
+    }
+  }
+}

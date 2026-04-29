@@ -1,0 +1,28 @@
+﻿{
+  "Id": "77502c37-598c-4a20-994a-ca6ee80c1b12",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "snivy",
+    "DisplayName": "Snivy",
+    "Description": null,
+    "FieldValues": {
+      "Number": "495",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "snivy",
+      "DisplayName": "Snivy",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

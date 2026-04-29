@@ -1,0 +1,25 @@
+﻿{
+  "Id": "296f8494-b09c-41d3-b12a-27702459e071",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "trop-kick",
+    "DisplayName": "Trop Kick",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "70",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "trop-kick",
+      "DisplayName": "Trop Kick",
+      "Description": "The user lands an intense kick of tropical origins on the target. This also lowers the target's Attack stat.",
+      "FieldValues": {}
+    }
+  }
+}

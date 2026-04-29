@@ -1,0 +1,26 @@
+﻿{
+  "Id": "cb9301a3-1dab-4bd9-a54b-6544befa8b23",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sliggoo",
+    "DisplayName": "Sliggoo",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"6feeb012-3e8a-4ac4-a9ab-a8404654cda9\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sliggoo",
+      "DisplayName": "Sliggoo",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Soft Tissue"
+      }
+    }
+  }
+}

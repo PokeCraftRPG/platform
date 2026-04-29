@@ -1,0 +1,25 @@
+﻿{
+  "Id": "cd3d5c77-71f0-424f-8201-95ae859c7032",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zippy-zap",
+    "DisplayName": "Zippy Zap",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Electric\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zippy-zap",
+      "DisplayName": "Zippy Zap",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

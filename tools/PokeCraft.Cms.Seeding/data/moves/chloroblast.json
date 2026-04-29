@@ -1,0 +1,25 @@
+﻿{
+  "Id": "2871533f-7ba7-49b0-b304-a96941f7270f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chloroblast",
+    "DisplayName": "Chloroblast",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Grass\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "95",
+      "Power": "150",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chloroblast",
+      "DisplayName": "Chloroblast",
+      "Description": "The user launches its amassed chlorophyll to inflict damage on the target. This also damages the user.",
+      "FieldValues": {}
+    }
+  }
+}

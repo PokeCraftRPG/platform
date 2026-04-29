@@ -1,0 +1,27 @@
+﻿{
+  "Id": "09270278-c9d6-41ce-adb7-07eb9f08bece",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "skarmory",
+    "DisplayName": "Skarmory",
+    "Description": null,
+    "FieldValues": {
+      "Number": "227",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "25",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "skarmory",
+      "DisplayName": "Skarmory",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

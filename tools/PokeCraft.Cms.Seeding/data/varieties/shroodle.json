@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4faae6a4-3177-4ad0-90c9-2f8aa5bbac47",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shroodle",
+    "DisplayName": "Shroodle",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e9af37bf-948c-40ff-8944-152e070d173c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shroodle",
+      "DisplayName": "Shroodle",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Toxic Mouse"
+      }
+    }
+  }
+}

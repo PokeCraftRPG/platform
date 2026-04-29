@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f86109e3-49d9-4bc5-b1cf-5c99fc7ae3e1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "glastrier",
+    "DisplayName": "Glastrier",
+    "Description": null,
+    "FieldValues": {
+      "Number": "896",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "glastrier",
+      "DisplayName": "Glastrier",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

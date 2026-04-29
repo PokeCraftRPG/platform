@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c940c79c-aa56-469e-9533-3eb762f2627a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "unown",
+    "DisplayName": "Unown",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"41359932-f8af-483d-b486-4e5cbeb9e757\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "unown",
+      "DisplayName": "Unown",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Symbol"
+      }
+    }
+  }
+}

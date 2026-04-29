@@ -1,0 +1,26 @@
+﻿{
+  "Id": "4df4670d-c09b-4a4e-80e6-d9b6b7a50917",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dondozo",
+    "DisplayName": "Dondozo",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5e4a0143-f954-468d-9246-9d818c46f80a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dondozo",
+      "DisplayName": "Dondozo",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Big Catfish"
+      }
+    }
+  }
+}

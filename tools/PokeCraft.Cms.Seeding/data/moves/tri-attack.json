@@ -1,0 +1,25 @@
+﻿{
+  "Id": "7c81dbce-d53c-451e-a87c-120d64fa291f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tri-attack",
+    "DisplayName": "Tri Attack",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tri-attack",
+      "DisplayName": "Tri Attack",
+      "Description": "The user strikes with a simultaneous three-beam attack. This may also burn, freeze, or paralyze the target.",
+      "FieldValues": {}
+    }
+  }
+}

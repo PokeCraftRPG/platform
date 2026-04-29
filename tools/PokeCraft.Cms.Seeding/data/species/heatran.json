@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e3bcec64-29d6-494b-95ed-365ca9cfb8b7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "heatran",
+    "DisplayName": "Heatran",
+    "Description": null,
+    "FieldValues": {
+      "Number": "485",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "100",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "10",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "heatran",
+      "DisplayName": "Heatran",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

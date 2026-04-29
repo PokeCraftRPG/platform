@@ -1,0 +1,19 @@
+﻿{
+  "Id": "c5bb24d5-3152-481e-b7f6-c1637f7cc794",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "illuminate",
+    "DisplayName": "Illuminate",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "illuminate",
+      "DisplayName": "Illuminate",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

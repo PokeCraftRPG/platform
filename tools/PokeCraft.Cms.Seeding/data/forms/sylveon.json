@@ -1,0 +1,41 @@
+﻿{
+  "Id": "6b8862c4-e58a-43fa-91f1-feb7f76e85f1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sylveon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"0f4d1041-b4d9-4968-b007-91aa79be6ffb\"]",
+      "Height": "10",
+      "Weight": "235",
+      "YieldExperience": "184",
+      "PrimaryAbility": "[\"1547f00e-f05d-4d0c-98c7-9a77e75e1bf5\"]",
+      "HiddenAbility": "[\"d8e2ca66-487f-43bb-97f3-4d8b5e14b5f2\"]",
+      "BaseHP": "95",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "110",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "130",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sylveon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

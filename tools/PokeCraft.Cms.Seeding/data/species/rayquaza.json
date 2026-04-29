@@ -1,0 +1,27 @@
+﻿{
+  "Id": "79cf5306-c582-4e8a-a980-3673f45a0967",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rayquaza",
+    "DisplayName": "Rayquaza",
+    "Description": null,
+    "FieldValues": {
+      "Number": "384",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rayquaza",
+      "DisplayName": "Rayquaza",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

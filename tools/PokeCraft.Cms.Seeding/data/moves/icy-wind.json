@@ -1,0 +1,25 @@
+﻿{
+  "Id": "c919593f-ff82-4fa1-b91a-659b0fc0aad4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "icy-wind",
+    "DisplayName": "Icy Wind",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "95",
+      "Power": "55",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "icy-wind",
+      "DisplayName": "Icy Wind",
+      "Description": "The user attacks with a gust of chilled air. This also lowers opposing Pokémon's Speed stats.",
+      "FieldValues": {}
+    }
+  }
+}

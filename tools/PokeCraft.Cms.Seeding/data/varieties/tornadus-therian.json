@@ -1,0 +1,26 @@
+﻿{
+  "Id": "cd71a86b-9458-4f0d-8e00-457e79dfb89e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tornadus-therian",
+    "DisplayName": "Tornadus",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"16374ef6-f920-4551-a7e7-e29fa0fd6a4c\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tornadus-therian",
+      "DisplayName": "Tornadus",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cyclone"
+      }
+    }
+  }
+}

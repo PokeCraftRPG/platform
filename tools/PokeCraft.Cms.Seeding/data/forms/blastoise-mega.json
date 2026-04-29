@@ -1,0 +1,40 @@
+﻿{
+  "Id": "f6b1a27b-5d22-4eab-bef0-8612c3aadc1b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blastoise-mega",
+    "DisplayName": "Mega Blastoise",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"2fbdc618-abed-48d6-8dda-82f3f176cb9d\"]",
+      "Height": "16",
+      "Weight": "1011",
+      "YieldExperience": "284",
+      "PrimaryAbility": "[\"45d97b89-d63f-49b7-be52-c5b5e5eb407c\"]",
+      "BaseHP": "79",
+      "YieldHP": "0",
+      "BaseAttack": "103",
+      "YieldAttack": "0",
+      "BaseDefense": "120",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "135",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "115",
+      "YieldSpecialDefense": "3",
+      "BaseSpeed": "78",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blastoise-mega",
+      "DisplayName": "Mega Blastoise",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

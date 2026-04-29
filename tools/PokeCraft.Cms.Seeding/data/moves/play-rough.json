@@ -1,0 +1,25 @@
+﻿{
+  "Id": "51917020-a14e-4db8-9011-1a30c76c3167",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "play-rough",
+    "DisplayName": "Play Rough",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fairy\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "play-rough",
+      "DisplayName": "Play Rough",
+      "Description": "The user attacks by playing rough with the target. This may also lower the target's Attack stat.",
+      "FieldValues": {}
+    }
+  }
+}

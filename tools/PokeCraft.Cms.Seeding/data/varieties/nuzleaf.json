@@ -1,0 +1,26 @@
+﻿{
+  "Id": "71942029-b2f0-4250-a46a-ca32c1ae5b78",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nuzleaf",
+    "DisplayName": "Nuzleaf",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f497eff0-e508-4d81-a98f-0f5452490894\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nuzleaf",
+      "DisplayName": "Nuzleaf",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Wily"
+      }
+    }
+  }
+}

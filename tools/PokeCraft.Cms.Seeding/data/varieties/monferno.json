@@ -1,0 +1,26 @@
+﻿{
+  "Id": "9c6c7af8-ccdd-4789-acc9-f379f1e2e679",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "monferno",
+    "DisplayName": "Monferno",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c6ddb131-c076-4da4-88e8-278f14af01ca\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "monferno",
+      "DisplayName": "Monferno",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Playful"
+      }
+    }
+  }
+}

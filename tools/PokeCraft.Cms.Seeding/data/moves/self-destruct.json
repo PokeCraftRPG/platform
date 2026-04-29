@@ -1,0 +1,25 @@
+﻿{
+  "Id": "0ec6a147-5013-403f-81e1-72540ee5de0a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "self-destruct",
+    "DisplayName": "Self-Destruct",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "200",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "self-destruct",
+      "DisplayName": "Self-Destruct",
+      "Description": "The user attacks everything around it by causing an explosion. The user faints upon using this move.",
+      "FieldValues": {}
+    }
+  }
+}

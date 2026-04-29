@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b53febaf-09b1-4aeb-a665-85407bc493f3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scovillain",
+    "DisplayName": "Scovillain",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ff5c6aa3-ac45-40bd-a8e9-18589291692e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scovillain",
+      "DisplayName": "Scovillain",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Spicy Pepper"
+      }
+    }
+  }
+}

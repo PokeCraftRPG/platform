@@ -1,0 +1,27 @@
+﻿{
+  "Id": "42e5ce17-f0b8-4bfb-8954-784acb04ed51",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "jolteon",
+    "DisplayName": "Jolteon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "135",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "35",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "jolteon",
+      "DisplayName": "Jolteon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "5ed5cb76-fb5b-4aeb-9e24-d6e1a12d80fa",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "huntail",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"152482cb-5105-4560-b35b-123acc62dec5\"]",
+      "Height": "17",
+      "Weight": "270",
+      "YieldExperience": "170",
+      "PrimaryAbility": "[\"75f01f32-b335-47a8-a6fb-beb547aa225f\"]",
+      "HiddenAbility": "[\"24615c56-6280-47e4-8568-73a412d83865\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "104",
+      "YieldAttack": "1",
+      "BaseDefense": "105",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "94",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "52",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "huntail",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

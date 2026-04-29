@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e106828c-9e0f-4122-861f-9cc5bf8a27d7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "azurill",
+    "DisplayName": "Azurill",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"fb79354c-44b8-47e3-bc4f-3952fa725360\"]",
+      "GenderRatio": "2",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "azurill",
+      "DisplayName": "Azurill",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Polka Dot"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "71dd6b90-e0fe-42d2-b6b3-252b012641ae",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shell-side-arm",
+    "DisplayName": "Shell Side Arm",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shell-side-arm",
+      "DisplayName": "Shell Side Arm",
+      "Description": "This move is either physical or special—whichever will inflict more damage. This may also poison the target.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1a27dc83-fe53-401b-b015-fe03a05b65d8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dusknoir",
+    "DisplayName": "Dusknoir",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5dde9d47-c5ae-476e-b490-9d8b44619393\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dusknoir",
+      "DisplayName": "Dusknoir",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Gripper"
+      }
+    }
+  }
+}

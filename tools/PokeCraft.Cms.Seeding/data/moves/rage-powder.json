@@ -1,0 +1,23 @@
+﻿{
+  "Id": "a790a7d3-878c-4457-82e2-7ec94b496528",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rage-powder",
+    "DisplayName": "Rage Powder",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rage-powder",
+      "DisplayName": "Rage Powder",
+      "Description": "The user scatters a cloud of irritating powder to draw attention to itself. Opposing Pokémon aim only at the user.",
+      "FieldValues": {}
+    }
+  }
+}

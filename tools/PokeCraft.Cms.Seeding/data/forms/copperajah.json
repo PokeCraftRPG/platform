@@ -1,0 +1,41 @@
+﻿{
+  "Id": "5991b212-4b9b-49d2-ad93-5ea1ea05dba5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "copperajah",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6a2ef35e-3b91-445d-9d3b-794636ba8f8d\"]",
+      "Height": "30",
+      "Weight": "6500",
+      "YieldExperience": "175",
+      "PrimaryAbility": "[\"ef348627-bea1-4c87-9bf1-417ed3b66855\"]",
+      "HiddenAbility": "[\"598518b6-1116-4c2a-b768-5a90de740ff2\"]",
+      "BaseHP": "122",
+      "YieldHP": "0",
+      "BaseAttack": "130",
+      "YieldAttack": "2",
+      "BaseDefense": "69",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "80",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "69",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "30",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "copperajah",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "184c816d-c163-433f-a541-c81a2662c27c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "maschiff",
+    "DisplayName": "Maschiff",
+    "Description": null,
+    "FieldValues": {
+      "Number": "942",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "150",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "maschiff",
+      "DisplayName": "Maschiff",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

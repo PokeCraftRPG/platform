@@ -1,0 +1,27 @@
+﻿{
+  "Id": "1efb10f2-de0c-4108-883d-90da3e9fc5f4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "keldeo",
+    "DisplayName": "Keldeo",
+    "Description": null,
+    "FieldValues": {
+      "Number": "647",
+      "Category": "[\"Mythical\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "3",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "80",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "keldeo",
+      "DisplayName": "Keldeo",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

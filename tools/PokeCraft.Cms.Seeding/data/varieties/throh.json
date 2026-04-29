@@ -1,0 +1,26 @@
+﻿{
+  "Id": "82cf756a-3bca-4a24-bc31-f89e3a5b69c1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "throh",
+    "DisplayName": "Throh",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f85763e5-fcb4-4552-bf66-cd0333a1c088\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "throh",
+      "DisplayName": "Throh",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Judo"
+      }
+    }
+  }
+}

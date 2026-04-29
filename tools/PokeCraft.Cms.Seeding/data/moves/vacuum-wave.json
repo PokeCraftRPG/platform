@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ba7b62da-9c53-4848-b9a0-33e847ff1e01",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vacuum-wave",
+    "DisplayName": "Vacuum Wave",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vacuum-wave",
+      "DisplayName": "Vacuum Wave",
+      "Description": "The user whirls its fists to send a wave of pure vacuum at the target. This move always goes first.",
+      "FieldValues": {}
+    }
+  }
+}

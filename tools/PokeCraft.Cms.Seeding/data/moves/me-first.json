@@ -1,0 +1,23 @@
+﻿{
+  "Id": "afa42f49-1997-4bb2-b7b6-6b04a6da4b3f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "me-first",
+    "DisplayName": "Me First",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "me-first",
+      "DisplayName": "Me First",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

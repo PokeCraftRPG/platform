@@ -1,0 +1,23 @@
+﻿{
+  "Id": "134dcbfa-f64c-4ae2-9c69-c7d607525a58",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wonder-room",
+    "DisplayName": "Wonder Room",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wonder-room",
+      "DisplayName": "Wonder Room",
+      "Description": "The user creates a bizarre area in which Pokémon's Defense and Sp. Def stats are swapped for five turns.",
+      "FieldValues": {}
+    }
+  }
+}

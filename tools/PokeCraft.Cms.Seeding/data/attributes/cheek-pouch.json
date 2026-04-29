@@ -1,0 +1,19 @@
+﻿{
+  "Id": "f6d802de-f5c1-41cc-bdc8-744a3fdfcf19",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cheek-pouch",
+    "DisplayName": "Cheek Pouch",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cheek-pouch",
+      "DisplayName": "Cheek Pouch",
+      "Description": "The Pokémon's HP is restored when it eats any Berry, in addition to the Berry's usual effect.",
+      "FieldValues": {}
+    }
+  }
+}

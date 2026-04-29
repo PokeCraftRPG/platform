@@ -1,0 +1,19 @@
+﻿{
+  "Id": "b28942db-fbf2-4313-ab25-51af9668f755",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "imposter",
+    "DisplayName": "Imposter",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "imposter",
+      "DisplayName": "Imposter",
+      "Description": "The Pokémon transforms itself into the Pokémon it's facing.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "36fbfd29-4d81-4497-989f-e8d7cac40ef7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chesnaught",
+    "DisplayName": "Chesnaught",
+    "Description": null,
+    "FieldValues": {
+      "Number": "652",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chesnaught",
+      "DisplayName": "Chesnaught",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

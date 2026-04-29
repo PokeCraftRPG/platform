@@ -1,0 +1,41 @@
+﻿{
+  "Id": "9c7ca128-462d-4f40-99fb-e62f0a896bf9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rotom-wash",
+    "DisplayName": "Wash Rotom",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"65dd2509-97fc-4f25-8cc6-afdeddfaa51f\"]",
+      "Height": "3",
+      "Weight": "3",
+      "YieldExperience": "182",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "BaseHP": "50",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "107",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "105",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "107",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "86",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rotom-wash",
+      "DisplayName": "Wash Rotom",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "6638986e-d117-499d-bf19-af80144dd50a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "koraidon-swimming-build",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"bd413093-e04c-4068-96a1-f38149007a95\"]",
+      "Height": "35",
+      "Weight": "3030",
+      "YieldExperience": "335",
+      "PrimaryAbility": "[\"e790019c-c127-4ffc-9263-8913243abfe6\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "135",
+      "YieldAttack": "3",
+      "BaseDefense": "115",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "135",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Alternative\"]",
+      "PrimaryType": "[\"Fighting\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "koraidon-swimming-build",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

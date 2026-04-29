@@ -1,0 +1,19 @@
+﻿{
+  "Id": "df0d1b67-be4a-45c3-9aee-f183bc1e0edd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stakeout",
+    "DisplayName": "Stakeout",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stakeout",
+      "DisplayName": "Stakeout",
+      "Description": "Doubles the damage dealt to a target that has just switched into battle.",
+      "FieldValues": {}
+    }
+  }
+}

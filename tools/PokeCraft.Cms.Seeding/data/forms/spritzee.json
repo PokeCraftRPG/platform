@@ -1,0 +1,41 @@
+﻿{
+  "Id": "2e373156-08d6-4ad5-90bc-2c85e76a1778",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "spritzee",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"b9d5b922-36f7-4068-bf72-2aca04a76069\"]",
+      "Height": "2",
+      "Weight": "5",
+      "YieldExperience": "68",
+      "PrimaryAbility": "[\"e28c42cc-a85f-4f82-89b2-e80210d5b4ef\"]",
+      "HiddenAbility": "[\"56b529e6-13d3-4830-992f-f1807b22cd23\"]",
+      "BaseHP": "78",
+      "YieldHP": "1",
+      "BaseAttack": "52",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "63",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "23",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "spritzee",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

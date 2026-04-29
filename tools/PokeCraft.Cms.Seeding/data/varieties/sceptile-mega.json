@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e6f957c0-2641-49cd-bf25-0a31c0bf4094",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sceptile-mega",
+    "DisplayName": "Sceptile",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"dc8e5cbf-4b93-418d-9e02-c7dd03a19b6e\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sceptile-mega",
+      "DisplayName": "Sceptile",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Forest"
+      }
+    }
+  }
+}

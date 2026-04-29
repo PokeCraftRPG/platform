@@ -1,0 +1,41 @@
+﻿{
+  "Id": "4312739c-7579-4309-807c-fdd27b9d4fd0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sirfetchd",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"fdadf1f3-811c-46e5-9dc4-b1289ebad82c\"]",
+      "Height": "8",
+      "Weight": "1170",
+      "YieldExperience": "177",
+      "PrimaryAbility": "[\"d4177038-a9c6-44e6-adb5-615b7111a2b4\"]",
+      "HiddenAbility": "[\"fa0ae125-7b24-45a0-bf28-4b447dfa5e21\"]",
+      "BaseHP": "62",
+      "YieldHP": "0",
+      "BaseAttack": "135",
+      "YieldAttack": "2",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "68",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "82",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fighting\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sirfetchd",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

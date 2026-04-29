@@ -1,0 +1,26 @@
+﻿{
+  "Id": "30f2d482-aa37-4cc7-9651-c82b4b3b6d3d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tyranitar-mega",
+    "DisplayName": "Tyranitar",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c13e1f72-543a-4946-94c2-1dc71dbc069a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tyranitar-mega",
+      "DisplayName": "Tyranitar",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Armor"
+      }
+    }
+  }
+}

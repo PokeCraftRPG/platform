@@ -1,0 +1,27 @@
+﻿{
+  "Id": "055a9d89-6efe-46fc-81a7-52ef6bde7cdc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "overqwil",
+    "DisplayName": "Overqwil",
+    "Description": null,
+    "FieldValues": {
+      "Number": "904",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "135",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "overqwil",
+      "DisplayName": "Overqwil",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

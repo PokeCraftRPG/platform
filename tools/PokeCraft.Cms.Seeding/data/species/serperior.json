@@ -1,0 +1,28 @@
+﻿{
+  "Id": "8a77fcee-3fe6-48df-b1c9-d3ee35350044",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "serperior",
+    "DisplayName": "Serperior",
+    "Description": null,
+    "FieldValues": {
+      "Number": "497",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "serperior",
+      "DisplayName": "Serperior",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

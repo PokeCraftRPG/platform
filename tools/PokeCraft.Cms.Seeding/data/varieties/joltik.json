@@ -1,0 +1,26 @@
+﻿{
+  "Id": "01ffa890-5f6a-412a-aa5f-c67a1b7d2c7d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "joltik",
+    "DisplayName": "Joltik",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"008af4aa-0d3f-41bc-895f-519d4a408275\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "joltik",
+      "DisplayName": "Joltik",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Attaching"
+      }
+    }
+  }
+}

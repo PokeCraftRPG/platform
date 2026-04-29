@@ -1,0 +1,25 @@
+﻿{
+  "Id": "35dd8916-4721-4bbb-a812-b27776717c1d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "headlong-rush",
+    "DisplayName": "Headlong Rush",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "120",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "headlong-rush",
+      "DisplayName": "Headlong Rush",
+      "Description": "The user smashes into the target in a full-body tackle. This also lowers the user’s Defense and Sp. Def stats.",
+      "FieldValues": {}
+    }
+  }
+}

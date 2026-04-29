@@ -1,0 +1,26 @@
+﻿{
+  "Id": "19068d73-6dab-4c91-9df3-7ff3178f2b9d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "murkrow",
+    "DisplayName": "Murkrow",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"05cfdbd9-9387-4679-9675-d260f0f9a091\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "murkrow",
+      "DisplayName": "Murkrow",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Darkness"
+      }
+    }
+  }
+}

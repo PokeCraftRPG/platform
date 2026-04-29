@@ -1,0 +1,40 @@
+﻿{
+  "Id": "422be392-a67c-4e7b-8753-f1b1047ff33b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "regieleki",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"dda07614-b19a-46f3-b418-9e4d0cd4b07c\"]",
+      "Height": "12",
+      "Weight": "1450",
+      "YieldExperience": "290",
+      "PrimaryAbility": "[\"2070f2ce-af22-4396-982c-9706cb069bcb\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "100",
+      "YieldAttack": "0",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "200",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "regieleki",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

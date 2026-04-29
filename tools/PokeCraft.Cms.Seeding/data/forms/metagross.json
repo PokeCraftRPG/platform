@@ -1,0 +1,42 @@
+﻿{
+  "Id": "f549fac1-31ac-47f8-ae20-28af34a4a052",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "metagross",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e70d2792-4625-4545-b408-61acf207a34a\"]",
+      "Height": "16",
+      "Weight": "5500",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"eac52537-4006-4999-9072-1b3e1a92910c\"]",
+      "HiddenAbility": "[\"a9839af2-6266-4453-a3f7-39226d90dc2e\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "135",
+      "YieldAttack": "0",
+      "BaseDefense": "130",
+      "YieldDefense": "3",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "70",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "metagross",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

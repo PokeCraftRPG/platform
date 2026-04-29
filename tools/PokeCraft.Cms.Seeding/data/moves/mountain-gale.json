@@ -1,0 +1,25 @@
+﻿{
+  "Id": "07c6b14b-3d46-4c31-8a8d-ae39cb730380",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mountain-gale",
+    "DisplayName": "Mountain Gale",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ice\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "85",
+      "Power": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mountain-gale",
+      "DisplayName": "Mountain Gale",
+      "Description": "The user hurls giant chunks of ice at the target to inflict damage. This may also make the target flinch.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Id": "f3dab41b-b8f3-4605-b735-8b7cf88d804a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shadow-chill",
+    "DisplayName": "Shadow Chill",
+    "Description": null,
+    "FieldValues": {
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "75"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shadow-chill",
+      "DisplayName": "Shadow Chill",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

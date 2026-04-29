@@ -1,0 +1,24 @@
+﻿{
+  "Id": "93156e7d-feee-4118-9733-c6cb9ef3c8a7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kinesis",
+    "DisplayName": "Kinesis",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kinesis",
+      "DisplayName": "Kinesis",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

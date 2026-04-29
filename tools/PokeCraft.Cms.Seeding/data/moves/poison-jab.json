@@ -1,0 +1,25 @@
+﻿{
+  "Id": "0bd0e858-e331-4d3c-9ecc-20c0d3274b0b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "poison-jab",
+    "DisplayName": "Poison Jab",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "poison-jab",
+      "DisplayName": "Poison Jab",
+      "Description": "The target is stabbed with a tentacle, an arm, or the like steeped in poison. This may also poison the target.",
+      "FieldValues": {}
+    }
+  }
+}

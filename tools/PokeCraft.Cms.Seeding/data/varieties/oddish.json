@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c4b6a030-fa45-4324-a375-5fc207b13dd9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "oddish",
+    "DisplayName": "Oddish",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ad85f99d-bd74-4002-9490-a2719d97b2a5\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "oddish",
+      "DisplayName": "Oddish",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Weed"
+      }
+    }
+  }
+}

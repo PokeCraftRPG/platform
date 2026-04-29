@@ -1,0 +1,19 @@
+﻿{
+  "Id": "187f6a3c-7975-4e72-9285-a225d83376ac",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "trace",
+    "DisplayName": "Trace",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "trace",
+      "DisplayName": "Trace",
+      "Description": "When it enters a battle, the Pokémon copies an opposing Pokémon's Ability.",
+      "FieldValues": {}
+    }
+  }
+}

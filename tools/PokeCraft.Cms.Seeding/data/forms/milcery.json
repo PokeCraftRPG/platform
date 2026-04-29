@@ -1,0 +1,41 @@
+﻿{
+  "Id": "b5be7dde-5435-4953-82b8-6b6bea779f24",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "milcery",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1cc381dc-a603-4e34-98f7-07aa34c394ff\"]",
+      "Height": "2",
+      "Weight": "3",
+      "YieldExperience": "54",
+      "PrimaryAbility": "[\"cd664007-8bcb-4772-9253-08beb8edb12e\"]",
+      "HiddenAbility": "[\"56b529e6-13d3-4830-992f-f1807b22cd23\"]",
+      "BaseHP": "45",
+      "YieldHP": "0",
+      "BaseAttack": "40",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "61",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "34",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "milcery",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

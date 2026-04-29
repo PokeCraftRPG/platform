@@ -1,0 +1,23 @@
+﻿{
+  "Id": "a2acdafb-7ada-46e8-967b-6d17446a363c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "baneful-bunker",
+    "DisplayName": "Baneful Bunker",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "baneful-bunker",
+      "DisplayName": "Baneful Bunker",
+      "Description": "In addition to protecting the user from attacks, this move also poisons any attacker that makes direct contact.",
+      "FieldValues": {}
+    }
+  }
+}

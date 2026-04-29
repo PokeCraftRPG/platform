@@ -1,0 +1,27 @@
+﻿{
+  "Id": "8ce229cf-ab67-41c4-8c01-60d90bffaf17",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cosmog",
+    "DisplayName": "Cosmog",
+    "Description": null,
+    "FieldValues": {
+      "Number": "789",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cosmog",
+      "DisplayName": "Cosmog",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

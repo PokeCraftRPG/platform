@@ -1,0 +1,27 @@
+﻿{
+  "Id": "9647f1a6-ba8a-4525-a0ac-31c7f75c50c2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "poipole",
+    "DisplayName": "Poipole",
+    "Description": null,
+    "FieldValues": {
+      "Number": "803",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "poipole",
+      "DisplayName": "Poipole",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

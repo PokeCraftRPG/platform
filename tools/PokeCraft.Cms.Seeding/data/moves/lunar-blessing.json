@@ -1,0 +1,24 @@
+﻿{
+  "Id": "29535c16-ff1f-4dfe-beb4-5c19ebb62801",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lunar-blessing",
+    "DisplayName": "Lunar Blessing",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "Power": "0",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lunar-blessing",
+      "DisplayName": "Lunar Blessing",
+      "Description": "The user receives a blessing from the crescent moon, restoring HP and curing status conditions for itself and its ally Pokémon currently in the battle.",
+      "FieldValues": {}
+    }
+  }
+}

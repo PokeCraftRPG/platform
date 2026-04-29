@@ -1,0 +1,19 @@
+﻿{
+  "Id": "a521c824-65bf-45af-b621-33901339def9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shields-down",
+    "DisplayName": "Shields Down",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shields-down",
+      "DisplayName": "Shields Down",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

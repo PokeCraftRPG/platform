@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ef6835f2-483e-459c-ab4f-336d39976217",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "copperajah-gmax",
+    "DisplayName": "Copperajah",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e4f2000b-c919-430f-bb3c-4b34bb0231d3\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "copperajah-gmax",
+      "DisplayName": "Copperajah",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Copperderm"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f8d66488-2bf1-4a60-9acf-124c6842fb2a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hakamo-o",
+    "DisplayName": "Hakamo-o",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4b9e8605-b7c9-45eb-b33e-ec7ee51cca68\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hakamo-o",
+      "DisplayName": "Hakamo-o",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Scaly"
+      }
+    }
+  }
+}

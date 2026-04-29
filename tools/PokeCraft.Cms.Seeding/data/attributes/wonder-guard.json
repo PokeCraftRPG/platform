@@ -1,0 +1,19 @@
+﻿{
+  "Id": "16a8efc6-19e7-4fe1-b8f9-feaf055fba26",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wonder-guard",
+    "DisplayName": "Wonder Guard",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wonder-guard",
+      "DisplayName": "Wonder Guard",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

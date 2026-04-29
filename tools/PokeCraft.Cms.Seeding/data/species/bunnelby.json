@@ -1,0 +1,27 @@
+﻿{
+  "Id": "059baf09-5ad8-4400-bd61-76e0a1c3b415",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bunnelby",
+    "DisplayName": "Bunnelby",
+    "Description": null,
+    "FieldValues": {
+      "Number": "659",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bunnelby",
+      "DisplayName": "Bunnelby",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

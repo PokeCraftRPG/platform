@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0a9efff7-a6d9-463d-b4c8-e09806a1f8e4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hatenna",
+    "DisplayName": "Hatenna",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7a80000d-5528-4f4d-8811-6d50cdc19bfe\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hatenna",
+      "DisplayName": "Hatenna",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Calm"
+      }
+    }
+  }
+}

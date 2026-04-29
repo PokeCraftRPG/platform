@@ -1,0 +1,23 @@
+﻿{
+  "Id": "685cae2a-40f1-4d7a-afbb-89f93b3ef98b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sketch",
+    "DisplayName": "Sketch",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "1"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sketch",
+      "DisplayName": "Sketch",
+      "Description": "This move enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.",
+      "FieldValues": {}
+    }
+  }
+}

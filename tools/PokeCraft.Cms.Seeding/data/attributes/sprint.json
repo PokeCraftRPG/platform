@@ -1,0 +1,19 @@
+﻿{
+  "Id": "a5c9acaf-2cbb-471e-b8c0-ea9f86346498",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sprint",
+    "DisplayName": "Sprint",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sprint",
+      "DisplayName": "Sprint",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

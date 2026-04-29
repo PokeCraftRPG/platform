@@ -1,0 +1,25 @@
+﻿{
+  "Id": "4456a9de-b0ba-43b2-9bdb-dec14639d628",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hydro-steam",
+    "DisplayName": "Hydro Steam",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "80",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hydro-steam",
+      "DisplayName": "Hydro Steam",
+      "Description": "The user blasts the target with boiling-hot water. This move's power is not lowered in harsh sunlight but rather boosted by 50 percent.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c7dfe0b1-5403-430f-817c-2b075a8e177b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cherubi",
+    "DisplayName": "Cherubi",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"04c89bf8-1984-4504-81b5-774c9b11f706\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cherubi",
+      "DisplayName": "Cherubi",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cherry"
+      }
+    }
+  }
+}

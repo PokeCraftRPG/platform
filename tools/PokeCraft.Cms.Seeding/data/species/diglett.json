@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ac18307d-8faa-489b-8bc6-72af3996f9df",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "diglett",
+    "DisplayName": "Diglett",
+    "Description": null,
+    "FieldValues": {
+      "Number": "50",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "diglett",
+      "DisplayName": "Diglett",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

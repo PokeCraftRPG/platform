@@ -1,0 +1,26 @@
+﻿{
+  "Id": "494cb2b5-9110-4207-84ed-9729fed27e3d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zorua-hisui",
+    "DisplayName": "Zorua",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"84ce342f-4c57-4c0c-b25f-2582b4ce0c01\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zorua-hisui",
+      "DisplayName": "Zorua",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tricky Fox"
+      }
+    }
+  }
+}

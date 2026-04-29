@@ -1,0 +1,25 @@
+﻿{
+  "Id": "13df1098-6ed8-4044-8501-1e0db5353dd1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "circle-throw",
+    "DisplayName": "Circle Throw",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "60",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "circle-throw",
+      "DisplayName": "Circle Throw",
+      "Description": "The target is thrown, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "FieldValues": {}
+    }
+  }
+}

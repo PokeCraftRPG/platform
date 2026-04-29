@@ -1,0 +1,23 @@
+﻿{
+  "Id": "e94d4b71-0409-4025-8b77-c1cfa8a15959",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shadow-rush",
+    "DisplayName": "Shadow Rush",
+    "Description": null,
+    "FieldValues": {
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "55"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shadow-rush",
+      "DisplayName": "Shadow Rush",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "68b5c460-59c4-455e-a3a8-9b967f08d0de",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slam",
+    "DisplayName": "Slam",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "75",
+      "Power": "80",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slam",
+      "DisplayName": "Slam",
+      "Description": "The target is slammed with a long tail, vines, or the like to inflict damage.",
+      "FieldValues": {}
+    }
+  }
+}

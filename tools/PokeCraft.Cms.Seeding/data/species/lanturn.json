@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f925fdf3-c828-4c24-9719-f02b41fba8fe",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lanturn",
+    "DisplayName": "Lanturn",
+    "Description": null,
+    "FieldValues": {
+      "Number": "171",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lanturn",
+      "DisplayName": "Lanturn",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

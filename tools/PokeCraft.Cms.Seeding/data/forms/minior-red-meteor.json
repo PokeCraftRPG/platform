@@ -1,0 +1,41 @@
+﻿{
+  "Id": "d503e60d-4449-4ed1-bb8f-ec4683572992",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "minior-red-meteor",
+    "DisplayName": "Red Meteor Minior",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d011a97e-2144-488c-a301-82317db7f7a3\"]",
+      "Height": "3",
+      "Weight": "400",
+      "YieldExperience": "154",
+      "PrimaryAbility": "[\"a521c824-65bf-45af-b621-33901339def9\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "60",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "60",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "minior-red-meteor",
+      "DisplayName": "Red Meteor Minior",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

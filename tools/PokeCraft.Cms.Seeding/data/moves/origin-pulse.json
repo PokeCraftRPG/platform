@@ -1,0 +1,25 @@
+﻿{
+  "Id": "d84ff361-f9a6-4a33-b215-90e93461d95f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "origin-pulse",
+    "DisplayName": "Origin Pulse",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "85",
+      "Power": "110",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "origin-pulse",
+      "DisplayName": "Origin Pulse",
+      "Description": "The user attacks opposing Pokémon with countless beams of light that glow a deep and brilliant blue.",
+      "FieldValues": {}
+    }
+  }
+}

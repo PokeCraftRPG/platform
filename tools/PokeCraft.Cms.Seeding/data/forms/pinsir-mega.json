@@ -1,0 +1,41 @@
+﻿{
+  "Id": "fe2b2b10-9e8b-4c43-bf38-041e11f06998",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pinsir-mega",
+    "DisplayName": "Mega Pinsir",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"227a1680-56d1-4378-af12-f2d080f801c6\"]",
+      "Height": "17",
+      "Weight": "590",
+      "YieldExperience": "210",
+      "PrimaryAbility": "[\"2fc1fa11-53bd-4603-b060-0c3674ca4910\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "155",
+      "YieldAttack": "2",
+      "BaseDefense": "120",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "105",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pinsir-mega",
+      "DisplayName": "Mega Pinsir",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

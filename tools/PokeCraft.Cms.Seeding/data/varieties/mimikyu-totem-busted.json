@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5760dc26-6865-44e9-8166-87bfc62034a2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mimikyu-totem-busted",
+    "DisplayName": "Mimikyu",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"06043777-a4fe-4878-85c8-59eadcccdd98\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mimikyu-totem-busted",
+      "DisplayName": "Mimikyu",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Disguise"
+      }
+    }
+  }
+}

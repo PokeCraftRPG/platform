@@ -1,0 +1,19 @@
+﻿{
+  "Id": "b1ccc12e-706b-4ced-bc5c-dd491ecd966b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "celebrate",
+    "DisplayName": "Celebrate",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "celebrate",
+      "DisplayName": "Celebrate",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

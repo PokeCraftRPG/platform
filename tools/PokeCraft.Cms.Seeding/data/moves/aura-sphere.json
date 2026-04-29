@@ -1,0 +1,24 @@
+﻿{
+  "Id": "787ca7d6-5231-4952-b8f8-e20c7dcd619d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aura-sphere",
+    "DisplayName": "Aura Sphere",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Special\"]",
+      "Power": "80",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aura-sphere",
+      "DisplayName": "Aura Sphere",
+      "Description": "The user lets loose a pulse of aura power from deep within its body at the target. This attack never misses.",
+      "FieldValues": {}
+    }
+  }
+}

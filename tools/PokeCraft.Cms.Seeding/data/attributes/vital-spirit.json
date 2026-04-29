@@ -1,0 +1,19 @@
+﻿{
+  "Id": "45a56091-34c8-4407-8d66-a4a64e2eb101",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vital-spirit",
+    "DisplayName": "Vital Spirit",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vital-spirit",
+      "DisplayName": "Vital Spirit",
+      "Description": "The Pokémon is full of vitality, and that prevents it from falling asleep.",
+      "FieldValues": {}
+    }
+  }
+}

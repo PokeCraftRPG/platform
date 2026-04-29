@@ -1,0 +1,26 @@
+﻿{
+  "Id": "83359aac-6044-444c-a022-ee95bb21b95a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slowbro",
+    "DisplayName": "Slowbro",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9bd577d8-3e97-41a9-81bf-dd2e5871b68a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slowbro",
+      "DisplayName": "Slowbro",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Hermit Crab"
+      }
+    }
+  }
+}

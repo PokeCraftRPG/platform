@@ -1,0 +1,26 @@
+﻿{
+  "Id": "78b3e4d7-8ac5-4b49-b33f-9fb39d0a309e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pikachu-partner-cap",
+    "DisplayName": "Pikachu",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9b081c4f-db6c-4c9b-b4fd-ae6099e099ad\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pikachu-partner-cap",
+      "DisplayName": "Pikachu",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mouse"
+      }
+    }
+  }
+}

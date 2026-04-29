@@ -1,0 +1,26 @@
+﻿{
+  "Id": "471f4495-5952-43da-971a-335196c19b48",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "applin",
+    "DisplayName": "Applin",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"2c7437c1-44a4-49b8-9284-d3d5b9552d1a\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "applin",
+      "DisplayName": "Applin",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Apple Core"
+      }
+    }
+  }
+}

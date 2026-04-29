@@ -1,0 +1,23 @@
+﻿{
+  "Id": "4353495f-e05c-4391-a3ad-a79964da476f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "milk-drink",
+    "DisplayName": "Milk Drink",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "milk-drink",
+      "DisplayName": "Milk Drink",
+      "Description": "The user restores its own HP by up to half its max HP.",
+      "FieldValues": {}
+    }
+  }
+}

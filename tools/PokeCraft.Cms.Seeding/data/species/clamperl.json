@@ -1,0 +1,27 @@
+﻿{
+  "Id": "1ca0584e-019c-49e2-9238-ecbec0814d10",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clamperl",
+    "DisplayName": "Clamperl",
+    "Description": null,
+    "FieldValues": {
+      "Number": "366",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clamperl",
+      "DisplayName": "Clamperl",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

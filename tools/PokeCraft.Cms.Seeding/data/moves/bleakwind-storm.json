@@ -1,0 +1,25 @@
+﻿{
+  "Id": "1a747376-2c20-4410-8277-eeaae4454f05",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bleakwind-storm",
+    "DisplayName": "Bleakwind Storm",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "80",
+      "Power": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bleakwind-storm",
+      "DisplayName": "Bleakwind Storm",
+      "Description": "The user attacks with savagely cold winds that cause both body and spirit to tremble. This may also lower the Speed stats of opposing Pokémon.",
+      "FieldValues": {}
+    }
+  }
+}

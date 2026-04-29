@@ -1,0 +1,43 @@
+﻿{
+  "Id": "7c43b21c-e43c-4cee-a107-2f4592aa8052",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "golett",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4601a828-1dbf-4091-b462-6bcf76282e26\"]",
+      "Height": "10",
+      "Weight": "920",
+      "YieldExperience": "61",
+      "PrimaryAbility": "[\"e3b961ab-87de-40fc-9d8d-95dda45c14df\"]",
+      "SecondaryAbility": "[\"0d470a82-2040-4e95-8e52-999c26f4514d\"]",
+      "HiddenAbility": "[\"9abfc5f6-0767-4c13-a4c0-dd48c54a21d3\"]",
+      "BaseHP": "59",
+      "YieldHP": "0",
+      "BaseAttack": "74",
+      "YieldAttack": "1",
+      "BaseDefense": "50",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "35",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "50",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "golett",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

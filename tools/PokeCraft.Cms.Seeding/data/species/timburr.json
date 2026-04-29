@@ -1,0 +1,27 @@
+﻿{
+  "Id": "1d125d30-7812-474a-9c29-579fcb7c4d69",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "timburr",
+    "DisplayName": "Timburr",
+    "Description": null,
+    "FieldValues": {
+      "Number": "532",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "180",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "timburr",
+      "DisplayName": "Timburr",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "94715550-7920-4b07-8bc9-7be31170b8f0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "arboliva",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5c8948af-16b6-4b40-947d-26cb41c408fb\"]",
+      "Height": "14",
+      "Weight": "482",
+      "YieldExperience": "255",
+      "PrimaryAbility": "[\"65b78faa-48ce-4370-a12a-c32bc0cffe47\"]",
+      "HiddenAbility": "[\"173ca115-de73-4599-a301-8ac567198f12\"]",
+      "BaseHP": "78",
+      "YieldHP": "0",
+      "BaseAttack": "69",
+      "YieldAttack": "0",
+      "BaseDefense": "90",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "125",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "109",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "39",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Normal\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "arboliva",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

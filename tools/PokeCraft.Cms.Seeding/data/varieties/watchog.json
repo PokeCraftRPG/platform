@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0b68fd9c-2b2e-424e-a8a0-1c779c653e77",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "watchog",
+    "DisplayName": "Watchog",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"635f92f3-06e9-4982-a94f-caf23d8a045f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "watchog",
+      "DisplayName": "Watchog",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Lookout"
+      }
+    }
+  }
+}

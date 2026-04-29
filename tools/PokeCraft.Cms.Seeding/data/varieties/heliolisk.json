@@ -1,0 +1,26 @@
+﻿{
+  "Id": "32e9cea5-fa49-42a8-badc-d5bfe0ed1d34",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "heliolisk",
+    "DisplayName": "Heliolisk",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"063cba32-6fd1-449e-aa5e-607b73387b28\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "heliolisk",
+      "DisplayName": "Heliolisk",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Generator"
+      }
+    }
+  }
+}

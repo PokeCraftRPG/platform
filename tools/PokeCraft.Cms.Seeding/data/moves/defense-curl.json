@@ -1,0 +1,23 @@
+﻿{
+  "Id": "f8449bf9-44ff-4c74-b0a4-b65997f7952b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "defense-curl",
+    "DisplayName": "Defense Curl",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "40"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "defense-curl",
+      "DisplayName": "Defense Curl",
+      "Description": "The user curls up and boosts its Defense stat.",
+      "FieldValues": {}
+    }
+  }
+}

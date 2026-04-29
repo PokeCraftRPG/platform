@@ -1,0 +1,41 @@
+﻿{
+  "Id": "4991430d-7985-4e41-86e5-93f3bc6ddd14",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mareep",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"6b3de9cf-a5ed-45fd-9d42-b795e94a3f48\"]",
+      "Height": "6",
+      "Weight": "78",
+      "YieldExperience": "56",
+      "PrimaryAbility": "[\"4d8cefa4-dbcc-4c78-b5f5-0a1c30bdb019\"]",
+      "HiddenAbility": "[\"885b9c4a-a988-4730-a7dd-b11c03474e5d\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "40",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "35",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mareep",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

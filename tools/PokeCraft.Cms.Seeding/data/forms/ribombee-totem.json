@@ -1,0 +1,43 @@
+﻿{
+  "Id": "c5cd6c61-279d-4e57-b0d5-2d242821e993",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ribombee-totem",
+    "DisplayName": "Totem Ribombee",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1f3fdd3c-33b4-48f9-a8e0-30d5f17630c8\"]",
+      "Height": "4",
+      "Weight": "20",
+      "YieldExperience": "162",
+      "PrimaryAbility": "[\"3c9c9307-f766-43a4-8417-851955114a4b\"]",
+      "SecondaryAbility": "[\"29bd00fc-e0bf-4f2e-8cf9-f87e1aa11c4a\"]",
+      "HiddenAbility": "[\"cd664007-8bcb-4772-9253-08beb8edb12e\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "55",
+      "YieldAttack": "0",
+      "BaseDefense": "60",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "70",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "124",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ribombee-totem",
+      "DisplayName": "Totem Ribombee",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

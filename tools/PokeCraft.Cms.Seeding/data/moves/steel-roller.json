@@ -1,0 +1,25 @@
+﻿{
+  "Id": "763fdaa6-cd51-4b0f-bd96-6e5c37c47e90",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "steel-roller",
+    "DisplayName": "Steel Roller",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "130",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "steel-roller",
+      "DisplayName": "Steel Roller",
+      "Description": "The user attacks while destroying the terrain. This move fails if the ground hasn't turned into a terrain.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿{
+  "Id": "9970435c-87d2-4241-8fa8-8a6d01ac1c76",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "max-mindstorm",
+    "DisplayName": "Max Mindstorm",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "10",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "max-mindstorm",
+      "DisplayName": "Max Mindstorm",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

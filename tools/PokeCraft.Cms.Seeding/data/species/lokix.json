@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c084c88a-4dbe-49f3-93f1-e39265fb4659",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lokix",
+    "DisplayName": "Lokix",
+    "Description": null,
+    "FieldValues": {
+      "Number": "920",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "30",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lokix",
+      "DisplayName": "Lokix",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

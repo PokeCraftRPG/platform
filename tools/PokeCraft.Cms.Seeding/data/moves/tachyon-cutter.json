@@ -1,0 +1,25 @@
+﻿{
+  "Id": "bf6d1116-3bd7-4c1d-ac3d-a7ef93f3890b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tachyon-cutter",
+    "DisplayName": "Tachyon Cutter",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Steel\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "0",
+      "Power": "50",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tachyon-cutter",
+      "DisplayName": "Tachyon Cutter",
+      "Description": "The user attacks by launching particle blades at the target twice in a row. This attack never misses.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "be0b868f-1190-4504-8d58-c54c96dbae1b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "embody-aspect",
+    "DisplayName": "Embody Aspect",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "embody-aspect",
+      "DisplayName": "Embody Aspect",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

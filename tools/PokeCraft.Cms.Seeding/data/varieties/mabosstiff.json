@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b0b10d23-6bcc-4aec-9fef-6f4ebe8eab5b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mabosstiff",
+    "DisplayName": "Mabosstiff",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c952b3b2-873d-4d8a-838b-ae0a0260e186\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mabosstiff",
+      "DisplayName": "Mabosstiff",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Boss"
+      }
+    }
+  }
+}

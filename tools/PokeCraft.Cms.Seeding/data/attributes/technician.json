@@ -1,0 +1,19 @@
+﻿{
+  "Id": "d20432c3-18d0-4160-a3f1-a363c9e6633d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "technician",
+    "DisplayName": "Technician",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "technician",
+      "DisplayName": "Technician",
+      "Description": "Powers up weak moves so the Pokémon can deal more damage with them.",
+      "FieldValues": {}
+    }
+  }
+}

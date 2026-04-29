@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c6c09a52-f1c5-4c52-8f6c-9764114be183",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "armarouge",
+    "DisplayName": "Armarouge",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3162d71a-c1b4-4730-ad03-d048971331ee\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "armarouge",
+      "DisplayName": "Armarouge",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fire Warrior"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "fa30c15a-a595-4892-8bc3-9c34b3929ec3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rellor",
+    "DisplayName": "Rellor",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c5645782-00c1-411b-823f-18cb49fe0675\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rellor",
+      "DisplayName": "Rellor",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Rolling"
+      }
+    }
+  }
+}

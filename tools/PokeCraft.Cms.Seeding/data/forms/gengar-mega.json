@@ -1,0 +1,41 @@
+﻿{
+  "Id": "3ae0b302-b7de-4025-bea6-15e28867091d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gengar-mega",
+    "DisplayName": "Mega Gengar",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a2f6244f-247e-4719-9350-5b26eff98000\"]",
+      "Height": "14",
+      "Weight": "405",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"cfe58e17-637f-488f-8a6a-a1a396382876\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "65",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "170",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "130",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Ghost\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gengar-mega",
+      "DisplayName": "Mega Gengar",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

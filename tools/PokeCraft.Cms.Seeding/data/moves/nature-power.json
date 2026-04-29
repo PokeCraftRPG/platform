@@ -1,0 +1,23 @@
+﻿{
+  "Id": "0c1d3f80-65c7-4679-80d7-05b30e7387ae",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nature-power",
+    "DisplayName": "Nature Power",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nature-power",
+      "DisplayName": "Nature Power",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

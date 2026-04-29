@@ -1,0 +1,25 @@
+﻿{
+  "Id": "221b7334-369b-441c-bfdc-94ad3fbffc8f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "barrage",
+    "DisplayName": "Barrage",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "85",
+      "Power": "15",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "barrage",
+      "DisplayName": "Barrage",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

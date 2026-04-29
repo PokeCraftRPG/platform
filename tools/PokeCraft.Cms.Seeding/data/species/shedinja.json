@@ -1,0 +1,27 @@
+﻿{
+  "Id": "65bd7a0c-134d-4e81-bcaf-5e085ff198cb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shedinja",
+    "DisplayName": "Shedinja",
+    "Description": null,
+    "FieldValues": {
+      "Number": "292",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shedinja",
+      "DisplayName": "Shedinja",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

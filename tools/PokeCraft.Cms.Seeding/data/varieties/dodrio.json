@@ -1,0 +1,26 @@
+﻿{
+  "Id": "cc251668-35dc-4213-9f8b-53f7613482d2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dodrio",
+    "DisplayName": "Dodrio",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e03111f4-bc49-4bc6-af2d-713369438f94\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dodrio",
+      "DisplayName": "Dodrio",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Triple Bird"
+      }
+    }
+  }
+}

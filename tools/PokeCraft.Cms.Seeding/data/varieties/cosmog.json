@@ -1,0 +1,25 @@
+﻿{
+  "Id": "e60012f0-4f0e-4c4e-ac27-3bac5d9c33a6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cosmog",
+    "DisplayName": "Cosmog",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"8ce229cf-ab67-41c4-8c01-60d90bffaf17\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cosmog",
+      "DisplayName": "Cosmog",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Nebula"
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "2e23c87b-3ecc-43e5-a5b5-bdf67a621967",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "necrozma-dusk",
+    "DisplayName": "Dusk Necrozma",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"85a6fe39-9d53-4d6e-be29-477c748a087a\"]",
+      "Height": "38",
+      "Weight": "4600",
+      "YieldExperience": "340",
+      "PrimaryAbility": "[\"5d1a9a16-1d41-4d5c-ab3f-38e269190a81\"]",
+      "BaseHP": "97",
+      "YieldHP": "0",
+      "BaseAttack": "157",
+      "YieldAttack": "3",
+      "BaseDefense": "127",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "113",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "109",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "77",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]",
+      "SecondaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "necrozma-dusk",
+      "DisplayName": "Dusk Necrozma",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

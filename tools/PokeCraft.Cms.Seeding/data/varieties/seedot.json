@@ -1,0 +1,26 @@
+﻿{
+  "Id": "12647ca0-22b5-4b96-8484-716913aab54e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "seedot",
+    "DisplayName": "Seedot",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0c9d770d-44e6-43a4-b639-b85ac842fa92\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "seedot",
+      "DisplayName": "Seedot",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Acorn"
+      }
+    }
+  }
+}

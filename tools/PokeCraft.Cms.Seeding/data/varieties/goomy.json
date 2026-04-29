@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5e595f6c-fcc4-4b64-86d7-dd59b12ea445",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "goomy",
+    "DisplayName": "Goomy",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"1dc8ae80-19da-4dd8-b3a8-afdb22399543\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "goomy",
+      "DisplayName": "Goomy",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Soft Tissue"
+      }
+    }
+  }
+}

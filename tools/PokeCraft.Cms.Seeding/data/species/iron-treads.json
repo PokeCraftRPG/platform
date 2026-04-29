@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f6727dae-c4ba-4a67-97c3-a8443b115c7b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "iron-treads",
+    "DisplayName": "Iron Treads",
+    "Description": null,
+    "FieldValues": {
+      "Number": "990",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "30",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "50",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "iron-treads",
+      "DisplayName": "Iron Treads",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

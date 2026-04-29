@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c6105aa6-d912-4549-a2c2-5daa22a68f9e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "croagunk",
+    "DisplayName": "Croagunk",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"b4c4dca0-9d51-4cf9-8313-2e85fa868dcc\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "croagunk",
+      "DisplayName": "Croagunk",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Toxic Mouth"
+      }
+    }
+  }
+}

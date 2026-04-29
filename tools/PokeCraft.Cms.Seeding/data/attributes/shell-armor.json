@@ -1,0 +1,19 @@
+﻿{
+  "Id": "238257b2-205c-4b83-b5f1-393b8c11b2e9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shell-armor",
+    "DisplayName": "Shell Armor",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shell-armor",
+      "DisplayName": "Shell Armor",
+      "Description": "A hard shell protects the Pokémon from critical hits.",
+      "FieldValues": {}
+    }
+  }
+}

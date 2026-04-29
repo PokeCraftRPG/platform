@@ -1,0 +1,23 @@
+﻿{
+  "Id": "b055f8a7-ead6-4ffd-bf1d-f81b6be2e2da",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "defog",
+    "DisplayName": "Defog",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "defog",
+      "DisplayName": "Defog",
+      "Description": "A strong wind blows away the target's barriers such as Reflect or Light Screen. This also lowers the target's evasiveness.",
+      "FieldValues": {}
+    }
+  }
+}

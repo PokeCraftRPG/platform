@@ -1,0 +1,25 @@
+﻿{
+  "Id": "623fcad1-6d10-4041-be04-33f83ce4e182",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "freezing-glare",
+    "DisplayName": "Freezing Glare",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "90",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "freezing-glare",
+      "DisplayName": "Freezing Glare",
+      "Description": "The user shoots its psychic power from its eyes to attack. This may also leave the target frozen.",
+      "FieldValues": {}
+    }
+  }
+}

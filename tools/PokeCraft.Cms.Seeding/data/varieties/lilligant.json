@@ -1,0 +1,26 @@
+﻿{
+  "Id": "51d3fa14-24fd-4c48-a5c4-431b2080214e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lilligant",
+    "DisplayName": "Lilligant",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e21358a3-a1f2-46d5-82a7-b1d52fe5b496\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lilligant",
+      "DisplayName": "Lilligant",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Flowering"
+      }
+    }
+  }
+}

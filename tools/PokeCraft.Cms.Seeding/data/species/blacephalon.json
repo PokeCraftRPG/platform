@@ -1,0 +1,27 @@
+﻿{
+  "Id": "cd0c3c93-4f81-4a2e-beb1-ab22c1643cd5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blacephalon",
+    "DisplayName": "Blacephalon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "806",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "30",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blacephalon",
+      "DisplayName": "Blacephalon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

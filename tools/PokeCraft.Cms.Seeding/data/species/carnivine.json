@@ -1,0 +1,27 @@
+﻿{
+  "Id": "d4aa1646-4f09-46d5-a755-8803f8cabdd1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "carnivine",
+    "DisplayName": "Carnivine",
+    "Description": null,
+    "FieldValues": {
+      "Number": "455",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "200",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "carnivine",
+      "DisplayName": "Carnivine",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "54231640-db2a-4ce9-9884-700a5f7da052",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "boldore",
+    "DisplayName": "Boldore",
+    "Description": null,
+    "FieldValues": {
+      "Number": "525",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "boldore",
+      "DisplayName": "Boldore",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

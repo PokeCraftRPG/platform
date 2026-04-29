@@ -1,0 +1,41 @@
+﻿{
+  "Id": "4b0702f0-8466-4bcb-89a2-7a8b322d8dc2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "reshiram",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"15982e5a-72a6-4b19-a794-bb3b538a24a2\"]",
+      "Height": "32",
+      "Weight": "3300",
+      "YieldExperience": "306",
+      "PrimaryAbility": "[\"cfcb27cb-4217-496e-a1fc-337a5de8cc2d\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "120",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "150",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "120",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "90",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "reshiram",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

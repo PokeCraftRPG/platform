@@ -1,0 +1,27 @@
+﻿{
+  "Id": "89173c25-826d-4c38-97b5-cbe2d5fdd66d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "obstagoon",
+    "DisplayName": "Obstagoon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "862",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "obstagoon",
+      "DisplayName": "Obstagoon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

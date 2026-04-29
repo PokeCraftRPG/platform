@@ -1,0 +1,26 @@
+﻿{
+  "Id": "0ec3db5f-0f7d-4395-9199-53d50ade8f8e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "blaziken",
+    "DisplayName": "Blaziken",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"550a47f7-96bf-4def-a9e6-783d0f41de67\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "blaziken",
+      "DisplayName": "Blaziken",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Blaze"
+      }
+    }
+  }
+}

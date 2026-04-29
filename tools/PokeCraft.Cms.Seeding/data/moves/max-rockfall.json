@@ -1,0 +1,24 @@
+﻿{
+  "Id": "63879e16-d85e-42ce-a5d7-a11f8051c4a3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "max-rockfall",
+    "DisplayName": "Max Rockfall",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Rock\"]",
+      "Category": "[\"Physical\"]",
+      "Power": "10",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "max-rockfall",
+      "DisplayName": "Max Rockfall",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

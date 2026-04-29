@@ -1,0 +1,43 @@
+﻿{
+  "Id": "65a50cec-4a53-4aaf-ac9d-11178a4b38be",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "muk-alola",
+    "DisplayName": "Alolan Muk",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"7ecb93a5-9823-4b93-9355-f3da8cf1830a\"]",
+      "Height": "10",
+      "Weight": "520",
+      "YieldExperience": "175",
+      "PrimaryAbility": "[\"5e112e5b-8643-4cbf-9c15-5a0bfce0b0b2\"]",
+      "SecondaryAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "HiddenAbility": "[\"d372d79e-d4cb-42c3-917b-c837a02c99ee\"]",
+      "BaseHP": "105",
+      "YieldHP": "1",
+      "BaseAttack": "105",
+      "YieldAttack": "1",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "65",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "100",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Poison\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "muk-alola",
+      "DisplayName": "Alolan Muk",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

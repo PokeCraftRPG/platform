@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5ccc78f4-ddd2-42a8-9a73-0510a6081904",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "beartic",
+    "DisplayName": "Beartic",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"57d53590-9d08-4107-85eb-f605d5211d7f\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "beartic",
+      "DisplayName": "Beartic",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Freezing"
+      }
+    }
+  }
+}

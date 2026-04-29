@@ -1,0 +1,40 @@
+﻿{
+  "Id": "44d5af0c-82e2-4e41-b88c-122076dc47f1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cosmoem",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9e20d38a-1964-47c9-8f2f-6918cbdf9df6\"]",
+      "Height": "1",
+      "Weight": "9999",
+      "YieldExperience": "140",
+      "PrimaryAbility": "[\"03584da0-cafd-4ebe-94c3-14f134eba6af\"]",
+      "BaseHP": "43",
+      "YieldHP": "0",
+      "BaseAttack": "29",
+      "YieldAttack": "0",
+      "BaseDefense": "131",
+      "YieldDefense": "1",
+      "BaseSpecialAttack": "29",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "131",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "37",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cosmoem",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

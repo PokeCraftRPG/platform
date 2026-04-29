@@ -1,0 +1,19 @@
+﻿{
+  "Id": "a1454a00-6731-4df8-b5b9-51b8ec1979e8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "justified",
+    "DisplayName": "Justified",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "justified",
+      "DisplayName": "Justified",
+      "Description": "When the Pokémon is hit by a Dark-type attack, its Attack stat is boosted by its sense of justice.",
+      "FieldValues": {}
+    }
+  }
+}

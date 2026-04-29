@@ -1,0 +1,41 @@
+﻿{
+  "Id": "74c8b71a-9ff4-46fa-a04c-08f7b87a498e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gholdengo",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"e0a61181-3fe2-4ee3-b01e-6cf797f3f0e7\"]",
+      "Height": "12",
+      "Weight": "300",
+      "YieldExperience": "275",
+      "PrimaryAbility": "[\"5eb98023-95bd-43b5-ada7-ca21d66bbead\"]",
+      "BaseHP": "87",
+      "YieldHP": "0",
+      "BaseAttack": "60",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "133",
+      "YieldSpecialAttack": "2",
+      "BaseSpecialDefense": "91",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "84",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]",
+      "SecondaryType": "[\"Ghost\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gholdengo",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

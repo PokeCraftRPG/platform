@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f8c28c68-0506-4673-9859-f415b45a035a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "archen",
+    "DisplayName": "Archen",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f802bd0a-dd20-4b8c-849a-0f10bd19ad19\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "archen",
+      "DisplayName": "Archen",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "First Bird"
+      }
+    }
+  }
+}

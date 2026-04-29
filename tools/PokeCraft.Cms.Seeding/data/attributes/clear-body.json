@@ -1,0 +1,19 @@
+﻿{
+  "Id": "eac52537-4006-4999-9072-1b3e1a92910c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "clear-body",
+    "DisplayName": "Clear Body",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "clear-body",
+      "DisplayName": "Clear Body",
+      "Description": "Prevents other Pokémon's moves or Abilities from lowering the Pokémon's stats.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Id": "74b93e0f-bf39-43db-b7ed-4f59d7b830fd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hydrapple",
+    "DisplayName": "Hydrapple",
+    "Description": null,
+    "FieldValues": {
+      "Number": "1019",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "10",
+      "GrowthRate": "[\"Erratic\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hydrapple",
+      "DisplayName": "Hydrapple",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "61ae2216-5ea6-4dbd-876c-9fd5f9d17510",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gigalith",
+    "DisplayName": "Gigalith",
+    "Description": null,
+    "FieldValues": {
+      "Number": "526",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gigalith",
+      "DisplayName": "Gigalith",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

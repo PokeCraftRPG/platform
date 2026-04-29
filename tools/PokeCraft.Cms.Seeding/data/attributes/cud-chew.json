@@ -1,0 +1,19 @@
+﻿{
+  "Id": "d8f7dbac-c524-4cfe-8995-02e290baa0e8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cud-chew",
+    "DisplayName": "Cud Chew",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cud-chew",
+      "DisplayName": "Cud Chew",
+      "Description": "When the Pokémon eats a Berry, it will regurgitate that Berry at the end of the next turn and eat it one more time.",
+      "FieldValues": {}
+    }
+  }
+}

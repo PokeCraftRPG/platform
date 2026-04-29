@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f2d3c463-92fc-4d0a-bb53-b4e2fe1b2bf4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cofagrigus",
+    "DisplayName": "Cofagrigus",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"3b343332-1ffe-4576-afc6-d440cffea486\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cofagrigus",
+      "DisplayName": "Cofagrigus",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Coffin"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c5ed8c98-45c7-41de-a499-d383c69f8948",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dunsparce",
+    "DisplayName": "Dunsparce",
+    "Description": null,
+    "FieldValues": {
+      "Number": "206",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dunsparce",
+      "DisplayName": "Dunsparce",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

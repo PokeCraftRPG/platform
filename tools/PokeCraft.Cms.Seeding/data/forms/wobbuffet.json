@@ -1,0 +1,41 @@
+﻿{
+  "Id": "e365a791-4a7f-44b7-a3e3-e14ce38facdc",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wobbuffet",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"1bb23d26-e912-49be-9013-178a82047fd8\"]",
+      "Height": "13",
+      "Weight": "285",
+      "YieldExperience": "142",
+      "PrimaryAbility": "[\"cfe58e17-637f-488f-8a6a-a1a396382876\"]",
+      "HiddenAbility": "[\"f5863110-b5b9-4629-b95c-3869ed34433d\"]",
+      "BaseHP": "190",
+      "YieldHP": "2",
+      "BaseAttack": "33",
+      "YieldAttack": "0",
+      "BaseDefense": "58",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "33",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "58",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "33",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "True",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wobbuffet",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

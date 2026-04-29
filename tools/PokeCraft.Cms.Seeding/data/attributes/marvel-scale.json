@@ -1,0 +1,19 @@
+﻿{
+  "Id": "5c5d8885-b852-4598-a3a0-80f5d03d71b8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "marvel-scale",
+    "DisplayName": "Marvel Scale",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "marvel-scale",
+      "DisplayName": "Marvel Scale",
+      "Description": "The Pokémon's marvelous scales boost its Defense stat if it has a status condition.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "219ceeac-be4c-478f-a012-ab8d0c21c92e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dream-eater",
+    "DisplayName": "Dream Eater",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "100",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dream-eater",
+      "DisplayName": "Dream Eater",
+      "Description": "The user eats the dreams of a sleeping target. The user's HP is restored by up to half the damage taken by the target.",
+      "FieldValues": {}
+    }
+  }
+}

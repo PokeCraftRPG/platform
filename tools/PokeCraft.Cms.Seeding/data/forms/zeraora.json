@@ -1,0 +1,40 @@
+﻿{
+  "Id": "d142bce3-ac2e-428d-ae81-da1d6547b60f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zeraora",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"4fe8bd0d-d59c-4245-9691-962f2ad51604\"]",
+      "Height": "15",
+      "Weight": "445",
+      "YieldExperience": "270",
+      "PrimaryAbility": "[\"891096e9-f25f-4184-8941-fcc6d6dfd5e4\"]",
+      "BaseHP": "88",
+      "YieldHP": "0",
+      "BaseAttack": "112",
+      "YieldAttack": "0",
+      "BaseDefense": "75",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "102",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "80",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "143",
+      "YieldSpeed": "3",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zeraora",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

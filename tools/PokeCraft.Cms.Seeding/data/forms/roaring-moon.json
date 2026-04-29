@@ -1,0 +1,41 @@
+﻿{
+  "Id": "458ab7b9-a21e-415d-93c5-75f70e53259d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "roaring-moon",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"81067007-8407-4d7b-ba09-8d257f9613a0\"]",
+      "Height": "20",
+      "Weight": "3800",
+      "YieldExperience": "295",
+      "PrimaryAbility": "[\"fd80fd8e-dbd4-4b54-bfef-8ed47d35c99e\"]",
+      "BaseHP": "105",
+      "YieldHP": "0",
+      "BaseAttack": "139",
+      "YieldAttack": "3",
+      "BaseDefense": "71",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "101",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "119",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Dragon\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "roaring-moon",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

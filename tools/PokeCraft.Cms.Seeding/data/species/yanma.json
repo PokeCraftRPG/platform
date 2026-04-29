@@ -1,0 +1,27 @@
+﻿{
+  "Id": "2cb57dd4-ffa0-44a6-995e-e38dcbb4f1c6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "yanma",
+    "DisplayName": "Yanma",
+    "Description": null,
+    "FieldValues": {
+      "Number": "193",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "yanma",
+      "DisplayName": "Yanma",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

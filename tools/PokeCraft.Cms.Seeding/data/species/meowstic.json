@@ -1,0 +1,27 @@
+﻿{
+  "Id": "b0772e8f-7801-4def-8b6f-2a17b1f8b464",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meowstic",
+    "DisplayName": "Meowstic",
+    "Description": null,
+    "FieldValues": {
+      "Number": "678",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meowstic",
+      "DisplayName": "Meowstic",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "01da9be8-82b9-40a8-9c84-1cbc99ca10c1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "dipplin",
+    "DisplayName": "Dipplin",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"7c8ce0c4-8463-4976-8032-335796e66166\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "dipplin",
+      "DisplayName": "Dipplin",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Candy Apple"
+      }
+    }
+  }
+}

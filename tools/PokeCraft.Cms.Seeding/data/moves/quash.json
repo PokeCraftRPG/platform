@@ -1,0 +1,24 @@
+﻿{
+  "Id": "4b26239b-9c51-4079-9a2e-e66e90b5088a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "quash",
+    "DisplayName": "Quash",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "quash",
+      "DisplayName": "Quash",
+      "Description": "The user suppresses the target and makes its move go last.",
+      "FieldValues": {}
+    }
+  }
+}

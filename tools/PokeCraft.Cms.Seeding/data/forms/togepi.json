@@ -1,0 +1,42 @@
+﻿{
+  "Id": "8929a672-79e9-49f2-96b4-e1ebd535d3ec",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "togepi",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"a32c1fcc-1caf-4d1d-b4dc-a96ea27a43d5\"]",
+      "Height": "3",
+      "Weight": "15",
+      "YieldExperience": "49",
+      "PrimaryAbility": "[\"12b608f7-a7b7-412e-803f-28d4eaba64c8\"]",
+      "SecondaryAbility": "[\"f1619484-cf62-4314-a26f-a79e00b5720f\"]",
+      "HiddenAbility": "[\"c1dc8f0f-7de1-4657-b135-5bd8efc74e80\"]",
+      "BaseHP": "35",
+      "YieldHP": "0",
+      "BaseAttack": "20",
+      "YieldAttack": "0",
+      "BaseDefense": "65",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "40",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "20",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "togepi",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

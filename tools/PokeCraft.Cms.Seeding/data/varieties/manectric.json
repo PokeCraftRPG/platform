@@ -1,0 +1,26 @@
+﻿{
+  "Id": "f4e1a25d-5116-4d3c-aa59-0a0aecf03bee",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "manectric",
+    "DisplayName": "Manectric",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c9d5dbbf-41d0-4a77-baad-1a450c568ed0\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "manectric",
+      "DisplayName": "Manectric",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Discharge"
+      }
+    }
+  }
+}

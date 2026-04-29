@@ -1,0 +1,26 @@
+﻿{
+  "Id": "cd405a7e-bf2c-4b1d-b45e-2abbda43f607",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swadloon",
+    "DisplayName": "Swadloon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"fa9e45d1-1cbe-4589-bf46-7ae47742fd8d\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swadloon",
+      "DisplayName": "Swadloon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Leaf-Wrapped"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "2d79c523-5ef7-4cb9-bdab-70a71bdbdd99",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "stalwart",
+    "DisplayName": "Stalwart",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "stalwart",
+      "DisplayName": "Stalwart",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

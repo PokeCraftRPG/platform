@@ -1,0 +1,28 @@
+﻿{
+  "Id": "65881163-b887-49c3-bf18-228aed27257c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tyrunt",
+    "DisplayName": "Tyrunt",
+    "Description": null,
+    "FieldValues": {
+      "Number": "696",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "30",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tyrunt",
+      "DisplayName": "Tyrunt",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

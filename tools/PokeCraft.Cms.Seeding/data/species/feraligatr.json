@@ -1,0 +1,28 @@
+﻿{
+  "Id": "97573a8f-b01c-4be3-8e3a-a22a34e160c2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "feraligatr",
+    "DisplayName": "Feraligatr",
+    "Description": null,
+    "FieldValues": {
+      "Number": "160",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Water1\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "feraligatr",
+      "DisplayName": "Feraligatr",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

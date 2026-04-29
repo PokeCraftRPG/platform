@@ -1,0 +1,23 @@
+﻿{
+  "Id": "d60431b2-e2d8-40fd-ac62-7c97b804a108",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "swords-dance",
+    "DisplayName": "Swords Dance",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "swords-dance",
+      "DisplayName": "Swords Dance",
+      "Description": "A frenetic dance to uplift the fighting spirit. This sharply boosts the user's Attack stat.",
+      "FieldValues": {}
+    }
+  }
+}

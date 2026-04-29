@@ -1,0 +1,41 @@
+﻿{
+  "Id": "1f6c5316-57bf-4cf9-a6bb-dd0c6a53b610",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "plusle",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"c331ab4e-3848-4592-a259-931671007c5f\"]",
+      "Height": "4",
+      "Weight": "42",
+      "YieldExperience": "142",
+      "PrimaryAbility": "[\"885b9c4a-a988-4730-a7dd-b11c03474e5d\"]",
+      "HiddenAbility": "[\"98bb9191-1993-4224-8922-4a4d13f534a5\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "85",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "75",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "95",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "plusle",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

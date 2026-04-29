@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b1ce0145-48ed-42d4-8d0e-0e6ab6a0b958",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "banette-mega",
+    "DisplayName": "Banette",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"504d9ffa-b457-41df-86f7-2aca6b2dd6ff\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "banette-mega",
+      "DisplayName": "Banette",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Marionette"
+      }
+    }
+  }
+}

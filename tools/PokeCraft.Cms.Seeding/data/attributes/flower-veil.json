@@ -1,0 +1,19 @@
+﻿{
+  "Id": "d1629cad-fb04-4b50-b39b-929078b3316a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flower-veil",
+    "DisplayName": "Flower Veil",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flower-veil",
+      "DisplayName": "Flower Veil",
+      "Description": "Ally Grass-type Pokémon are protected from status conditions and the lowering of their stats.",
+      "FieldValues": {}
+    }
+  }
+}

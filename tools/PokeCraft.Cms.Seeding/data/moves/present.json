@@ -1,0 +1,24 @@
+﻿{
+  "Id": "d3e278f3-b845-40ae-a7bd-5a7eb50b63c5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "present",
+    "DisplayName": "Present",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "present",
+      "DisplayName": "Present",
+      "Description": "The user attacks by giving the target a gift with a hidden trap. The gift restores HP sometimes, however.",
+      "FieldValues": {}
+    }
+  }
+}

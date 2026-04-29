@@ -1,0 +1,25 @@
+﻿{
+  "Id": "3ddc4be4-f4f4-4702-8e4c-b37a69c32b1a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "belch",
+    "DisplayName": "Belch",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "90",
+      "Power": "120",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "belch",
+      "DisplayName": "Belch",
+      "Description": "The user lets out a damaging belch at the target. The user must eat a held Berry to use this move.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "3c1d4b66-8f82-4749-b5a2-9a6c66be3921",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bulbasaur",
+    "DisplayName": "Bulbasaur",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f46ca225-5351-45db-a699-7e324307c53b\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bulbasaur",
+      "DisplayName": "Bulbasaur",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Seed"
+      }
+    }
+  }
+}

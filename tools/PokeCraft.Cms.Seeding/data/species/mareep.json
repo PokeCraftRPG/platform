@@ -1,0 +1,28 @@
+﻿{
+  "Id": "fce36603-c5c5-4a13-b87b-5bbb88cb6ec3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mareep",
+    "DisplayName": "Mareep",
+    "Description": null,
+    "FieldValues": {
+      "Number": "179",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "235",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Monster\"]",
+      "SecondaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mareep",
+      "DisplayName": "Mareep",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

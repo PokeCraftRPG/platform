@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ef828100-4845-4fe4-a094-0bf184203ef1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "zamazenta",
+    "DisplayName": "Zamazenta",
+    "Description": null,
+    "FieldValues": {
+      "Number": "889",
+      "Category": "[\"Legendary\"]",
+      "BaseFriendship": "0",
+      "CatchRate": "10",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "120",
+      "PrimaryEggGroup": "[\"NoEggsDiscovered\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "zamazenta",
+      "DisplayName": "Zamazenta",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

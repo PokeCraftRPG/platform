@@ -1,0 +1,25 @@
+﻿{
+  "Id": "493fecdf-a5e5-44d7-9c5a-87af8190498a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "guzzlord",
+    "DisplayName": "Guzzlord",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9cccecfc-d524-4c1b-9f89-f6534c4b6c92\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "guzzlord",
+      "DisplayName": "Guzzlord",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Junkivore"
+      }
+    }
+  }
+}

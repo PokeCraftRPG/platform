@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5694da74-cc06-44a6-ba7e-82518fcdec62",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "venomoth",
+    "DisplayName": "Venomoth",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"79a56298-c889-445d-be5e-8be6aa23d118\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "venomoth",
+      "DisplayName": "Venomoth",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Poison Moth"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿{
+  "Id": "3e799df4-21bd-42c1-a053-2ca6493b2f86",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "cutiefly",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"109442a9-ea34-4d0e-b74f-c5d3f74a3b53\"]",
+      "Height": "1",
+      "Weight": "2",
+      "YieldExperience": "61",
+      "PrimaryAbility": "[\"3c9c9307-f766-43a4-8417-851955114a4b\"]",
+      "SecondaryAbility": "[\"29bd00fc-e0bf-4f2e-8cf9-f87e1aa11c4a\"]",
+      "HiddenAbility": "[\"cd664007-8bcb-4772-9253-08beb8edb12e\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "45",
+      "YieldAttack": "0",
+      "BaseDefense": "40",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "55",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "40",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "84",
+      "YieldSpeed": "1",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Bug\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "cutiefly",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

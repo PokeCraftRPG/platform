@@ -1,0 +1,27 @@
+﻿{
+  "Id": "e6e3ae3e-7d4e-4d62-b7c6-92875274dd54",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meowth",
+    "DisplayName": "Meowth",
+    "Description": null,
+    "FieldValues": {
+      "Number": "52",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meowth",
+      "DisplayName": "Meowth",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

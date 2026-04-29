@@ -1,0 +1,26 @@
+﻿{
+  "Id": "31fef391-7ebc-4eda-9ea7-86830d996755",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gurdurr",
+    "DisplayName": "Gurdurr",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"e3d06da3-f51b-46ec-baaf-aac0014e63dc\"]",
+      "GenderRatio": "6",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gurdurr",
+      "DisplayName": "Gurdurr",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Muscular"
+      }
+    }
+  }
+}

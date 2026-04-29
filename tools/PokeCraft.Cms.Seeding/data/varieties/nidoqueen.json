@@ -1,0 +1,26 @@
+﻿{
+  "Id": "25749127-5c64-46ca-884c-84a01d1bf62b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nidoqueen",
+    "DisplayName": "Nidoqueen",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"683807a0-5636-4668-9d76-4ef8aa004834\"]",
+      "GenderRatio": "0",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nidoqueen",
+      "DisplayName": "Nidoqueen",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Drill"
+      }
+    }
+  }
+}

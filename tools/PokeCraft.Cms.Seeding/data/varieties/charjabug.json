@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6df677bc-34f1-4f2e-85f7-bbfd16fe03dd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "charjabug",
+    "DisplayName": "Charjabug",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"9235efb5-6d05-412b-8e26-81f7bef94dfc\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "charjabug",
+      "DisplayName": "Charjabug",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Battery"
+      }
+    }
+  }
+}

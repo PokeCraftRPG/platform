@@ -1,0 +1,26 @@
+﻿{
+  "Id": "17fe679b-aa20-49f4-a965-eb44089a0c3f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "deerling",
+    "DisplayName": "Deerling",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"f6c765b5-ce22-4465-9f32-4f4f568832fb\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "deerling",
+      "DisplayName": "Deerling",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Season"
+      }
+    }
+  }
+}

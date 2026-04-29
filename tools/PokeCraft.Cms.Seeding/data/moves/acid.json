@@ -1,0 +1,25 @@
+﻿{
+  "Id": "4bb6f516-d813-43ab-90c5-a1fdb14158a5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "acid",
+    "DisplayName": "Acid",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Poison\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "acid",
+      "DisplayName": "Acid",
+      "Description": "Opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stats.",
+      "FieldValues": {}
+    }
+  }
+}

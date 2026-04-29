@@ -1,0 +1,41 @@
+﻿{
+  "Id": "9381f198-7e73-44fc-9ecf-973b686f9208",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "miraidon-ultimate-mode",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"72e3fd0d-c0f2-4754-a15d-3776550a1dc0\"]",
+      "Height": "35",
+      "Weight": "2400",
+      "YieldExperience": "335",
+      "PrimaryAbility": "[\"4308a253-e69c-43c7-a381-3bc7dff7874e\"]",
+      "BaseHP": "100",
+      "YieldHP": "0",
+      "BaseAttack": "85",
+      "YieldAttack": "0",
+      "BaseDefense": "100",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "135",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "115",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "135",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "miraidon-ultimate-mode",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

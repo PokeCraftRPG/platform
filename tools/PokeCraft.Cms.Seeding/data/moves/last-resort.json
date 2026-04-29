@@ -1,0 +1,25 @@
+﻿{
+  "Id": "5fca54eb-886d-487b-aaa2-0a589008fe71",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "last-resort",
+    "DisplayName": "Last Resort",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "140",
+      "PowerPoints": "5"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "last-resort",
+      "DisplayName": "Last Resort",
+      "Description": "This move can be used only after the user has used all the other moves it knows in the battle.",
+      "FieldValues": {}
+    }
+  }
+}

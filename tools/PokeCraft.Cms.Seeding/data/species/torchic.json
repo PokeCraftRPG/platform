@@ -1,0 +1,27 @@
+﻿{
+  "Id": "ba8701ae-e27d-40f4-ba55-5d89fbbcc799",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "torchic",
+    "DisplayName": "Torchic",
+    "Description": null,
+    "FieldValues": {
+      "Number": "255",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "torchic",
+      "DisplayName": "Torchic",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

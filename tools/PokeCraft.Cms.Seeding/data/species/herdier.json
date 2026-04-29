@@ -1,0 +1,27 @@
+﻿{
+  "Id": "1a71ceb8-67fd-48d3-95be-aaa47ebe5a50",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "herdier",
+    "DisplayName": "Herdier",
+    "Description": null,
+    "FieldValues": {
+      "Number": "507",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "herdier",
+      "DisplayName": "Herdier",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "4562ef17-a09d-46e6-9e3b-fdef854e6043",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "phanpy",
+    "DisplayName": "Phanpy",
+    "Description": null,
+    "FieldValues": {
+      "Number": "231",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "phanpy",
+      "DisplayName": "Phanpy",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,40 @@
+﻿{
+  "Id": "b6790b1e-a643-413d-801f-f1076f2a441d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "scovillain-mega",
+    "DisplayName": "Mega Scovillain",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"71ee534e-0fdc-413d-988f-51641758aa33\"]",
+      "Height": "12",
+      "Weight": "220",
+      "PrimaryAbility": "[\"01f9e2d6-56b5-490e-9027-f0e7bf575898\"]",
+      "BaseHP": "65",
+      "YieldHP": "0",
+      "BaseAttack": "138",
+      "YieldAttack": "0",
+      "BaseDefense": "85",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "138",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "75",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Grass\"]",
+      "SecondaryType": "[\"Fire\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "scovillain-mega",
+      "DisplayName": "Mega Scovillain",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

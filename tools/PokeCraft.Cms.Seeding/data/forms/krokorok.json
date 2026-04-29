@@ -1,0 +1,43 @@
+﻿{
+  "Id": "316f7303-d5fb-4574-a437-709539a22119",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "krokorok",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"71e56c94-c82e-4125-8675-ab943dc11749\"]",
+      "Height": "10",
+      "Weight": "334",
+      "YieldExperience": "123",
+      "PrimaryAbility": "[\"2a18a12a-c306-4b67-8a79-c121eb3c0118\"]",
+      "SecondaryAbility": "[\"5ca88ad1-2039-4935-9e88-99d81c4bf372\"]",
+      "HiddenAbility": "[\"35627a6f-38f0-4832-b663-c5ba955aa328\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "82",
+      "YieldAttack": "2",
+      "BaseDefense": "45",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "45",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "45",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "74",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ground\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "krokorok",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

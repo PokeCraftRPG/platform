@@ -1,0 +1,25 @@
+﻿{
+  "Id": "61b04b09-1ec2-4d30-97b3-c06c5f1ec3b6",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flying-press",
+    "DisplayName": "Flying Press",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fighting\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "95",
+      "Power": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flying-press",
+      "DisplayName": "Flying Press",
+      "Description": "The user dives down onto the target from the sky. This move is Fighting and Flying type simultaneously.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Id": "3cb194b7-0191-45e0-9c21-0d18e4e73fd3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "simisage",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"ede8733a-31d5-43d5-815b-8fd92a76e381\"]",
+      "Height": "11",
+      "Weight": "305",
+      "YieldExperience": "174",
+      "PrimaryAbility": "[\"758f7264-01c3-4e9c-b2bd-24c9bb5591ba\"]",
+      "HiddenAbility": "[\"f635691a-6cf0-4a55-a848-a2183d487971\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "98",
+      "YieldAttack": "0",
+      "BaseDefense": "63",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "98",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "63",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "101",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "simisage",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

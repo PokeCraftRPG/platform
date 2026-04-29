@@ -1,0 +1,25 @@
+﻿{
+  "Id": "21b8c037-2f56-44d0-b66d-7816a41cf3e8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ruination",
+    "DisplayName": "Ruination",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Dark\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "90",
+      "Power": "1",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ruination",
+      "DisplayName": "Ruination",
+      "Description": "The user summons a ruinous disaster. This cuts the target’s HP in half.",
+      "FieldValues": {}
+    }
+  }
+}

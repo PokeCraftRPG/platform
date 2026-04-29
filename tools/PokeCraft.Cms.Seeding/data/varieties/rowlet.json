@@ -1,0 +1,26 @@
+﻿{
+  "Id": "439aceb7-5aab-404f-bbbd-6abf77861823",
+  "Invariant": {
+    "IsPublished": true,
+    "UniqueName": "rowlet",
+    "DisplayName": "Rowlet",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"cfaa558e-7ce0-4c55-a7b9-360497a9cd72\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": true,
+      "UniqueName": "rowlet",
+      "DisplayName": "Rowlet",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Grass Quill"
+      }
+    }
+  }
+}

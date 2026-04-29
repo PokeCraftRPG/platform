@@ -1,0 +1,25 @@
+﻿{
+  "Id": "cba485ce-b525-4d18-9ccf-680d154b9a6e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fake-out",
+    "DisplayName": "Fake Out",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fake-out",
+      "DisplayName": "Fake Out",
+      "Description": "This attack hits first and makes the target flinch. It works only on the first turn each time the user enters battle.",
+      "FieldValues": {}
+    }
+  }
+}

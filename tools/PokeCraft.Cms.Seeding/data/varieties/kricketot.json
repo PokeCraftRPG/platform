@@ -1,0 +1,26 @@
+﻿{
+  "Id": "efe8e803-5dcb-4742-ab5d-36c035fb0736",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kricketot",
+    "DisplayName": "Kricketot",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"bcbb554e-18d9-46ff-a6ed-a7df577d118b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kricketot",
+      "DisplayName": "Kricketot",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cricket"
+      }
+    }
+  }
+}

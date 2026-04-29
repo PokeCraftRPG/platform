@@ -1,0 +1,27 @@
+﻿{
+  "Id": "06043777-a4fe-4878-85c8-59eadcccdd98",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mimikyu",
+    "DisplayName": "Mimikyu",
+    "Description": null,
+    "FieldValues": {
+      "Number": "778",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mimikyu",
+      "DisplayName": "Mimikyu",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

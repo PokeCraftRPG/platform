@@ -1,0 +1,25 @@
+﻿{
+  "Id": "2cad9578-731b-4ae7-8b16-e38482ab82ad",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "slither-wing",
+    "DisplayName": "Slither Wing",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"31de3f49-bd3c-4026-b69f-73220067960f\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "slither-wing",
+      "DisplayName": "Slither Wing",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Paradox"
+      }
+    }
+  }
+}

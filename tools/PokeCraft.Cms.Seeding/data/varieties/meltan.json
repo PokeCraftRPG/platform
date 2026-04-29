@@ -1,0 +1,25 @@
+﻿{
+  "Id": "dbf7162c-0f77-4c42-bf9e-11a7c301a1d4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "meltan",
+    "DisplayName": "Meltan",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"4a699abf-2e4a-4984-9b1c-b230e30816f8\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "meltan",
+      "DisplayName": "Meltan",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Hex Nut"
+      }
+    }
+  }
+}

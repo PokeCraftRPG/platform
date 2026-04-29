@@ -1,0 +1,28 @@
+﻿{
+  "Id": "118c6470-263b-4e3c-aef7-4c6de3232682",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gardevoir",
+    "DisplayName": "Gardevoir",
+    "Description": null,
+    "FieldValues": {
+      "Number": "282",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "35",
+      "CatchRate": "45",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"HumanLike\"]",
+      "SecondaryEggGroup": "[\"Amorphous\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gardevoir",
+      "DisplayName": "Gardevoir",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

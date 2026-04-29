@@ -1,0 +1,25 @@
+﻿{
+  "Id": "f1bbdf08-1d1e-4428-8185-7a73206b7001",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "pounce",
+    "DisplayName": "Pounce",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Bug\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "50",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "pounce",
+      "DisplayName": "Pounce",
+      "Description": "The user attacks by pouncing on the target. This also lowers the target's Speed stat.",
+      "FieldValues": {}
+    }
+  }
+}

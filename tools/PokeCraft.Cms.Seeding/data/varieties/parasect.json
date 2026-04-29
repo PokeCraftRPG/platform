@@ -1,0 +1,26 @@
+﻿{
+  "Id": "6a26fd47-0608-4437-95bf-f1bc44b36ce2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "parasect",
+    "DisplayName": "Parasect",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0c6967ee-b0fd-4045-b05c-9f3cc99bb618\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "parasect",
+      "DisplayName": "Parasect",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mushroom"
+      }
+    }
+  }
+}

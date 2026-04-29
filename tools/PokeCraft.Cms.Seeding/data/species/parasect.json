@@ -1,0 +1,28 @@
+﻿{
+  "Id": "0c6967ee-b0fd-4045-b05c-9f3cc99bb618",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "parasect",
+    "DisplayName": "Parasect",
+    "Description": null,
+    "FieldValues": {
+      "Number": "47",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Bug\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "parasect",
+      "DisplayName": "Parasect",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

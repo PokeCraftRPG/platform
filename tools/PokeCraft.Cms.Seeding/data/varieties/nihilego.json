@@ -1,0 +1,25 @@
+﻿{
+  "Id": "42cd55bf-eed9-4527-a903-d56bfecb2e8f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "nihilego",
+    "DisplayName": "Nihilego",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0705c0fb-6f05-4ebf-a19f-8118607a7c53\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "nihilego",
+      "DisplayName": "Nihilego",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Parasite"
+      }
+    }
+  }
+}

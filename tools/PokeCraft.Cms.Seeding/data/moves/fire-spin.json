@@ -1,0 +1,25 @@
+﻿{
+  "Id": "d02bb051-cdcc-4aa0-a00b-51f98a6efbec",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fire-spin",
+    "DisplayName": "Fire Spin",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Fire\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "85",
+      "Power": "35",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fire-spin",
+      "DisplayName": "Fire Spin",
+      "Description": "The user traps the target inside a fierce vortex of fire that inflicts damage for four to five turns.",
+      "FieldValues": {}
+    }
+  }
+}

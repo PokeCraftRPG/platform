@@ -1,0 +1,22 @@
+﻿{
+  "Id": "e076c323-c747-45c8-81e2-7d04c574fb81",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shadow-mist",
+    "DisplayName": "Shadow Mist",
+    "Description": null,
+    "FieldValues": {
+      "Category": "[\"Status\"]",
+      "Accuracy": "100"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shadow-mist",
+      "DisplayName": "Shadow Mist",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

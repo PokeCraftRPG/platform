@@ -1,0 +1,27 @@
+﻿{
+  "Id": "038e374e-b60b-4f59-b6ad-c36390c007fe",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "wishiwashi",
+    "DisplayName": "Wishiwashi",
+    "Description": null,
+    "FieldValues": {
+      "Number": "746",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "60",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "wishiwashi",
+      "DisplayName": "Wishiwashi",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

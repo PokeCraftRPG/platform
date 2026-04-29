@@ -1,0 +1,26 @@
+﻿{
+  "Id": "5f127b6d-13b3-4213-93e3-8aabace8f773",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "kabuto",
+    "DisplayName": "Kabuto",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5c1b740c-b1e8-4583-8cbb-8453b66183c9\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "kabuto",
+      "DisplayName": "Kabuto",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Shellfish"
+      }
+    }
+  }
+}

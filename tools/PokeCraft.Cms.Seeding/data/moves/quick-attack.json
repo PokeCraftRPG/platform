@@ -1,0 +1,25 @@
+﻿{
+  "Id": "815ab519-922f-45ea-80ef-985a6c41fc00",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "quick-attack",
+    "DisplayName": "Quick Attack",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "30"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "quick-attack",
+      "DisplayName": "Quick Attack",
+      "Description": "The user lunges at the target to inflict damage, moving at blinding speed. This move always goes first.",
+      "FieldValues": {}
+    }
+  }
+}

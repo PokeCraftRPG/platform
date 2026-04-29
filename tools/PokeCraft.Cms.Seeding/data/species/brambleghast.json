@@ -1,0 +1,27 @@
+﻿{
+  "Id": "8b1a65fb-86dc-4fde-8859-5a292a3089c3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "brambleghast",
+    "DisplayName": "Brambleghast",
+    "Description": null,
+    "FieldValues": {
+      "Number": "947",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "brambleghast",
+      "DisplayName": "Brambleghast",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿{
+  "Id": "2c505d60-41ea-472c-906b-991814329762",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "peck",
+    "DisplayName": "Peck",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Flying\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "35",
+      "PowerPoints": "35"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "peck",
+      "DisplayName": "Peck",
+      "Description": "The target is jabbed with a sharply pointed beak or horn to inflict damage.",
+      "FieldValues": {}
+    }
+  }
+}

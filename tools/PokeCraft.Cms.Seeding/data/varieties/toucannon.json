@@ -1,0 +1,26 @@
+﻿{
+  "Id": "e4f858b5-814d-4675-9b9b-00cc4be4e3d7",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toucannon",
+    "DisplayName": "Toucannon",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"aaf28e4d-ab69-445c-a8a3-fabf7ce92440\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toucannon",
+      "DisplayName": "Toucannon",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cannon"
+      }
+    }
+  }
+}

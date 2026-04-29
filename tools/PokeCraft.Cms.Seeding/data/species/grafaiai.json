@@ -1,0 +1,27 @@
+﻿{
+  "Id": "40d0aba8-ffa2-4f0a-8bd9-c01a8a28fe62",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grafaiai",
+    "DisplayName": "Grafaiai",
+    "Description": null,
+    "FieldValues": {
+      "Number": "945",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "90",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grafaiai",
+      "DisplayName": "Grafaiai",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

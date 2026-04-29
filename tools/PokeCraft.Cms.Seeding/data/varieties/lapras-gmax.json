@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a2691377-e7ff-4ad9-bf92-9b11df189c30",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "lapras-gmax",
+    "DisplayName": "Lapras",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c5633820-a71c-45a7-9216-8e78cbc1553c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "lapras-gmax",
+      "DisplayName": "Lapras",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Transport"
+      }
+    }
+  }
+}

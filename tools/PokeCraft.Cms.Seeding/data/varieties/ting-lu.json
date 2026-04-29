@@ -1,0 +1,25 @@
+﻿{
+  "Id": "29ddb09a-c3ad-485a-9f23-e4a5fc5514b9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ting-lu",
+    "DisplayName": "Ting-Lu",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c92d1c74-af3a-49f5-9e23-500291f3b072\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ting-lu",
+      "DisplayName": "Ting-Lu",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ruinous"
+      }
+    }
+  }
+}

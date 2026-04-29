@@ -1,0 +1,28 @@
+﻿{
+  "Id": "bd3b1290-7c7e-4c8d-a163-5d9071939c7c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "horsea",
+    "DisplayName": "Horsea",
+    "Description": null,
+    "FieldValues": {
+      "Number": "116",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "225",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water1\"]",
+      "SecondaryEggGroup": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "horsea",
+      "DisplayName": "Horsea",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

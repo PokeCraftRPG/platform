@@ -1,0 +1,27 @@
+﻿{
+  "Id": "2985966c-7fc4-4a6b-8a2e-f62f03637adb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chinchou",
+    "DisplayName": "Chinchou",
+    "Description": null,
+    "FieldValues": {
+      "Number": "170",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"Slow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chinchou",
+      "DisplayName": "Chinchou",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

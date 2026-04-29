@@ -1,0 +1,27 @@
+﻿{
+  "Id": "30a35a89-0b80-448d-9148-593d85683f2d",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "emolga",
+    "DisplayName": "Emolga",
+    "Description": null,
+    "FieldValues": {
+      "Number": "587",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "200",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "emolga",
+      "DisplayName": "Emolga",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

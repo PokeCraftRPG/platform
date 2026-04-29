@@ -1,0 +1,19 @@
+﻿{
+  "Id": "e54f140b-893f-4621-b7ac-44928594080e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "moody",
+    "DisplayName": "Moody",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "moody",
+      "DisplayName": "Moody",
+      "Description": "Every turn, one of the Pokémon's stats will be boosted sharply but another stat will be lowered.",
+      "FieldValues": {}
+    }
+  }
+}

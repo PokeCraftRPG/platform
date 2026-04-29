@@ -1,0 +1,27 @@
+﻿{
+  "Id": "465338f1-55a7-4039-a8dc-75739e593f26",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "bronzor",
+    "DisplayName": "Bronzor",
+    "Description": null,
+    "FieldValues": {
+      "Number": "436",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "255",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "bronzor",
+      "DisplayName": "Bronzor",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

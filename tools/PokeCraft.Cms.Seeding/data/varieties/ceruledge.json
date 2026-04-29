@@ -1,0 +1,26 @@
+﻿{
+  "Id": "7565c93c-c56e-41df-aada-719e0ee57821",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "ceruledge",
+    "DisplayName": "Ceruledge",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"5cb93402-cd7e-4ac6-a65d-d62d81f89ed4\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "ceruledge",
+      "DisplayName": "Ceruledge",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Fire Blades"
+      }
+    }
+  }
+}

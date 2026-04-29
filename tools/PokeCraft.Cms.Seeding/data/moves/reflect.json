@@ -1,0 +1,23 @@
+﻿{
+  "Id": "b924fc7c-8ea6-4e30-97b5-c5cbf249eaa2",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "reflect",
+    "DisplayName": "Reflect",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Psychic\"]",
+      "Category": "[\"Status\"]",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "reflect",
+      "DisplayName": "Reflect",
+      "Description": "A wondrous wall of light is put up to reduce damage from physical moves for five turns.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "6c07793d-a741-40d8-a773-4b3a62135aee",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "klefki",
+    "DisplayName": "Klefki",
+    "Description": null,
+    "FieldValues": {
+      "Number": "707",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "75",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "klefki",
+      "DisplayName": "Klefki",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "Id": "ac74e72a-5755-4289-9035-bed57abacee4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "gumshoos",
+    "DisplayName": "Gumshoos",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"c9d87583-7ad1-44f4-9931-9705b3cbfe2b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "gumshoos",
+      "DisplayName": "Gumshoos",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Stakeout"
+      }
+    }
+  }
+}

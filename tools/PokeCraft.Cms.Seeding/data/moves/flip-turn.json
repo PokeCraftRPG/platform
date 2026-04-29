@@ -1,0 +1,25 @@
+﻿{
+  "Id": "220d6cd4-2aaf-4937-9d3f-5d955af55524",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "flip-turn",
+    "DisplayName": "Flip Turn",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Water\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "60",
+      "PowerPoints": "20"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "flip-turn",
+      "DisplayName": "Flip Turn",
+      "Description": "After making its attack, the user rushes back to switch places with a party Pokémon in waiting.",
+      "FieldValues": {}
+    }
+  }
+}

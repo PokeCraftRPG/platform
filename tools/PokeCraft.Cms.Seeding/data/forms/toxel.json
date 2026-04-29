@@ -1,0 +1,43 @@
+﻿{
+  "Id": "d73fafc0-9836-44e0-a691-6f4b37e655c5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "toxel",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"663f96ca-31eb-450c-a886-a097b5de08aa\"]",
+      "Height": "4",
+      "Weight": "110",
+      "YieldExperience": "48",
+      "PrimaryAbility": "[\"9c030956-19a0-4e37-8835-0484c2fa3d91\"]",
+      "SecondaryAbility": "[\"4d8cefa4-dbcc-4c78-b5f5-0a1c30bdb019\"]",
+      "HiddenAbility": "[\"0d470a82-2040-4e95-8e52-999c26f4514d\"]",
+      "BaseHP": "40",
+      "YieldHP": "0",
+      "BaseAttack": "38",
+      "YieldAttack": "0",
+      "BaseDefense": "35",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "54",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "35",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "40",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Electric\"]",
+      "SecondaryType": "[\"Poison\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "toxel",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

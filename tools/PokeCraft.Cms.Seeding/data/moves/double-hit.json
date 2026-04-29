@@ -1,0 +1,25 @@
+﻿{
+  "Id": "ddd8821e-bd47-444a-a2c7-eb209ae9053b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "double-hit",
+    "DisplayName": "Double Hit",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "90",
+      "Power": "35",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "double-hit",
+      "DisplayName": "Double Hit",
+      "Description": "The user slams the target with a tail or the like. The target is hit twice in a row.",
+      "FieldValues": {}
+    }
+  }
+}

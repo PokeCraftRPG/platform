@@ -1,0 +1,25 @@
+﻿{
+  "Id": "9f3847f2-25a7-43ce-971f-ddfd25cf7d5a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hold-back",
+    "DisplayName": "Hold Back",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Normal\"]",
+      "Category": "[\"Physical\"]",
+      "Accuracy": "100",
+      "Power": "40",
+      "PowerPoints": "40"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hold-back",
+      "DisplayName": "Hold Back",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

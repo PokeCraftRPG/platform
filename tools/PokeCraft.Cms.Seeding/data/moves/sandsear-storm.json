@@ -1,0 +1,25 @@
+﻿{
+  "Id": "07d45f81-369b-4f5b-a5a1-8f18aa4d19ed",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sandsear-storm",
+    "DisplayName": "Sandsear Storm",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Ground\"]",
+      "Category": "[\"Special\"]",
+      "Accuracy": "80",
+      "Power": "100",
+      "PowerPoints": "10"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sandsear-storm",
+      "DisplayName": "Sandsear Storm",
+      "Description": "The user attacks by wrapping opposing Pokémon in fierce winds and searingly hot sand. This may also leave them with a burn.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "a92956b1-8dce-41fc-a28e-6de8c61fddfb",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "samurott-hisui",
+    "DisplayName": "Hisuian Samurott",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d763169b-09bf-4c12-abb1-c23834544c39\"]",
+      "Height": "15",
+      "Weight": "582",
+      "YieldExperience": "238",
+      "PrimaryAbility": "[\"973e0e1a-dcca-4ab1-bd25-90df209dfc63\"]",
+      "HiddenAbility": "[\"770e0022-42e3-45fc-adbb-4e936051c8fb\"]",
+      "BaseHP": "90",
+      "YieldHP": "0",
+      "BaseAttack": "108",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "100",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "65",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "85",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]",
+      "SecondaryType": "[\"Dark\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "samurott-hisui",
+      "DisplayName": "Hisuian Samurott",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

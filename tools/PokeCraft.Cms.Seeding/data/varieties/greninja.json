@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1f5ff4c4-7b5b-4b49-9270-5c4b47be4370",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "greninja",
+    "DisplayName": "Greninja",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"35c0fedb-bd34-45a6-97e8-c67856c35104\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "greninja",
+      "DisplayName": "Greninja",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Ninja"
+      }
+    }
+  }
+}

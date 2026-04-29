@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b25e741f-806b-4ac2-a588-bd1234864ee8",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "seismitoad",
+    "DisplayName": "Seismitoad",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"39ae3956-2dd7-4b49-b448-cd5507f3748e\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "seismitoad",
+      "DisplayName": "Seismitoad",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Vibration"
+      }
+    }
+  }
+}

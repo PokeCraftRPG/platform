@@ -1,0 +1,26 @@
+﻿{
+  "Id": "b318309c-3fe9-4471-934f-8bcd94f2101e",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tornadus-incarnate",
+    "DisplayName": "Tornadus",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"16374ef6-f920-4551-a7e7-e29fa0fd6a4c\"]",
+      "GenderRatio": "8",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tornadus-incarnate",
+      "DisplayName": "Tornadus",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Cyclone"
+      }
+    }
+  }
+}

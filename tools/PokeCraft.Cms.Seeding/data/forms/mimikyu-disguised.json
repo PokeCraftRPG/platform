@@ -1,0 +1,41 @@
+﻿{
+  "Id": "89d9d63b-c27d-41d5-b8a5-35b863aabbcd",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "mimikyu-disguised",
+    "DisplayName": "Disguised Mimikyu",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5ec368e8-6330-4679-9798-efd43329d91f\"]",
+      "Height": "2",
+      "Weight": "7",
+      "YieldExperience": "167",
+      "PrimaryAbility": "[\"ce5e54a6-1529-4c02-9cc8-c09d305617a1\"]",
+      "BaseHP": "55",
+      "YieldHP": "0",
+      "BaseAttack": "90",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "50",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "105",
+      "YieldSpecialDefense": "2",
+      "BaseSpeed": "96",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Ghost\"]",
+      "SecondaryType": "[\"Fairy\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "mimikyu-disguised",
+      "DisplayName": "Disguised Mimikyu",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

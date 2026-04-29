@@ -1,0 +1,41 @@
+﻿{
+  "Id": "389cd634-0ee1-496a-aec1-807700fb573f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "charizard-mega-y",
+    "DisplayName": "Mega Charizard Y",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"5ebd731e-ca54-4997-9737-9e1ebb4a7e0e\"]",
+      "Height": "17",
+      "Weight": "1005",
+      "YieldExperience": "285",
+      "PrimaryAbility": "[\"4ff1984e-e319-4645-a10d-f63ec55997fe\"]",
+      "BaseHP": "78",
+      "YieldHP": "0",
+      "BaseAttack": "104",
+      "YieldAttack": "0",
+      "BaseDefense": "78",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "159",
+      "YieldSpecialAttack": "3",
+      "BaseSpecialDefense": "115",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "100",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Fire\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "charizard-mega-y",
+      "DisplayName": "Mega Charizard Y",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

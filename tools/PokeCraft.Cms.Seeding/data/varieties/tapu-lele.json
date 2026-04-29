@@ -1,0 +1,25 @@
+﻿{
+  "Id": "7580c419-2508-48dd-9e39-8e5d535eb0c1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tapu-lele",
+    "DisplayName": "Tapu Lele",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"885d1fa6-9048-4545-b904-a1766d45edac\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tapu-lele",
+      "DisplayName": "Tapu Lele",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Land Spirit"
+      }
+    }
+  }
+}

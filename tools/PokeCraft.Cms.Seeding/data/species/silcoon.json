@@ -1,0 +1,27 @@
+﻿{
+  "Id": "fcf9019d-9623-486d-892d-56d264370c8b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "silcoon",
+    "DisplayName": "Silcoon",
+    "Description": null,
+    "FieldValues": {
+      "Number": "266",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "120",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "15",
+      "PrimaryEggGroup": "[\"Bug\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "silcoon",
+      "DisplayName": "Silcoon",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

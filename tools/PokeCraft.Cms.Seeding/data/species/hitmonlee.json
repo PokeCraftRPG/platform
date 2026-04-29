@@ -1,0 +1,27 @@
+﻿{
+  "Id": "cd665657-91ee-4566-ae71-8478f435c2e3",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "hitmonlee",
+    "DisplayName": "Hitmonlee",
+    "Description": null,
+    "FieldValues": {
+      "Number": "106",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "25",
+      "PrimaryEggGroup": "[\"HumanLike\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "hitmonlee",
+      "DisplayName": "Hitmonlee",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Id": "29bd00fc-e0bf-4f2e-8cf9-f87e1aa11c4a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shield-dust",
+    "DisplayName": "Shield Dust",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shield-dust",
+      "DisplayName": "Shield Dust",
+      "Description": "Protective dust shields the Pokémon from the additional effects of moves.",
+      "FieldValues": {}
+    }
+  }
+}

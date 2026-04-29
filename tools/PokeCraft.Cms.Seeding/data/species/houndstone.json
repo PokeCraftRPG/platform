@@ -1,0 +1,27 @@
+﻿{
+  "Id": "2d1b2991-e5a7-442f-9ce5-85c9aceb0e66",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "houndstone",
+    "DisplayName": "Houndstone",
+    "Description": null,
+    "FieldValues": {
+      "Number": "972",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "60",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "houndstone",
+      "DisplayName": "Houndstone",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

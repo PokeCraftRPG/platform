@@ -1,0 +1,24 @@
+﻿{
+  "Id": "0d67f9b7-48ba-42e5-8548-400034ad93f4",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tar-shot",
+    "DisplayName": "Tar Shot",
+    "Description": null,
+    "FieldValues": {
+      "Type": "[\"Rock\"]",
+      "Category": "[\"Status\"]",
+      "Accuracy": "100",
+      "PowerPoints": "15"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tar-shot",
+      "DisplayName": "Tar Shot",
+      "Description": "The user pours sticky tar over the target, lowering the target's Speed stat. The target becomes weaker to Fire-type moves.",
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Id": "c878bb3d-08a0-4e1d-bde3-d827ea45beb9",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "sunkern",
+    "DisplayName": "Sunkern",
+    "Description": null,
+    "FieldValues": {
+      "Number": "191",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "235",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "sunkern",
+      "DisplayName": "Sunkern",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

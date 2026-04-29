@@ -1,0 +1,25 @@
+﻿{
+  "Id": "07345a5d-9e50-4e14-bf36-b5ec113bfafe",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "falinks",
+    "DisplayName": "Falinks",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"020940e8-dec0-4b16-adfa-e855e595b38c\"]",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "falinks",
+      "DisplayName": "Falinks",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Formation"
+      }
+    }
+  }
+}

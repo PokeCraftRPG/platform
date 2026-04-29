@@ -1,0 +1,27 @@
+﻿{
+  "Id": "a2c7500d-6836-4842-9c53-5f49594c693f",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "veluza",
+    "DisplayName": "Veluza",
+    "Description": null,
+    "FieldValues": {
+      "Number": "976",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "100",
+      "GrowthRate": "[\"Fast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Water2\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "veluza",
+      "DisplayName": "Veluza",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

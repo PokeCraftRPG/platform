@@ -1,0 +1,42 @@
+﻿{
+  "Id": "f5a5bfac-fe34-4bbf-9bc2-7bba8118484c",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "klang",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"26161206-c838-49c9-81fa-639186c60413\"]",
+      "Height": "6",
+      "Weight": "510",
+      "YieldExperience": "154",
+      "PrimaryAbility": "[\"885b9c4a-a988-4730-a7dd-b11c03474e5d\"]",
+      "SecondaryAbility": "[\"1fdf39c7-0d56-4eaf-9c4c-b9fe5a938d0b\"]",
+      "HiddenAbility": "[\"eac52537-4006-4999-9072-1b3e1a92910c\"]",
+      "BaseHP": "60",
+      "YieldHP": "0",
+      "BaseAttack": "80",
+      "YieldAttack": "0",
+      "BaseDefense": "95",
+      "YieldDefense": "2",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "85",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "50",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Steel\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "klang",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

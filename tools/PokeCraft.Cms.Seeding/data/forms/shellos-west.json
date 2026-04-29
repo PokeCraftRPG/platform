@@ -1,0 +1,42 @@
+﻿{
+  "Id": "0f6e05c4-c365-4123-9596-fa52a5aed96b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "shellos-west",
+    "DisplayName": "West Shellos",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"9237d774-7355-44cb-8de5-06a9230fd247\"]",
+      "Height": "3",
+      "Weight": "63",
+      "YieldExperience": "65",
+      "PrimaryAbility": "[\"c6f1b814-650e-4b1f-a482-7ed07ca1c7af\"]",
+      "SecondaryAbility": "[\"f863cc47-85a0-4a65-bb10-a51733957719\"]",
+      "HiddenAbility": "[\"19474510-6538-4d3f-8775-1316904fe470\"]",
+      "BaseHP": "76",
+      "YieldHP": "1",
+      "BaseAttack": "48",
+      "YieldAttack": "0",
+      "BaseDefense": "48",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "57",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "62",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "34",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Water\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "shellos-west",
+      "DisplayName": "West Shellos",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

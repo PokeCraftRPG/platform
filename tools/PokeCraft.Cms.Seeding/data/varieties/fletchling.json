@@ -1,0 +1,26 @@
+﻿{
+  "Id": "c927de6e-c2ca-4675-8633-d361582373e5",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "fletchling",
+    "DisplayName": "Fletchling",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"0cc5d86a-020d-49ac-90d7-c0214aaddc3b\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "fletchling",
+      "DisplayName": "Fletchling",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Tiny Robin"
+      }
+    }
+  }
+}

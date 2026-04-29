@@ -1,0 +1,26 @@
+﻿{
+  "Id": "2e0daf4e-a2d5-46fb-ac1e-4992fa775dee",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "riolu",
+    "DisplayName": "Riolu",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ec860fb8-38e3-47e9-86cc-3cc347b29d59\"]",
+      "GenderRatio": "7",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "riolu",
+      "DisplayName": "Riolu",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Emanation"
+      }
+    }
+  }
+}

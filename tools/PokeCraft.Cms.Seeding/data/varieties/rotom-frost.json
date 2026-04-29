@@ -1,0 +1,25 @@
+﻿{
+  "Id": "2fe37694-85e0-4d25-a9c3-14952d22b772",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "rotom-frost",
+    "DisplayName": "Rotom",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a623e9e5-4718-4c59-8522-ba95dbaf6121\"]",
+      "CanChangeForm": "True",
+      "IsDefault": "False"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "rotom-frost",
+      "DisplayName": "Rotom",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Plasma"
+      }
+    }
+  }
+}

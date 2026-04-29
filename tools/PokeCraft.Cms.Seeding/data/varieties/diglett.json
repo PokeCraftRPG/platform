@@ -1,0 +1,26 @@
+﻿{
+  "Id": "a4c6fc6e-28c3-4e5d-afab-a1b658e942ca",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "diglett",
+    "DisplayName": "Diglett",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"ac18307d-8faa-489b-8bc6-72af3996f9df\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "diglett",
+      "DisplayName": "Diglett",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mole"
+      }
+    }
+  }
+}

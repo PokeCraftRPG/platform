@@ -1,0 +1,28 @@
+﻿{
+  "Id": "c2435e61-20a8-49a8-9055-63a3f30b68b0",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "grookey",
+    "DisplayName": "Grookey",
+    "Description": null,
+    "FieldValues": {
+      "Number": "810",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "50",
+      "CatchRate": "45",
+      "GrowthRate": "[\"MediumSlow\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Field\"]",
+      "SecondaryEggGroup": "[\"Grass\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "grookey",
+      "DisplayName": "Grookey",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

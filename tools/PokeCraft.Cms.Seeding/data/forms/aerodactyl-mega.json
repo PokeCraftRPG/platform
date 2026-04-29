@@ -1,0 +1,41 @@
+﻿{
+  "Id": "757a31ee-180e-44e7-8077-4804d6a6e584",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "aerodactyl-mega",
+    "DisplayName": "Mega Aerodactyl",
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"660df8c3-d777-41fb-a8bc-0c30f7334911\"]",
+      "Height": "21",
+      "Weight": "790",
+      "YieldExperience": "215",
+      "PrimaryAbility": "[\"97aefd91-1b08-4ac4-b2c7-d9c6cb7f555a\"]",
+      "BaseHP": "80",
+      "YieldHP": "0",
+      "BaseAttack": "135",
+      "YieldAttack": "0",
+      "BaseDefense": "85",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "70",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "95",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "150",
+      "YieldSpeed": "2",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Mega\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Flying\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "aerodactyl-mega",
+      "DisplayName": "Mega Aerodactyl",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

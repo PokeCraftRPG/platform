@@ -1,0 +1,19 @@
+﻿{
+  "Id": "d7327fdc-0138-4d9d-b609-15979e0739de",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "vanguard",
+    "DisplayName": "Vanguard",
+    "Description": null,
+    "FieldValues": {}
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "vanguard",
+      "DisplayName": "Vanguard",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

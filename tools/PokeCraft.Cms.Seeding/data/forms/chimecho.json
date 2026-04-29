@@ -1,0 +1,40 @@
+﻿{
+  "Id": "ce153695-2aa3-4fcf-b4e4-941a687f8d52",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "chimecho",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"60ff2efc-c1fe-4f02-adbd-4bd2546709d2\"]",
+      "Height": "6",
+      "Weight": "10",
+      "YieldExperience": "159",
+      "PrimaryAbility": "[\"3daa2a24-9123-4387-a919-83dbd2d4ed32\"]",
+      "BaseHP": "75",
+      "YieldHP": "0",
+      "BaseAttack": "50",
+      "YieldAttack": "0",
+      "BaseDefense": "80",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "95",
+      "YieldSpecialAttack": "1",
+      "BaseSpecialDefense": "90",
+      "YieldSpecialDefense": "1",
+      "BaseSpeed": "65",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Psychic\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "chimecho",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

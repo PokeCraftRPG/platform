@@ -1,0 +1,26 @@
+﻿{
+  "Id": "d2c6bd77-caec-4232-9388-5f12ffdd185a",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "garchomp",
+    "DisplayName": "Garchomp",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"a79d0337-e458-4999-9372-eb79d31f409c\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "True",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "garchomp",
+      "DisplayName": "Garchomp",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Mach"
+      }
+    }
+  }
+}

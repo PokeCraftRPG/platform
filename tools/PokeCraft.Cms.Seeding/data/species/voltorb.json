@@ -1,0 +1,27 @@
+﻿{
+  "Id": "f8c7c6ff-2cb1-4ed0-b93d-5b4cf101bf8b",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "voltorb",
+    "DisplayName": "Voltorb",
+    "Description": null,
+    "FieldValues": {
+      "Number": "100",
+      "Category": "[\"Standard\"]",
+      "BaseFriendship": "70",
+      "CatchRate": "190",
+      "GrowthRate": "[\"MediumFast\"]",
+      "EggCycles": "20",
+      "PrimaryEggGroup": "[\"Mineral\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "voltorb",
+      "DisplayName": "Voltorb",
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Id": "a14cea92-7007-48c8-a975-7c528f3d5475",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "tyrantrum",
+    "DisplayName": null,
+    "Description": null,
+    "FieldValues": {
+      "Variety": "[\"d0055fa6-3488-47ab-b80c-089fdcb53f60\"]",
+      "Height": "25",
+      "Weight": "2700",
+      "YieldExperience": "182",
+      "PrimaryAbility": "[\"fe62f3be-1b3d-461f-bb4c-963e988d426f\"]",
+      "HiddenAbility": "[\"98ae35ae-b156-4c2e-b4a7-8af42a8b0ef6\"]",
+      "BaseHP": "82",
+      "YieldHP": "0",
+      "BaseAttack": "121",
+      "YieldAttack": "2",
+      "BaseDefense": "119",
+      "YieldDefense": "0",
+      "BaseSpecialAttack": "69",
+      "YieldSpecialAttack": "0",
+      "BaseSpecialDefense": "59",
+      "YieldSpecialDefense": "0",
+      "BaseSpeed": "71",
+      "YieldSpeed": "0",
+      "HasGenderDifferences": "False",
+      "Kind": "[\"Default\"]",
+      "PrimaryType": "[\"Rock\"]",
+      "SecondaryType": "[\"Dragon\"]"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "tyrantrum",
+      "DisplayName": null,
+      "Description": null,
+      "FieldValues": {}
+    }
+  }
+}

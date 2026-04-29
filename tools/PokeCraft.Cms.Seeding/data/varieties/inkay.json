@@ -1,0 +1,26 @@
+﻿{
+  "Id": "1bf07b5a-49dd-4049-a296-a8d0e82011e1",
+  "Invariant": {
+    "IsPublished": false,
+    "UniqueName": "inkay",
+    "DisplayName": "Inkay",
+    "Description": null,
+    "FieldValues": {
+      "Species": "[\"bc4cbb1a-5cd9-48a1-967b-53295cf8f066\"]",
+      "GenderRatio": "4",
+      "CanChangeForm": "False",
+      "IsDefault": "True"
+    }
+  },
+  "Locales": {
+    "en": {
+      "IsPublished": false,
+      "UniqueName": "inkay",
+      "DisplayName": "Inkay",
+      "Description": null,
+      "FieldValues": {
+        "Genus": "Revolving"
+      }
+    }
+  }
+}
