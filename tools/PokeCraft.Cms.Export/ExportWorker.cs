@@ -35,7 +35,7 @@ internal class ExportWorker : BackgroundService
     try
     {
       // NOTE(fpion): the order of these tasks matter.
-      await ExecuteAsync(new ExportContentsTask(AbilityDefinition.ContentTypeId, "data/attributes"), cancellationToken);
+      await ExecuteAsync(new ExportContentsTask(AbilityDefinition.ContentTypeId, "data/abilities"), cancellationToken);
       await ExecuteAsync(new ExportContentsTask(MoveDefinition.ContentTypeId, "data/moves"), cancellationToken);
       await ExecuteAsync(new ExportContentsTask(SpeciesDefinition.ContentTypeId, "data/species"), cancellationToken);
       await ExecuteAsync(new ExportContentsTask(VarietyDefinition.ContentTypeId, "data/varieties"), cancellationToken);
