@@ -3,6 +3,7 @@ using Krakenar.Core;
 using Krakenar.Core.Users;
 using Logitar.CQRS;
 using Logitar.EventSourcing;
+using PokeCraft.Cms.Infrastructure.Contents;
 using PokeCraft.Cms.Seeding.Settings;
 using PokeCraft.Cms.Seeding.Tasks;
 using User = Krakenar.Contracts.Users.User;
@@ -56,6 +57,12 @@ internal class SeedingWorker : BackgroundService
       await ExecuteAsync(new SeedContentTypesTask(), cancellationToken);
       await ExecuteAsync(new SeedFieldTypesTask(), cancellationToken);
       await ExecuteAsync(new SeedContentTypesTask(fieldDefinitions: true), cancellationToken);
+
+      await ExecuteAsync(new SeedContentsTask(AbilityDefinition.ContentTypeId, defaults.Locale, "data/abilities"), cancellationToken);
+      await ExecuteAsync(new SeedContentsTask(MoveDefinition.ContentTypeId, defaults.Locale, "data/moves"), cancellationToken);
+      await ExecuteAsync(new SeedContentsTask(SpeciesDefinition.ContentTypeId, defaults.Locale, "data/species"), cancellationToken);
+      await ExecuteAsync(new SeedContentsTask(VarietyDefinition.ContentTypeId, defaults.Locale, "data/varieties"), cancellationToken);
+      await ExecuteAsync(new SeedContentsTask(FormDefinition.ContentTypeId, defaults.Locale, "data/forms"), cancellationToken);
     }
     catch (Exception exception)
     {

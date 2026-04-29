@@ -29,6 +29,7 @@ internal class Startup
 
     services.AddTransient<ICommandHandler<InitializeConfigurationTask, Unit>, InitializeConfigurationTaskHandler>();
     services.AddTransient<ICommandHandler<MigrateDatabaseTask, Unit>, MigrateDatabaseTaskHandler>();
+    services.AddTransient<ICommandHandler<SeedContentsTask, Unit>, SeedContentsTaskHandler>();
     services.AddTransient<ICommandHandler<SeedContentTypesTask, Unit>, SeedContentTypesTaskHandler>();
     services.AddTransient<ICommandHandler<SeedFieldTypesTask, Unit>, SeedFieldTypesTaskHandler>();
     services.AddTransient<ICommandHandler<SeedUsersTask, Unit>, SeedUsersTaskHandler>();
