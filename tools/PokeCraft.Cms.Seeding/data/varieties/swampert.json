@@ -1,7 +1,7 @@
 ﻿{
   "Id": "e89e937b-bb00-4cbf-a52d-e62c667bf6ef",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "swampert",
     "DisplayName": "Swampert",
     "Description": null,
@@ -14,10 +14,10 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "swampert",
       "DisplayName": "Swampert",
-      "Description": null,
+      "Description": "Incredibly strong, it can tow large ships and smash boulders with its rock-hard arms. It senses storms with its fins and prepares by building protective barriers.",
       "FieldValues": {
         "Genus": "Mud Fish"
       }

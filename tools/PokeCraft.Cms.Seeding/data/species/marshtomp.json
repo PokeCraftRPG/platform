@@ -1,7 +1,7 @@
 ﻿{
   "Id": "5d5cedcc-a0f7-4a24-8d44-be97c3f59e9b",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "marshtomp",
     "DisplayName": "Marshtomp",
     "Description": null,
@@ -18,7 +18,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "marshtomp",
       "DisplayName": "Marshtomp",
       "Description": null,

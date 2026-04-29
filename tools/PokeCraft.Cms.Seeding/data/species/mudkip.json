@@ -1,7 +1,7 @@
 ﻿{
   "Id": "3798d45b-b31e-43ea-8ea4-dccbd3a5f478",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "mudkip",
     "DisplayName": "Mudkip",
     "Description": null,
@@ -18,7 +18,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "mudkip",
       "DisplayName": "Mudkip",
       "Description": null,

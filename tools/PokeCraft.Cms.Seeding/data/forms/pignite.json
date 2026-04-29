@@ -1,9 +1,9 @@
 ﻿{
   "Id": "927fa6e2-b975-49d4-8044-b74d66d8095f",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "pignite",
-    "DisplayName": null,
+    "DisplayName": "Pignite",
     "Description": null,
     "FieldValues": {
       "Variety": "[\"91d50f5e-5969-46fc-97f9-a902271ab411\"]",
@@ -32,9 +32,9 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "pignite",
-      "DisplayName": null,
+      "DisplayName": "Pignite",
       "Description": null,
       "FieldValues": {}
     }

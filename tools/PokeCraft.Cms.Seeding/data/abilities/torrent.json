@@ -1,7 +1,7 @@
 ﻿{
   "Id": "973e0e1a-dcca-4ab1-bd25-90df209dfc63",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "torrent",
     "DisplayName": "Torrent",
     "Description": null,
@@ -9,7 +9,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "torrent",
       "DisplayName": "Torrent",
       "Description": "Powers up Water-type moves when the Pokémon's HP is low.",

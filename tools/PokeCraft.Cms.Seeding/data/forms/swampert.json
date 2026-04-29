@@ -1,9 +1,9 @@
 ﻿{
   "Id": "c540fe7b-0539-4700-b4b0-d2f890b03e1f",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "swampert",
-    "DisplayName": null,
+    "DisplayName": "Swampert",
     "Description": null,
     "FieldValues": {
       "Variety": "[\"e89e937b-bb00-4cbf-a52d-e62c667bf6ef\"]",
@@ -32,9 +32,9 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "swampert",
-      "DisplayName": null,
+      "DisplayName": "Swampert",
       "Description": null,
       "FieldValues": {}
     }

@@ -1,7 +1,7 @@
 ﻿{
   "Id": "11aace48-1728-46da-8b8d-79c5d7358b87",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "tepig",
     "DisplayName": "Tepig",
     "Description": null,
@@ -14,10 +14,10 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "tepig",
       "DisplayName": "Tepig",
-      "Description": null,
+      "Description": "Agile and unpredictable, it dodges attacks while firing rapid fireballs from its nostrils. A ravenous eater, it roasts its food, sometimes burning it in its excitement.",
       "FieldValues": {
         "Genus": "Fire Pig"
       }

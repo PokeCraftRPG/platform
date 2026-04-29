@@ -1,7 +1,7 @@
 ﻿{
   "Id": "ebbf0ce1-0fb1-42cd-81bf-091e737bbfd4",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "damp",
     "DisplayName": "Damp",
     "Description": null,
@@ -9,7 +9,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "damp",
       "DisplayName": "Damp",
       "Description": "The Pokémon dampens its surroundings, preventing all Pokémon from using explosive moves such as Self-Destruct.",

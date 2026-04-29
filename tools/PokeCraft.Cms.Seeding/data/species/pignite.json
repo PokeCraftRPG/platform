@@ -1,7 +1,7 @@
 ﻿{
   "Id": "01fa3929-f9d2-4979-95dc-de3e299fb029",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "pignite",
     "DisplayName": "Pignite",
     "Description": null,
@@ -17,7 +17,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "pignite",
       "DisplayName": "Pignite",
       "Description": null,

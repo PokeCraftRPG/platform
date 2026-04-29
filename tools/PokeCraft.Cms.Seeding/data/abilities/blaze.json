@@ -1,7 +1,7 @@
 ﻿{
   "Id": "dbc12aae-cfae-4b59-9a3e-690d18b17d4e",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "blaze",
     "DisplayName": "Blaze",
     "Description": null,
@@ -9,7 +9,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "blaze",
       "DisplayName": "Blaze",
       "Description": "Powers up Fire-type moves when the Pokémon's HP is low.",

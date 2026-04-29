@@ -1,7 +1,7 @@
 ﻿{
   "Id": "7a2906e5-5338-4733-ad9f-013a8bd43338",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "mudkip",
     "DisplayName": "Mudkip",
     "Description": null,
@@ -14,10 +14,10 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "mudkip",
       "DisplayName": "Mudkip",
-      "Description": null,
+      "Description": "Using the fin on its head as a sensitive radar, it senses water and air currents. Despite its small size, it can lift and crush large boulders and swims with powerful bursts of speed.",
       "FieldValues": {
         "Genus": "Mud Fish"
       }
