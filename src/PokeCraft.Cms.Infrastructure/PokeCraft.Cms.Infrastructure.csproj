@@ -15,7 +15,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Krakenar.EntityFrameworkCore.Relational" Version="2.0.2" />
+    <PackageReference Include="Krakenar.EntityFrameworkCore.Relational" Version="2.0.3" />
   </ItemGroup>
 
   <ItemGroup>

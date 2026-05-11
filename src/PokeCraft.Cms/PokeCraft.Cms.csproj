@@ -17,8 +17,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Krakenar.MongoDB" Version="2.0.2" />
-    <PackageReference Include="Krakenar.Web" Version="2.0.2" />
+    <PackageReference Include="Krakenar.MongoDB" Version="2.0.3" />
+    <PackageReference Include="Krakenar.Web" Version="2.0.3" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.7" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.7">
       <PrivateAssets>all</PrivateAssets>
