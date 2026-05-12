@@ -1,7 +1,7 @@
 ﻿{
   "Id": "59aa21f3-8b8a-4046-9749-43395b7d833f",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "heat-crash",
     "DisplayName": "Heat Crash",
     "Description": null,
@@ -14,7 +14,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "heat-crash",
       "DisplayName": "Heat Crash",
       "Description": "The user slams into the target with its flame-covered body. The more the user outweighs the target, the greater the move's power.",

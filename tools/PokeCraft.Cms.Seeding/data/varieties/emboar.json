@@ -9,7 +9,8 @@
       "Species": "[\"04a024a6-a16d-4b84-8fc8-e7789534e35c\"]",
       "GenderRatio": "7",
       "CanChangeForm": "False",
-      "IsDefault": "True"
+      "IsDefault": "True",
+      "Moves": "1:arm-thrust\n1:tackle\n1:tail-whip\n1:ember\nreminder:endure\nreminder:hammer-arm\n13:defense-curl\n15:flame-charge\n20:smog\n23:rollout\n28:take-down\n31:heat-crash\n38:assurance\n43:flamethrower\n50:head-smash\n55:roar\n62:flare-blitz"
     }
   },
   "Locales": {

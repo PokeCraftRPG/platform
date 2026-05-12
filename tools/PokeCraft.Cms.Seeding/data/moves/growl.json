@@ -1,7 +1,7 @@
 ﻿{
   "Id": "19c3d75f-ca56-4188-a744-014baa080572",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "growl",
     "DisplayName": "Growl",
     "Description": null,
@@ -14,7 +14,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "growl",
       "DisplayName": "Growl",
       "Description": "The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.",

@@ -1,7 +1,7 @@
 ﻿{
   "Id": "a57d8550-5e50-402b-ab4a-10a9e2e43c75",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "tackle",
     "DisplayName": "Tackle",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "tackle",
       "DisplayName": "Tackle",
       "Description": "A physical attack in which the user charges and slams into the target with its whole body.",

@@ -9,7 +9,8 @@
       "Species": "[\"77a77bc9-e085-449e-8fb9-45c0dc4a41c8\"]",
       "GenderRatio": "7",
       "CanChangeForm": "False",
-      "IsDefault": "True"
+      "IsDefault": "True",
+      "Moves": "12:shadow-sneak\n15:razor-leaf\n1:astonish\n1:growl\n1:leaf-storm\n1:leafage\n1:phantom-force\n1:spite\n1:tackle\n1:u-turn\n20:synthesis\n25:pluck\n30:nasty-plot\n37:sucker-punch\n44:leaf-blade\n51:feather-dance\n58:brave-bird\n9:peck\nEvolution:spirit-shackle"
     }
   },
   "Locales": {

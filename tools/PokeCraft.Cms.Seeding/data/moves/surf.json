@@ -1,7 +1,7 @@
 ﻿{
   "Id": "681687df-2c9c-4a5f-a432-1ee8f1a408be",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "surf",
     "DisplayName": "Surf",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "surf",
       "DisplayName": "Surf",
       "Description": "The user attacks everything around it by swamping its surroundings with a giant wave.",

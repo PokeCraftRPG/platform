@@ -1,7 +1,7 @@
 ﻿{
   "Id": "74c3bfee-ce81-4996-a734-fac4cd9a2c5d",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "arm-thrust",
     "DisplayName": "Arm Thrust",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "arm-thrust",
       "DisplayName": "Arm Thrust",
       "Description": "The user attacks the target with open-palmed arm thrusts. This move hits two to five times in a row.",

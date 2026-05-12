@@ -1,7 +1,7 @@
 ﻿{
   "Id": "f4bd0d07-292c-48c3-88e4-ae1adee6306a",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "rock-smash",
     "DisplayName": "Rock Smash",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "rock-smash",
       "DisplayName": "Rock Smash",
       "Description": "The user attacks with a punch. This may also lower the target's Defense stat.",

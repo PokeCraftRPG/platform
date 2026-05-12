@@ -1,7 +1,7 @@
 ﻿{
   "Id": "92fd8614-9e77-431c-b7e2-a6df38429d7b",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "smog",
     "DisplayName": "Smog",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "smog",
       "DisplayName": "Smog",
       "Description": "The target is attacked with a discharge of filthy gases. This may also poison the target.",

@@ -9,7 +9,8 @@
       "Species": "[\"cfaa558e-7ce0-4c55-a7b9-360497a9cd72\"]",
       "GenderRatio": "7",
       "CanChangeForm": "False",
-      "IsDefault": "True"
+      "IsDefault": "True",
+      "Moves": "1:tackle\n1:growl\n3:leafage\n6:astonish\n9:peck\n2:shadow-sneak\n15:razor-leaf\n18:synthesis\n21:pluck\n24:nasty-plot\n27:sucker-punch\n30:leaf-blade\n33:feather-dance\n36:brave-bird"
     }
   },
   "Locales": {

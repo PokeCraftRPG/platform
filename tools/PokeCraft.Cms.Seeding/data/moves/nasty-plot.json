@@ -1,7 +1,7 @@
 ﻿{
   "Id": "9c01c218-ca02-4fad-8a81-03f94632908f",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "nasty-plot",
     "DisplayName": "Nasty Plot",
     "Description": null,
@@ -13,7 +13,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "nasty-plot",
       "DisplayName": "Nasty Plot",
       "Description": "The user stimulates its brain by thinking bad thoughts. This sharply boosts the user's Sp. Atk stat.",

@@ -1,7 +1,7 @@
 ﻿{
   "Id": "7106b94e-5d64-4f40-a745-df58b6c908f9",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "u-turn",
     "DisplayName": "U-turn",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "u-turn",
       "DisplayName": "U-turn",
       "Description": "After making its attack, the user rushes back to switch places with a party Pokémon in waiting.",

@@ -9,7 +9,8 @@
       "Species": "[\"60e1a76b-8153-42e8-878f-0cce9e52a571\"]",
       "GenderRatio": "7",
       "CanChangeForm": "True",
-      "IsDefault": "True"
+      "IsDefault": "True",
+      "Moves": "1:mud-shot\n1:tackle\n1:growl\n1:water-gun\nreminder:surf\nreminder:earthquake\nreminder:rock-smash\nreminder:hammer-arm\n9:rock-throw\n12:protect\n15:supersonic\n20:water-pulse\n25:rock-slide\n30:take-down\n35:amnesia\n42:muddy-water\n49:screech\n56:endeavor\n63:hydro-pump"
     }
   },
   "Locales": {
