@@ -1,7 +1,7 @@
 ﻿{
   "Id": "f071afab-4879-4ee5-9319-cb9ac46ef50a",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "astonish",
     "DisplayName": "Astonish",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "astonish",
       "DisplayName": "Astonish",
       "Description": "The user attacks the target by crying out in a startling fashion. This may also make the target flinch.",

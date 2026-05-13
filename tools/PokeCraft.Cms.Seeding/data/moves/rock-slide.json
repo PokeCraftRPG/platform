@@ -1,7 +1,7 @@
 ﻿{
   "Id": "05b3de7c-f7b8-43a0-88fb-bef47f193f5e",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "rock-slide",
     "DisplayName": "Rock Slide",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "rock-slide",
       "DisplayName": "Rock Slide",
       "Description": "Large boulders are hurled at opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.",

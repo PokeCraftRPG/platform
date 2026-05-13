@@ -1,7 +1,7 @@
 ﻿{
   "Id": "4223c8bb-2998-491c-8606-aae69a5468a1",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "screech",
     "DisplayName": "Screech",
     "Description": null,
@@ -14,7 +14,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "screech",
       "DisplayName": "Screech",
       "Description": "An earsplitting screech harshly lowers the target's Defense stat.",

@@ -1,9 +1,9 @@
 ﻿{
   "Id": "161732b9-6388-458b-964c-fce8a68bab89",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "cascoon",
-    "DisplayName": null,
+    "DisplayName": "Cascoon",
     "Description": null,
     "FieldValues": {
       "Variety": "[\"c0e8f302-0b91-40cc-90bf-7ba4796e327e\"]",
@@ -30,9 +30,9 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "cascoon",
-      "DisplayName": null,
+      "DisplayName": "Cascoon",
       "Description": null,
       "FieldValues": {}
     }

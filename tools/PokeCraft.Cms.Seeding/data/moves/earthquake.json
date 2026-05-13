@@ -1,7 +1,7 @@
 ﻿{
   "Id": "53d5ee41-ef48-406c-b8d5-c35644072b88",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "earthquake",
     "DisplayName": "Earthquake",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "earthquake",
       "DisplayName": "Earthquake",
       "Description": "The user sets off an earthquake that strikes every Pokémon around it.",

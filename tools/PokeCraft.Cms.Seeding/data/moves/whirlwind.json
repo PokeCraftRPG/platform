@@ -1,7 +1,7 @@
 ﻿{
   "Id": "5cf3b107-8fbf-4675-8f68-293adbf14073",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "whirlwind",
     "DisplayName": "Whirlwind",
     "Description": null,
@@ -13,7 +13,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "whirlwind",
       "DisplayName": "Whirlwind",
       "Description": "The target is blown away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",

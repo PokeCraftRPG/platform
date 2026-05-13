@@ -1,7 +1,7 @@
 ﻿{
   "Id": "62dbddd5-214b-4b3c-933a-74194f40b08b",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "rollout",
     "DisplayName": "Rollout",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "rollout",
       "DisplayName": "Rollout",
       "Description": "The user continually rolls into the target over five turns. This attack becomes more powerful each time it hits.",

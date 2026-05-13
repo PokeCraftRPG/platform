@@ -1,7 +1,7 @@
 ﻿{
   "Id": "30d6f2dd-a199-45c6-90fb-1a8699f2b49f",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "mega-drain",
     "DisplayName": "Mega Drain",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "mega-drain",
       "DisplayName": "Mega Drain",
       "Description": "A nutrient-draining attack. The user's HP is restored by up to half the damage taken by the target.",

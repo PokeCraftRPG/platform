@@ -1,7 +1,7 @@
 ﻿{
   "Id": "ba1b3a50-acc0-4032-bf14-6572fa26daed",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "swarm",
     "DisplayName": "Swarm",
     "Description": null,
@@ -9,7 +9,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "swarm",
       "DisplayName": "Swarm",
       "Description": "Powers up Bug-type moves when the Pokémon's HP is low.",

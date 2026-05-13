@@ -1,7 +1,7 @@
 ﻿{
   "Id": "9b5a222b-9051-4266-9b84-aa99f6326cf1",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "run-away",
     "DisplayName": "Run Away",
     "Description": null,
@@ -9,7 +9,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "run-away",
       "DisplayName": "Run Away",
       "Description": "Enables a sure getaway from wild Pokémon.",

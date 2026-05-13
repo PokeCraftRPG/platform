@@ -1,7 +1,7 @@
 ﻿{
   "Id": "7dff772b-9fa9-4d0d-bc45-270548a2c68e",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "take-down",
     "DisplayName": "Take Down",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "take-down",
       "DisplayName": "Take Down",
       "Description": "A reckless full-body charge attack for slamming into the target. This also damages the user a little.",

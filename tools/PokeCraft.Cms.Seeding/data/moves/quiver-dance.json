@@ -1,7 +1,7 @@
 ﻿{
   "Id": "2c4e16eb-9bfc-4353-8613-18b15da2473a",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "quiver-dance",
     "DisplayName": "Quiver Dance",
     "Description": null,
@@ -13,7 +13,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "quiver-dance",
       "DisplayName": "Quiver Dance",
       "Description": "The user lightly performs a beautiful, mystic dance. This boosts the user's Sp. Atk, Sp. Def, and Speed stats.",

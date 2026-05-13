@@ -1,7 +1,7 @@
 ﻿{
   "Id": "450496de-f654-4f77-877e-1fcdd7d53826",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "bulk-up",
     "DisplayName": "Bulk Up",
     "Description": null,
@@ -13,7 +13,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "bulk-up",
       "DisplayName": "Bulk Up",
       "Description": "The user tenses its muscles to bulk up its body, boosting its Attack and Defense stats.",

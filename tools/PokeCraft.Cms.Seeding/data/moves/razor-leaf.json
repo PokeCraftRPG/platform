@@ -1,7 +1,7 @@
 ﻿{
   "Id": "dee1e53f-4f17-4785-9f44-6edd6a12be37",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "razor-leaf",
     "DisplayName": "Razor Leaf",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "razor-leaf",
       "DisplayName": "Razor Leaf",
       "Description": "Sharp-edged leaves are launched to slash at opposing Pokémon. This move has a heightened chance of landing a critical hit.",

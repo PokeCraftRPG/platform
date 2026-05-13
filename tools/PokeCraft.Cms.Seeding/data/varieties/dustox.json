@@ -1,7 +1,7 @@
 ﻿{
   "Id": "f68a1a85-90c5-4c7f-a257-319dafb270d4",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "dustox",
     "DisplayName": "Dustox",
     "Description": null,
@@ -9,15 +9,16 @@
       "Species": "[\"1e48d391-cdf2-4336-833d-e8aa716135f6\"]",
       "GenderRatio": "4",
       "CanChangeForm": "False",
-      "IsDefault": "True"
+      "IsDefault": "True",
+      "Moves": "1:gust\n1:tackle\n1:string-shot\n1:harden\n1:poison-sting\n1:bug-bite\n12:confusion\n15:poison-powder\n17:moonlight\n20:venoshock\n22:psybeam\n25:leech-life\n27:light-screen\n30:whirlwind\n32:toxic\n35:bug-buzz\n37:protect\n40:quiver-dance"
     }
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "dustox",
       "DisplayName": "Dustox",
-      "Description": null,
+      "Description": "Dustox gathers around city lights at night, stripping trees of leaves and scattering toxic dust when threatened.",
       "FieldValues": {
         "Genus": "Poison Moth"
       }

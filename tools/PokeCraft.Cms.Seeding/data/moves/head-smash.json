@@ -1,7 +1,7 @@
 ﻿{
   "Id": "7170aac4-efe7-4ed7-a416-999f03846cc6",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "head-smash",
     "DisplayName": "Head Smash",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "head-smash",
       "DisplayName": "Head Smash",
       "Description": "The user attacks the target with a hazardous full-power headbutt. This also damages the user terribly.",

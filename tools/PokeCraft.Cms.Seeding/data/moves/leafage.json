@@ -1,7 +1,7 @@
 ﻿{
   "Id": "4b6206c7-ebf7-4a28-8472-167a9e56085f",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "leafage",
     "DisplayName": "Leafage",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "leafage",
       "DisplayName": "Leafage",
       "Description": "The user attacks by pelting the target with leaves.",

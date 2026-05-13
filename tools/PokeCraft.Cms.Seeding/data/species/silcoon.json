@@ -1,7 +1,7 @@
 ﻿{
   "Id": "fcf9019d-9623-486d-892d-56d264370c8b",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "silcoon",
     "DisplayName": "Silcoon",
     "Description": null,
@@ -17,7 +17,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "silcoon",
       "DisplayName": "Silcoon",
       "Description": null,

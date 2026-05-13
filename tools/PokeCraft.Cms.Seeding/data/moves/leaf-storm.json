@@ -1,7 +1,7 @@
 ﻿{
   "Id": "e91da43c-aa6d-40fc-99bf-bb0aef21ed65",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "leaf-storm",
     "DisplayName": "Leaf Storm",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "leaf-storm",
       "DisplayName": "Leaf Storm",
       "Description": "The user whips up a storm of leaves around the target. The recoil from this move harshly lowers the user's Sp. Atk stat.",

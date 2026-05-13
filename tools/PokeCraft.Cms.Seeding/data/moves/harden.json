@@ -1,7 +1,7 @@
 ﻿{
   "Id": "a35ff739-9f0c-4f90-9e2a-1e26551a7a9d",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "harden",
     "DisplayName": "Harden",
     "Description": null,
@@ -13,7 +13,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "harden",
       "DisplayName": "Harden",
       "Description": "The user stiffens all the muscles in its body to boost its Defense stat.",

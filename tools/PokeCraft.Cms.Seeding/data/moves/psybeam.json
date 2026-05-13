@@ -1,7 +1,7 @@
 ﻿{
   "Id": "9b988234-d8b1-408a-8baf-9f761427631a",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "psybeam",
     "DisplayName": "Psybeam",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "psybeam",
       "DisplayName": "Psybeam",
       "Description": "The target is attacked with a peculiar ray. This may also confuse the target.",

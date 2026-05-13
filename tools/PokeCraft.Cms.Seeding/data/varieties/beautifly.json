@@ -1,7 +1,7 @@
 ﻿{
   "Id": "3f359646-77f1-4409-b9ae-672912e482de",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "beautifly",
     "DisplayName": "Beautifly",
     "Description": null,
@@ -9,15 +9,16 @@
       "Species": "[\"31d1115f-2d38-49d3-baa3-c089815d22f9\"]",
       "GenderRatio": "4",
       "CanChangeForm": "False",
-      "IsDefault": "True"
+      "IsDefault": "True",
+      "Moves": "1:gust\n1:tackle\n1:string-shot\n1:harden\n1:poison-sting\n1:bug-bite\n12:absorb\n15:stun-spore\n17:morning-sun\n20:air-cutter\n22:mega-drain\n25:leech-life\n27:attract\n30:whirlwind\n32:giga-drain\n35:bug-buzz\n37:protect\n40:quiver-dance"
     }
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "beautifly",
       "DisplayName": "Beautifly",
-      "Description": null,
+      "Description": "Beautifly drifts on spring winds to sip flower pollen, but its vivid wings hide a fierce temper and a needlelike mouth.",
       "FieldValues": {
         "Genus": "Butterfly"
       }

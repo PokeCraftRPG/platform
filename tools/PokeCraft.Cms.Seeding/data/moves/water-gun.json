@@ -1,7 +1,7 @@
 ﻿{
   "Id": "e00c15e9-ffe9-46d6-96a0-ebd4fb5177b5",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "water-gun",
     "DisplayName": "Water Gun",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "water-gun",
       "DisplayName": "Water Gun",
       "Description": "The target is blasted with a forceful shot of water.",

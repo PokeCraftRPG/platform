@@ -1,7 +1,7 @@
 ﻿{
   "Id": "ada857e2-e7b0-4b0b-bad6-5355a6c79712",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "shadow-sneak",
     "DisplayName": "Shadow Sneak",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "shadow-sneak",
       "DisplayName": "Shadow Sneak",
       "Description": "The user extends its shadow and attacks the target from behind. This move always goes first.",

@@ -1,7 +1,7 @@
 ﻿{
   "Id": "58c0d250-c607-4550-a87c-d816db30e380",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "brave-bird",
     "DisplayName": "Brave Bird",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "brave-bird",
       "DisplayName": "Brave Bird",
       "Description": "The user tucks in its wings and charges at a low altitude. This also damages the user quite a lot.",

@@ -1,7 +1,7 @@
 ﻿{
   "Id": "ee789f9f-39f1-40ed-9711-48fd3ae6d5ba",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "roar",
     "DisplayName": "Roar",
     "Description": null,
@@ -13,7 +13,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "roar",
       "DisplayName": "Roar",
       "Description": "The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",

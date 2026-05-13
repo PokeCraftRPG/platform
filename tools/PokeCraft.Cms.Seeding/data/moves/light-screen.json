@@ -1,7 +1,7 @@
 ﻿{
   "Id": "d48d9ef3-26ad-42d2-b743-317f8e122d07",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "light-screen",
     "DisplayName": "Light Screen",
     "Description": null,
@@ -13,7 +13,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "light-screen",
       "DisplayName": "Light Screen",
       "Description": "A wondrous wall of light is put up to reduce damage from special moves for five turns.",

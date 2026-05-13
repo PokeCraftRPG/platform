@@ -1,7 +1,7 @@
 ﻿{
   "Id": "a7ab2a3e-bc85-454e-85a2-c96a9808103e",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "toxic",
     "DisplayName": "Toxic",
     "Description": null,
@@ -14,7 +14,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "toxic",
       "DisplayName": "Toxic",
       "Description": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.",

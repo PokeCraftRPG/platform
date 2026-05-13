@@ -1,7 +1,7 @@
 ﻿{
   "Id": "3d8b110f-91db-40fd-9b37-fd628e4098cb",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "rock-throw",
     "DisplayName": "Rock Throw",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "rock-throw",
       "DisplayName": "Rock Throw",
       "Description": "The user picks up and throws a small rock at the target to inflict damage.",

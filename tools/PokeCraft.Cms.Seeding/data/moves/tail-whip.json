@@ -1,7 +1,7 @@
 ﻿{
   "Id": "0109f3b2-cda3-428a-ab37-01977bf05763",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "tail-whip",
     "DisplayName": "Tail Whip",
     "Description": null,
@@ -14,7 +14,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "tail-whip",
       "DisplayName": "Tail Whip",
       "Description": "The user wags its tail cutely, making opposing Pokémon less wary. This lowers their Defense stats.",

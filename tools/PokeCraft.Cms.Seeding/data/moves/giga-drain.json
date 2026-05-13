@@ -1,7 +1,7 @@
 ﻿{
   "Id": "32bda552-9bd6-4978-808d-fe31104ca474",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "giga-drain",
     "DisplayName": "Giga Drain",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "giga-drain",
       "DisplayName": "Giga Drain",
       "Description": "A nutrient-draining attack. The user's HP is restored by up to half the damage taken by the target.",

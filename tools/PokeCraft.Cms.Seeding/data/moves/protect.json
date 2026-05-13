@@ -1,7 +1,7 @@
 ﻿{
   "Id": "a0d7ee13-ec43-4481-8de6-0c15caae4540",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "protect",
     "DisplayName": "Protect",
     "Description": null,
@@ -13,7 +13,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "protect",
       "DisplayName": "Protect",
       "Description": "This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.",

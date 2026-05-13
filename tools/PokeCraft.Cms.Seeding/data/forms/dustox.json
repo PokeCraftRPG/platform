@@ -1,9 +1,9 @@
 ﻿{
   "Id": "478a1962-2a44-48eb-a7e8-a3bec6e0197c",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "dustox",
-    "DisplayName": null,
+    "DisplayName": "Dustox",
     "Description": null,
     "FieldValues": {
       "Variety": "[\"f68a1a85-90c5-4c7f-a257-319dafb270d4\"]",
@@ -32,9 +32,9 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "dustox",
-      "DisplayName": null,
+      "DisplayName": "Dustox",
       "Description": null,
       "FieldValues": {}
     }

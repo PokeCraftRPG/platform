@@ -1,9 +1,9 @@
 ﻿{
   "Id": "70a6f23a-5b97-4f25-804a-d92a0f49e47f",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "wurmple",
-    "DisplayName": null,
+    "DisplayName": "Wurmple",
     "Description": null,
     "FieldValues": {
       "Variety": "[\"6ae10779-f788-4dd9-96de-59ff742ad8de\"]",
@@ -31,9 +31,9 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "wurmple",
-      "DisplayName": null,
+      "DisplayName": "Wurmple",
       "Description": null,
       "FieldValues": {}
     }

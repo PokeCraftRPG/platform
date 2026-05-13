@@ -1,7 +1,7 @@
 ﻿{
   "Id": "c163d379-8e00-4916-9b2f-d650670a8851",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "sucker-punch",
     "DisplayName": "Sucker Punch",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "sucker-punch",
       "DisplayName": "Sucker Punch",
       "Description": "This move enables the user to attack first. This move fails if the target is not readying an attack.",
