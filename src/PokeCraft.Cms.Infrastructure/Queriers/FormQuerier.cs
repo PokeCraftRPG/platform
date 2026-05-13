@@ -56,8 +56,7 @@ internal class FormQuerier : IFormQuerier
 
     if (payload.VarietyId.HasValue)
     {
-      OperatorCondition condition = new(PokemonDb.Varieties.UniqueId, Operators.IsEqualTo(payload.VarietyId.Value));
-      builder.Join(PokemonDb.Varieties.VarietyId, PokemonDb.Forms.VarietyId, condition);
+      builder.Where(PokemonDb.Varieties.UniqueId, Operators.IsEqualTo(payload.VarietyId.Value));
     }
     if (payload.Kind.HasValue)
     {
