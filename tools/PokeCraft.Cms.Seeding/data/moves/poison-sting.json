@@ -1,7 +1,7 @@
 ﻿{
   "Id": "1d7ec632-09d9-4e97-a8be-90bc41533914",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "poison-sting",
     "DisplayName": "Poison Sting",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "poison-sting",
       "DisplayName": "Poison Sting",
       "Description": "The user stabs the target with a poisonous stinger to inflict damage. This may also poison the target.",

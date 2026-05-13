@@ -1,7 +1,7 @@
 ﻿{
   "Id": "6ae10779-f788-4dd9-96de-59ff742ad8de",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "wurmple",
     "DisplayName": "Wurmple",
     "Description": null,
@@ -9,15 +9,16 @@
       "Species": "[\"711ed10a-3659-425d-9155-dcfba46e72b6\"]",
       "GenderRatio": "4",
       "CanChangeForm": "False",
-      "IsDefault": "True"
+      "IsDefault": "True",
+      "Moves": "1:tackle\n1:string-shot\n5:poison-sting\n15:bug-bite"
     }
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "wurmple",
       "DisplayName": "Wurmple",
-      "Description": null,
+      "Description": "Wurmple clings to trees with suction-cupped feet, feeding on leaves and sap. When threatened, it raises its tail spikes and leaks poison.",
       "FieldValues": {
         "Genus": "Worm"
       }

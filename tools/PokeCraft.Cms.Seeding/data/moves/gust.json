@@ -1,7 +1,7 @@
 ﻿{
   "Id": "0d1d81fc-041e-44b2-bb55-aad747185520",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "gust",
     "DisplayName": "Gust",
     "Description": null,
@@ -15,7 +15,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "gust",
       "DisplayName": "Gust",
       "Description": "A gust of wind is whipped up by wings and launched at the target to inflict damage.",

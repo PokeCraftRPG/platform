@@ -1,7 +1,7 @@
 ﻿{
   "Id": "31d1115f-2d38-49d3-baa3-c089815d22f9",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "beautifly",
     "DisplayName": "Beautifly",
     "Description": null,
@@ -17,7 +17,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "beautifly",
       "DisplayName": "Beautifly",
       "Description": null,

@@ -1,7 +1,7 @@
 ﻿{
   "Id": "a6c44f22-ee3a-4b35-9dea-b821e9e78aaa",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "moonlight",
     "DisplayName": "Moonlight",
     "Description": null,
@@ -13,7 +13,7 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "moonlight",
       "DisplayName": "Moonlight",
       "Description": "The user restores its own HP. The amount of HP regained varies with the weather.",

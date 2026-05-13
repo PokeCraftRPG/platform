@@ -1,9 +1,9 @@
 ﻿{
   "Id": "a5b353c2-c28d-44f9-9b19-0ef07d3642a4",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "silcoon",
-    "DisplayName": null,
+    "DisplayName": "Silcoon",
     "Description": null,
     "FieldValues": {
       "Variety": "[\"57de53f7-f631-493f-9c0a-788dfd1dc116\"]",
@@ -30,9 +30,9 @@
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "silcoon",
-      "DisplayName": null,
+      "DisplayName": "Silcoon",
       "Description": null,
       "FieldValues": {}
     }

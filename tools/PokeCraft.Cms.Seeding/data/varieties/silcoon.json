@@ -1,7 +1,7 @@
 ﻿{
   "Id": "57de53f7-f631-493f-9c0a-788dfd1dc116",
   "Invariant": {
-    "IsPublished": false,
+    "IsPublished": true,
     "UniqueName": "silcoon",
     "DisplayName": "Silcoon",
     "Description": null,
@@ -9,15 +9,16 @@
       "Species": "[\"fcf9019d-9623-486d-892d-56d264370c8b\"]",
       "GenderRatio": "4",
       "CanChangeForm": "False",
-      "IsDefault": "True"
+      "IsDefault": "True",
+      "Moves": "1:harden"
     }
   },
   "Locales": {
     "en": {
-      "IsPublished": false,
+      "IsPublished": true,
       "UniqueName": "silcoon",
       "DisplayName": "Silcoon",
-      "Description": null,
+      "Description": "Silcoon fastens itself to branches with silk, drinking dew from its threads while it quietly stores energy for evolution.",
       "FieldValues": {
         "Genus": "Cocoon"
       }
